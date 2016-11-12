@@ -1,0 +1,12 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:croala:nikolamodr01" urn="urn:cts:croala:nikolamodr01.croala1394999" xml:lang="lat">
+  <ti:title xml:lang="lat">Defensio ecclesiasticae libertatis</ti:title>
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394999" urn="urn:cts:croala:nikolamodr01.croala1394999.croala-lat1">
+    <ti:label xml:lang="lat">Defensio ecclesiasticae libertatis, versio electronica</ti:label>
+    <ti:description xml:lang="lat">Prima editio electronica. Editio archivalis programmatis rerum investigandarum TeMrežaH.</ti:description>
+    <ti:description xml:lang="hrv">Prvo digitalno izdanje. Temeljno arhivsko digitalno izdanje projekta TeMrežaH.</ti:description>
+  </ti:edition>
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394999" urn="urn:cts:croala:nikolamodr01.croala1394999.croala-lat2w">
+    <ti:label xml:lang="lat">Defensio ecclesiasticae libertatis, versio electronica verbatim distincta</ti:label>
+    <ti:description xml:lang="hrv">Izdanje teksta analizirano do razine riječi u rečenicama.</ti:description>
+  </ti:edition>
+</ti:work>
