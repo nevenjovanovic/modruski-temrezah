@@ -25,9 +25,7 @@
                             <data type="string"/>
                         </attribute>
                     </optional>
-                    <data type="string">
-                        <param name="pattern">\S+</param>
-                    </data>
+                    <text></text>
                 </element>
             </zeroOrMore>
         </element>
