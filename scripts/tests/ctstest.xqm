@@ -11,10 +11,10 @@ declare %unit:test function test:ctsurn-unique() {
 };
 
 (: each CTS has a node in modr-cts-texts :)
+(: node values in idx and texts are equal :)
 declare %unit:test function test:ctsurn-node() {
   for $urn in collection("modr-cts-urns")//w/@xml:id
-  let $node := db:open-id("modr-cts-texts", $urn)
-  return unit:assert($node)
+  let $node := normalize-space(data(db:open-id("modr-cts-texts", $urn)))
+  return unit:assert-equals($urn/../string() , $node)
 };
 
-(: node values in idx and texts are equal :)
