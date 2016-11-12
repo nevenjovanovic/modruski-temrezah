@@ -1,6 +1,6 @@
-XQUERY db:create("modr-cts-texts", "/home/croala/modruski-temrezah/data/", (), map { 'ftindex': true(), 'chop': false(), 'intparse' : true(), 'autooptimize' : true(), 'updindex' : true() })
+XQUERY db:create("modr-cts-texts", "/home/neven/Repos/modruski-temrezah/data/", (), map { 'ftindex': true(), 'chop': false(), 'intparse' : true(), 'autooptimize' : true(), 'updindex' : true() })
 CREATE BACKUP modr-cts-texts
 SET INTPARSE true; SET CHOP false; SET FTINDEX true; SET UPDINDEX true; SET AUTOOPTIMIZE true
 
-RUN /home/croala/modruski-temrezah/scripts/xq/modr-cts-index-placename-into-db.xq
+RUN /home/neven/Repos/modruski-temrezah/scripts/xq/modr-cts-index-placename-into-db.xq
 CREATE BACKUP modr-cts-urns

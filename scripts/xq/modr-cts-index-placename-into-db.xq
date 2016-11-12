@@ -9,7 +9,7 @@ attribute xml:id {db:node-id($f)} ,
 attribute n { $ctsname || ":" || $tree } , 
 attribute aex { $ctsname || ".lexis:" || $tree } , 
 $f/@ana , 
-data($f) }
+normalize-space(data($f)) }
 };
 let $windex :=
 element wlist {
