@@ -19,7 +19,7 @@ Svaki je segment svakog od tih izdanja moguće strojno citirati i, samim time, k
 
 ## Objavljivanje
 
-Izvori digitalnog izdanja dostupni su na repozitorijima [Github]() i [Zenodo](). 
+Izvori digitalnog izdanja dostupni su na repozitorijima [Github](https://github.com/nevenjovanovic/modruski-temrezah) i [Zenodo](). 
 
 Čitanje i analiza izdanja mogući su preko BaseX sučelja na mrežnoj stranici projekta TeMrežaH.
 
@@ -42,12 +42,12 @@ Izvori digitalnog izdanja dostupni su na repozitorijima [Github]() i [Zenodo]().
 
 ## Sadržaj
 
-Izdanja se nalaze u direktoriju [data]().
+Izdanja se nalaze u direktoriju [data](https://github.com/nevenjovanovic/modruski-temrezah/tree/master/data/nikolamodr01).
 
-U skladu s [Perseus CTS (CapiTainS)](https://capitains.github.io/pages/guidelines) shemom, [tekstualne grupe]() i [djela]() opisani su standardnom datotekom [__cts__.xml]().
+U skladu s [Perseus CTS (CapiTainS)](https://capitains.github.io/pages/guidelines) shemom, [tekstualne grupe](https://github.com/nevenjovanovic/modruski-temrezah/tree/master/data/nikolamodr01) i [djela](https://github.com/nevenjovanovic/modruski-temrezah/tree/master/data/nikolamodr01/croala1394919) opisani su standardnom datotekom [__cts__.xml](https://github.com/nevenjovanovic/modruski-temrezah/blob/master/data/nikolamodr01/__cts__.xml).
 
 Daljnja se dokumentacija nalazi na [wikiju]().
 
 ## Licenca
 
-[CC-BY]()
+[CC-BY](https://github.com/nevenjovanovic/modruski-temrezah/blob/master/LICENSE.md)
