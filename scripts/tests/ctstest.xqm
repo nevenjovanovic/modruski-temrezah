@@ -18,3 +18,10 @@ declare %unit:test function test:ctsurn-node() {
   return unit:assert-equals($urn/../string() , $node)
 };
 
+(: return a list of CTS URNs :)
+declare %unit:test function test:ctsurn-list() {
+  let $db := "modr-cts-urns"
+  let $count := count(collection($db)//w)
+  let $urns := count(cts:getcapabilities($db)//tr)
+  return unit:assert-equals($urns, $count)
+};

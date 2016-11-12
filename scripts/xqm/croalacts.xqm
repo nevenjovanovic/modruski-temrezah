@@ -3,19 +3,16 @@ import module namespace functx = "http://www.functx.com" at "functx.xqm";
 declare namespace ti = "http://chs.harvard.edu/xmlns/cts";
 
 
-(: list all available CTS URNs of text elements :)
-declare function cts:getcapabilities(){
+(: list all available CTS URNs :)
+declare function cts:getcapabilities($db){
   let $tbody := element tbody {
-  for $t in collection("croala-cts-1")//*:TEI/*:text
-let $urn := $t/@xml:base/string()
-for $node in $t//*
-let $cts := $urn || $node/@n/string()
-let $href := "http://croala.ffzg.unizg.hr/basex/cts/" || $cts
+  for $t in collection($db)//w/@n/string()
+  let $href := "http://croala.ffzg.unizg.hr/basex/modrcts/" || $t
 return element tr {
   element td {
     element a { 
     attribute href { $href} , 
-    $cts }
+    $t }
   }
 }
 }
