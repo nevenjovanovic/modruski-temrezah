@@ -1,6 +1,2 @@
-XQUERY db:create("modr-cts-texts", "/home/neven/Repos/modruski-temrezah/data/", (), map { 'ftindex': true(), 'chop': false(), 'intparse' : true(), 'autooptimize' : true(), 'updindex' : true() })
+XQUERY let $parent := replace(file:parent(static-base-uri()), '/scripts/bxs/', '') let $path := $parent || "/data/" return db:create("modr-cts-texts", $path, (), map { 'ftindex': true(), 'chop': false(), 'intparse' : true(), 'autooptimize' : true(), 'updindex' : true() })
 CREATE BACKUP modr-cts-texts
-SET INTPARSE true; SET CHOP false; SET FTINDEX true; SET UPDINDEX true; SET AUTOOPTIMIZE true
-
-RUN /home/neven/Repos/modruski-temrezah/scripts/xq/modr-cts-index-placename-into-db.xq
-CREATE BACKUP modr-cts-urns
