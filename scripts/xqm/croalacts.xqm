@@ -248,3 +248,22 @@ declare function cts:listnodesurns($editionurn){
     }
   }
 };
+
+declare function cts:groups($db){
+  let $group := 
+  for $n in collection($db)//w/@n
+  return substring-before($n, '.')
+  return
+  element tbody {
+    for $g in distinct-values($group) return
+    element tr {
+      element td {
+        element a { 
+        attribute href {
+          "http://croala.ffzg.unizg.hr/basex/modr/" || $g
+        } ,
+        $g }
+      }
+    }
+  }
+};
