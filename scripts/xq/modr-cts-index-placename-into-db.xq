@@ -13,7 +13,7 @@ normalize-space(data($f)) }
 };
 let $windex :=
 element wlist {
-for $xmlfile in collection("modr-cts-texts")//*:TEI[descendant::*:w]
+for $xmlfile in collection("modr-cts-texts")//*:TEI[descendant::*:text]
 let $cts := $xmlfile//*:text/@xml:base
 for $f in $xmlfile//*:text//*[@n]
 let $ntree := local:ntree($f, $cts)

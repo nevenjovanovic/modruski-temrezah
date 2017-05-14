@@ -301,9 +301,9 @@
             uniuersi ueram certamque esse illam <persName n="persName4">
                   <corr n="corr">Nabuchdonosoris</corr>
                </persName> confessionem in quam et
-            regno et sensui restitutus supplex prorupit dicens in manu solius omnipotentis dei esse
+            regno et sensui restitutus supplex prorupit dicens <quote xml:id="quote1">in manu solius omnipotentis dei esse
             omnia regna terrarum atque illa quibus ipse uoluerit tradi nec esse alium quemquam qui
-            eius possit obsistere uoluntati aut dicere illi <q n="q">quare sic fecisti</q>.<note n="note" type="fons">
+            eius possit obsistere uoluntati aut dicere illi <q n="q" xml:id="q1">quare sic fecisti</q></quote>.<note n="note" type="fons" target="#quote1">
                   <add n="add" resp="NJ">Cf.
                <bibl n="bibl">Daniel 3, 31-33</bibl>.</add>
                </note>
@@ -420,17 +420,17 @@ inexpiabili temeritate ausi sunt os suum in caelo ponere et <ref n="ref">uicarii
 damnare <!-- da-pnare BLC5a27 -->
 atque illos praestantissimos uiros, qui prius a domino electi sunt a
 quo sunt omnium regnorum potestates, quam a summo pontifice declarati,
-perditissima audacia lacerare!  Caue, caue tibi, lingua dolosa, ne deus
+perditissima audacia lacerare!  Caue, caue tibi, lingua dolosa, ne <quote xml:id="quote2" n="q1a">deus
 destruat te in finem, euellet te, et emigret te de tabernaculo tuo, et
-radicem tuam de terra uiuentium.<note n="note1" type="fons">
+radicem tuam de terra uiuentium.</quote><note n="note1" type="fons" target="#quote2">
                   <add n="add" resp="NJ">Cf. <bibl n="bibl">Ps 52, 5
 (51, 7)</bibl>: <quote n="quote">sed Deus destruet te in sempiternum terrebit et euellet te de tabernaculo et eradicabit te de terra uiuentium semper</quote>
                      <!-- cf. https://books.google.hr/books?id=d3OZ42UOjwMC&pg=PA106 versio antiqua: deus
 destruet te in finem, euellat te, et emigret te de tabernaculo suo, et
 radicem tuam de terra uiuentium -->
                   </add>
-               </note> Sed haec illi uiderunt qui fecerunt
-linguam suam nouaculam acutam,<note n="note2" type="fons" place="end">
+               </note> Sed haec illi uiderunt qui <quote xml:id="quote3" n="q2a">fecerunt
+linguam suam nouaculam acutam</quote>,<note n="note2" type="fons" place="end" target="#quote3">
                   <add n="add" resp="NJ">Cf. <bibl n="bibl">Ps 52, 2
 (51, 4)</bibl>: <quote n="quote">insidias cogitat lingua tua quasi nouacula acuta faciens dolum</quote>
                   </add> 
@@ -549,9 +549,9 @@ moueatur.
           <!-- p BLC5a27 -->
 Finem dicendi faciam si prius illud summum eius pietatis munus
 paucis explicauero. Compositis rebus suis totam mentem ad illud
-conuerterat ut dicere cum psalmista libere posset: <q n="q">Domine, dilexi
-   decorem domus tuae et gloriam habitationis tuae.</q>
-               <note n="note" type="fons" place="end">
+conuerterat ut dicere cum psalmista libere posset: <quote n="q" xml:id="quote4">Domine, dilexi
+   decorem domus tuae et gloriam habitationis tuae.</quote>
+               <note n="note" type="fons" place="end" target="#quote4">
                   <add n="add" resp="NJ">Cf. <bibl n="bibl">Ps 26, 8
 (25, 8)</bibl>: <quote n="quote">Domine dilexi habitaculum domus tuae et locum tabernaculi gloriae tuae</quote>.</add> 
                </note>
@@ -626,8 +626,8 @@ enim illum ex hac mortalitate fructum quem maximum mea fortuna capere
 potuit. Maius restabat nihil,<!-- nichil BLC5a27; nichil 1; nihil BL18645, BL17814, BL27527 izd --> quicquid
 supererat, merito mihi suspectum metuendumque
 fuisset. <corr n="corr3">Proinde</corr>
-                  <!-- Proinde BL17814, BL27527; Proind- BLC5a27; Prouide BL18645, plannck --> licet cupiam dissolui et esse cum Christo, uror
-   tamen sola uestrarum rerum cura.<note n="note1" type="fons" place="end">
+                  <!-- Proinde BL17814, BL27527; Proind- BLC5a27; Prouide BL18645, plannck --> licet <quote n="q3a" xml:id="quote5">cupiam dissolui et esse cum Christo, uror
+   tamen sola uestrarum rerum cura</quote>.<note n="note1" type="fons" place="end" target="#quote5">
                      <add n="add" resp="NJ">Cf. <bibl n="bibl">Philip. 1, 23--24</bibl> 
                         <quote n="quote">coartor
 autem e duobus desiderium habens dissolui et cum Christo esse multo
@@ -648,7 +648,7 @@ animum uestrum inducatis, neue in luxu ac <corr n="corr5">inanibus</corr>
                   <!-- diuiciis BLC5a27, BL17814, BL27527; diuitijs BL18645 --> spem ullam ponatis; quae quam <corr n="corr7">fluxae</corr> 
                   <!-- fluxe BLC5a27; fluxe BL18645, BL27527 --> quamque fallaces
 sint, ego unus uobis maximo possum esse documento. Credite quoniam
-puluis et umbra sumus<note n="note2" type="fons" place="end">
+<quote n="q4a" xml:id="quote6">puluis et umbra sumus</quote><note n="note2" type="fons" place="end" target="#quote6">
                      <add n="add" resp="NJ">
                         <bibl n="bibl">Hor. C. 4, 7, 16</bibl>
                      </add>
@@ -681,9 +681,9 @@ partim oculos, partim aures uestras in multis offendi. <add n="add" resp="inc">S
           <!-- nema plannck, nema BLC5a27 -->
                His atque aliis huiusmodi plerisque summa cum religione sanctissime monitos singulos flentes eiulantesque <corr n="corr">deosculatus</corr>
                <!-- deosculatus BL18645, BL17814; deosculatos BL27527 --> dimisit. Se autem in lectulo componens, intentis iugiter in caelum oculis, misericordiam peccatorum suorum supplex a domino precabatur. Cumque iam nox intempesta medium cursum peregisset, conuersus ad Viterbiensem praesulem <q n="q1">Ecce,</q> inquit, <q n="q2">appropinquat iam <!-- iam om. BL27527 --> hora; affer mihi<!-- michi 1, BLC5a27; mihi BL18645, BL17814, BL27527 --> <corr n="corr">sacrae</corr> unctionis oleum.</q>  Quod confestim cubiculo illatum nudato ac sublato, ut poterat, capite, religiose ueneratus est, deinde exhibitis manibus ac pedibus rite perunctus; quo facto <q n="q3">Proferte,</q> inquit <q n="q4">sacros codices, et aliquid de diuinis <corr n="corr">mysteriis</corr> meam domino animam commendantes recitate.</q> Quibus mox prolatis usque in lucem partim psalmi decantati sunt, partim lecta euangelia, semperque intentus auribus atque oculis in ea quae legebantur, etiam<!-- 20 --> deficiente spiritu, perstitit, donec lector dominicae passionis ad
-illum locum peruenit ubi scriptura inquit <q n="q5">et inclinato capite emisit
-   spiritum.</q>
-               <note n="note" type="fons" place="end">
+illum locum peruenit ubi scriptura inquit <quote n="q5" xml:id="quote7">et inclinato capite emisit
+   spiritum.</quote>
+               <note n="note" type="fons" place="end" target="#quote7">
                   <add n="add" resp="NJ">Cf. <bibl n="bibl">Io 19, 30</bibl>: <quote n="quote">et inclinato capite tradidit spiritum.</quote>
                   </add>
                </note>
@@ -705,10 +705,10 @@ amplius uiuere poterat, et nimirum magno et ornamento et utilitati. Sed non
 est amicorum officium sua commoda ex amici spectare
 <corr n="corr">incommodis</corr>.  Quicquid superuixisset, doloribus superuixisset et
 laboribus; quibus quoniam eum diuina clementia misericorditer
-subduxit, gratias illi agamus atque dicamus <q n="q">Dominus dedit, dominus
+subduxit, gratias illi agamus atque dicamus <quote n="q" xml:id="quote8">Dominus dedit, dominus
 abstulit; sicut domino placuit, ita factum est; sit nomen domini
-benedictum.</q>
-               <note n="note" type="fons" place="end">
+benedictum.</quote>
+               <note n="note" type="fons" place="end" target="#quote8">
                   <add n="add" resp="NJ">Cf. <bibl n="bibl1">Iob 1, 21</bibl>: <quote n="quote1">Dominus dedit Dominus abstulit sit
 nomen Domini benedictum</quote>; <bibl n="bibl2">Noua Vulgata, <abbr n="abbr">ibid</abbr>
                      </bibl>: <quote n="quote2">Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est:
