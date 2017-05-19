@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc xml:id="modr-n-oratio-riar">
          <titleStmt>
-            <title>Oratio in funere Petri Riarii (ed. Plannck), versio electronica</title>
+            <title>Oratio in funere Petri Riarii (ed. Plannck 1481), versio electronica</title>
             <author ref="nikolamodr01">
                <persName xml:lang="hr">Nikola Modruški</persName>
                <date>c. 1427-1480</date>
@@ -127,6 +127,13 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+          <change>
+              <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+              </persName>
+              <date>2017-05-19</date>
+              Tekst prema Plannckovu izdanju. Označeni krajevi redaka. Segmentirano u riječi.
+          </change>
          <change>
             <persName>
                <ref type="viaf" target="6913774">Neven Jovanović</ref>
@@ -141,452 +148,414 @@
          xml:lang="lat"
          type="prosa-oratio">
         <body n="body">
-            <pb n="1r"/>
-            <!-- 2 -->
-            <head n="head"><lb/>Oratio in funere reuerendissimi domini <abbr n="abbr">D.</abbr> Petri
-                cardinalis sancti Sixti <lb/>habita a reuerendo patre domino Nicolao episcopo
-                Modrusiensi. </head>
-            <p n="p1"><lb/>Cum in omni funebri celebratione duo praecipue dicendi genera a maio<lb/>ribus
-                nostris usurpari soleant, amplissimi patres, alterum quo tristes ami<lb/>corum animos
-                merore leuarent, quibus, cum amici uita suauissima extitit, mors <lb/>ipsa iocunda esse
-                non potuit, alterum quo extremum amici munus rebus <lb/>ab eo bene gestis uirtutumque
-                ipsius copia ac splendore amplissimis laudibus <lb/>exornarent, illud ego prius
-                consolationis genus ita prorsus in omne tempus perdi<lb/>di ut magis ipse solatio egeam
-                quam ut illud cuique uel praestare possim uel <lb/>polliceri. Quod etiam si minime
-                perdidissem, nunquam tamen dispicere possem qua <lb/>oratione aut quibus rationibus etiam
-                illi quidem, qui principes eloquentiae sunt ha<lb/>biti, hanc tam grauem sacrosancti
-                senatus uestri iacturam et hunc publicum to<lb/>tius curiae luctum ulla ex parte leuari
-                possent. Perdidistis enim, patres am<lb/>plissimi, praestantissimum collegam uestrum,
-                cuius suauissimam consuetudinem, co<lb/>mitatem, benignitatem, liberalitatemque quotidie
-                experiebamini, cuius ingenii <lb/>dexteritatem et incredibilem consilii prudentiam in
-                dies magis admiraba<lb/>mini. Amisistis summi pontificis, patris uestri piissimi,
-                singulare solacium <lb/>et sacrae eius senectutis optatissimum baculum, participem
-                secretorum, laborum so<lb/>cium, peregrinationis comitem, leuamen curarum, et per quem
-                totius orbis princi<lb/>pibus fidissima responsa et reddere consueuerat et accipere.
-                Absit uero <lb/>inuidia et liuor edax saltem parcat cineribus. <sic>Extinctis</sic> iacet optimarum
-                <lb/>artium deditissimus amator; interiit omnium studiosorum praecipuus fautor, <lb/>cultor
-                bonorum, curiae splendor, ornamentum ciuitatis, et huius urbis dili<lb/>gentissimus
-                restaurator. Corruit praeclarum magnanimitatis exemplar, ceci<lb/>dit munificentiae,
-                gratitudinis, et totius liberalitatis <sic>alumpnus</sic>. Cuius <lb/>iactura cum uniuersis lugenda
-                sit, tum mihi praecipue atque his infelicissi<lb/>mis conseruis meis, quibus haec
-                crudelis et dira mors tam benignissimum <lb/>abstulit dominum, interuertit benefactorem,
-                ademit praesidium, et unico atque <lb/>eodem piissimo patre nos acerba orbauit. Nolite
-                igitur expectare, praestan<lb/>tissimi patres, ut luctum ac merorem, in quo et uos nunc
-                esse intueor et me <lb/>ac totam hanc miserandam familiam, quoad uixerimus, fore necesse
-                est, <lb/>uobis adimam. Quin potius pro uestra clementia dabitis dolori meo ueniam <pb n="1v"/><lb/>si
-                eius acerbitate abductus nec rerum ordinem seruare ualeam nec uer<lb/>borum tenere modum,
-                praesertim cum ea culpa libentius ego carere uellem quam <lb/>illam a uobis deprecari si
-                mihi impositum onus detractare licuisset; agam <lb/>tamen ut potero, et minus temeritatis
-                quam ingratitudinis notam subire ue<lb/>rebor. </p>
-            <p n="p2"><pc unit="para" force="strong" pre="true">¶</pc> Dicturus igitur de laudibus reuerendissimi domini <abbr n="abbr">D.</abbr>
-                Petri <lb/>cardinalis sancti Sixti, cuius miserandum funus hodierna die celebratur, eas
-                <lb/>laudes, quas uel a parentibus uel a patria ipsius colligere poteram, hoc loco
-                <lb/>praetermittendas putaui; non quod illas aut obscuras aut tenues fore di<lb/>xerim,
-                quoniam et honestissimis nobilissimisque ciuitatis suae parentibus est <lb/>ortus, et
-                celeberrimo uetustoque Ligurorum oppido Saona, uerum quod ipse illis <lb/>tanto decori
-                ac ornamento fuerit ut toto in orbe extremisque terrarum <lb/>finibus amplissimis
-                laudibus summaque gloria et celebrantur nunc et omnibus fu<lb/>turis seculis non desinent
-                celebrari. Quae quidem tametsi satis grandis eius <lb/>gloria sit qui maioribus suis tam
-                insignia uirtutis ornamenta dederit po<lb/>tius quam ab illis acceperit, habeo tamen et
-                alias immortales ac propemodum <lb/>diuinas animi ipsius laudes (ut fortunae corporisque
-                quaelibet ingentia bona tan<lb/>quam aliena relinquam): pietatem, magnitudinem animi,
-                munificentiam, prudentiam, <lb/>modestiam, atque iustitiam; quae quales in eo fuerint,
-                breuiter explicare cona<lb/>bor. </p>
-            <p n="p3">Qua igitur pietate primum erga deum fuerit quamque magnificus cultor <lb/>ipsius,
-                si aduixisset, futurus erat, in primo uitae suae limine clarissime de<lb/>monstrauit.
-                Annos natus duodecim, cum orbatam patre familiam tanta prudentia <lb/>regeret ut nec
-                mater, matronarum praestantissima, nec fratres eius parentis sen<lb/>tirent desiderium,
-                coepit deo dicatum pectus zelo religionis feruescere. <sic>Cla<lb/>rescat</sic>
-                autem iam tunc nomen religiosissimi doctissimique uiri
-                magistri Franci<lb/>sci, conciuis et auunculi sui, nunc summi pontificis papae Sixti ,
-                qui per id tempus <lb/>Senis suis fratribus sacras scripturas interpretabatur. Hunc
-                optimum Christi<lb/>anae militiae magistrum optimus futurus discipulus, quamuis puerili
-                aetate, uirili <lb/>tamen sensu sibi delegit; ad quem a religioso quodam sene multis
-                exorato <lb/>precibus inscia matre perductus est; diuino, ut opinor, nutu futurus ad
-                apostola<lb/>tum tam strenuus minister ad futurum sedis apostolicae mittitur antistitem.
-                Quem <lb/>ubi conspexisset Franciscus iam religionis <sic>iuste</sic> indutum,
-                quam idcirco iu<lb/>uenis in itinere assumpserat quo se facilius magistro suo insinuaret,
-                mul<lb/>tis eum hortatus est ut ad suos remearet et matris fratrumque curam, ut coepe<lb/>rat,
-                ageret uel maturiorem domi praestolaretur aetatem, quae
-                pati melius iu<pb n="2r"/><lb/>gum Christi posset. Sed cum pueri constantiam nullis blanditiis,
-                nullis persuasi<lb/>onibus, nullis denique minis euincere posset, diuinum, ut erat, in eo
-                ali<lb/>quod munus arbitratus, hortantibus fratribus diui eum Francisci sacris initi<lb/>auit,
-                seruatisque pro more religionis rite caerimoniis uestem Christi induit. <lb/>Qua assumpta
-                ita omnia tyrocinii rudimenta libens promptusque et perdi<lb/>scebat et exsequebatur ut
-                nemo dubitaret et prudentiam illi et uires ante <lb/>aetatem non nisi diuinitus
-                subministrari. Quas ob res omnibus carus, omni<lb/>bus dilectus esse coepit, praecipue
-                autem ipsi auunculo suo, qui diuina eius in<lb/>dole mirifice delectatus piissimo
-                sanctissimoque eum amplectebatur af<lb/>fectu. Vnde sibi curandum statuit ut tam
-                excellens ingenium per bonas <lb/>artes excoleretur. Itaque docto cuidam grammatico
-                Latinis eum litteris Vi<lb/>cheriae imbuendum tradidit, quibus mira celeritate perceptis
-                mox Tici<lb/>nium, deinde Patauium , subinde Venetias, Bononiam, Perusium, Senam,
-                <lb/><sic>Ferreriamque</sic> misit ut, quaecumque in tam celeberrimis Italiae <sic>ginnasiis</sic> <lb/>aut
-                liberalium artium aut sacrarum litterarum dogmata florerent, ipse uelut <lb/>operosa apis
-                undique colligeret et in sacram pectoris sui cellulam diligen<lb/>ter reconderet. Quod
-                quidem intra breues annos adeo consecutus est ut cre<lb/>dibile non sit uirum ad agendum
-                magis quam ad philosophandum natum tantam <lb/>omnium scientiarum notitiam adeo breuiter
-                percipere potuisse. Habeo hic testes <lb/>complures, familiares eius, <sic>ueros</sic> quidem
-                doctissimos, quibuscum inter cenandum <lb/>de uariis disciplinarum studiis frequenter
-                disserere consueuerat adeo acute <lb/>adeoque prompte ac subtiliter de quaestione
-                proposita ut eum <sic>putare</sic> die noctuque <lb/>nulli adeo alii rei quam euoluendis
-                theologorum philosophorumque libris uacare. Te<lb/>nebat fixa memoriae quaecunque ab
-                ineunte aetate a praeceptoribus audierat. Vi<lb/>gebat praeterea stupendo ingenii
-                acumine, cuius perspicacitate facile in abditis<lb/>sima quaeque naturae secreta
-                penetrabat, et ex perceptis semel principiis diffici<lb/>llima quaeuis uel philosophiae
-                <supplied resp="#viaf6913774">uel theologiae</supplied> problemata summa cum omnium admiratione
-                absoluebat; uer<lb/>sus complures multosque grammatice textus, quos olim puer
-                <sic>edicerat</sic>, ita me<lb/>moriter recitabat ut ea illum heri aut
-                nudiustercius memoriae mandasse ex<lb/>istimares. Perfectis igitur quam celerrime omnium
-                bonarum artium studiis, re<lb/>diit sollicitus ad magistrum, munus, cui caelitus
-                destinatus erat, optime imple<lb/>turus. Inerat enim menti eius praesaga quaedam
-                futurorum diuinitas compluri<lb/>maque, antequam contigissent, per quietem discebat, ita
-                ut <sic>insonia</sic> ipsius non <pb n="2v"/><lb/>uisa solum, sed certa uiderentur oracula. Quibus uarie
-                sollicitatus coepit <lb/>auunculum suum hortari, coepit <sic>importunis</sic> <sic>complere</sic> Romam
-                peteret atque <lb/>in ea urbe uersari uellet, in qua a maximo omnium rectore deo futurus
-                su<lb/>mmus pontifex erat designatus; ubi et seipsum accepturum ab eo cardinalatus <lb/>decus
-                et alios uniuersos honores, quibus eum functum uidimus, mira as<lb/>seueratione
-                praedicebat. Cerno hic nonnullos praelatos et ex aliis ordinibus <lb/>uiros <sic>praestante</sic> a
-                quibus magna cum attestatione audiui singula haec, quae <lb/>gessit, multis ante annis ab
-                ipso praedicta fuisse. Itaque repugnantem magistrum <lb/>et se tanto fastigio indignum
-                reclamantem urgere non destitit donec mul<lb/>tis et signis et prodigiis euictum <sic>perpulit</sic> Romam proficisci, in qua constitutus <lb/>minime conquieuit
-                antequam demandatum ab altissimi prouidentia munus <lb/>uiriliter absolueret et magistrum
-                suum per uaria bonorum incrementa ad summum <lb/>apostolatus culmen conscendisse uideret,
-                pro quibus laboribus et pro tam dili<lb/>genti nauata opera eadem ipsa diuina
-                prouidentia, quae semper infirma mundi elige<lb/>re consueuit ut fortia quaeque
-                confundat, cardinalis eum dignitatis splen<lb/>dore uoluit illustrare omnibusque mundi
-                principibus ostendere quo ministro <lb/>et ex quam humili loco accepto <sic>uoluerint</sic>
-                in sui uicarii assumptione uti, ut <lb/>discerent uniuersi ueram
-                certamque esse illam <sic>Nabuchdenosoris</sic> confessionem <lb/>in quam et regno et sensui
-                restitutus supplex prorupit dicens <quote xml:id="quote1">in manu so<lb/>lius
+            <head n="head"><pb n="1r"/><lb/><w>Oratio</w> <w>in</w> <w>funere</w> <w>reuerendissimi</w> <w>domini</w> <w>domini</w> <w>Petri</w>
+                <w>cardinalis</w> <w>sancti</w> <w>Sixti</w> <lb/><w>habita</w> <w>a</w> <w>reuerendo</w> <w>patre</w> <w>domino</w> <w>Nicolao</w> <w>episcopo</w>
+                <w>Modrusiensi</w><pc>.</pc> </head>
+            <p n="p1"><lb/><pc unit="para" force="strong" pre="true">¶</pc> <w>Cum</w> <w>in</w> <w>omni</w> <w>funebri</w> <w>celebratione</w> <w>duo</w> <w>praecipue</w> <w>dicendi</w> <w>genera</w> <w>a</w> <w>maio<lb/>ribus</w>
+                <w>nostris</w> <w>usurpari</w> <w>soleant</w><pc>,</pc> <w>amplissimi</w> <w>patres</w><pc>,</pc> <w>alterum</w> <w>quo</w> <w>tristes</w> <w>ami<lb/>corum</w> <w>animos</w>
+                <w>merore</w> <w>leuarent</w><pc>,</pc> <w>quibus</w><pc>,</pc> <w>cum</w> <w>amici</w> <w>uita</w> <w>suauissima</w> <w>extitit</w><pc>,</pc> <w>mors</w> <lb/><w>ipsa</w> <w>iocunda</w> <w>esse</w>
+                <w>non</w> <w>potuit</w><pc>,</pc> <w>alterum</w> <w>quo</w> <w>extremum</w> <w>amici</w> <w>munus</w> <w>rebus</w> <lb/><w>ab</w> <w>eo</w> <w>bene</w> <w>gestis</w> <w>uirtutumque</w>
+                <w>ipsius</w> <w>copia</w> <w>ac</w> <w>splendore</w> <w>amplissimis</w> <w>laudibus</w> <lb/><w>exornarent</w><pc>,</pc> <w>illud</w> <w>ego</w> <w>prius</w>
+                <w>consolationis</w> <w>genus</w> <w>ita</w> <w>prorsus</w> <w>in</w> <w>omne</w> <w>tempus</w> <w>perdi<lb/>di</w> <w>ut</w> <w>magis</w> <w>ipse</w> <w>solatio</w> <w>egeam</w>
+                <w>quam</w> <w>ut</w> <w>illud</w> <w>cuique</w> <w>uel</w> <w>praestare</w> <w>possim</w> <w>uel</w> <lb/><w>polliceri</w><pc>.</pc> <w>Quod</w> <w>etiam</w> <w>si</w> <w>minime</w>
+                <w>perdidissem</w><pc>,</pc> <w>nunquam</w> <w>tamen</w> <w>dispicere</w> <w>possem</w> <w>qua</w> <lb/><w>oratione</w> <w>aut</w> <w>quibus</w> <w>rationibus</w> <w>etiam</w>
+                <w>illi</w> <w>quidem</w><pc>,</pc> <w>qui</w> <w>principes</w> <w>eloquentiae</w> <w>sunt</w> <w>ha<lb/>biti</w><pc>,</pc> <w>hanc</w> <w>tam</w> <w>grauem</w> <w>sacrosancti</w>
+                <w>senatus</w> <w>uestri</w> <w>iacturam</w> <w>et</w> <w>hunc</w> <w>publicum</w> <w>to<lb/>tius</w> <w>curiae</w> <w>luctum</w> <w>ulla</w> <w>ex</w> <w>parte</w> <w>leuari</w>
+                <w>possent</w><pc>.</pc> <w>Perdidistis</w> <w>enim</w><pc>,</pc> <w>patres</w> <w>am<lb/>plissimi</w><pc>,</pc> <w>praestantissimum</w> <w>collegam</w> <w>uestrum</w><pc>,</pc>
+                <w>cuius</w> <w>suauissimam</w> <w>consuetudinem</w><pc>,</pc> <w>co<lb/>mitatem</w><pc>,</pc> <w>benignitatem</w><pc>,</pc> <w>liberalitatemque</w> <w>quotidie</w>
+                <w>experiebamini</w><pc>,</pc> <w>cuius</w> <w>ingenii</w> <lb/><w>dexteritatem</w> <w>et</w> <w>incredibilem</w> <w>consilii</w> <w>prudentiam</w> <w>in</w>
+                <w>dies</w> <w>magis</w> <w>admiraba<lb/>mini</w><pc>.</pc> <w>Amisistis</w> <w>summi</w> <w>pontificis</w><pc>,</pc> <w>patris</w> <w>uestri</w> <w>piissimi</w><pc>,</pc>
+                <w>singulare</w> <w>solacium</w> <lb/><w>et</w> <w>sacrae</w> <w>eius</w> <w>senectutis</w> <w>optatissimum</w> <w>baculum</w><pc>,</pc> <w>participem</w>
+                <w>secretorum</w><pc>,</pc> <w>laborum</w> <w>so<lb/>cium</w><pc>,</pc> <w>peregrinationis</w> <w>comitem</w><pc>,</pc> <w>leuamen</w> <w>curarum</w><pc>,</pc> <w>et</w> <w>per</w> <w>quem</w>
+                <w>totius</w> <w>orbis</w> <w>princi<lb/>pibus</w> <w>fidissima</w> <w>responsa</w> <w>et</w> <w>reddere</w> <w>consueuerat</w> <w>et</w> <w>accipere</w><pc>.</pc>
+                <w>Absit</w> <w>uero</w> <lb/><w>inuidia</w> <w>et</w> <w>liuor</w> <w>edax</w> <w>saltem</w> <w>parcat</w> <w>cineribus</w><pc>.</pc> <sic><w>Extinctis</w></sic> <w>iacet</w> <w>optimarum</w>
+                <lb/><w>artium</w> <w>deditissimus</w> <w>amator</w><pc>;</pc> <w>interiit</w> <w>omnium</w> <w>studiosorum</w> <w>praecipuus</w> <w>fautor</w><pc>,</pc> <lb/><w>cultor</w>
+                <w>bonorum</w><pc>,</pc> <w>curiae</w> <w>splendor</w><pc>,</pc> <w>ornamentum</w> <w>ciuitatis</w><pc>,</pc> <w>et</w> <w>huius</w> <w>urbis</w> <w>dili<lb/>gentissimus</w>
+                <w>restaurator</w><pc>.</pc> <w>Corruit</w> <w>praeclarum</w> <w>magnanimitatis</w> <w>exemplar</w><pc>,</pc> <w>ceci<lb/>dit</w> <w>munificentiae</w><pc>,</pc>
+                <w>gratitudinis</w><pc>,</pc> <w>et</w> <w>totius</w> <w>liberalitatis</w> <sic><w>alumpnus</w></sic><pc>.</pc> <w>Cuius</w> <lb/><w>iactura</w> <w>cum</w> <w>uniuersis</w> <w>lugenda</w>
+                <w>sit</w><pc>,</pc> <w>tum</w> <w>mihi</w> <w>praecipue</w> <w>atque</w> <w>his</w> <w>infelicissi<lb/>mis</w> <w>conseruis</w> <w>meis</w><pc>,</pc> <w>quibus</w> <w>haec</w>
+                <w>crudelis</w> <w>et</w> <w>dira</w> <w>mors</w> <w>tam</w> <w>benignissimum</w> <lb/><w>abstulit</w> <w>dominum</w><pc>,</pc> <w>interuertit</w> <w>benefactorem</w><pc>,</pc>
+                <w>ademit</w> <w>praesidium</w><pc>,</pc> <w>et</w> <w>unico</w> <w>atque</w> <lb/><w>eodem</w> <w>piissimo</w> <w>patre</w> <w>nos</w> <w>acerba</w> <w>orbauit</w><pc>.</pc> <w>Nolite</w>
+                <w>igitur</w> <w>expectare</w><pc>,</pc> <w>praestan<lb/>tissimi</w> <w>patres</w><pc>,</pc> <w>ut</w> <w>luctum</w> <w>ac</w> <w>merorem</w><pc>,</pc> <w>in</w> <w>quo</w> <w>et</w> <w>uos</w> <w>nunc</w>
+                <w>esse</w> <w>intueor</w> <w>et</w> <w>me</w> <lb/><w>ac</w> <w>totam</w> <w>hanc</w> <w>miserandam</w> <w>familiam</w><pc>,</pc> <w>quoad</w> <w>uixerimus</w><pc>,</pc> <w>fore</w> <w>necesse</w>
+                <w>est</w><pc>,</pc> <lb/><w>uobis</w> <w>adimam</w><pc>.</pc> <w>Quin</w> <w>potius</w> <w>pro</w> <w>uestra</w> <w>clementia</w> <w>dabitis</w> <w>dolori</w> <w>meo</w> <w>ueniam</w> <pb n="1v"/><lb/><w>si</w>
+                <w>eius</w> <w>acerbitate</w> <w>abductus</w> <w>nec</w> <w>rerum</w> <w>ordinem</w> <w>seruare</w> <w>ualeam</w> <w>nec</w> <w>uer<lb/>borum</w> <w>tenere</w> <w>modum</w><pc>,</pc>
+                <w>praesertim</w> <w>cum</w> <w>ea</w> <w>culpa</w> <w>libentius</w> <w>ego</w> <w>carere</w> <w>uellem</w> <w>quam</w> <lb/><w>illam</w> <w>a</w> <w>uobis</w> <w>deprecari</w> <w>si</w>
+                <w>mihi</w> <w>impositum</w> <w>onus</w> <w>detractare</w> <w>licuisset</w><pc>;</pc> <w>agam</w> <lb/><w>tamen</w> <w>ut</w> <w>potero</w><pc>,</pc> <w>et</w> <w>minus</w> <w>temeritatis</w>
+                <w>quam</w> <w>ingratitudinis</w> <w>notam</w> <w>subire</w> <w>ue<lb/>rebor</w><pc>.</pc> </p>
+            <p n="p2"><pc unit="para" force="strong" pre="true">¶</pc> <w>Dicturus</w> <w>igitur</w> <w>de</w> <w>laudibus</w> <w>reuerendissimi</w> <w>domini</w> <abbr>D.</abbr>
+                <w>Petri</w> <lb/><w>cardinalis</w> <w>sancti</w> <w>Sixti</w><pc>,</pc> <w>cuius</w> <w>miserandum</w> <w>funus</w> <w>hodierna</w> <w>die</w> <w>celebratur</w><pc>,</pc> <w>eas</w>
+                <lb/><w>laudes</w><pc>,</pc> <w>quas</w> <w>uel</w> <w>a</w> <w>parentibus</w> <w>uel</w> <w>a</w> <w>patria</w> <w>ipsius</w> <w>colligere</w> <w>poteram</w><pc>,</pc> <w>hoc</w> <w>loco</w>
+                <lb/><w>praetermittendas</w> <w>putaui</w><pc>;</pc> <w>non</w> <w>quod</w> <w>illas</w> <w>aut</w> <w>obscuras</w> <w>aut</w> <w>tenues</w> <w>fore</w> <w>di<lb/>xerim</w><pc>,</pc>
+                <w>quoniam</w> <w>et</w> <w>honestissimis</w> <w>nobilissimisque</w> <w>ciuitatis</w> <w>suae</w> <w>parentibus</w> <w>est</w> <lb/><w>ortus</w><pc>,</pc> <w>et</w>
+                <w>celeberrimo</w> <w>uetustoque</w> <w>Ligurorum</w> <w>oppido</w> <w>Saona</w><pc>,</pc> <w>uerum</w> <w>quod</w> <w>ipse</w> <w>illis</w> <lb/><w>tanto</w> <w>decori</w>
+                <w>ac</w> <w>ornamento</w> <w>fuerit</w> <w>ut</w> <w>toto</w> <w>in</w> <w>orbe</w> <w>extremisque</w> <w>terrarum</w> <lb/><w>finibus</w> <w>amplissimis</w>
+                <w>laudibus</w> <w>summaque</w> <w>gloria</w> <w>et</w> <w>celebrantur</w> <w>nunc</w> <w>et</w> <w>omnibus</w> <w>fu<lb/>turis</w> <w>seculis</w> <w>non</w> <w>desinent</w>
+                <w>celebrari</w><pc>.</pc> <w>Quae</w> <w>quidem</w> <w>tametsi</w> <w>satis</w> <w>grandis</w> <w>eius</w> <lb/><w>gloria</w> <w>sit</w> <w>qui</w> <w>maioribus</w> <w>suis</w> <w>tam</w>
+                <w>insignia</w> <w>uirtutis</w> <w>ornamenta</w> <w>dederit</w> <w>po<lb/>tius</w> <w>quam</w> <w>ab</w> <w>illis</w> <w>acceperit</w><pc>,</pc> <w>habeo</w> <w>tamen</w> <w>et</w>
+                <w>alias</w> <w>immortales</w> <w>ac</w> <w>propemodum</w> <lb/><w>diuinas</w> <w>animi</w> <w>ipsius</w> <w>laudes</w> <pc>(</pc><w>ut</w> <w>fortunae</w> <w>corporisque</w>
+                <w>quaelibet</w> <w>ingentia</w> <w>bona</w> <w>tan<lb/>quam</w> <w>aliena</w> <w>relinquam</w><pc>)</pc><pc>:</pc> <w>pietatem</w><pc>,</pc> <w>magnitudinem</w> <w>animi</w><pc>,</pc>
+                <w>munificentiam</w><pc>,</pc> <w>prudentiam</w><pc>,</pc> <lb/><w>modestiam</w><pc>,</pc> <w>atque</w> <w>iustitiam</w><pc>;</pc> <w>quae</w> <w>quales</w> <w>in</w> <w>eo</w> <w>fuerint</w><pc>,</pc>
+                <w>breuiter</w> <w>explicare</w> <w>cona<lb/>bor</w><pc>.</pc> </p>
+            <p n="p3"><w>Qua</w> <w>igitur</w> <w>pietate</w> <w>primum</w> <w>erga</w> <w>deum</w> <w>fuerit</w> <w>quamque</w> <w>magnificus</w> <w>cultor</w> <lb/><w>ipsius</w><pc>,</pc>
+                <w>si</w> <w>aduixisset</w><pc>,</pc> <w>futurus</w> <w>erat</w><pc>,</pc> <w>in</w> <w>primo</w> <w>uitae</w> <w>suae</w> <w>limine</w> <w>clarissime</w> <w>de<lb/>monstrauit</w><pc>.</pc>
+                <w>Annos</w> <w>natus</w> <w>duodecim</w><pc>,</pc> <w>cum</w> <w>orbatam</w> <w>patre</w> <w>familiam</w> <w>tanta</w> <w>prudentia</w> <lb/><w>regeret</w> <w>ut</w> <w>nec</w>
+                <w>mater</w><pc>,</pc> <w>matronarum</w> <w>praestantissima</w><pc>,</pc> <w>nec</w> <w>fratres</w> <w>eius</w> <w>parentis</w> <w>sen<lb/>tirent</w> <w>desiderium</w><pc>,</pc>
+                <w>coepit</w> <w>deo</w> <w>dicatum</w> <w>pectus</w> <w>zelo</w> <w>religionis</w> <w>feruescere</w><pc>.</pc> <sic><w>Cla<lb/>rescat</w></sic>
+                <w>autem</w> <w>iam</w> <w>tunc</w> <w>nomen</w> <w>religiosissimi</w> <w>doctissimique</w> <w>uiri</w>
+                <w>magistri</w> <w>Franci<lb/>sci</w><pc>,</pc> <w>conciuis</w> <w>et</w> <w>auunculi</w> <w>sui</w><pc>,</pc> <w>nunc</w> <w>summi</w> <w>pontificis</w> <w>papae</w> <w>Sixti</w> <pc>,</pc>
+                <w>qui</w> <w>per</w> <w>id</w> <w>tempus</w> <lb/><w>Senis</w> <w>suis</w> <w>fratribus</w> <w>sacras</w> <w>scripturas</w> <w>interpretabatur</w><pc>.</pc> <w>Hunc</w>
+                <w>optimum</w> <w>Christi<lb/>anae</w> <w>militiae</w> <w>magistrum</w> <w>optimus</w> <w>futurus</w> <w>discipulus</w><pc>,</pc> <w>quamuis</w> <w>puerili</w>
+                <w>aetate</w><pc>,</pc> <w>uirili</w> <lb/><w>tamen</w> <w>sensu</w> <w>sibi</w> <w>delegit</w><pc>;</pc> <w>ad</w> <w>quem</w> <w>a</w> <w>religioso</w> <w>quodam</w> <w>sene</w> <w>multis</w>
+                <w>exorato</w> <lb/><w>precibus</w> <w>inscia</w> <w>matre</w> <w>perductus</w> <w>est</w><pc>;</pc> <w>diuino</w><pc>,</pc> <w>ut</w> <w>opinor</w><pc>,</pc> <w>nutu</w> <w>futurus</w> <w>ad</w>
+                <w>apostola<lb/>tum</w> <w>tam</w> <w>strenuus</w> <w>minister</w> <w>ad</w> <w>futurum</w> <w>sedis</w> <w>apostolicae</w> <w>mittitur</w> <w>antistitem</w><pc>.</pc>
+                <w>Quem</w> <lb/><w>ubi</w> <w>conspexisset</w> <w>Franciscus</w> <w>iam</w> <w>religionis</w> <sic><w>iuste</w></sic> <w>indutum</w><pc>,</pc>
+                <w>quam</w> <w>idcirco</w> <w>iu<lb/>uenis</w> <w>in</w> <w>itinere</w> <w>assumpserat</w> <w>quo</w> <w>se</w> <w>facilius</w> <w>magistro</w> <w>suo</w> <w>insinuaret</w><pc>,</pc>
+                <w>mul<lb/>tis</w> <w>eum</w> <w>hortatus</w> <w>est</w> <w>ut</w> <w>ad</w> <w>suos</w> <w>remearet</w> <w>et</w> <w>matris</w> <w>fratrumque</w> <w>curam</w><pc>,</pc> <w>ut</w> <w>coepe<lb/>rat</w><pc>,</pc>
+                <w>ageret</w> <w>uel</w> <w>maturiorem</w> <w>domi</w> <w>praestolaretur</w> <w>aetatem</w><pc>,</pc> <w>quae</w>
+                <w>pati</w> <w>melius</w> <w>iu</w><pb n="2r"/><lb/><w>gum</w> <w>Christi</w> <w>posset</w><pc>.</pc> <w>Sed</w> <w>cum</w> <w>pueri</w> <w>constantiam</w> <w>nullis</w> <w>blanditiis</w><pc>,</pc>
+                <w>nullis</w> <w>persuasi<lb/>onibus</w><pc>,</pc> <w>nullis</w> <w>denique</w> <w>minis</w> <w>euincere</w> <w>posset</w><pc>,</pc> <w>diuinum</w><pc>,</pc> <w>ut</w> <w>erat</w><pc>,</pc> <w>in</w> <w>eo</w>
+                <w>ali<lb/>quod</w> <w>munus</w> <w>arbitratus</w><pc>,</pc> <w>hortantibus</w> <w>fratribus</w> <w>diui</w> <w>eum</w> <w>Francisci</w> <w>sacris</w> <w>initi<lb/>auit</w><pc>,</pc>
+                <w>seruatisque</w> <w>pro</w> <w>more</w> <w>religionis</w> <w>rite</w> <w>caerimoniis</w> <w>uestem</w> <w>Christi</w> <w>induit</w><pc>.</pc> <lb/><w>Qua</w> <w>assumpta</w>
+                <w>ita</w> <w>omnia</w> <w>tyrocinii</w> <w>rudimenta</w> <w>libens</w> <w>promptusque</w> <w>et</w> <w>perdi<lb/>scebat</w> <w>et</w> <w>exsequebatur</w> <w>ut</w>
+                <w>nemo</w> <w>dubitaret</w> <w>et</w> <w>prudentiam</w> <w>illi</w> <w>et</w> <w>uires</w> <w>ante</w> <lb/><w>aetatem</w> <w>non</w> <w>nisi</w> <w>diuinitus</w>
+                <w>subministrari</w><pc>.</pc> <w>Quas</w> <w>ob</w> <w>res</w> <w>omnibus</w> <w>carus</w><pc>,</pc> <w>omni<lb/>bus</w> <w>dilectus</w> <w>esse</w> <w>coepit</w><pc>,</pc> <w>praecipue</w>
+                <w>autem</w> <w>ipsi</w> <w>auunculo</w> <w>suo</w><pc>,</pc> <w>qui</w> <w>diuina</w> <w>eius</w> <w>in<lb/>dole</w> <w>mirifice</w> <w>delectatus</w> <w>piissimo</w>
+                <w>sanctissimoque</w> <w>eum</w> <w>amplectebatur</w> <w>af<lb/>fectu</w><pc>.</pc> <w>Vnde</w> <w>sibi</w> <w>curandum</w> <w>statuit</w> <w>ut</w> <w>tam</w>
+                <w>excellens</w> <w>ingenium</w> <w>per</w> <w>bonas</w> <lb/><w>artes</w> <w>excoleretur</w><pc>.</pc> <w>Itaque</w> <w>docto</w> <w>cuidam</w> <w>grammatico</w>
+                <w>Latinis</w> <w>eum</w> <w>litteris</w> <w>Vi<lb/>cheriae</w> <w>imbuendum</w> <w>tradidit</w><pc>,</pc> <w>quibus</w> <w>mira</w> <w>celeritate</w> <w>perceptis</w>
+                <w>mox</w> <w>Tici<lb/>nium</w><pc>,</pc> <w>deinde</w> <w>Patauium</w> <pc>,</pc> <w>subinde</w> <w>Venetias</w><pc>,</pc> <w>Bononiam</w><pc>,</pc> <w>Perusium</w><pc>,</pc> <w>Senam</w><pc>,</pc>
+                <lb/><sic><w>Ferreriamque</w></sic> <w>misit</w> <w>ut</w><pc>,</pc> <w>quaecumque</w> <w>in</w> <w>tam</w> <w>celeberrimis</w> <w>Italiae</w> <sic><w>ginnasiis</w></sic> <lb/><w>aut</w>
+                <w>liberalium</w> <w>artium</w> <w>aut</w> <w>sacrarum</w> <w>litterarum</w> <w>dogmata</w> <w>florerent</w><pc>,</pc> <w>ipse</w> <w>uelut</w> <lb/><w>operosa</w> <w>apis</w>
+                <w>undique</w> <w>colligeret</w> <w>et</w> <w>in</w> <w>sacram</w> <w>pectoris</w> <w>sui</w> <w>cellulam</w> <w>diligen<lb/>ter</w> <w>reconderet</w><pc>.</pc> <w>Quod</w>
+                <w>quidem</w> <w>intra</w> <w>breues</w> <w>annos</w> <w>adeo</w> <w>consecutus</w> <w>est</w> <w>ut</w> <w>cre<lb/>dibile</w> <w>non</w> <w>sit</w> <w>uirum</w> <w>ad</w> <w>agendum</w>
+                <w>magis</w> <w>quam</w> <w>ad</w> <w>philosophandum</w> <w>natum</w> <w>tantam</w> <lb/><w>omnium</w> <w>scientiarum</w> <w>notitiam</w> <w>adeo</w> <w>breuiter</w>
+                <w>percipere</w> <w>potuisse</w><pc>.</pc> <w>Habeo</w> <w>hic</w> <w>testes</w> <lb/><w>complures</w><pc>,</pc> <w>familiares</w> <w>eius</w><pc>,</pc> <sic><w>ueros</w></sic> <w>quidem</w>
+                <w>doctissimos</w><pc>,</pc> <w>quibuscum</w> <w>inter</w> <w>cenandum</w> <lb/><w>de</w> <w>uariis</w> <w>disciplinarum</w> <w>studiis</w> <w>frequenter</w>
+                <w>disserere</w> <w>consueuerat</w> <w>adeo</w> <w>acute</w> <lb/><w>adeoque</w> <w>prompte</w> <w>ac</w> <w>subtiliter</w> <w>de</w> <w>quaestione</w>
+                <w>proposita</w> <w>ut</w> <w>eum</w> <sic><w>putare</w></sic> <w>die</w> <w>noctuque</w> <lb/><w>nulli</w> <w>adeo</w> <w>alii</w> <w>rei</w> <w>quam</w> <w>euoluendis</w>
+                <w>theologorum</w> <w>philosophorumque</w> <w>libris</w> <w>uacare</w><pc>.</pc> <w>Te<lb/>nebat</w> <w>fixa</w> <w>memoriae</w> <w>quaecunque</w> <w>ab</w>
+                <w>ineunte</w> <w>aetate</w> <w>a</w> <w>praeceptoribus</w> <w>audierat</w><pc>.</pc> <w>Vi<lb/>gebat</w> <w>praeterea</w> <w>stupendo</w> <w>ingenii</w>
+                <w>acumine</w><pc>,</pc> <w>cuius</w> <w>perspicacitate</w> <w>facile</w> <w>in</w> <w>abditis<lb/>sima</w> <w>quaeque</w> <w>naturae</w> <w>secreta</w>
+                <w>penetrabat</w><pc>,</pc> <w>et</w> <w>ex</w> <w>perceptis</w> <w>semel</w> <w>principiis</w> <w>diffici<lb/>llima</w> <w>quaeuis</w> <w>uel</w> <w>philosophiae</w>
+                <supplied resp="#viaf6913774">uel theologiae</supplied> <w>problemata</w> <w>summa</w> <w>cum</w> <w>omnium</w> <w>admiratione</w>
+                <w>absoluebat</w><pc>;</pc> <w>uer<lb/>sus</w> <w>complures</w> <w>multosque</w> <w>grammatice</w> <w>textus</w><pc>,</pc> <w>quos</w> <w>olim</w> <w>puer</w>
+                <sic><w>edicerat</w></sic><pc>,</pc> <w>ita</w> <w>me<lb/>moriter</w> <w>recitabat</w> <w>ut</w> <w>ea</w> <w>illum</w> <w>heri</w> <w>aut</w>
+                <w>nudiustercius</w> <w>memoriae</w> <w>mandasse</w> <w>ex<lb/>istimares</w><pc>.</pc> <w>Perfectis</w> <w>igitur</w> <w>quam</w> <w>celerrime</w> <w>omnium</w>
+                <w>bonarum</w> <w>artium</w> <w>studiis</w><pc>,</pc> <w>re<lb/>diit</w> <w>sollicitus</w> <w>ad</w> <w>magistrum</w><pc>,</pc> <w>munus</w><pc>,</pc> <w>cui</w> <w>caelitus</w>
+                <w>destinatus</w> <w>erat</w><pc>,</pc> <w>optime</w> <w>imple<lb/>turus</w><pc>.</pc> <w>Inerat</w> <w>enim</w> <w>menti</w> <w>eius</w> <w>praesaga</w> <w>quaedam</w>
+                <w>futurorum</w> <w>diuinitas</w> <w>compluri<lb/>maque</w><pc>,</pc> <w>antequam</w> <w>contigissent</w><pc>,</pc> <w>per</w> <w>quietem</w> <w>discebat</w><pc>,</pc> <w>ita</w>
+                <w>ut</w> <sic><w>insonia</w></sic> <w>ipsius</w> <w>non</w> <pb n="2v"/><lb/><w>uisa</w> <w>solum</w><pc>,</pc> <w>sed</w> <w>certa</w> <w>uiderentur</w> <w>oracula</w><pc>.</pc> <w>Quibus</w> <w>uarie</w>
+                <w>sollicitatus</w> <w>coepit</w> <lb/><w>auunculum</w> <w>suum</w> <w>hortari</w><pc>,</pc> <w>coepit</w> <sic><w>importunis</w></sic> <sic><w>complere</w></sic> <w>Romam</w>
+                <w>peteret</w> <w>atque</w> <lb/><w>in</w> <w>ea</w> <w>urbe</w> <w>uersari</w> <w>uellet</w><pc>,</pc> <w>in</w> <w>qua</w> <w>a</w> <w>maximo</w> <w>omnium</w> <w>rectore</w> <w>deo</w> <w>futurus</w>
+                <w>su<lb/>mmus</w> <w>pontifex</w> <w>erat</w> <w>designatus</w><pc>;</pc> <w>ubi</w> <w>et</w> <w>seipsum</w> <w>accepturum</w> <w>ab</w> <w>eo</w> <w>cardinalatus</w> <lb/><w>decus</w>
+                <w>et</w> <w>alios</w> <w>uniuersos</w> <w>honores</w><pc>,</pc> <w>quibus</w> <w>eum</w> <w>functum</w> <w>uidimus</w><pc>,</pc> <w>mira</w> <w>as<lb/>seueratione</w>
+                <w>praedicebat</w><pc>.</pc> <w>Cerno</w> <w>hic</w> <w>nonnullos</w> <w>praelatos</w> <w>et</w> <w>ex</w> <w>aliis</w> <w>ordinibus</w> <lb/><w>uiros</w> <sic><w>praestante</w></sic> <w>a</w>
+                <w>quibus</w> <w>magna</w> <w>cum</w> <w>attestatione</w> <w>audiui</w> <w>singula</w> <w>haec</w><pc>,</pc> <w>quae</w> <lb/><w>gessit</w><pc>,</pc> <w>multis</w> <w>ante</w> <w>annis</w> <w>ab</w>
+                <w>ipso</w> <w>praedicta</w> <w>fuisse</w><pc>.</pc> <w>Itaque</w> <w>repugnantem</w> <w>magistrum</w> <lb/><w>et</w> <w>se</w> <w>tanto</w> <w>fastigio</w> <w>indignum</w>
+                <w>reclamantem</w> <w>urgere</w> <w>non</w> <w>destitit</w> <w>donec</w> <w>mul<lb/>tis</w> <w>et</w> <w>signis</w> <w>et</w> <w>prodigiis</w> <w>euictum</w> <sic><w>perpulit</w></sic> <w>Romam</w> <w>proficisci</w><pc>,</pc> <w>in</w> <w>qua</w> <w>constitutus</w> <lb/><w>minime</w> <w>conquieuit</w>
+                <w>antequam</w> <w>demandatum</w> <w>ab</w> <w>altissimi</w> <w>prouidentia</w> <w>munus</w> <lb/><w>uiriliter</w> <w>absolueret</w> <w>et</w> <w>magistrum</w>
+                <w>suum</w> <w>per</w> <w>uaria</w> <w>bonorum</w> <w>incrementa</w> <w>ad</w> <w>summum</w> <lb/><w>apostolatus</w> <w>culmen</w> <w>conscendisse</w> <w>uideret</w><pc>,</pc>
+                <w>pro</w> <w>quibus</w> <w>laboribus</w> <w>et</w> <w>pro</w> <w>tam</w> <w>dili<lb/>genti</w> <w>nauata</w> <w>opera</w> <w>eadem</w> <w>ipsa</w> <w>diuina</w>
+                <w>prouidentia</w><pc>,</pc> <w>quae</w> <w>semper</w> <w>infirma</w> <w>mundi</w> <w>elige<lb/>re</w> <w>consueuit</w> <w>ut</w> <w>fortia</w> <w>quaeque</w>
+                <w>confundat</w><pc>,</pc> <w>cardinalis</w> <w>eum</w> <w>dignitatis</w> <w>splen<lb/>dore</w> <w>uoluit</w> <w>illustrare</w> <w>omnibusque</w> <w>mundi</w>
+                <w>principibus</w> <w>ostendere</w> <w>quo</w> <w>ministro</w> <lb/><w>et</w> <w>ex</w> <w>quam</w> <w>humili</w> <w>loco</w> <w>accepto</w> <sic><w>uoluerint</w></sic>
+                <w>in</w> <w>sui</w> <w>uicarii</w> <w>assumptione</w> <w>uti</w><pc>,</pc> <w>ut</w> <lb/><w>discerent</w> <w>uniuersi</w> <w>ueram</w>
+                <w>certamque</w> <w>esse</w> <w>illam</w> <sic><w>Nabuchdenosoris</w></sic> <w>confessionem</w> <lb/><w>in</w> <w>quam</w> <w>et</w> <w>regno</w> <w>et</w> <w>sensui</w>
+                <w>restitutus</w> <w>supplex</w> <w>prorupit</w> <w>dicens</w> <quote xml:id="quote1">in manu <w>so<lb/>lius</w>
                     omnipotentis dei esse omnia regna terrarum atque illa quibus ipse uoluerit <lb/>tradi
                     nec esse alium quemquam qui eius possit obsistere uoluntati aut <lb/>dicere illi <q
                         n="q" xml:id="q1">quare sic fecisti</q>
-                </quote>. </p>
-            <p n="p4"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> Petrus igitur per hunc modum in principatu constitutus qui solet ui<lb/>ros
-                ostendere, talem sese exhibuit qualem uix optare poteramus, non spe<lb/>rare. Assumpsit
-                enim cum sublimi magistratu sublimes animos et spiritus tanti <lb/>imperii maiestate
-                dignos, simulque cum eis magnanimitatem, clementiam, <lb/>munificentiam, et caeteras,
-                <surplus>prius</surplus> quas prius commemorauimus,
-                imperantium uir<lb/>tutes; quibus et ausus est cum
-                regibus et principibus magna gloria non se<lb/>gnius contendere quam si in illis natus
-                educatusque fuisset, ut coepta eius <lb/>declarant aedificia, totque magnificentissimo
-                cultu celebrata conuiuia, et <sic>sup<lb/>pllex</sic> 
-                imperialibus fastibus digna. Turpe enim et indecorum merito duce<lb/>bat in hoc
-                totius orbis capite, in hac prima Christianae religionis sede, <lb/>ad quam adorandam
-                imperatores, reges, et cuncti ferme principes terrarum <pb n="3r"/><lb/>uentitare solent, non talem
-                esse suppellectilem, non talia <sic>ortare</sic>
-                <sic>pallacis</sic>, qui<lb/>bus eos summus pontifex et suscipere honorifice
-                posset et pro sua ipsorumque <lb/>dignitate splendide honorare. Vnde et in hos usus omnia
-                illa se comparare <lb/>affirmabat, nec sibi, sed summis pontificibus, quicquid
-                praeparabat, compone<lb/>re. Affluebant quotidie opes et ab omnibus ferme Christianis
-                principibus ma<lb/>gni prouentus ultro offerebantur; quos licet ipse in illos, quos
-                dixi<lb/>mus, acceptaret usus, prophetici tamen documenti memor minime ad ea <lb/>cor
-                apponebat neque illis auaro deuincebatur affectu. Hinc est quod nec <lb/>sciebat
-                numerum nec omnino quid haberet aut quid impenderet nosse
-                <sic>ua<lb/>lebat</sic>; nullas a ministris impensarum
-                exigebat rationes, nulla <sic>comput</sic> exi<lb/>gere
-                uolebat. Iactura rerum ea dumtaxat mouebatur quae negligentia <lb/>contigisset, culpam
-                magis dolens quam damnum. A suscepto semel nego<lb/>tio nullo metu absterreri potuerat,
-                nullo periculo depelli. Verax in <lb/>sermone, in <sic>faco</sic> fidelis, in proposito constans, in peragendo
-                strenuus, <lb/>secretorum
-                tenacissimus, et promissorum firmissimus obseruator. Insignia
-                <lb/><sic>hic</sic> sunt magnanimitatis eius testimonia. Sed illud mea
-                sententia uin<lb/>cit uniuersa quod nullis mouebatur iniuriis, nullis offensis laedi
-                posse <lb/>uidebatur, nec <sic>uillius</sic> rei facilius quam inimicitiarum obliuiscebatur.
-                Flocci<lb/>pendebat aemulos quoscumque et nullam in rem pronior quam in supplicium ueniam
-                <lb/>uidebatur, tantumque ab omni ulciscendi ardore aberat ut inimicis suis bene<lb/>facere
-                gauderet. Nihil in se fictum, nihil subdolum aut simulatum esse <lb/>uolebat, nec
-                quicquam magis detestabatur quam mentitam probitatem. Mali quip<lb/>pe et iniqui hominis
-                esse dicebat meliorem se <sic>fortis</sic> ostendere quam
-                gerere domi, <lb/>proborum autem uirorum esse non simulatione, sed integritate uiros
-                superare. </p>
-            <p n="p5"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> Sane munificentiae liberalitatisque eius largitatem quis est qui igno<lb/>ret nisi
-                qui illa uti uel noluerit uel nescierit? Ea ipse ita flagrabat ut <lb/>illos etiam,
-                quibus iustis de causis aliquando irascebatur, muneribus tamen ornare <lb/>non cessaret.
-                Non semel neque solus interfui, cum quosdam familiarium me<lb/>rito
-                obiurgasset, deinde uestimentis et magistratu donauit. Et cum aliquando <lb/>a magistro
-                domus suae, in cuius diligentissima fidissimaque cura merito con<lb/>quiescebat, liberius
-                argueretur quod nimia <sic>indulgenti et a</sic> largitate domesticos <lb/>faceret
-                insolentiores, <sic n="sic">placenda</sic> uoce respondit: Tuum est familiares meos pro
-                <lb/>neglecto officio corrigere, meum autem <supplied resp="#viaf6913774">pro</supplied>
-                illorum in me amore congruis praemiis <pb n="3v"/><lb/>afficere; id faciendo uterque nostrum suo munere optime fructus erit. O prae<lb/>claram
-                uocem, o sententiam summo principe dignam; nec impunitatem errato<lb/>rum laudauit, nec
-                liberalitatem suam ullis male merentium factis occlu<lb/>di passus est. Felices quibus
-                illa perfrui licuit, et nunc omnium infortuna<lb/>tissimos quibus tam crudeli fato erepta
-                est. Quingentos ferme pasce<lb/>bat familiares,
-                partim illustri, partim nobili, omnes honesto loco natos: <lb/>praelatos, milites,
-                doctores, oratores, poetas, aut alicui alii ho<lb/>nestae arti
-                deditos; nullis tantorum sumptibus, nullis grauabatur impen<lb/>sis. Hospitem enim sese
-                omnium honestorum uirorum esse dicebat, quod ipsa uerita<lb/>te erat uerius. Nam si quis
-                diligentius rem ipsam consideret, comperiet pro<lb/>culdubio
-                omnes cardinalium domos nihil aliud esse quam honesta
-                hospi<lb/>tia, in quae proborum uirorum liberis uel necessitatis uel bonorum morum gratia
-                <lb/>diuersari licet. </p>
-            <p n="p6"> <pc unit="para" force="strong" pre="true">¶</pc> Accipiebat praeterea munera, non auaritiae, sed hono<lb/>ris <sic>comparandique</sic> <sic>beniuolentiae</sic>
-                gratia, quibus tamen in acceptandis ea lege uteba<lb/>tur
-                ut multo ampliora rependeret quam acciperet. Testes sunt omnes qui <lb/>hac officiorum
-                uicissitudine cum eo decertare uoluerunt. Complures in <lb/>hoc coetu astare non dubito
-                qui me uera praedicare nouerunt, et qui post ac<lb/>ceptos ab eo non paruos honores multa
-                insuper dona tulerunt. </p>
-            <p n="p7"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> Vidi illum quodam uesperi non sine graui stomacho
-                lacrimis suffu<lb/>sum oculos <sic>te</sic> cum multa indignatione deum optimum maximumque testem
-                <lb/>citare atque, cum nemo cogeret minimeque ea re opus esset, dirissima quaeque in se
-                ca<lb/>putque suum impetrantem si ullas pecunias aut ulla Symoniacae perfidiae <sic>prae<lb/>mis</sic>
-                abs quoquam eorum accepisset qui nuper in hunc
-                sacrosanctum senatum <lb/>apostolicum lecti noscuntur, seque ab <sic>infidiis</sic> atque malignis
-                impie ac flagi<lb/>tiose eius criminis insimulari persancte iurabat. Angi eum uehementer et <lb/>summis animi cruciatibus
-                torqueri uideres quod sibi, ut dicebat, per detra<lb/>hentium liuorem non liceret in
-                uiros praestantes <sic>ab</sic> bene meritos officiosum <lb/>esse. </p>
-            <p n="p8"> <pc unit="para" force="strong" pre="true">¶</pc> Vbi nunc sunt rubiginosa illa <sic>maliuolorum</sic> pectora, ubi
-                sunt <lb/>dirissimo felle manantia praecordia, ubi rabidorum canum
-                pestiferi den<lb/>tes, qui inexpiabili temeritate ausi sunt os suum in caelo ponere et
-                uica<lb/>rii Christi <sic>fratrumque</sic> eius tam excellentissimorum patrum
-                factum damnare atque il<lb/>los praestantissimos uiros, qui
-                prius a domino electi sunt a quo sunt omnium re<lb/>gnorum potestates, quam a summo
-                pontifice declarati, perditissima audacia lace<pb n="4r"/><lb/>rare! Caue, caue tibi, lingua dolosa,
-                ne deus destruat te in finem, euel<lb/>let te, et emigret
-                te de tabernaculo tuo, et radicem tuam de terra uiuen<lb/>tium. Sed haec illi
-                uiderunt qui fecerunt linguam suam nouaculam acutam, et se<lb/>dentes aduersus fratrem suum tota die concinnabant dolos.
-                Sed haec illi uide<lb/>runt; nos interea reliquas Petri uirtutes, non quibus debemus, sed
-                quibus pos<lb/>sumus, laudibus persequamur. Itaque, ut
-                propositus ordo postulat, nunc ipsius <lb/>prudentiam contemplemur, quamuis eius
-                excellentia iam per ea, quae narrauimus, ma<lb/>gna ex parte potuit esse manifesta.
-                Quamobrem tantum eam partem attingam qua ita <lb/>sese inter principes christianos gessit
-                ut, cum unius erga eum <sic>beniuolentiam</sic> <lb/>consideres, credas ab aliis
-                minime dilectum.</p>
-            <p n="p9"> Lex quippe amicitiae ita habet <lb/>ut amicos inimicorum
-                minime diligamus; hic tamen sua prudentia consecutus est <lb/>ut aeque carus omnibus
-                haberetur, nec ullus esset qui eius amicitiam ultro non ex<lb/>peteret, et adeptam
-                studiis omnibus non coleret atque foueret. </p>
-            <p n="p10"> Ostendit id <lb/>nouissima haec ipsius legatio in qua omnes Italiae
-                populi singulique ipsorum princi<lb/>pes summis decertarunt studiis quisnam eum
-                amplioribus honoribus exciperet <lb/>et prosequeretur, illeque se
-                uicisse <!-- 12; pb BLC5a27 -->putabat qui plurima in eum ornamenta contulisset. <lb/>In
-                quibus acceptandis adeo prudens temperamentum inibat ut, cum omnium communis <lb/>esset
-                amicus, singuli tamen sibi eum uendicasse putabant. Vnde sua illi negotia <lb/>credebant,
-                et rerum omnium summam fidei ipsius ultro committebant. Fallebat <lb/>neminem, et
-                communem rem gerendo singulorum tamen uidebatur aduocatus. Secede<lb/>bat bis terque per
-                diem in cubiculum aut in aliquem secretiorem locum in quo <lb/>ad multam horam
-                deambulando summas reipublicae christianae rationes tacitus <lb/>secum computabat; totas
-                enim animi uires, postquam a legatione redierat, in pacem <lb/>Italiae et perfidi hostis
-                Christiani exitum intenderat, id unum <sic>muliebatur</sic>, id pa<lb/>rabat, illuc
-                omnia sua studia conuerterat, fecissetque uotis satis ni eum no<lb/>bis haec dira atque
-                crudelis mors tam repente praeripuisset. </p>
-            <p n="p11"> Vincebat in<lb/>genio humana consilia, et tantum
-                grauioribus reipublicae curis natus uidebatur; <lb/>haec erat praecipua eius uoluptas, a
-                qua nullis aliis oblectamentis poterat <lb/>diuelli, huius delectabatur gustu, huius
-                solius escis pascebatur. Omnium sa<lb/>luti die noctuque inseruiebat, et tamen a
-                nonnullis negligentiae <sic>accusabantur</sic>, <lb/>quem
-                tanquam superbum difficilemque ingrati criminabantur cum tamen et mitissimus <lb/>esset
-                et facillimus. Nouit hoc tantus domesticorum eius numerus, norunt <lb/>amici et alii
-                omnes qui eius familiaritate usi fuerunt, quibus semper, cum per pu<pb n="4v"/><lb/>blicas licuisset
-                curas, placidum sese exhibebat, affabilem, comem, beni<lb/>gnum, ut socium crederes, non
-                dominum. </p>
-            <p n="p12"> Tanta uero animi moderatione erat ut <lb/>irasceretur perraro, iratus
-                autem extemplo animum ad tranquillitatem reuocaret. <lb/>De nullo obloquebatur,
-                detrahebat nemini, et, nisi familiarium suorum, alio<lb/>rum uitae
-                minime erat curiosus. Maximum eius <sic>conuitium</sic> putabatur si quem,
-                <lb/>quod tamen parcissime fiebat, per iocum aliquo urbanitatis sale respersisset. </p>
-            <p n="p13"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> Cibi uinique moderatissimi, somnolentiae nullius, immo uero peruigil, et <lb/>qui
-                multis <sic>quottidie</sic> horis auroram solitus esset
-                praeoccupare, quod totum tem<lb/>pus usque ad solis exortum <sic>grouioribus</sic> reipublicae cogitationibus impendere
-                con<lb/>sueuerat; quae tales menti eius assidue obuersabantur, quales mortalium animis
-                <lb/>uix illabi posse putares. In cognatos ac necessarios nequaquam prodigus, immo
-                <lb/>uero maxime parcus, excepto hoc piissimo fratre comite Hieronymo; 
-                <lb/>quem quoniam ab inclito duce Mediolani <sic>connubia</sic>
-                filiae dignatum cernebat, uo<lb/>luit fraterna munificentia
-                illustrare. Qua in re tale temperamentum adhi<lb/>buit ut id cum ingenti honore ac laude
-                sedis apostolicae contingeret. Vrbem <lb/>enim Imolam, quae iam praefecti eius culpa ad
-                alios deuenerat, quadraginta milibus du<lb/>catorum de propriis facultatibus redemptam
-                imperio<!-- Imperio izd; imperio BLC5a27 --> ecclesiae restituit. Cuius 
-                <lb/>exaugendi tanto flagrabat studio ut ne minimam quidem eius particulam de<lb/>perire pateretur. Vnde
-                urbem illam magis ecclesiae quam fratris gratia uoluit <lb/>uendicare. </p>
-            <p n="p14"> <pc unit="para" force="strong" pre="true">¶</pc> Porro iustitiam ipsius ex illo spectare licet quod in tanta re<lb/>rum potestate
-                constitutus nemini uim attulit, nullum uiolenter oppressit. Vnde <lb/>et uicario illi
-                Imolae , quamuis de ecclesia male merito, non solum uictum, <lb/>sed
-                nihil prioribus minores fortunas dari curauit.
-                Quattuordecim enim milia <lb/>ducatorum accepit,
-                <sic>hec</sic> opulentissimum
-                oppidum Bosti, ex quo et aliis a <lb/>duce adiectis prediis plus quam quinque milia
-                ducatorum quotannis capere <lb/>poterit, neque Imolam nisi eo uolente redimere uoluit.
-                Magistratus horta<lb/>batur ius suum absque ullo respectu cuique administrare. Et licet
-                nonnumquam do<lb/>mesticorum amicorumque euictus precibus aut litteris aut nuntiis multos iu<lb/>dicibus commendaret,
-                id tamen <sic>circa</sic> cuiusque iniuriam fieri uolebat. Vnde <lb/>et cum <sic>o</sic> gubernatore urbis
-                aliquando interrogaretur quidnam de illis, qui <sic>in iu<lb/>stam</sic> causam fouentes tamen ipsius
-                nomine commendabantur, Illud inquit ut iustitiam me<lb/>arum precum gratia minime <sic>uiolet</sic> nec secus
-                feceris etiam si te germanus meus <lb/><sic>Hironimus</sic> nomine meo aliud precabitur. Hoc
-                ipsum et senatori urbis <pb n="5r"/><lb/>interrogatus respondit, hoc gubernatoribus, hoc praefectis,
-                hoc omnibus le<lb/>gationis suae iudicibus saepe mandabat. Dicebat enim se amicis operam
-                su<lb/>am rogantibus negare non posse, sed illius causa non nisi iustum hone<lb/>stumque fieri
-                permaxime uelle. Hinc et rescripta non nisi sanctissima facie<lb/>bat,
-                <sic>adque</sic> ne cui ministrorum peccandi daretur occasio,
-                omnium decretorum suo<lb/>rum, similiter et litterarum, exemplaria apud notarios extare iusserat. Huius prae<lb/>clarissimae uirtutis nec moriens
-                obliuisci potuit; nam cum hortaretur ab ami<lb/>cis testamentum condere, Nihil, inquit, meum habeo,
-                omnia sunt ecclesiae. Supplica<lb/>bitis tamen meo nomine summo pontifici ut aes
-                alienum, cuius maiorem partem pro <lb/>redimendis ecclesiae rebus contraxi, pro sua
-                    benignitate dissoluat.
+                </quote><pc>.</pc> </p>
+            <p n="p4"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> <w>Petrus</w> <w>igitur</w> <w>per</w> <w>hunc</w> <w>modum</w> <w>in</w> <w>principatu</w> <w>constitutus</w> <w>qui</w> <w>solet</w> <w>ui<lb/>ros</w>
+                <w>ostendere</w><pc>,</pc> <w>talem</w> <w>sese</w> <w>exhibuit</w> <w>qualem</w> <w>uix</w> <w>optare</w> <w>poteramus</w><pc>,</pc> <w>non</w> <w>spe<lb/>rare</w><pc>.</pc> <w>Assumpsit</w>
+                <w>enim</w> <w>cum</w> <w>sublimi</w> <w>magistratu</w> <w>sublimes</w> <w>animos</w> <w>et</w> <w>spiritus</w> <w>tanti</w> <lb/><w>imperii</w> <w>maiestate</w>
+                <w>dignos</w><pc>,</pc> <w>simulque</w> <w>cum</w> <w>eis</w> <w>magnanimitatem</w><pc>,</pc> <w>clementiam</w><pc>,</pc> <lb/><w>munificentiam</w><pc>,</pc> <w>et</w> <w>caeteras</w><pc>,</pc>
+                <surplus>prius</surplus> <w>quas</w> <w>prius</w> <w>commemorauimus</w><pc>,</pc>
+                <w>imperantium</w> <w>uir<lb/>tutes</w><pc>;</pc> <w>quibus</w> <w>et</w> <w>ausus</w> <w>est</w> <w>cum</w>
+                <w>regibus</w> <w>et</w> <w>principibus</w> <w>magna</w> <w>gloria</w> <w>non</w> <w>se<lb/>gnius</w> <w>contendere</w> <w>quam</w> <w>si</w> <w>in</w> <w>illis</w> <w>natus</w>
+                <w>educatusque</w> <w>fuisset</w><pc>,</pc> <w>ut</w> <w>coepta</w> <w>eius</w> <lb/><w>declarant</w> <w>aedificia</w><pc>,</pc> <w>totque</w> <w>magnificentissimo</w>
+                <w>cultu</w> <w>celebrata</w> <w>conuiuia</w><pc>,</pc> <w>et</w> <sic><w>sup<lb/>pllex</w></sic> 
+                <w>imperialibus</w> <w>fastibus</w> <w>digna</w><pc>.</pc> <w>Turpe</w> <w>enim</w> <w>et</w> <w>indecorum</w> <w>merito</w> <w>duce<lb/>bat</w> <w>in</w> <w>hoc</w>
+                <w>totius</w> <w>orbis</w> <w>capite</w><pc>,</pc> <w>in</w> <w>hac</w> <w>prima</w> <w>Christianae</w> <w>religionis</w> <w>sede</w><pc>,</pc> <lb/><w>ad</w> <w>quam</w> <w>adorandam</w>
+                <w>imperatores</w><pc>,</pc> <w>reges</w><pc>,</pc> <w>et</w> <w>cuncti</w> <w>ferme</w> <w>principes</w> <w>terrarum</w> <pb n="3r"/><lb/><w>uentitare</w> <w>solent</w><pc>,</pc> <w>non</w> <w>talem</w>
+                <w>esse</w> <w>suppellectilem</w><pc>,</pc> <w>non</w> <w>talia</w> <sic><w>ortare</w></sic>
+                <sic><w>pallacis</w></sic><pc>,</pc> <w>qui<lb/>bus</w> <w>eos</w> <w>summus</w> <w>pontifex</w> <w>et</w> <w>suscipere</w> <w>honorifice</w>
+                <w>posset</w> <w>et</w> <w>pro</w> <w>sua</w> <w>ipsorumque</w> <lb/><w>dignitate</w> <w>splendide</w> <w>honorare</w><pc>.</pc> <w>Vnde</w> <w>et</w> <w>in</w> <w>hos</w> <w>usus</w> <w>omnia</w>
+                <w>illa</w> <w>se</w> <w>comparare</w> <lb/><w>affirmabat</w><pc>,</pc> <w>nec</w> <w>sibi</w><pc>,</pc> <w>sed</w> <w>summis</w> <w>pontificibus</w><pc>,</pc> <w>quicquid</w>
+                <w>praeparabat</w><pc>,</pc> <w>compone<lb/>re</w><pc>.</pc> <w>Affluebant</w> <w>quotidie</w> <w>opes</w> <w>et</w> <w>ab</w> <w>omnibus</w> <w>ferme</w> <w>Christianis</w>
+                <w>principibus</w> <w>ma<lb/>gni</w> <w>prouentus</w> <w>ultro</w> <w>offerebantur</w><pc>;</pc> <w>quos</w> <w>licet</w> <w>ipse</w> <w>in</w> <w>illos</w><pc>,</pc> <w>quos</w>
+                <w>dixi<lb/>mus</w><pc>,</pc> <w>acceptaret</w> <w>usus</w><pc>,</pc> <w>prophetici</w> <w>tamen</w> <w>documenti</w> <w>memor</w> <w>minime</w> <w>ad</w> <w>ea</w> <lb/><w>cor</w>
+                <w>apponebat</w> <w>neque</w> <w>illis</w> <w>auaro</w> <w>deuincebatur</w> <w>affectu</w><pc>.</pc> <w>Hinc</w> <w>est</w> <w>quod</w> <w>nec</w> <lb/><w>sciebat</w>
+                <w>numerum</w> <w>nec</w> <w>omnino</w> <w>quid</w> <w>haberet</w> <w>aut</w> <w>quid</w> <w>impenderet</w> <w>nosse</w>
+                <sic><w>ua<lb/>lebat</w></sic><pc>;</pc> <w>nullas</w> <w>a</w> <w>ministris</w> <w>impensarum</w>
+                <w>exigebat</w> <w>rationes</w><pc>,</pc> <w>nulla</w> <sic><w>comput</w></sic> <w>exi<lb/>gere</w>
+                <w>uolebat</w><pc>.</pc> <w>Iactura</w> <w>rerum</w> <w>ea</w> <w>dumtaxat</w> <w>mouebatur</w> <w>quae</w> <w>negligentia</w> <lb/><w>contigisset</w><pc>,</pc> <w>culpam</w>
+                <w>magis</w> <w>dolens</w> <w>quam</w> <w>damnum</w><pc>.</pc> <w>A</w> <w>suscepto</w> <w>semel</w> <w>nego<lb/>tio</w> <w>nullo</w> <w>metu</w> <w>absterreri</w> <w>potuerat</w><pc>,</pc>
+                <w>nullo</w> <w>periculo</w> <w>depelli</w><pc>.</pc> <w>Verax</w> <w>in</w> <lb/><w>sermone</w><pc>,</pc> <w>in</w> <sic><w>faco</w></sic> <w>fidelis</w><pc>,</pc> <w>in</w> <w>proposito</w> <w>constans</w><pc>,</pc> <w>in</w> <w>peragendo</w>
+                <w>strenuus</w><pc>,</pc> <lb/><w>secretorum</w>
+                <w>tenacissimus</w><pc>,</pc> <w>et</w> <w>promissorum</w> <w>firmissimus</w> <w>obseruator</w><pc>.</pc> <w>Insignia</w>
+                <lb/><sic><w>hic</w></sic> <w>sunt</w> <w>magnanimitatis</w> <w>eius</w> <w>testimonia</w><pc>.</pc> <w>Sed</w> <w>illud</w> <w>mea</w>
+                <w>sententia</w> <w>uin<lb/>cit</w> <w>uniuersa</w> <w>quod</w> <w>nullis</w> <w>mouebatur</w> <w>iniuriis</w><pc>,</pc> <w>nullis</w> <w>offensis</w> <w>laedi</w>
+                <w>posse</w> <lb/><w>uidebatur</w><pc>,</pc> <w>nec</w> <sic><w>uillius</w></sic> <w>rei</w> <w>facilius</w> <w>quam</w> <w>inimicitiarum</w> <w>obliuiscebatur</w><pc>.</pc>
+                <w>Flocci<lb/>pendebat</w> <w>aemulos</w> <w>quoscumque</w> <w>et</w> <w>nullam</w> <w>in</w> <w>rem</w> <w>pronior</w> <w>quam</w> <w>in</w> <w>supplicium</w> <w>ueniam</w>
+                <lb/><w>uidebatur</w><pc>,</pc> <w>tantumque</w> <w>ab</w> <w>omni</w> <w>ulciscendi</w> <w>ardore</w> <w>aberat</w> <w>ut</w> <w>inimicis</w> <w>suis</w> <w>bene<lb/>facere</w>
+                <w>gauderet</w><pc>.</pc> <w>Nihil</w> <w>in</w> <w>se</w> <w>fictum</w><pc>,</pc> <w>nihil</w> <w>subdolum</w> <w>aut</w> <w>simulatum</w> <w>esse</w> <lb/><w>uolebat</w><pc>,</pc> <w>nec</w>
+                <w>quicquam</w> <w>magis</w> <w>detestabatur</w> <w>quam</w> <w>mentitam</w> <w>probitatem</w><pc>.</pc> <w>Mali</w> <w>quip<lb/>pe</w> <w>et</w> <w>iniqui</w> <w>hominis</w>
+                <w>esse</w> <w>dicebat</w> <w>meliorem</w> <w>se</w> <sic><w>fortis</w></sic> <w>ostendere</w> <w>quam</w>
+                <w>gerere</w> <w>domi</w><pc>,</pc> <lb/><w>proborum</w> <w>autem</w> <w>uirorum</w> <w>esse</w> <w>non</w> <w>simulatione</w><pc>,</pc> <w>sed</w> <w>integritate</w> <w>uiros</w>
+                <w>superare</w><pc>.</pc> </p>
+            <p n="p5"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> <w>Sane</w> <w>munificentiae</w> <w>liberalitatisque</w> <w>eius</w> <w>largitatem</w> <w>quis</w> <w>est</w> <w>qui</w> <w>igno<lb/>ret</w> <w>nisi</w>
+                <w>qui</w> <w>illa</w> <w>uti</w> <w>uel</w> <w>noluerit</w> <w>uel</w> <w>nescierit</w><pc>?</pc> <w>Ea</w> <w>ipse</w> <w>ita</w> <w>flagrabat</w> <w>ut</w> <lb/><w>illos</w> <w>etiam</w><pc>,</pc>
+                <w>quibus</w> <w>iustis</w> <w>de</w> <w>causis</w> <w>aliquando</w> <w>irascebatur</w><pc>,</pc> <w>muneribus</w> <w>tamen</w> <w>ornare</w> <lb/><w>non</w> <w>cessaret</w><pc>.</pc>
+                <w>Non</w> <w>semel</w> <w>neque</w> <w>solus</w> <w>interfui</w><pc>,</pc> <w>cum</w> <w>quosdam</w> <w>familiarium</w> <w>me<lb/>rito</w>
+                <w>obiurgasset</w><pc>,</pc> <w>deinde</w> <w>uestimentis</w> <w>et</w> <w>magistratu</w> <w>donauit</w><pc>.</pc> <w>Et</w> <w>cum</w> <w>aliquando</w> <lb/><w>a</w> <w>magistro</w>
+                <w>domus</w> <w>suae</w><pc>,</pc> <w>in</w> <w>cuius</w> <w>diligentissima</w> <w>fidissimaque</w> <w>cura</w> <w>merito</w> <w>con<lb/>quiescebat</w><pc>,</pc> <w>liberius</w>
+                <w>argueretur</w> <w>quod</w> <w>nimia</w> <sic><w>indulgenti</w> <w>et</w> <w>a</w></sic> <w>largitate</w> <w>domesticos</w> <lb/><w>faceret</w>
+                <w>insolentiores</w><pc>,</pc> <sic><w>placenda</w></sic> <w>uoce</w> <w>respondit</w><pc>:</pc> <w>Tuum</w> <w>est</w> <w>familiares</w> <w>meos</w> <w>pro</w>
+                <lb/><w>neglecto</w> <w>officio</w> <w>corrigere</w><pc>,</pc> <w>meum</w> <w>autem</w> <supplied resp="#viaf6913774">pro</supplied>
+                <w>illorum</w> <w>in</w> <w>me</w> <w>amore</w> <w>congruis</w> <w>praemiis</w> <pb n="3v"/><lb/><w>afficere</w><pc>;</pc> <w>id</w> <w>faciendo</w> <w>uterque</w> <w>nostrum</w> <w>suo</w> <w>munere</w> <w>optime</w> <w>fructus</w> <w>erit</w><pc>.</pc> <w>O</w> <w>prae<lb/>claram</w>
+                <w>uocem</w><pc>,</pc> <w>o</w> <w>sententiam</w> <w>summo</w> <w>principe</w> <w>dignam</w><pc>;</pc> <w>nec</w> <w>impunitatem</w> <w>errato<lb/>rum</w> <w>laudauit</w><pc>,</pc> <w>nec</w>
+                <w>liberalitatem</w> <w>suam</w> <w>ullis</w> <w>male</w> <w>merentium</w> <w>factis</w> <w>occlu<lb/>di</w> <w>passus</w> <w>est</w><pc>.</pc> <w>Felices</w> <w>quibus</w>
+                <w>illa</w> <w>perfrui</w> <w>licuit</w><pc>,</pc> <w>et</w> <w>nunc</w> <w>omnium</w> <w>infortuna<lb/>tissimos</w> <w>quibus</w> <w>tam</w> <w>crudeli</w> <w>fato</w> <w>erepta</w>
+                <w>est</w><pc>.</pc> <w>Quingentos</w> <w>ferme</w> <w>pasce<lb/>bat</w> <w>familiares</w><pc>,</pc>
+                <w>partim</w> <w>illustri</w><pc>,</pc> <w>partim</w> <w>nobili</w><pc>,</pc> <w>omnes</w> <w>honesto</w> <w>loco</w> <w>natos</w><pc>:</pc> <lb/><w>praelatos</w><pc>,</pc> <w>milites</w><pc>,</pc>
+                <w>doctores</w><pc>,</pc> <w>oratores</w><pc>,</pc> <w>poetas</w><pc>,</pc> <w>aut</w> <w>alicui</w> <w>alii</w> <w>ho<lb/>nestae</w> <w>arti</w>
+                <w>deditos</w><pc>;</pc> <w>nullis</w> <w>tantorum</w> <w>sumptibus</w><pc>,</pc> <w>nullis</w> <w>grauabatur</w> <w>impen<lb/>sis</w><pc>.</pc> <w>Hospitem</w> <w>enim</w> <w>sese</w>
+                <w>omnium</w> <w>honestorum</w> <w>uirorum</w> <w>esse</w> <w>dicebat</w><pc>,</pc> <w>quod</w> <w>ipsa</w> <w>uerita<lb/>te</w> <w>erat</w> <w>uerius</w><pc>.</pc> <w>Nam</w> <w>si</w> <w>quis</w>
+                <w>diligentius</w> <w>rem</w> <w>ipsam</w> <w>consideret</w><pc>,</pc> <w>comperiet</w> <w>pro<lb/>culdubio</w>
+                <w>omnes</w> <w>cardinalium</w> <w>domos</w> <w>nihil</w> <w>aliud</w> <w>esse</w> <w>quam</w> <w>honesta</w>
+                <w>hospi<lb/>tia</w><pc>,</pc> <w>in</w> <w>quae</w> <w>proborum</w> <w>uirorum</w> <w>liberis</w> <w>uel</w> <w>necessitatis</w> <w>uel</w> <w>bonorum</w> <w>morum</w> <w>gratia</w>
+                <lb/><w>diuersari</w> <w>licet</w><pc>.</pc> </p>
+            <p n="p6"> <pc unit="para" force="strong" pre="true">¶</pc> <w>Accipiebat</w> <w>praeterea</w> <w>munera</w><pc>,</pc> <w>non</w> <w>auaritiae</w><pc>,</pc> <w>sed</w> <w>hono<lb/>ris</w> <sic><w>comparandique</w></sic> <sic><w>beniuolentiae</w></sic>
+                <w>gratia</w><pc>,</pc> <w>quibus</w> <w>tamen</w> <w>in</w> <w>acceptandis</w> <w>ea</w> <w>lege</w> <w>uteba<lb/>tur</w>
+                <w>ut</w> <w>multo</w> <w>ampliora</w> <w>rependeret</w> <w>quam</w> <w>acciperet</w><pc>.</pc> <w>Testes</w> <w>sunt</w> <w>omnes</w> <w>qui</w> <lb/><w>hac</w> <w>officiorum</w>
+                <w>uicissitudine</w> <w>cum</w> <w>eo</w> <w>decertare</w> <w>uoluerunt</w><pc>.</pc> <w>Complures</w> <w>in</w> <lb/><w>hoc</w> <w>coetu</w> <w>astare</w> <w>non</w> <w>dubito</w>
+                <w>qui</w> <w>me</w> <w>uera</w> <w>praedicare</w> <w>nouerunt</w><pc>,</pc> <w>et</w> <w>qui</w> <w>post</w> <w>ac<lb/>ceptos</w> <w>ab</w> <w>eo</w> <w>non</w> <w>paruos</w> <w>honores</w> <w>multa</w>
+                <w>insuper</w> <w>dona</w> <w>tulerunt</w><pc>.</pc> </p>
+            <p n="p7"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> <w>Vidi</w> <w>illum</w> <w>quodam</w> <w>uesperi</w> <w>non</w> <w>sine</w> <w>graui</w> <w>stomacho</w>
+                <w>lacrimis</w> <w>suffu<lb/>sum</w> <w>oculos</w> <sic><w>te</w></sic> <w>cum</w> <w>multa</w> <w>indignatione</w> <w>deum</w> <w>optimum</w> <w>maximumque</w> <w>testem</w>
+                <lb/><w>citare</w> <w>atque</w><pc>,</pc> <w>cum</w> <w>nemo</w> <w>cogeret</w> <w>minimeque</w> <w>ea</w> <w>re</w> <w>opus</w> <w>esset</w><pc>,</pc> <w>dirissima</w> <w>quaeque</w> <w>in</w> <w>se</w>
+                <w>ca<lb/>putque</w> <w>suum</w> <w>impetrantem</w> <w>si</w> <w>ullas</w> <w>pecunias</w> <w>aut</w> <w>ulla</w> <w>Symoniacae</w> <w>perfidiae</w> <sic><w>prae<lb/>mis</w></sic>
+                <w>abs</w> <w>quoquam</w> <w>eorum</w> <w>accepisset</w> <w>qui</w> <w>nuper</w> <w>in</w> <w>hunc</w>
+                <w>sacrosanctum</w> <w>senatum</w> <lb/><w>apostolicum</w> <w>lecti</w> <w>noscuntur</w><pc>,</pc> <w>seque</w> <w>ab</w> <sic><w>infidiis</w></sic> <w>atque</w> <w>malignis</w>
+                <w>impie</w> <w>ac</w> <w>flagi<lb/>tiose</w> <w>eius</w> <w>criminis</w> <w>insimulari</w> <w>persancte</w> <w>iurabat</w><pc>.</pc> <w>Angi</w> <w>eum</w> <w>uehementer</w> <w>et</w> <lb/><w>summis</w> <w>animi</w> <w>cruciatibus</w>
+                <w>torqueri</w> <w>uideres</w> <w>quod</w> <w>sibi</w><pc>,</pc> <w>ut</w> <w>dicebat</w><pc>,</pc> <w>per</w> <w>detra<lb/>hentium</w> <w>liuorem</w> <w>non</w> <w>liceret</w> <w>in</w>
+                <w>uiros</w> <w>praestantes</w> <sic><w>ab</w></sic> <w>bene</w> <w>meritos</w> <w>officiosum</w> <lb/><w>esse</w><pc>.</pc> </p>
+            <p n="p8"> <pc unit="para" force="strong" pre="true">¶</pc> <w>Vbi</w> <w>nunc</w> <w>sunt</w> <w>rubiginosa</w> <w>illa</w> <sic><w>maliuolorum</w></sic> <w>pectora</w><pc>,</pc> <w>ubi</w>
+                <w>sunt</w> <lb/><w>dirissimo</w> <w>felle</w> <w>manantia</w> <w>praecordia</w><pc>,</pc> <w>ubi</w> <w>rabidorum</w> <w>canum</w>
+                <w>pestiferi</w> <w>den<lb/>tes</w><pc>,</pc> <w>qui</w> <w>inexpiabili</w> <w>temeritate</w> <w>ausi</w> <w>sunt</w> <w>os</w> <w>suum</w> <w>in</w> <w>caelo</w> <w>ponere</w> <w>et</w>
+                <w>uica<lb/>rii</w> <w>Christi</w> <sic><w>fratrumque</w></sic> <w>eius</w> <w>tam</w> <w>excellentissimorum</w> <w>patrum</w>
+                <w>factum</w> <w>damnare</w> <w>atque</w> <w>il<lb/>los</w> <w>praestantissimos</w> <w>uiros</w><pc>,</pc> <w>qui</w>
+                <w>prius</w> <w>a</w> <w>domino</w> <w>electi</w> <w>sunt</w> <w>a</w> <w>quo</w> <w>sunt</w> <w>omnium</w> <w>re<lb/>gnorum</w> <w>potestates</w><pc>,</pc> <w>quam</w> <w>a</w> <w>summo</w>
+                <w>pontifice</w> <w>declarati</w><pc>,</pc> <w>perditissima</w> <w>audacia</w> <w>lace</w><pb n="4r"/><lb/><w>rare</w><pc>!</pc> <w>Caue</w><pc>,</pc> <w>caue</w> <w>tibi</w><pc>,</pc> <w>lingua</w> <w>dolosa</w><pc>,</pc>
+                <w>ne</w> <w>deus</w> <w>destruat</w> <w>te</w> <w>in</w> <w>finem</w><pc>,</pc> <w>euel<lb/>let</w> <w>te</w><pc>,</pc> <w>et</w> <w>emigret</w>
+                <w>te</w> <w>de</w> <w>tabernaculo</w> <w>tuo</w><pc>,</pc> <w>et</w> <w>radicem</w> <w>tuam</w> <w>de</w> <w>terra</w> <w>uiuen<lb/>tium</w><pc>.</pc> <w>Sed</w> <w>haec</w> <w>illi</w>
+                <w>uiderunt</w> <w>qui</w> <w>fecerunt</w> <w>linguam</w> <w>suam</w> <w>nouaculam</w> <w>acutam</w><pc>,</pc> <w>et</w> <w>se<lb/>dentes</w> <w>aduersus</w> <w>fratrem</w> <w>suum</w> <w>tota</w> <w>die</w> <w>concinnabant</w> <w>dolos</w><pc>.</pc>
+                <w>Sed</w> <w>haec</w> <w>illi</w> <w>uide<lb/>runt</w><pc>;</pc> <w>nos</w> <w>interea</w> <w>reliquas</w> <w>Petri</w> <w>uirtutes</w><pc>,</pc> <w>non</w> <w>quibus</w> <w>debemus</w><pc>,</pc> <w>sed</w>
+                <w>quibus</w> <w>pos<lb/>sumus</w><pc>,</pc> <w>laudibus</w> <w>persequamur</w><pc>.</pc> <w>Itaque</w><pc>,</pc> <w>ut</w>
+                <w>propositus</w> <w>ordo</w> <w>postulat</w><pc>,</pc> <w>nunc</w> <w>ipsius</w> <lb/><w>prudentiam</w> <w>contemplemur</w><pc>,</pc> <w>quamuis</w> <w>eius</w>
+                <w>excellentia</w> <w>iam</w> <w>per</w> <w>ea</w><pc>,</pc> <w>quae</w> <w>narrauimus</w><pc>,</pc> <w>ma<lb/>gna</w> <w>ex</w> <w>parte</w> <w>potuit</w> <w>esse</w> <w>manifesta</w><pc>.</pc>
+                <w>Quamobrem</w> <w>tantum</w> <w>eam</w> <w>partem</w> <w>attingam</w> <w>qua</w> <w>ita</w> <lb/><w>sese</w> <w>inter</w> <w>principes</w> <w>christianos</w> <w>gessit</w>
+                <w>ut</w><pc>,</pc> <w>cum</w> <w>unius</w> <w>erga</w> <w>eum</w> <sic><w>beniuolentiam</w></sic> <lb/><w>consideres</w><pc>,</pc> <w>credas</w> <w>ab</w> <w>aliis</w>
+                <w>minime</w> <w>dilectum</w><pc>.</pc></p>
+            <p n="p9"> <w>Lex</w> <w>quippe</w> <w>amicitiae</w> <w>ita</w> <w>habet</w> <lb/><w>ut</w> <w>amicos</w> <w>inimicorum</w>
+                <w>minime</w> <w>diligamus</w><pc>;</pc> <w>hic</w> <w>tamen</w> <w>sua</w> <w>prudentia</w> <w>consecutus</w> <w>est</w> <lb/><w>ut</w> <w>aeque</w> <w>carus</w> <w>omnibus</w>
+                <w>haberetur</w><pc>,</pc> <w>nec</w> <w>ullus</w> <w>esset</w> <w>qui</w> <w>eius</w> <w>amicitiam</w> <w>ultro</w> <w>non</w> <w>ex<lb/>peteret</w><pc>,</pc> <w>et</w> <w>adeptam</w>
+                <w>studiis</w> <w>omnibus</w> <w>non</w> <w>coleret</w> <w>atque</w> <w>foueret</w><pc>.</pc> </p>
+            <p n="p10"> <w>Ostendit</w> <w>id</w> <lb/><w>nouissima</w> <w>haec</w> <w>ipsius</w> <w>legatio</w> <w>in</w> <w>qua</w> <w>omnes</w> <w>Italiae</w>
+                <w>populi</w> <w>singulique</w> <w>ipsorum</w> <w>princi<lb/>pes</w> <w>summis</w> <w>decertarunt</w> <w>studiis</w> <w>quisnam</w> <w>eum</w>
+                <w>amplioribus</w> <w>honoribus</w> <w>exciperet</w> <lb/><w>et</w> <w>prosequeretur</w><pc>,</pc> <w>illeque</w> <w>se</w>
+                <w>uicisse</w> <!-- 12; pb BLC5a27 --><w>putabat</w> <w>qui</w> <w>plurima</w> <w>in</w> <w>eum</w> <w>ornamenta</w> <w>contulisset</w><pc>.</pc> <lb/><w>In</w>
+                <w>quibus</w> <w>acceptandis</w> <w>adeo</w> <w>prudens</w> <w>temperamentum</w> <w>inibat</w> <w>ut</w><pc>,</pc> <w>cum</w> <w>omnium</w> <w>communis</w> <lb/><w>esset</w>
+                <w>amicus</w><pc>,</pc> <w>singuli</w> <w>tamen</w> <w>sibi</w> <w>eum</w> <w>uendicasse</w> <w>putabant</w><pc>.</pc> <w>Vnde</w> <w>sua</w> <w>illi</w> <w>negotia</w> <lb/><w>credebant</w><pc>,</pc>
+                <w>et</w> <w>rerum</w> <w>omnium</w> <w>summam</w> <w>fidei</w> <w>ipsius</w> <w>ultro</w> <w>committebant</w><pc>.</pc> <w>Fallebat</w> <lb/><w>neminem</w><pc>,</pc> <w>et</w>
+                <w>communem</w> <w>rem</w> <w>gerendo</w> <w>singulorum</w> <w>tamen</w> <w>uidebatur</w> <w>aduocatus</w><pc>.</pc> <w>Secede<lb/>bat</w> <w>bis</w> <w>terque</w> <w>per</w>
+                <w>diem</w> <w>in</w> <w>cubiculum</w> <w>aut</w> <w>in</w> <w>aliquem</w> <w>secretiorem</w> <w>locum</w> <w>in</w> <w>quo</w> <lb/><w>ad</w> <w>multam</w> <w>horam</w>
+                <w>deambulando</w> <w>summas</w> <w>reipublicae</w> <w>christianae</w> <w>rationes</w> <w>tacitus</w> <lb/><w>secum</w> <w>computabat</w><pc>;</pc> <w>totas</w>
+                <w>enim</w> <w>animi</w> <w>uires</w><pc>,</pc> <w>postquam</w> <w>a</w> <w>legatione</w> <w>redierat</w><pc>,</pc> <w>in</w> <w>pacem</w> <lb/><w>Italiae</w> <w>et</w> <w>perfidi</w> <w>hostis</w>
+                <w>Christiani</w> <w>exitum</w> <w>intenderat</w><pc>,</pc> <w>id</w> <w>unum</w> <sic><w>muliebatur</w></sic><pc>,</pc> <w>id</w> <w>pa<lb/>rabat</w><pc>,</pc> <w>illuc</w>
+                <w>omnia</w> <w>sua</w> <w>studia</w> <w>conuerterat</w><pc>,</pc> <w>fecissetque</w> <w>uotis</w> <w>satis</w> <w>ni</w> <w>eum</w> <w>no<lb/>bis</w> <w>haec</w> <w>dira</w> <w>atque</w>
+                <w>crudelis</w> <w>mors</w> <w>tam</w> <w>repente</w> <w>praeripuisset</w><pc>.</pc> </p>
+            <p n="p11"> <w>Vincebat</w> <w>in<lb/>genio</w> <w>humana</w> <w>consilia</w><pc>,</pc> <w>et</w> <w>tantum</w>
+                <w>grauioribus</w> <w>reipublicae</w> <w>curis</w> <w>natus</w> <w>uidebatur</w><pc>;</pc> <lb/><w>haec</w> <w>erat</w> <w>praecipua</w> <w>eius</w> <w>uoluptas</w><pc>,</pc> <w>a</w>
+                <w>qua</w> <w>nullis</w> <w>aliis</w> <w>oblectamentis</w> <w>poterat</w> <lb/><w>diuelli</w><pc>,</pc> <w>huius</w> <w>delectabatur</w> <w>gustu</w><pc>,</pc> <w>huius</w>
+                <w>solius</w> <w>escis</w> <w>pascebatur</w><pc>.</pc> <w>Omnium</w> <w>sa<lb/>luti</w> <w>die</w> <w>noctuque</w> <w>inseruiebat</w><pc>,</pc> <w>et</w> <w>tamen</w> <w>a</w>
+                <w>nonnullis</w> <w>negligentiae</w> <sic><w>accusabantur</w></sic><pc>,</pc> <lb/><w>quem</w>
+                <w>tanquam</w> <w>superbum</w> <w>difficilemque</w> <w>ingrati</w> <w>criminabantur</w> <w>cum</w> <w>tamen</w> <w>et</w> <w>mitissimus</w> <lb/><w>esset</w>
+                <w>et</w> <w>facillimus</w><pc>.</pc> <w>Nouit</w> <w>hoc</w> <w>tantus</w> <w>domesticorum</w> <w>eius</w> <w>numerus</w><pc>,</pc> <w>norunt</w> <lb/><w>amici</w> <w>et</w> <w>alii</w>
+                <w>omnes</w> <w>qui</w> <w>eius</w> <w>familiaritate</w> <w>usi</w> <w>fuerunt</w><pc>,</pc> <w>quibus</w> <w>semper</w><pc>,</pc> <w>cum</w> <w>per</w> <w>pu</w><pb n="4v"/><lb/><w>blicas</w> <w>licuisset</w>
+                <w>curas</w><pc>,</pc> <w>placidum</w> <w>sese</w> <w>exhibebat</w><pc>,</pc> <w>affabilem</w><pc>,</pc> <w>comem</w><pc>,</pc> <w>beni<lb/>gnum</w><pc>,</pc> <w>ut</w> <w>socium</w> <w>crederes</w><pc>,</pc> <w>non</w>
+                <w>dominum</w><pc>.</pc> </p>
+            <p n="p12"> <w>Tanta</w> <w>uero</w> <w>animi</w> <w>moderatione</w> <w>erat</w> <w>ut</w> <lb/><w>irasceretur</w> <w>perraro</w><pc>,</pc> <w>iratus</w>
+                <w>autem</w> <w>extemplo</w> <w>animum</w> <w>ad</w> <w>tranquillitatem</w> <w>reuocaret</w><pc>.</pc> <lb/><w>De</w> <w>nullo</w> <w>obloquebatur</w><pc>,</pc>
+                <w>detrahebat</w> <w>nemini</w><pc>,</pc> <w>et</w><pc>,</pc> <w>nisi</w> <w>familiarium</w> <w>suorum</w><pc>,</pc> <w>alio<lb/>rum</w> <w>uitae</w>
+                <w>minime</w> <w>erat</w> <w>curiosus</w><pc>.</pc> <w>Maximum</w> <w>eius</w> <sic><w>conuitium</w></sic> <w>putabatur</w> <w>si</w> <w>quem</w><pc>,</pc>
+                <lb/><w>quod</w> <w>tamen</w> <w>parcissime</w> <w>fiebat</w><pc>,</pc> <w>per</w> <w>iocum</w> <w>aliquo</w> <w>urbanitatis</w> <w>sale</w> <w>respersisset</w><pc>.</pc> </p>
+            <p n="p13"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> <w>Cibi</w> <w>uinique</w> <w>moderatissimi</w><pc>,</pc> <w>somnolentiae</w> <w>nullius</w><pc>,</pc> <w>immo</w> <w>uero</w> <w>peruigil</w><pc>,</pc> <w>et</w> <lb/><w>qui</w>
+                <w>multis</w> <sic><w>quottidie</w></sic> <w>horis</w> <w>auroram</w> <w>solitus</w> <w>esset</w>
+                <w>praeoccupare</w><pc>,</pc> <w>quod</w> <w>totum</w> <w>tem<lb/>pus</w> <w>usque</w> <w>ad</w> <w>solis</w> <w>exortum</w> <sic><w>grouioribus</w></sic> <w>reipublicae</w> <w>cogitationibus</w> <w>impendere</w>
+                <w>con<lb/>sueuerat</w><pc>;</pc> <w>quae</w> <w>tales</w> <w>menti</w> <w>eius</w> <w>assidue</w> <w>obuersabantur</w><pc>,</pc> <w>quales</w> <w>mortalium</w> <w>animis</w>
+                <lb/><w>uix</w> <w>illabi</w> <w>posse</w> <w>putares</w><pc>.</pc> <w>In</w> <w>cognatos</w> <w>ac</w> <w>necessarios</w> <w>nequaquam</w> <w>prodigus</w><pc>,</pc> <w>immo</w>
+                <lb/><w>uero</w> <w>maxime</w> <w>parcus</w><pc>,</pc> <w>excepto</w> <w>hoc</w> <w>piissimo</w> <w>fratre</w> <w>comite</w> <w>Hieronymo</w><pc>;</pc> 
+                <lb/><w>quem</w> <w>quoniam</w> <w>ab</w> <w>inclito</w> <w>duce</w> <w>Mediolani</w> <sic><w>connubia</w></sic>
+                <w>filiae</w> <w>dignatum</w> <w>cernebat</w><pc>,</pc> <w>uo<lb/>luit</w> <w>fraterna</w> <w>munificentia</w>
+                <w>illustrare</w><pc>.</pc> <w>Qua</w> <w>in</w> <w>re</w> <w>tale</w> <w>temperamentum</w> <w>adhi<lb/>buit</w> <w>ut</w> <w>id</w> <w>cum</w> <w>ingenti</w> <w>honore</w> <w>ac</w> <w>laude</w>
+                <w>sedis</w> <w>apostolicae</w> <w>contingeret</w><pc>.</pc> <w>Vrbem</w> <lb/><w>enim</w> <w>Imolam</w><pc>,</pc> <w>quae</w> <w>iam</w> <w>praefecti</w> <w>eius</w> <w>culpa</w> <w>ad</w>
+                <w>alios</w> <w>deuenerat</w><pc>,</pc> <w>quadraginta</w> <w>milibus</w> <w>du<lb/>catorum</w> <w>de</w> <w>propriis</w> <w>facultatibus</w> <w>redemptam</w>
+                <w>imperio</w><!-- Imperio izd; imperio BLC5a27 --> <w>ecclesiae</w> <w>restituit</w><pc>.</pc> <w>Cuius</w> 
+                <lb/><w>exaugendi</w> <w>tanto</w> <w>flagrabat</w> <w>studio</w> <w>ut</w> <w>ne</w> <w>minimam</w> <w>quidem</w> <w>eius</w> <w>particulam</w> <w>de<lb/>perire</w> <w>pateretur</w><pc>.</pc> <w>Vnde</w>
+                <w>urbem</w> <w>illam</w> <w>magis</w> <w>ecclesiae</w> <w>quam</w> <w>fratris</w> <w>gratia</w> <w>uoluit</w> <lb/><w>uendicare</w><pc>.</pc> </p>
+            <p n="p14"> <pc unit="para" force="strong" pre="true">¶</pc> <w>Porro</w> <w>iustitiam</w> <w>ipsius</w> <w>ex</w> <w>illo</w> <w>spectare</w> <w>licet</w> <w>quod</w> <w>in</w> <w>tanta</w> <w>re<lb/>rum</w> <w>potestate</w>
+                <w>constitutus</w> <w>nemini</w> <w>uim</w> <w>attulit</w><pc>,</pc> <w>nullum</w> <w>uiolenter</w> <w>oppressit</w><pc>.</pc> <w>Vnde</w> <lb/><w>et</w> <w>uicario</w> <w>illi</w>
+                <w>Imolae</w> <pc>,</pc> <w>quamuis</w> <w>de</w> <w>ecclesia</w> <w>male</w> <w>merito</w><pc>,</pc> <w>non</w> <w>solum</w> <w>uictum</w><pc>,</pc> <lb/><w>sed</w>
+                <w>nihil</w> <w>prioribus</w> <w>minores</w> <w>fortunas</w> <w>dari</w> <w>curauit</w><pc>.</pc>
+                <w>Quattuordecim</w> <w>enim</w> <w>milia</w> <lb/><w>ducatorum</w> <w>accepit</w><pc>,</pc>
+                <sic><w>hec</w></sic> <w>opulentissimum</w>
+                <w>oppidum</w> <w>Bosti</w><pc>,</pc> <w>ex</w> <w>quo</w> <w>et</w> <w>aliis</w> <w>a</w> <lb/><w>duce</w> <w>adiectis</w> <w>prediis</w> <w>plus</w> <w>quam</w> <w>quinque</w> <w>milia</w>
+                <w>ducatorum</w> <w>quotannis</w> <w>capere</w> <lb/><w>poterit</w><pc>,</pc> <w>neque</w> <w>Imolam</w> <w>nisi</w> <w>eo</w> <w>uolente</w> <w>redimere</w> <w>uoluit</w><pc>.</pc>
+                <w>Magistratus</w> <w>horta<lb/>batur</w> <w>ius</w> <w>suum</w> <w>absque</w> <w>ullo</w> <w>respectu</w> <w>cuique</w> <w>administrare</w><pc>.</pc> <w>Et</w> <w>licet</w>
+                <w>nonnumquam</w> <w>do<lb/>mesticorum</w> <w>amicorumque</w> <w>euictus</w> <w>precibus</w> <w>aut</w> <w>litteris</w> <w>aut</w> <w>nuntiis</w> <w>multos</w> <w>iu<lb/>dicibus</w> <w>commendaret</w><pc>,</pc>
+                <w>id</w> <w>tamen</w> <sic><w>circa</w></sic> <w>cuiusque</w> <w>iniuriam</w> <w>fieri</w> <w>uolebat</w><pc>.</pc> <w>Vnde</w> <lb/><w>et</w> <w>cum</w> <sic><w>o</w></sic> <w>gubernatore</w> <w>urbis</w>
+                <w>aliquando</w> <w>interrogaretur</w> <w>quidnam</w> <w>de</w> <w>illis</w><pc>,</pc> <w>qui</w> <sic><w>in</w> <w>iu<lb/>stam</w></sic> <w>causam</w> <w>fouentes</w> <w>tamen</w> <w>ipsius</w>
+                <w>nomine</w> <w>commendabantur</w><pc>,</pc> <w>Illud</w> <w>inquit</w> <w>ut</w> <w>iustitiam</w> <w>me<lb/>arum</w> <w>precum</w> <w>gratia</w> <w>minime</w> <sic><w>uiolet</w></sic> <w>nec</w> <w>secus</w>
+                <w>feceris</w> <w>etiam</w> <w>si</w> <w>te</w> <w>germanus</w> <w>meus</w> <lb/><sic><w>Hironimus</w></sic> <w>nomine</w> <w>meo</w> <w>aliud</w> <w>precabitur</w><pc>.</pc> <w>Hoc</w>
+                <w>ipsum</w> <w>et</w> <w>senatori</w> <w>urbis</w> <pb n="5r"/><lb/><w>interrogatus</w> <w>respondit</w><pc>,</pc> <w>hoc</w> <w>gubernatoribus</w><pc>,</pc> <w>hoc</w> <w>praefectis</w><pc>,</pc>
+                <w>hoc</w> <w>omnibus</w> <w>le<lb/>gationis</w> <w>suae</w> <w>iudicibus</w> <w>saepe</w> <w>mandabat</w><pc>.</pc> <w>Dicebat</w> <w>enim</w> <w>se</w> <w>amicis</w> <w>operam</w>
+                <w>su<lb/>am</w> <w>rogantibus</w> <w>negare</w> <w>non</w> <w>posse</w><pc>,</pc> <w>sed</w> <w>illius</w> <w>causa</w> <w>non</w> <w>nisi</w> <w>iustum</w> <w>hone<lb/>stumque</w> <w>fieri</w>
+                <w>permaxime</w> <w>uelle</w><pc>.</pc> <w>Hinc</w> <w>et</w> <w>rescripta</w> <w>non</w> <w>nisi</w> <w>sanctissima</w> <w>facie<lb/>bat</w><pc>,</pc>
+                <sic><w>adque</w></sic> <w>ne</w> <w>cui</w> <w>ministrorum</w> <w>peccandi</w> <w>daretur</w> <w>occasio</w><pc>,</pc>
+                <w>omnium</w> <w>decretorum</w> <w>suo<lb/>rum</w><pc>,</pc> <w>similiter</w> <w>et</w> <w>litterarum</w><pc>,</pc> <w>exemplaria</w> <w>apud</w> <w>notarios</w> <w>extare</w> <w>iusserat</w><pc>.</pc> <w>Huius</w> <w>prae<lb/>clarissimae</w> <w>uirtutis</w> <w>nec</w> <w>moriens</w>
+                <w>obliuisci</w> <w>potuit</w><pc>;</pc> <w>nam</w> <w>cum</w> <w>hortaretur</w> <w>ab</w> <w>ami<lb/>cis</w> <w>testamentum</w> <w>condere</w><pc>,</pc> <w>Nihil</w><pc>,</pc> <w>inquit</w><pc>,</pc> <w>meum</w> <w>habeo</w><pc>,</pc>
+                <w>omnia</w> <w>sunt</w> <w>ecclesiae</w><pc>.</pc> <w>Supplica<lb/>bitis</w> <w>tamen</w> <w>meo</w> <w>nomine</w> <w>summo</w> <w>pontifici</w> <w>ut</w> <w>aes</w>
+                <w>alienum</w><pc>,</pc> <w>cuius</w> <w>maiorem</w> <w>partem</w> <w>pro</w> <lb/><w>redimendis</w> <w>ecclesiae</w> <w>rebus</w> <w>contraxi</w><pc>,</pc> <w>pro</w> <w>sua</w>
+                    <w>benignitate</w> <w>dissoluat</w><pc>.</pc>
             </p>
-            <p n="p15"> Cogor <lb/>hoc loco potissimas eius praetermittere
-                laudes, cum temporis exclusus angustia, <lb/>tum ipsarum rerum multitudine superatus.
-                Qualem se erga amicos, qualem erga <lb/>parentes, et praesertim
-                qualem erga ipsum summum pontificem gesserit, malo haec <lb/><sic>omnis</sic>
-                in aliud tempus differre quam adeo felicem  meritorum ipsius copiam pauca <lb/>dicendo uitiare. Illud unum dicam, cunctis, qui eius
-                consuetudinem noue<lb/>runt, attestantibus nullum fuisse tam piissimum filium, nullum
-                adeo parenti <lb/>deditum, aut cui maior et salutis et honoris genitoris sui cura fuit,
-                <lb/>quam huic uni summi pontificis nostri a prima eius familiaritatis die usque ad
-                <lb/>ultimum uitae exitum; nullos pro eo recusauit subire labores, nulla pe<lb/>ricula
-                deuitauit; laborantem, aegrotantem, peregrinantem nunquam deseruit, <lb/>nunquam ab
-                <sic>offico</sic> decessit, semperque ut datus a domino Tobiae angelus lateri <lb/>haesit, aduersa
-                procurauit, accersiuit prospera, pia sedulitate fouit, co<lb/>luit, ueneratus est, ut
-                nemini mirum uideri debeat si aut uiuentem tan<lb/>tum dilexit, aut nunc mortui desiderio
-                adeo moueatur. </p>
-            <p n="p16"> <pc unit="para" force="strong" pre="true">¶</pc> Finem dicendi <lb/>faciam si prius illud summum eius pietatis munus
-                paucis explicaue<lb/>ro. Compositis rebus suis totam mentem ad illud conuerterat ut
-                dicere cum <lb/>psalmista libere posset: Domine, dilexi decorem domus tuae et gloriam habi<lb/>tationis tuae.
+            <p n="p15"> <w>Cogor</w> <lb/><w>hoc</w> <w>loco</w> <w>potissimas</w> <w>eius</w> <w>praetermittere</w>
+                <w>laudes</w><pc>,</pc> <w>cum</w> <w>temporis</w> <w>exclusus</w> <w>angustia</w><pc>,</pc> <lb/><w>tum</w> <w>ipsarum</w> <w>rerum</w> <w>multitudine</w> <w>superatus</w><pc>.</pc>
+                <w>Qualem</w> <w>se</w> <w>erga</w> <w>amicos</w><pc>,</pc> <w>qualem</w> <w>erga</w> <lb/><w>parentes</w><pc>,</pc> <w>et</w> <w>praesertim</w>
+                <w>qualem</w> <w>erga</w> <w>ipsum</w> <w>summum</w> <w>pontificem</w> <w>gesserit</w><pc>,</pc> <w>malo</w> <w>haec</w> <lb/><sic><w>omnis</w></sic>
+                <w>in</w> <w>aliud</w> <w>tempus</w> <w>differre</w> <w>quam</w> <w>adeo</w> <w>felicem</w>  <w>meritorum</w> <w>ipsius</w> <w>copiam</w> <w>pauca</w> <lb/><w>dicendo</w> <w>uitiare</w><pc>.</pc> <w>Illud</w> <w>unum</w> <w>dicam</w><pc>,</pc> <w>cunctis</w><pc>,</pc> <w>qui</w> <w>eius</w>
+                <w>consuetudinem</w> <w>noue<lb/>runt</w><pc>,</pc> <w>attestantibus</w> <w>nullum</w> <w>fuisse</w> <w>tam</w> <w>piissimum</w> <w>filium</w><pc>,</pc> <w>nullum</w>
+                <w>adeo</w> <w>parenti</w> <lb/><w>deditum</w><pc>,</pc> <w>aut</w> <w>cui</w> <w>maior</w> <w>et</w> <w>salutis</w> <w>et</w> <w>honoris</w> <w>genitoris</w> <w>sui</w> <w>cura</w> <w>fuit</w><pc>,</pc>
+                <lb/><w>quam</w> <w>huic</w> <w>uni</w> <w>summi</w> <w>pontificis</w> <w>nostri</w> <w>a</w> <w>prima</w> <w>eius</w> <w>familiaritatis</w> <w>die</w> <w>usque</w> <w>ad</w>
+                <lb/><w>ultimum</w> <w>uitae</w> <w>exitum</w><pc>;</pc> <w>nullos</w> <w>pro</w> <w>eo</w> <w>recusauit</w> <w>subire</w> <w>labores</w><pc>,</pc> <w>nulla</w> <w>pe<lb/>ricula</w>
+                <w>deuitauit</w><pc>;</pc> <w>laborantem</w><pc>,</pc> <w>aegrotantem</w><pc>,</pc> <w>peregrinantem</w> <w>nunquam</w> <w>deseruit</w><pc>,</pc> <lb/><w>nunquam</w> <w>ab</w>
+                <sic><w>offico</w></sic> <w>decessit</w><pc>,</pc> <w>semperque</w> <w>ut</w> <w>datus</w> <w>a</w> <w>domino</w> <w>Tobiae</w> <w>angelus</w> <w>lateri</w> <lb/><w>haesit</w><pc>,</pc> <w>aduersa</w>
+                <w>procurauit</w><pc>,</pc> <w>accersiuit</w> <w>prospera</w><pc>,</pc> <w>pia</w> <w>sedulitate</w> <w>fouit</w><pc>,</pc> <w>co<lb/>luit</w><pc>,</pc> <w>ueneratus</w> <w>est</w><pc>,</pc> <w>ut</w>
+                <w>nemini</w> <w>mirum</w> <w>uideri</w> <w>debeat</w> <w>si</w> <w>aut</w> <w>uiuentem</w> <w>tan<lb/>tum</w> <w>dilexit</w><pc>,</pc> <w>aut</w> <w>nunc</w> <w>mortui</w> <w>desiderio</w>
+                <w>adeo</w> <w>moueatur</w><pc>.</pc> </p>
+            <p n="p16"> <pc unit="para" force="strong" pre="true">¶</pc> <w>Finem</w> <w>dicendi</w> <lb/><w>faciam</w> <w>si</w> <w>prius</w> <w>illud</w> <w>summum</w> <w>eius</w> <w>pietatis</w> <w>munus</w>
+                <w>paucis</w> <w>explicaue<lb/>ro</w><pc>.</pc> <w>Compositis</w> <w>rebus</w> <w>suis</w> <w>totam</w> <w>mentem</w> <w>ad</w> <w>illud</w> <w>conuerterat</w> <w>ut</w>
+                <w>dicere</w> <w>cum</w> <lb/><w>psalmista</w> <w>libere</w> <w>posset</w><pc>:</pc> <w>Domine</w><pc>,</pc> <w>dilexi</w> <w>decorem</w> <w>domus</w> <w>tuae</w> <w>et</w> <w>gloriam</w> <w>habi<lb/>tationis</w> <w>tuae</w><pc>.</pc>
             </p>
-            <p n="p17"> <pc unit="para" force="strong" pre="true">¶</pc> Proinde non <sic>cessat</sic> ecclesias suae
-                curae commendatas colla<lb/>psas erigere, exornare deformes; praedia <sic>occupata s</sic> uendicare, bona pri<lb/>orum rectorum distracta negligentia
-                propriis pecuniis recuperare; uestimen<lb/>ta, libros, <sic>uaso</sic> sacra, et caetera ad splendorem
-                diuini cultus spectantia ma<lb/>ximis sumptibus coemere, et, quam prestantiora haberi
-                poterant, comparare. Te<lb/>statur hanc eius munificentiam in hac
-                Romana urbe diui Gregorii tem<pb n="1v"/><lb/>plum et prouentibus optime auctum et aedificiis perquam
-                magnifice instauratum; testatur Taruixii <!-- BL18645; Taruisii BL27527 --> maior
-                basilica non paruis <!-- paruis BLC5a27, BL17814, BL27527; parua BL18645, izd -->
-                ditata uectigalibus, et diuino cultu maxime illustrata; testatur Mediolani Ambrosii
-                monasterium quod, cum accepisset omnibus ornamentis spoliatum, tam praeclara
-                instruxit suppellectili ut, quod prius caeteris illius urbis obscurius esse
-                consueuerat, nunc splendore et omnifario apparatu uincat uniuersa. Testatur Papie
-                Maioli fanum <!-- phanum BLC5a27, BL27527, BL18645 --> in quo ne unum quidem
-                uasculum in sacrificium reperit, libros autem prorsus nullos, adeo ut, quotiens
-                diuina res patranda erat, opus esset ab aliis sacris aedibus omnia mutuari; nunc
-                tanta cum omnium, tum praecipue
-                libellorum,<!-- libellor- BL18645; librorum BLC5a27, BL27527; libroru- BL17814, ja -->
-                calicum, ac uestimentorum copia abundat <!-- habundat BL17814, BL18645 --> ut aliae
-                ecclesiae mutuum, quod prestare solebant, ab hac una omnes accipiant. Huius eiusdem
-                <!-- eiusdem BLC5a27; eisdem BL27527, BL18645 --> fani
-                <!-- phani BLC5a27, BL27527, BL18645 --> distracta praedia multis laboribus, sed
-                multo maioribus impensis omnia recuperauit et intra biennium plus quam decem milia
-                ducatorum pro exaugendis rebus eius <!-- eius om. BL18645 --> exposuit. Haec quoque
-                sacra apostolorum aedes beneficentiam eius testari potuisset si tantum quatuor
-                mensibus superstitem uidisset. Iam enim decreuerat et aedificiis et prouentibus hac
-                proxima aestate <!-- 17, BLC5a27 --> ita eam instruere ut quinquaginta fratribus et
-                commodae <!-- commode BLC5a27, BL18645 --> mansiones et necessarius uictus perpetuo
-                suppetere posset. Insuper et bibliothecam his proximis diebus adiecturus erat
-                praestantissimis omnium scientiarum libris egregiae refertam. Sed dei uoluntate
-                nobis tam repente ademptus est, non quod tam piis operibus non delectaretur deus,
-                uerum (quod ualde pertimesco) ut eum calamitatibus, quibus forsan in nostra crimina
-                desaeuire decreuit, immeritum subtraheret, et pro adimpleto bene
-                ministerio<!-- misterio BL18645 -->, cuius gratia
-                <!-- gracia BL18645; gratia BL27527; gra- BL17814 --> eum procreauerat, congruis
-                praemiis afficere non differret. Cuius miserationis dilectionisque certa indicia in
-                ipsius uidimus morte; quam, cum multis ante diebus aduentare praesentiret,
-                intrepidus tamen expectauit. Languoris <!-- languor BL27527, languoris BL18645 -->
-                dolores mira patientia <!-- pacie-tia BL17814, patientia BL27527, BL18645 -->
-                pertulit. Delicta, quae uel aetatis uel fortunae uitio pro fragilitate humana
-                contraxerat, pia confessione saepius diligentiusque purgauit, et munitus
-                <!-- minutus BLC5a27; minut- BL18645; munitus BL17814, BL27527 --> caelesti uiatico,
-                quod summa cum deuotione <!-- douotio-e BL18645 --> acceperat, diuinam
-                <!-- dinina- BL18645 --> uoluntatem accinctus praestolabatur. </p>
-            <p n="p18"> Iamque uicinus morti domesticos ac familiares accersiri iubet, quibus presto
-                exsistentibus in nullos prorupit fletus, nullis
-                <!-- nullis BLC5a27, BL17814, BL27527; multis BL18645, izd
---> mundanarum
-                cupiditatum desideriis <!-- deside/ pb BL18645 --> ingemuit, non deum, non fortunam
-                accusauit, nec se in medio iuuentutis flore ex tanto imperio et ex talibus
-                operibus<!-- opib- BLC5a27, BL17814, BL27527; opibus ja; operib- BL18645 -->
-                subtrahi uel leuiter indoluit; quin magno constantique pectore <q n="q1">Sentio,</q>
-                inquit, <q n="q2">filii fratresque mei, manum domini super me<!-- 18, pb BLC5a27 -->
-                    aggrauari; uolens
-                    <!--
-uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
-                    lubensque eius presto sum uoluntati, eo quidem libentior quo me et fame et
-                    gloriae meae satis uixisse scio. Cepi <!-- Cepi BL17814, BL27527, BL18645 -->
-                    enim illum ex hac mortalitate fructum quem maximum mea fortuna capere potuit.
-                    Maius restabat
-                    nihil,<!-- nichil BLC5a27; nichil 1; nihil BL18645, BL17814, BL27527 izd -->
-                    quicquid supererat, merito mihi suspectum metuendumque fuisset. Proinde
-                    <!-- Proinde BL17814, BL27527; Proind- BLC5a27; Prouide BL18645, plannck -->
-                    licet <quote n="q3a" xml:id="quote5">cupiam dissolui et esse cum Christo, uror
-                        tamen sola uestrarum rerum cura</quote>. Cognosco enim me tenuem uobis
-                    mercedem pro meritis exhibuisse
-                    <!-- exhibuisse BL17814, BL27527; exipuisse BL18645 -->, tametsi nunquam mihi
-                    uoluntas defuerit, sed facultas. Et nisi tanta temporis angustia prohibitus
-                    fuissem, nullus uestrum meae gratitudinis uices doleret. Meritum, quod potui,
-                    moriens uobis persolui. Supplicaui <!-- Supplicauit BL17814 --> summo pontifici
-                    ut beneficia, quae in me contulerat, sua clementia inter uos partiatur, ut et
-                    uos meritorum uestrorum et me non prestiti officii minus
-                    paeniteat.<!-- peniteat BLC5a27, BL17814, BL27527, pe-iteat BL18645; consecutio? -->
-                    Ad haec compellit me et uehementius urget mea erga uos incredibilis caritas ut
-                    uos horter atque obtester ne huius mundi illecebris atque lenociniis animum
-                    uestrum inducatis, neue in luxu ac inanibus
-                    <!-- inanibus BLC5a27, BL17814, in-/anibus BL27527; manib- BL18645; manibus izd -->
-                    eius diuitiis <!-- diuiciis BLC5a27, BL17814, BL27527; diuitijs BL18645 --> spem
-                    ullam ponatis; quae quam fluxae <!-- fluxe BLC5a27; fluxe BL18645, BL27527 -->
-                    quamque fallaces sint, ego unus uobis maximo possum esse documento. Credite
-                    quoniam <quote n="q4a" xml:id="quote6">puluis et umbra sumus</quote> et non hic,
-                    sed alibi permanentes habemus mansiones; ubi nihil corruptibile, nihil caducum
-                    esse potest, sed omnia incorruptibilia, omnia sempiterna. Proinde date operam
-                    probitati, et uirtuti totis uiribus incumbite. Colite pietatem et
-                    <!-- et BLC5a27, BL17814, BL27527; et om. plannck; , BL18645 -->integritati
-                    nihil anteponite, scientes unicuique uestrum propositam esse a domino laborum
-                    suorum mercedem; quae etiam si nulla esset, hoc tamen<!-- 19; pb BLC5a27 -->
-                    ipsum pie <!-- pię BLC5a27; pie BL18645, BL17814 -->et sancte uixisse maxima
-                    uiro bono merces esse debet, quippe cuius beneficio homines a brutis
-                    secernuntur, et nomen suum sempiternae
-                    <!-- sempiterne BL18645, BL17814, BL27527 --> consecrant
-                    <!-- co-secrant BL17814; consecrauit BL18645;  --> immortalitati.</q>
+            <p n="p17"> <pc unit="para" force="strong" pre="true">¶</pc> <w>Proinde</w> <w>non</w> <sic><w>cessat</w></sic> <w>ecclesias</w> <w>suae</w>
+                <w>curae</w> <w>commendatas</w> <w>colla<lb/>psas</w> <w>erigere</w><pc>,</pc> <w>exornare</w> <w>deformes</w><pc>;</pc> <w>praedia</w> <sic><w>occupata</w> <w>s</w></sic> <w>uendicare</w><pc>,</pc> <w>bona</w> <w>pri<lb/>orum</w> <w>rectorum</w> <w>distracta</w> <w>negligentia</w>
+                <w>propriis</w> <w>pecuniis</w> <w>recuperare</w><pc>;</pc> <w>uestimen<lb/>ta</w><pc>,</pc> <w>libros</w><pc>,</pc> <sic><w>uaso</w></sic> <w>sacra</w><pc>,</pc> <w>et</w> <w>caetera</w> <w>ad</w> <w>splendorem</w>
+                <w>diuini</w> <w>cultus</w> <w>spectantia</w> <w>ma<lb/>ximis</w> <w>sumptibus</w> <w>coemere</w><pc>,</pc> <w>et</w><pc>,</pc> <w>quam</w> <w>prestantiora</w> <w>haberi</w>
+                <w>poterant</w><pc>,</pc> <w>comparare</w><pc>.</pc> <w>Te<lb/>statur</w> <w>hanc</w> <w>eius</w> <w>munificentiam</w> <w>in</w> <w>hac</w>
+                <w>Romana</w> <w>urbe</w> <w>diui</w> <w>Gregorii</w> <w>tem</w><pb n="5v"/><lb/><w>plum</w> <w>et</w> <w>prouentibus</w> <w>optime</w> <w>auctum</w> <w>et</w> <w>aedificiis</w> <w>perquam</w>
+                <w>magnifice</w> <w>instauratum</w><pc>;</pc> <lb/><w>testatur</w> <sic><w>Taruixit</w></sic> <w>maior</w>
+                <w>basilica</w> <w>non</w> <sic><w>parua</w></sic> <w>ditata</w> <w>uectigalibus</w><pc>,</pc> <w>et</w> <w>diui<lb/>no</w> <w>cultu</w> <w>maxime</w> <w>illustrata</w><pc>;</pc> <w>testatur</w> <w>Mediolani</w> <w>Ambrosii</w>
+                <w>monaste<lb/>rium</w> <w>quod</w><pc>,</pc> <w>cum</w> <w>accepisset</w> <w>omnibus</w> <w>ornamentis</w> <w>spoliatum</w><pc>,</pc> <w>tam</w> <w>praeclara</w>
+                <w>instru<lb/>xit</w> <w>suppellectili</w> <w>ut</w><pc>,</pc> <w>quod</w> <w>prius</w> <w>caeteris</w> <w>illius</w> <w>urbis</w> <w>obscurius</w> <w>esse</w>
+                <w>con<lb/>sueuerat</w><pc>,</pc> <w>nunc</w> <w>splendore</w> <w>et</w> <w>omnifario</w> <w>apparatu</w> <w>uincat</w> <w>uniuersa</w><pc>.</pc> <w>Testatur</w> <lb/><w>Papie</w>
+                <w>Maioli</w> <sic><w>phanum</w></sic> <w>in</w> <w>quo</w> <w>ne</w> <w>unum</w> <w>quidem</w>
+                <w>uasculum</w> <w>in</w> <w>sacrificium</w> <w>re<lb/>perit</w><pc>,</pc> <w>libros</w> <w>autem</w> <w>prorsus</w> <w>nullos</w><pc>,</pc> <w>adeo</w> <w>ut</w><pc>,</pc> <w>quotiens</w>
+                <w>diuina</w> <w>res</w> <w>patran<lb/>da</w> <w>erat</w><pc>,</pc> <w>opus</w> <w>esset</w> <w>ab</w> <w>aliis</w> <w>sacris</w> <w>aedibus</w> <w>omnia</w> <w>mutuari</w><pc>;</pc> <w>nunc</w>
+                <w>tanta</w> <lb/><w>cum</w> <w>omnium</w><pc>,</pc> <w>tum</w> <w>praecipue</w> <w>libellorum</w><pc>,</pc> <w>calicum</w><pc>,</pc> <w>ac</w> <w>uestimentorum</w> <w>copia</w> <sic><w>habundat</w></sic> 
+                <lb/><w>ut</w> <w>aliae</w>
+                <w>ecclesiae</w> <w>mutuum</w><pc>,</pc> <w>quod</w> <w>prestare</w> <w>solebant</w><pc>,</pc> <w>ab</w> <w>hac</w> <w>una</w> <w>omnes</w> <w>accipi<lb/>ant</w><pc>.</pc> <w>Huius</w> <sic><w>eisdem</w></sic> <sic><w>phani</w></sic> 
+                <w>distracta</w> <w>praedia</w> <w>multis</w> <w>laboribus</w><pc>,</pc> <w>sed</w>
+                <w>multo</w> <lb/> <sic><w>maicabus</w></sic> <w>impensis</w> <w>omnia</w> <w>recuperauit</w> <w>et</w> <w>intra</w> <w>biennium</w> <w>plus</w> <w>quam</w> <w>decem</w> <lb/><w>milia</w>
+                <w>ducatorum</w> <w>pro</w> <w>exaugendis</w> <w>rebus</w> <supplied resp="#viaf6913774">eius</supplied> <w>exposuit</w><pc>.</pc> <w>Haec</w> <w>quoque</w>
+                <w>sacra</w> <w>apostolo<lb/>rum</w> <w>aedes</w> <w>beneficentiam</w> <w>eius</w> <w>testari</w> <w>potuisset</w> <w>si</w> <w>tantum</w> <w>quatuor</w>
+                <w>mensi<lb/>bus</w> <w>superstitem</w> <w>uidisset</w><pc>.</pc> <w>Iam</w> <w>enim</w> <w>decreuerat</w> <w>et</w> <w>aedificiis</w> <w>et</w> <w>prouentibus</w> <lb/><w>hac</w>
+                <w>proxima</w> <w>aestate</w> <w>ita</w> <w>eam</w> <w>instruere</w> <w>ut</w> <w>quinquaginta</w> <w>fratribus</w> <w>et</w>
+                <w>commo<lb/>dae</w> <w>mansiones</w> <w>et</w> <w>necessarius</w> <w>uictus</w> <w>perpetuo</w>
+                <w>suppetere</w> <w>posset</w><pc>.</pc> <w>Insuper</w> <w>et</w> <lb/><w>bibliothecam</w> <w>his</w> <w>proximis</w> <w>diebus</w> <w>adiecturus</w> <w>erat</w>
+                <w>praestantissimis</w> <w>omnium</w> <lb/><w>scientiarum</w> <w>libris</w> <w>egregie</w> <w>refertam</w><pc>.</pc> <w>Sed</w> <w>dei</w> <w>uoluntate</w>
+                <w>nobis</w> <w>tam</w> <w>repente</w> <lb/><sic><w>adeptus</w></sic> <w>est</w><pc>,</pc> <w>non</w> <w>quod</w> <w>tam</w> <w>piis</w> <w>operibus</w> <w>non</w> <w>delectaretur</w> <w>deus</w><pc>,</pc>
+                <w>uerum</w> <lb/><pc>(</pc><w>quod</w> <w>ualde</w> <w>pertimesco</w><pc>)</pc> <w>ut</w> <w>eum</w> <w>calamitatibus</w><pc>,</pc> <w>quibus</w> <w>forsan</w> <w>in</w> <w>nostra</w> <lb/><w>crimina</w>
+                <w>desaeuire</w> <w>decreuit</w><pc>,</pc> <w>immeritum</w> <w>subtraheret</w><pc>,</pc> <w>et</w> <w>pro</w> <w>adimple<lb/>to</w> <w>bene</w>
+                <sic><w>misterio</w></sic><pc>,</pc> <w>cuius</w> <w>gratia</w> <w>eum</w> <w>procreauerat</w><pc>,</pc> <w>congruis</w>
+                <w>praemiis</w> <w>af<lb/>ficere</w> <w>non</w> <w>differret</w><pc>.</pc> <w>Cuius</w> <w>miserationis</w> <w>dilectionisque</w> <w>certa</w> <w>indicia</w> <sic><w>iam</w></sic>
+                <w>ipsi<lb/>us</w> <w>uidimus</w> <w>morte</w><pc>;</pc> <w>quam</w><pc>,</pc> <w>cum</w> <w>multis</w> <w>ante</w> <w>diebus</w> <w>aduentare</w> <w>praesentiret</w><pc>,</pc>
+                <w>in<lb/>trepidus</w> <w>tamen</w> <w>expectauit</w><pc>.</pc> <w>Languoris</w> 
+                <w>dolores</w> <w>mira</w> <w>patientia</w> <w>per<lb/>tulit</w><pc>.</pc> <w>Delicta</w><pc>,</pc> <w>quae</w> <w>uel</w> <w>aetatis</w> <w>uel</w> <w>fortunae</w> <w>uitio</w> <w>pro</w> <w>fragilitate</w> <w>hu<lb/>mana</w>
+                <w>contraxerat</w><pc>,</pc> <w>pia</w> <w>confessione</w> <w>saepius</w> <w>diligentiusque</w> <w>purgauit</w><pc>,</pc> <lb/><w>et</w> <sic><w>minutus</w></sic> <w>caelesti</w> <w>uiatico</w><pc>,</pc>
+                <w>quod</w> <w>summa</w> <w>cum</w> <sic><w>douotione</w></sic> <w>acceperat</w><pc>,</pc> <w>di<lb/>uinam</w>
+                <w>uoluntatem</w> <w>accinctus</w> <w>praestolabatur</w><pc>.</pc> </p>
+            <p n="p18"> <pc unit="para" force="strong" pre="true">¶</pc> <sic><w>Ianque</w></sic> <w>uicinus</w> <w>morti</w> <w>do<lb/>mesticos</w> <w>ac</w> <w>familiares</w> <w>accersiri</w> <w>iubet</w><pc>,</pc> <w>quibus</w> <w>presto</w>
+                <sic><w>existentibus</w></sic> <lb/><w>in</w> <w>nullos</w> <w>prorupit</w> <w>fletus</w><pc>,</pc> <sic><w>multis</w></sic> <w>mundanarum</w>
+                <w>cupiditatum</w> <w>deside<lb/>riis</w> <pb n="6r"/><lb/><w>ingemuit</w><pc>,</pc> <w>non</w> <w>deum</w><pc>,</pc> <w>non</w> <w>fortunam</w>
+                <w>accusauit</w><pc>,</pc> <w>nec</w> <w>se</w> <w>in</w> <w>medio</w> <w>iu<lb/>uentutis</w> <w>flore</w> <w>ex</w> <w>tanto</w> <w>imperio</w> <w>et</w> <w>ex</w> <w>talibus</w>
+                <w>operibus</w> <w>subtrahi</w> <w>uel</w> <w>leui<lb/>ter</w> <w>indoluit</w><pc>;</pc> <w>quin</w> <w>magno</w> <w>constantique</w> <w>pectore</w> <w>Sentio</w><pc>,</pc>
+                <w>inquit</w><pc>,</pc> <lb/><w>filii</w> <w>fratresque</w> <w>mei</w><pc>,</pc> <w>manum</w> <w>domini</w> <w>super</w> <w>me</w> <w>aggrauari</w><pc>;</pc> <sic><w>nolens</w></sic> 
+                <w>lubensque</w> <w>eius</w> <lb/><w>presto</w> <w>sum</w> <w>uoluntati</w><pc>,</pc> <w>eo</w> <w>quidem</w> <w>libentior</w> <w>quo</w> <w>me</w> <w>et</w> <w>famae</w> <w>et</w>
+                <w>gloriae</w> <w>meae</w> <lb/><w>satis</w> <w>uixisse</w> <w>scio</w><pc>.</pc> <w>Cepi</w> <w>enim</w> <w>illum</w> <w>ex</w> <w>hac</w> <w>mortalitate</w> <w>fructum</w> 
+                <w>quem</w> <w>ma<lb/>ximum</w> <w>mea</w> <w>fortuna</w> <w>capere</w> <w>potuit</w><pc>.</pc> <w>Maius</w> <w>restabat</w> <w>nihil</w><pc>,</pc>
+                <w>quicquid</w> <w>su<lb/>pererat</w><pc>,</pc> <w>merito</w> <w>mihi</w> <w>suspectum</w> <w>metuendumque</w> <w>fuisset</w><pc>.</pc> <sic><w>Prouide</w></sic> 
+                <w>licet</w> <w>cu<lb/>piam</w> <w>dissolui</w> <w>et</w> <w>esse</w> <w>cum</w> <w>Christo</w><pc>,</pc> <w>uror</w>
+                <w>tamen</w> <w>sola</w> <w>uestrarum</w> <w>rerum</w> <w>cura</w><pc>.</pc> <w>Cognosco</w> <lb/><w>enim</w> <w>me</w> <w>tenuem</w> <w>uobis</w>
+                <w>mercedem</w> <w>pro</w> <w>meritis</w> <sic><w>exipuisse</w></sic><pc>,</pc> <w>tametsi</w> <w>nunquam</w> <w>mi<lb/>hi</w>
+                <w>uoluntas</w> <w>defuerit</w><pc>,</pc> <w>sed</w> <w>facultas</w><pc>.</pc> <w>Et</w> <w>nisi</w> <w>tanta</w> <w>temporis</w> <w>angustia</w> <w>prohi<lb/>bitus</w>
+                <w>fuissem</w><pc>,</pc> <w>nullus</w> <w>uestrum</w> <w>meae</w> <w>gratitudinis</w> <w>uices</w> <w>doleret</w><pc>.</pc> <w>Meritum</w><pc>,</pc> <lb/><w>quod</w> <w>potui</w><pc>,</pc>
+                <w>moriens</w> <w>uobis</w> <w>persolui</w><pc>.</pc> <w>Supplicaui</w> <w>summo</w> <w>pontifici</w>
+                <w>ut</w> <w>benefi<lb/>cia</w><pc>,</pc> <w>quae</w> <w>in</w> <w>me</w> <w>contulerat</w><pc>,</pc> <w>sua</w> <w>clementia</w> <w>inter</w> <w>uos</w> <w>partiatur</w><pc>,</pc> <w>ut</w> <w>et</w>
+                <w>uos</w> <w>meri<lb/>torum</w> <w>uestrorum</w> <w>et</w> <w>me</w> <w>non</w> <w>praestiti</w> <w>officii</w> <w>minus</w>
+                <w>paeniteat</w><pc>.</pc> <w>Ad</w> <w>haec</w> <w>compellit</w> <w>me</w> <lb/><w>et</w> <w>uehementius</w> <w>urget</w> <w>mea</w> <w>erga</w> <w>uos</w> <w>incredibilis</w> <w>caritas</w> <w>ut</w>
+                <w>uos</w> <w>hor<lb/>ter</w> <w>atque</w> <w>obtester</w> <w>ne</w> <w>huius</w> <w>mundi</w> <w>illecebris</w> <w>atque</w> <w>lenociniis</w> <w>animum</w>
+                <w>uestrum</w> <lb/><w>inducatis</w><pc>,</pc> <w>neue</w> <w>in</w> <w>luxu</w> <w>ac</w> <sic><w>manibus</w></sic> <w>eius</w> <w>diuitiis</w> <w>spem</w>
+                <w>ullam</w> <w>pona<lb/>tis</w><pc>;</pc> <w>quae</w> <w>quam</w> <w>fluxae</w> <w>quamque</w> <w>fallaces</w> <w>sint</w><pc>,</pc> <w>ego</w> <w>unus</w> <w>uobis</w> <w>maximo</w> <w>possum</w> 
+                <lb/><w>esse</w> <w>documento</w><pc>.</pc> <w>Credite</w> <w>quoniam</w> <w>puluis</w> <w>et</w> <w>umbra</w> <w>sumus</w> <w>et</w> <w>non</w> <w>hic</w><pc>,</pc>
+                <w>sed</w> <lb/><w>alibi</w> <w>permanentes</w> <w>habemus</w> <w>mansiones</w><pc>;</pc> <w>ubi</w> <w>nihil</w> <w>corruptibile</w><pc>,</pc> <w>nihil</w> <lb/><w>caducum</w>
+                <w>esse</w> <w>potest</w><pc>,</pc> <w>sed</w> <w>omnia</w> <w>incorruptibilia</w><pc>,</pc> <w>omnia</w> <w>sempiterna</w><pc>.</pc> <w>Proi<lb/>nde</w> <w>date</w> <w>operam</w>
+                <w>probitati</w><pc>,</pc> <w>et</w> <w>uirtuti</w> <w>totis</w> <w>uiribus</w> <w>incumbite</w><pc>.</pc> <w>Coli<lb/>te</w> <w>pietatem</w><pc>,</pc> <w>integritati</w>
+                <w>nihil</w> <w>anteponite</w><pc>,</pc> <w>scientes</w> <w>unicuique</w> <w>uestrum</w> <lb/><w>propositam</w> <w>esse</w> <w>a</w> <w>domino</w> <w>laborum</w>
+                <w>suorum</w> <w>mercedem</w><pc>;</pc> <w>quae</w> <w>eti<lb/>am</w> <w>si</w> <w>nulla</w> <w>esset</w><pc>,</pc> <w>hoc</w> <w>tamen</w> <w>ipsum</w> <w>pie</w> <w>et</w> <w>sancte</w> <w>uixisse</w> <w>maxima</w>
+                <w>uiro</w> <w>bo<lb/>no</w> <w>merces</w> <w>esse</w> <w>debet</w><pc>,</pc> <w>quippe</w> <w>cuius</w> <w>beneficio</w> <w>homines</w> <w>a</w> <w>brutis</w>
+                <lb/><w>secernuntur</w><pc>,</pc> <w>et</w> <w>nomen</w> <w>suum</w> <w>sempiternae</w> <w>consecrauit</w> <w>immortali<lb/>tati</w><pc>.</pc>
             </p>
             <p n="p19">
-                <!-- p BLC5a27 -->
-                <q n="q">Reliquum est quod uos per uiscera misericordiae saluatoris nostri supplex
-                    deprecor ut mihi, quaecumque in uos deliqui, condonare dignemini. Minus quippe
-                    meae iuuentutis potens fui, et nonnunquam partim oculos, partim aures uestras in
-                    multis offendi. Sed eorum tanto facilius me a domino misericordiarum
-                    <!-- misericordiam BLC5a27, BL17814, BL27527 --> consecuturum confido quanto uos
-                    modestius uiuentes pro me dominum deprecabimini.
-                    <!-- Sed... deprecabimini BLC5a27, BL17814; om. plannck, BL18645 --> Ego quoque,
-                    si quis mortuis <!-- mortuus BL27527 --> erit sensus, idem pro uobis me spondeo
-                    facturum. Viuite <!-- Uite BL18645; Viuite BL27527 --> mei memores et, quam
-                    caduca sit huius mundi felicitas <!-- felicitas BL18645, BL17814, BL27527 -->,
-                    uel meo exemplo discite.</q>
+                <w>Reliquum</w> <w>est</w> <w>quod</w> <w>uos</w> <w>per</w> <w>uiscera</w> <w>misericordiae</w> <w>saluatoris</w> <lb/><w>nostri</w> <w>supplex</w>
+                <w>deprecor</w> <w>ut</w> <w>mihi</w><pc>,</pc> <w>quaecumque</w> <w>in</w> <w>uos</w> <w>deliqui</w><pc>,</pc> <w>condo<lb/>nare</w> <w>dignemini</w><pc>.</pc> <w>Minus</w> <w>quippe</w>
+                <w>meae</w> <w>iuuentutis</w> <w>potens</w> <w>fui</w><pc>,</pc> <w>et</w> <lb/><w>nonnunquam</w> <w>partim</w> <w>oculos</w><pc>,</pc> <w>partim</w> <w>aures</w> <w>uestras</w> <w>in</w>
+                <w>multis</w> <w>offendi</w><pc>.</pc> <pb n="6v"/><lb/><supplied resp="#viaf6913774">Sed eorum tanto facilius me a domino misericordiarum
+                    consecuturum confido quanto uos modestius uiuentes pro me dominum deprecabimini.</supplied>
+                <w>Ego</w> <w>quoque</w><pc>,</pc> <w>si</w> <w>quis</w> <w>mortuis</w> <w>erit</w> <w>sensus</w><pc>,</pc> <w>idem</w> <w>pro</w> <w>uobis</w> <w>me</w> <w>spondeo</w>
+                <w>fa<lb/>cturum</w><pc>.</pc> <sic><w>Uite</w></sic> <w>mei</w> <w>memores</w> <w>et</w><pc>,</pc> <w>quam</w> <w>caduca</w> <w>sit</w> <w>huius</w> <w>mundi</w> <w>felicitas</w><pc>,</pc>
+                <w>uel</w> <w>meo</w> <lb/><w>exemplo</w> <w>discite</w><pc>.</pc>
             </p>
             <p n="p20">
-                <!-- nema plannck, nema BLC5a27 --> His atque aliis huiusmodi plerisque summa cum
-                religione sanctissime monitos singulos flentes eiulantesque deosculatus
-                <!-- deosculatus BL18645, BL17814; deosculatos BL27527 --> dimisit. Se autem in
-                lectulo componens, intentis iugiter in caelum oculis, misericordiam peccatorum
-                suorum supplex a domino precabatur. Cumque iam nox intempesta medium cursum
-                peregisset, conuersus ad Viterbiensem praesulem <q n="q1">Ecce,</q> inquit, <q
-                    n="q2">appropinquat iam <!-- iam om. BL27527 --> hora; affer
-                    mihi<!-- michi 1, BLC5a27; mihi BL18645, BL17814, BL27527 --> sacrae unctionis
-                    oleum.</q> Quod confestim cubiculo illatum nudato ac sublato, ut poterat,
-                capite, religiose ueneratus est, deinde exhibitis manibus ac pedibus rite perunctus;
-                quo facto <q n="q3">Proferte,</q> inquit <q n="q4">sacros codices, et aliquid de
-                    diuinis mysteriis meam domino animam commendantes recitate.</q> Quibus mox
-                prolatis usque in lucem partim psalmi decantati sunt, partim lecta euangelia,
-                semperque intentus auribus atque oculis in ea quae legebantur, etiam<!-- 20 -->
-                deficiente spiritu, perstitit, donec lector dominicae passionis ad illum locum
-                peruenit ubi scriptura inquit <quote n="q5" xml:id="quote7">et inclinato capite
-                    emisit spiritum.</quote>
+                <w>His</w> <w>atque</w> <w>aliis</w> <w>huiusmodi</w> <w>plerisque</w> <w>summa</w> <w>cum</w>
+                <w>religione</w> <lb/><w>sanctissime</w> <w>monitos</w> <w>singulos</w> <w>flentes</w> <w>eiulantesque</w> <w>deosculatus</w>
+                <w>dimi<lb/>sit</w><pc>.</pc> <w>Se</w> <w>autem</w> <w>in</w>
+                <w>lectulo</w> <w>componens</w><pc>,</pc> <w>intentis</w> <w>iugiter</w> <w>in</w> <w>caelum</w> <w>oculis</w><pc>,</pc> <w>mise<lb/>ricordiam</w> <w>peccatorum</w>
+                <w>suorum</w> <w>supplex</w> <w>a</w> <w>domino</w> <w>precabatur</w><pc>.</pc> <sic><w>Cunque</w></sic> <w>iam</w> <w>nox</w> <w>intem<lb/>pesta</w> <w>medium</w> <w>cursum</w>
+                <w>peregisset</w><pc>,</pc> <w>conuersus</w> <w>ad</w> <w>Viterbiensem</w> <w>praesulem</w> <lb/><w>Ecce</w><pc>,</pc> <w>inquit</w><pc>,</pc> <w>appropinquat</w> <w>iam</w> <w>hora</w><pc>;</pc> <w>affer</w>
+                <w>mihi</w> <w>sacrae</w> <w>unctionis</w> <w>oleum</w><pc>.</pc> <lb/><w>Quod</w> <w>confestim</w> <w>cubiculo</w> <w>illatum</w> <w>nudato</w> <w>ac</w> <w>sublato</w><pc>,</pc> <w>ut</w> <w>poterat</w><pc>,</pc>
+                <w>capite</w><pc>,</pc> <w>re<lb/>ligiose</w> <w>ueneratus</w> <w>est</w><pc>,</pc> <w>deinde</w> <sic><w>exibitis</w></sic> <w>manibus</w> <w>ac</w> <w>pedibus</w> <w>rite</w> <w>perunctus</w><pc>;</pc>
+                <lb/><w>quo</w> <w>facto</w> <w>Proferte</w><pc>,</pc> <w>inquit</w> <w>sacros</w> <w>codices</w><pc>,</pc> <w>et</w> <w>aliquid</w> <w>de</w>
+                <w>diuinis</w> <sic><w>miste<lb/>riis</w></sic> <w>meam</w> <w>domino</w> <w>animam</w> <w>commendantes</w> <w>recitate</w><pc>.</pc> <w>Quibus</w> <w>mox</w>
+                <w>prolatis</w> <lb/><w>usque</w> <w>in</w> <w>lucem</w> <w>partim</w> <w>psalmi</w> <w>decantati</w> <w>sunt</w><pc>,</pc> <w>partim</w> <w>lecta</w> <w>euangelia</w><pc>,</pc>
+                <w>sem<lb/>perque</w> <w>intentus</w> <w>auribus</w> <w>atque</w> <w>oculis</w> <w>in</w> <w>ea</w> <w>quae</w> <w>legebantur</w><pc>,</pc> <w>etiam</w> <w>deficiente</w> 
+                <lb/><w>spiritu</w><pc>,</pc> <w>perstitit</w><pc>,</pc> <w>donec</w> <w>lector</w> <w>dominicae</w> <w>passionis</w> <w>ad</w> <w>illum</w> <w>locum</w>
+                <w>peruenit</w> <lb/><w>ubi</w> <w>scriptura</w> <w>inquit</w> <w>et</w> <w>inclinato</w> <w>capite</w> <w>emisit</w> <w>spiritum</w><pc>.</pc>
             </p>
-            <p n="p21"> Ad hanc uocem illa dilecta deo anima ueluti certo accepto signo ad dominum
-                suum confestim
-                euolauit.<!-- BLC5a27, BL18645; tantum plannck; nema BL17814, BL27527 -->
+            <p n="p21"> <pc unit="para" force="strong" pre="true">¶</pc> <w>Ad</w> <w>hanc</w> <w>uo<lb/>cem</w> <w>illa</w> <w>dilecta</w> <w>deo</w> <w>anima</w> <w>ueluti</w> <w>certo</w> <w>accepto</w> <w>signo</w> <w>ad</w> <w>dominum</w>
+                <lb/><w>suum</w> <w>confestim</w> <w>euolauit</w><pc>.</pc>
             </p>
-            <p n="p22"> O felix atque iterum felix cui et uita summam dedit gloriam et mors ipsa
-                meritam diuinitatem non denegauit. Non est ergo quod eius casu ingemiscere habeamus,
-                quoniam in paucis annis maximam aetatem compleuit; nec sibi nec gloriae suae parum
-                uixit qui, quaecumque unius hominis fortuna capere potuit, abunde consecutus est.
-                Nobis forsan amplius uiuere poterat, et nimirum magno et ornamento et utilitati. Sed
-                non est amicorum officium sua commoda ex amici spectare incommodis. Quicquid
-                superuixisset, doloribus superuixisset et laboribus; quibus quoniam eum diuina
-                clementia misericorditer subduxit, gratias illi agamus atque dicamus <quote n="q"
-                    xml:id="quote8">Dominus dedit, dominus abstulit; sicut domino placuit, ita
-                    factum est; sit nomen domini benedictum.</quote> Amen. </p>
-            <closer n="closer"> ET SIC EST FINIS.
-                <!-- BL17814; nema BLC5a27, nema BL18645; Laus deo.  Impressum Padue die penultima / Augusti. 1482. Per Matheum Cerdonis. BL27527 -->
-            </closer>
-
+            <p n="p22"><lb/><pc unit="para" force="strong" pre="true">¶</pc> <w>O</w> <w>felix</w> <w>atque</w> <w>iterum</w> <w>felix</w> <w>cui</w> <w>et</w> <w>uita</w> <w>summam</w> <w>dedit</w> <w>gloriam</w> <w>et</w> <w>mors</w> <w>ipsa</w>
+                <lb/><w>meritam</w> <w>diuinitatem</w> <w>non</w> <w>denegauit</w><pc>.</pc> <w>Non</w> <w>est</w> <w>ergo</w> <w>quod</w> <w>eius</w> <w>casu</w> <w>ingemi<lb/>scere</w> <w>habeamus</w><pc>,</pc>
+                <w>quoniam</w> <w>in</w> <w>paucis</w> <w>annis</w> <w>maximam</w> <w>aetatem</w> <w>compleuit</w><pc>;</pc> <w>nec</w> <w>si<lb/>bi</w> <w>nec</w> <w>gloriae</w> <w>suae</w> <w>parum</w>
+                <w>uixit</w> <w>qui</w><pc>,</pc> <w>quaecumque</w> <w>unius</w> <w>hominis</w> <w>fortuna</w> <w>ca<lb/>pere</w> <w>potuit</w><pc>,</pc> <w>abunde</w> <w>consecutus</w> <w>est</w><pc>.</pc>
+                <w>Nobis</w> <w>forsan</w> <w>amplius</w> <w>uiuere</w> <w>po<lb/>terat</w><pc>,</pc> <w>et</w> <w>nimirum</w> <w>magno</w> <w>et</w> <w>ornamento</w> <w>et</w> <w>utilitati</w><pc>.</pc> <w>Sed</w>
+                <w>non</w> <w>est</w> <w>amicorum</w> <w>offi<lb/>cium</w> <w>sua</w> <w>commoda</w> <w>ex</w> <w>amici</w> <w>spectare</w> <w>incommodis</w><pc>.</pc> <w>Quicquid</w>
+                <w>superui<lb/>xisset</w><pc>,</pc> <w>doloribus</w> <w>superuixisset</w> <w>et</w> <w>laboribus</w><pc>;</pc> <w>quibus</w> <w>quoniam</w> <w>eum</w> <w>diuina</w>
+                <lb/><w>clementia</w> <w>misericorditer</w> <w>subduxit</w><pc>,</pc> <w>gratias</w> <w>illi</w> <w>agamus</w> <w>atque</w> <w>dicamus</w> 
+                <lb/><w>Dominus</w> <w>dedit</w><pc>,</pc> <w>dominus</w> <w>abstulit</w><pc>;</pc> <w>sicut</w> <w>domino</w> <w>placuit</w><pc>,</pc> <w>ita</w>
+                <w>factum</w> <w>est</w><pc>;</pc> <w>sit</w> <lb/><w>nomen</w> <w>domini</w> <w>benedictum</w><pc>.</pc> <w>Amen</w><pc>.</pc></p>
         </body>
    </text>
 </TEI>
