@@ -824,7 +824,7 @@
                 <w>quae</w>
                 <w>pati</w>
                 <w>melius</w>
-                <w>iu</w><pb n="2r"/><lb/><w>gum</w>
+                <w>iu<pb n="2r"/><lb/>gum</w>
                 <w>Christi</w>
                 <w>posset</w><pc>.</pc>
                 <w>Sed</w>
@@ -2174,7 +2174,7 @@
                 <w>declarati</w><pc>,</pc>
                 <w>perditissima</w>
                 <w>audacia</w>
-                <w>lace</w><pb n="4r"/><lb/><w>rare</w><pc>!</pc>
+                <w>lace<pb n="4r"/><lb/>rare</w><pc>!</pc>
                 <w>Caue</w><pc>,</pc>
                 <w>caue</w>
                 <w>tibi</w><pc>,</pc>
@@ -2542,7 +2542,7 @@
                 <w>semper</w><pc>,</pc>
                 <w>cum</w>
                 <w>per</w>
-                <w>pu</w><pb n="4v"/><lb/><w>blicas</w>
+                <w>pu<pb n="4v"/><lb/>blicas</w>
                 <w>licuisset</w>
                 <w>curas</w><pc>,</pc>
                 <w>placidum</w>
@@ -3231,7 +3231,7 @@
                 <w>urbe</w>
                 <w>diui</w>
                 <w>Gregorii</w>
-                <w>tem</w><pb n="5v"/><lb/><w>plum</w>
+                <w>tem<pb n="5v"/><lb/>plum</w>
                 <w>et</w>
                 <w>prouentibus</w>
                 <w>optime</w>
@@ -3863,9 +3863,9 @@
                 <w>in</w>
                 <w>multis</w>
                 <w>offendi</w><pc>.</pc>
-                <pb n="6v"/><lb/><supplied resp="#viaf6913774">Sed eorum tanto facilius me a domino
-                    misericordiarum consecuturum confido quanto uos modestius uiuentes pro me
-                    dominum deprecabimini.</supplied>
+                <pb n="6v"/><lb/><supplied resp="#viaf6913774"><w>Sed</w> <w>eorum</w> <w>tanto</w> <w>facilius</w> <w>me</w> <w>a</w> <w>domino</w>
+                    <w>misericordiarum</w> <w>consecuturum</w> <w>confido</w> <w>quanto</w> <w>uos</w> <w>modestius</w> <w>uiuentes</w> <w>pro</w> <w>me</w>
+                    <w>dominum</w> <w>deprecabimini</w>.</supplied>
                 <w>Ego</w>
                 <w>quoque</w><pc>,</pc>
                 <w>si</w>
