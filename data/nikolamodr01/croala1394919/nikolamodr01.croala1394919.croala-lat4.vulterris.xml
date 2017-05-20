@@ -537,7 +537,8 @@
                 <w>subire</w>
                 <w>uere<lb/>bor</w><pc>.</pc>
             </p>
-            <p n="p2"><pc unit="para" force="strong" pre="true">¶</pc>
+            <p n="p2">
+                <pc unit="para" force="strong" pre="true">¶</pc>
                 <w>Dicturus</w>
                 <w>igitur</w>
                 <w>de</w>
@@ -683,7 +684,8 @@
                 <w>ex<lb/>plicare</w>
                 <w>conabor</w><pc>.</pc>
             </p>
-            <p n="p3"><w>Qua</w>
+            <p n="p3">
+                <w>Qua</w>
                 <w>igitur</w>
                 <w>pietate</w>
                 <w>primum</w>
@@ -1376,11 +1378,11 @@
                 <w>supplex</w>
                 <w>prorupit</w>
                 <w>dicens</w>
-                <quote xml:id="quote1">in manu <w>so<lb/>lius</w> omnipotentis dei esse omnia regna
-                    terrarum atque illa quibus ipse uoluerit <lb/>tradi nec esse alium quemquam qui
-                    eius possit obsistere uoluntati aut <lb/>dicere illi <q n="q" xml:id="q1">quare
-                        sic fecisti</q>
-                </quote><pc>.</pc>
+                <w>in</w> <w>manu</w> <w>so<lb/>lius</w> <w>omnipotentis</w> <w>dei</w> <w>esse</w> <w>omnia</w> <w>regna</w>
+                    <w>terrarum</w> <w>atque</w> <w>illa</w> <w>quibus</w> <w>ipse</w> <w>uoluerit</w> <lb/><w>tradi</w> <w>nec</w> <w>esse</w> <w>alium</w> <w>quemquam</w> <w>qui</w>
+                    <w>eius</w> <w>possit</w> <w>obsistere</w> <w>uoluntati</w> <w>aut</w> <lb/><w>dicere</w> <w>illi</w> <w>quare</w>
+                        <w>sic</w> <w>fecisti</w>
+                <pc>.</pc>
             </p>
             <p n="p4"><lb/> <pc unit="para" force="strong" pre="true">¶</pc> <w>Petrus</w> <w>igitur</w> <w>per</w> <w>hunc</w> <w>modum</w> <w>in</w> <w>principatu</w> <w>constitutus</w> <w>qui</w> <w>solet</w> <w>ui<lb/>ros</w>
                 <w>ostendere</w><pc>,</pc> <w>talem</w> <w>sese</w> <w>exhibuit</w> <w>qualem</w> <w>uix</w> <w>optare</w> <w>poteramus</w><pc>,</pc> <w>non</w> <w>spe<lb/>rare</w><pc>.</pc> <w>Assumpsit</w>
