@@ -1086,7 +1086,7 @@
                 <w>quaeuis</w>
                 <w>uel</w>
                 <w>philosophiae</w>
-                <supplied resp="#viaf6913774">uel theologiae</supplied>
+                <supplied resp="#viaf6913774"><w>uel</w> <w>theologiae</w></supplied>
                 <w>problemata</w>
                 <w>summa</w>
                 <w>cum</w>
@@ -1822,7 +1822,7 @@
                 <w>corrigere</w><pc>,</pc>
                 <w>meum</w>
                 <w>autem</w>
-                <supplied resp="#viaf6913774">pro</supplied>
+                <supplied resp="#viaf6913774"><w>pro</w></supplied>
                 <w>illorum</w>
                 <w>in</w>
                 <w>me</w>
@@ -3365,7 +3365,7 @@
                 <w>pro</w>
                 <w>exaugendis</w>
                 <w>rebus</w>
-                <supplied resp="#viaf6913774">eius</supplied>
+                <supplied resp="#viaf6913774"><w>eius</w></supplied>
                 <w>exposuit</w><pc>.</pc>
                 <w>Haec</w>
                 <w>quoque</w>
