@@ -604,7 +604,7 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
                     nihil,<!-- nichil BLC5a27; nichil 1; nihil BL18645, BL17814, BL27527 izd -->
                     quicquid supererat, merito mihi suspectum metuendumque fuisset. Proinde
                     <!-- Proinde BL17814, BL27527; Proind- BLC5a27; Prouide BL18645, plannck -->
-                    licet <quote n="q3a" xml:id="quote5">cupiam dissolui et esse cum Christo, uror
+                    licet <quote n="quote1" xml:id="quote5">cupiam dissolui et esse cum Christo, uror
                         tamen sola uestrarum rerum cura</quote>. Cognosco enim me tenuem uobis
                     mercedem pro meritis exhibuisse
                     <!-- exhibuisse BL17814, BL27527; exipuisse BL18645 -->, tametsi nunquam mihi
@@ -621,7 +621,7 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
                     eius diuitiis <!-- diuiciis BLC5a27, BL17814, BL27527; diuitijs BL18645 --> spem
                     ullam ponatis; quae quam fluxae <!-- fluxe BLC5a27; fluxe BL18645, BL27527 -->
                     quamque fallaces sint, ego unus uobis maximo possum esse documento. Credite
-                    quoniam <quote n="q4a" xml:id="quote6">puluis et umbra sumus</quote> et non hic,
+                    quoniam <quote n="quote2" xml:id="quote6">puluis et umbra sumus</quote> et non hic,
                     sed alibi permanentes habemus mansiones; ubi nihil corruptibile, nihil caducum
                     esse potest, sed omnia incorruptibilia, omnia sempiterna. Proinde date operam
                     probitati, et uirtuti totis uiribus incumbite. Colite pietatem et
@@ -636,7 +636,7 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
             </p>
             <p n="p19">
                 <!-- p BLC5a27 -->
-                <q n="q">Reliquum est quod uos per uiscera misericordiae saluatoris nostri supplex
+                <q n="q">Reliquum est quod uos <quote n="quote1">per uiscera misericordiae saluatoris nostri</quote> supplex
                     deprecor ut mihi, quaecumque in uos deliqui, condonare dignemini. Minus quippe
                     meae iuuentutis potens fui, et nonnunquam partim oculos, partim aures uestras in
                     multis offendi. Sed eorum tanto facilius me a domino misericordiarum
@@ -664,7 +664,7 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
                 prolatis usque in lucem partim psalmi decantati sunt, partim lecta euangelia,
                 semperque intentus auribus atque oculis in ea quae legebantur, etiam<!-- 20 -->
                 deficiente spiritu, perstitit, donec lector dominicae passionis ad illum locum
-                peruenit ubi scriptura inquit <quote n="q5" xml:id="quote7">et inclinato capite
+                peruenit ubi scriptura inquit <quote n="quote" xml:id="quote7">et inclinato capite
                     emisit spiritum.</quote>
             </p>
             <p n="p21"> Ad hanc uocem illa dilecta deo anima ueluti certo accepto signo ad dominum
@@ -676,7 +676,11 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
                 quoniam in paucis annis maximam aetatem compleuit; nec sibi nec gloriae suae parum
                 uixit qui, quaecumque unius hominis fortuna capere potuit, abunde consecutus est.
                 Nobis forsan amplius uiuere poterat, et nimirum magno et ornamento et utilitati. Sed
-                non est amicorum officium sua commoda ex amici spectare incommodis. Quicquid
+                non est amicorum officium <quote xml:id="quote22.1">sua commoda ex amici spectare incommodis</quote><note n="note" type="fons" place="end" target="#quote22.1">
+                    <add n="add" resp="NJ">Cf. <bibl n="bibl">Ter. Andr. 627-628</bibl>: <quote n="quote">ex incommodis
+                        alterius sua ut comparent commoda?</quote>
+                    </add>
+                </note>. Quicquid
                 superuixisset, doloribus superuixisset et laboribus; quibus quoniam eum diuina
                 clementia misericorditer subduxit, gratias illi agamus atque dicamus <quote n="q"
                     xml:id="quote8">Dominus dedit, dominus abstulit; sicut domino placuit, ita
