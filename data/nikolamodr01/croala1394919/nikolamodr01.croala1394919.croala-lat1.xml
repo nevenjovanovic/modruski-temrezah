@@ -255,49 +255,57 @@
                <bibl n="bibl">Daniel 3, 31-33</bibl>.</add>
                </note>
             </p>
-            <p n="p4"> 
-               <persName n="persName">Petrus</persName> igitur per hunc modum in principatu constitutus qui solet uiros ostendere, talem
-            sese exhibuit qualem uix optare poteramus, non sperare. Assumpsit enim cum sublimi
-            magistratu sublimes animos et spiritus tanti imperii maiestate dignos, simulque cum eis
-            magnanimitatem, clementiam, munificentiam, et caeteras, <!-- prius izd 1477BL, 1473BL; nema BLC5a27
--->quas prius
-            commemorauimus, imperantium <!-- in p-tiu- (partium) BLC5a27 --> uirtutes; quibus et ausus est cum regibus et principibus
-            magna gloria non segnius contendere quam si in illis natus educatusque fuisset, ut
-            coepta eius declarant aedificia, totque magnificentissimo cultu celebrata conuiuia, et
-            suppellex <!-- supplex BL18645 / pb8 BLC5a27 --> imperialibus fastibus digna. Turpe enim et indecorum <!-- inde eorum BL18645; inde -lb- cor- (corum) BLC5a27 --> merito ducebat
-            in hoc totius orbis capite, in hac prima <ref n="ref1">
-                  <corr n="corr">Christianae</corr> religionis</ref> sede, ad quam adorandam
+         <p n="p4">
+            <persName n="persName">Petrus</persName> igitur per hunc modum <quote n="quote1" xml:id="p4quote1">in principatu constitutus qui solet uiros
+               ostendere</quote><note n="note" type="fons" target="#p4quote1">
+                  <add n="add" resp="NJ">Cf. principatus virum ostendit
+                     <bibl n="bibl">Arist. Ethica ad Nicomachum E3, 1330, a 1-2</bibl>.</add>
+               </note>, talem sese exhibuit qualem uix optare poteramus, non sperare.
+            Assumpsit enim cum sublimi magistratu sublimes animos et spiritus tanti imperii
+            maiestate dignos, simulque cum eis magnanimitatem, clementiam, munificentiam, et
+            caeteras, <!-- prius izd 1477BL, 1473BL; nema BLC5a27
+-->quas prius commemorauimus,
+            imperantium <!-- in p-tiu- (partium) BLC5a27 --> uirtutes; quibus et ausus est cum
+            regibus et principibus magna gloria non segnius contendere quam si in illis natus
+            educatusque fuisset, ut coepta eius declarant aedificia, totque magnificentissimo cultu
+            celebrata conuiuia, et suppellex <!-- supplex BL18645 / pb8 BLC5a27 --> imperialibus
+            fastibus digna. Turpe enim et indecorum
+            <!-- inde eorum BL18645; inde -lb- cor- (corum) BLC5a27 --> merito ducebat in hoc totius
+            orbis capite, in hac prima <ref n="ref1">
+               <corr n="corr">Christianae</corr> religionis</ref> sede, ad quam adorandam
             imperatores, reges, et cuncti ferme principes terrarum uentitare solent, non talem esse
             suppellectilem, non talia <corr n="corr1">exstare</corr>
-               <!-- extare BLC5a27; ortare? izd --> <sic n="sic">palacia</sic>, quibus eos
-            summus pontifex et suscipere honorifice posset et pro sua ipsorumque dignitate splendide
-            honorare. Vnde et in hos usus omnia illa se comparare affirmabat, nec sibi, sed summis
-            pontificibus, quicquid praeparabat, componere. Affluebant quotidie opes et ab omnibus
-            ferme <ref n="ref2">Christianis principibus</ref> magni prouentus ultro offerebantur; quos licet ipse in
-            illos, quos diximus, acceptaret usus, prophetici tamen documenti memor minime ad ea cor
-            apponebat <!-- cf. nolite cor apponere --> neque illis auaro deuincebatur <!-- doeuincebat- (doeuincebatur) BLC5a27 -->affectu. Hinc est quod nec sciebat numerum nec
-            omnino quid haberet aut quid impenderet nosse <corr n="corr2">uolebat</corr>,<!-- uolebat BLC5a27; valebat izd. -->
-            nullas a ministris impensarum exigebat rationes, nulla
-            <corr n="corr3">computa</corr>
-               <!-- computa BLC5a27; c(om)put
+            <!-- extare BLC5a27; ortare? izd -->
+            <sic n="sic">palacia</sic>, quibus eos summus pontifex et suscipere honorifice posset et
+            pro sua ipsorumque dignitate splendide honorare. Vnde et in hos usus omnia illa se
+            comparare affirmabat, nec sibi, sed summis pontificibus, quicquid praeparabat,
+            componere. Affluebant quotidie opes et ab omnibus ferme <ref n="ref2">Christianis
+               principibus</ref> magni prouentus ultro offerebantur; quos licet ipse in illos, quos
+            diximus, acceptaret usus, prophetici tamen documenti memor minime ad ea cor apponebat
+            <!-- cf. nolite cor apponere --> neque illis auaro deuincebatur
+            <!-- doeuincebat- (doeuincebatur) BLC5a27 -->affectu. Hinc est quod nec sciebat numerum
+            nec omnino quid haberet aut quid impenderet nosse <corr n="corr2"
+            >uolebat</corr>,<!-- uolebat BLC5a27; valebat izd. --> nullas a ministris impensarum
+            exigebat rationes, nulla <corr n="corr3">computa</corr>
+            <!-- computa BLC5a27; c(om)put
 izd. --> exigere uolebat. Iactura rerum ea duntaxat
             mouebatur quae negligentia contigisset, culpam magis dolens quam damnum. A suscepto
             semel negotio nullo metu absterreri potuerat, nullo periculo depelli. Verax in sermone,
             in <corr n="corr4">facto</corr>
-               <!-- facto BLC5a27; faco izd. --> fidelis, in proposito constans, in peragendo
+            <!-- facto BLC5a27; faco izd. --> fidelis, in proposito constans, in peragendo
             <!-- pangendo? peragendo? p-agendo
-izd; p-agendo BLC5a27 --> strenuus, secretorum tenacissimus, et
-            promissorum firmissimus obseruator. Insignia haec<!-- hęc BLC5a27; hic izd --> sunt magnanimitatis
-            eius testimonia. Sed illud mea sententia uincit uniuersa quod nullis mouebatur
-            iniuriis, nullis offensis laedi posse uidebatur, nec ullius rei facilius quam
-            inimicitiarum obliuiscebatur. Floccipendebat <!-- flocc. etc. prvi prijepis --> aemulos
-            <!-- 9; pb BLC5a27 -->quoscumque et nullam in rem pronior quam in supplicium ueniam uidebatur,
-            tantumque ab omni ulciscendi ardore aberat ut inimicis suis benefacere gauderet. Nihil
-            in se fictum, nihil subdolum aut simulatum esse uolebat, nec quicquam magis detestabatur
-            quam mentitam probitatem. Mali quippe et iniqui hominis esse dicebat meliorem se
-            <corr n="corr5">foris</corr>
-               <!-- foris BLC5a27; fortis izd --> ostendere quam gerere domi, proborum autem
-            uirorum esse non simulatione, sed integritate uiros superare. </p>
+izd; p-agendo BLC5a27 --> strenuus, secretorum
+            tenacissimus, et promissorum firmissimus obseruator. Insignia
+            haec<!-- hęc BLC5a27; hic izd --> sunt magnanimitatis eius testimonia. Sed illud mea
+            sententia uincit uniuersa quod nullis mouebatur iniuriis, nullis offensis laedi posse
+            uidebatur, nec ullius rei facilius quam inimicitiarum obliuiscebatur. Floccipendebat
+            <!-- flocc. etc. prvi prijepis --> aemulos <!-- 9; pb BLC5a27 -->quoscumque et nullam in
+            rem pronior quam in supplicium ueniam uidebatur, tantumque ab omni ulciscendi ardore
+            aberat ut inimicis suis benefacere gauderet. Nihil in se fictum, nihil subdolum aut
+            simulatum esse uolebat, nec quicquam magis detestabatur quam mentitam probitatem. Mali
+            quippe et iniqui hominis esse dicebat meliorem se <corr n="corr5">foris</corr>
+            <!-- foris BLC5a27; fortis izd --> ostendere quam gerere domi, proborum autem uirorum
+            esse non simulatione, sed integritate uiros superare. </p>
             <p n="p5">
 Sane munificentiae liberalitatisque eius largitatem quis est qui
 ignoret nisi qui illa uti uel noluerit uel nescierit? Ea ipse ita
@@ -324,7 +332,15 @@ infortunatissimos quibus tam crudeli fato erepta est.
 Quingentos ferme pascebat familiares, partim illustri, partim nobili, omnes honesto loco natos: praelatos, milites, doctores, oratores, poetas, aut alicui alii
    <!-- 10; pb BLC5a27 -->honestae arti deditos; nullis tantorum sumptibus, nullis grauabatur
 impensis. Hospitem enim sese omnium honestorum uirorum esse dicebat,
-quod ipsa ueritate erat uerius. Nam si quis diligentius rem ipsam
+quod <quote xml:id="p5quote1">ipsa ueritate erat uerius</quote>.
+            <note n="note" type="fons" target="#p5quote1">
+               <add n="add" resp="NJ">Cf. <bibl n="bibl">Sen. ep. 66, 8</bibl>: <quote>nihil
+                     invenies rectius recto, non magis quam verius vero, quam temperato
+                     temperatius.</quote>
+                  <bibl>Sen. nat. 2, 34, 2</bibl> Phrasi utetur e. g. Ficinus in versione Plotini a.
+                  1492 primum impressa: <quote>Nihil enim potest ueritate uerius inueniri.</quote>
+                  <bibl>Plot. Enn. 5, 5</bibl>.</add>
+            </note> Nam si quis diligentius rem ipsam
 consideret, comperiet procul dubio <!-- proculdubio BLC5a27 --> omnes cardinalium domos nihil aliud
 esse quam honesta hospitia, in quae proborum uirorum liberis uel
 necessitatis uel bonorum morum gratia diuersari licet.
