@@ -46,7 +46,7 @@ Izdanja se nalaze u direktoriju [data](https://github.com/nevenjovanovic/modrusk
 
 U skladu s [Perseus CTS (CapiTainS)](https://capitains.github.io/pages/guidelines) shemom, [tekstualne grupe](https://github.com/nevenjovanovic/modruski-temrezah/tree/master/data/nikolamodr01) i [djela](https://github.com/nevenjovanovic/modruski-temrezah/tree/master/data/nikolamodr01/croala1394919) opisani su standardnom datotekom [__cts__.xml](https://github.com/nevenjovanovic/modruski-temrezah/blob/master/data/nikolamodr01/__cts__.xml).
 
-Daljnja se dokumentacija nalazi na [wikiju]().
+Daljnja se dokumentacija nalazi na [wikiju](https://github.com/nevenjovanovic/modruski-temrezah/wiki).
 
 ## Licenca
 
