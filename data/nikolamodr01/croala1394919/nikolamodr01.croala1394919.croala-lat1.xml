@@ -615,10 +615,12 @@ sint, ego unus uobis maximo possum esse documento. Credite quoniam
                      <add n="add" resp="NJ">
                         <bibl n="bibl">Hor. C. 4, 7, 16</bibl>
                      </add>
-                  </note> et non hic, sed
+                  </note> et <quote xml:id="quote6a">non hic, sed
 alibi permanentes habemus mansiones; ubi nihil corruptibile, nihil
 caducum esse potest, sed omnia incorruptibilia, omnia
-sempiterna. Proinde date operam probitati, et uirtuti totis uiribus
+sempiterna.</quote><note target="#quote6a">Cf. Io 14, 2-3  <quote>2 in domo Patris mei mansiones multae sunt si quo minus dixissem vobis quia vado parare vobis locum
+   3 et si abiero et praeparavero vobis locum iterum venio et accipiam vos ad me ipsum ut ubi sum ego et vos sitis</quote>
+</note> Proinde date operam probitati, et uirtuti totis uiribus
 incumbite.  Colite pietatem et <!-- et BLC5a27, BL17814, BL27527; et om. plannck; , BL18645 -->integritati nihil anteponite, scientes unicuique uestrum propositam esse a domino laborum suorum mercedem; quae etiam si nulla esset, hoc tamen<!-- 19; pb BLC5a27 -->
    ipsum <corr n="corr8">pie</corr> 
                   <!-- pię BLC5a27; pie BL18645, BL17814 -->et sancte uixisse maxima uiro bono merces esse debet, quippe
