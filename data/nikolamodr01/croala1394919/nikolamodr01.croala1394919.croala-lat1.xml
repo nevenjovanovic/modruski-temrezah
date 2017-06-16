@@ -366,8 +366,8 @@ quaeque in se caputque suum impetrantem si ullas pecunias aut ulla
 hunc sacrosanctum senatum apostolicum lecti noscuntur, seque ab
 inuidis atque malignis impie ac <corr n="corr2">flagitiose</corr> 
                <!-- flagiciose BLC5a27 --> eius criminis insimulari
-   <corr n="corr3">persancte</corr> 
-               <!-- p-sancte BLC5a27 --> iurabat. Angi eum uehementer et summis animi
+               <quote xml:id="quote7.1"><corr n="corr3">persancte</corr> 
+               <!-- p-sancte BLC5a27 --> iurabat</quote><note target="#quote7.1"><bibl>Suet. Tit. 10</bibl></note>. Angi eum uehementer et summis animi
 cruciatibus torqueri uideres quod sibi, ut dicebat, per 
 detrahentium liuorem non liceret in uiros praestantes ac bene meritos
 officiosum esse.
@@ -630,7 +630,7 @@ incumbite.  Colite pietatem et <!-- et BLC5a27, BL17814, BL27527; et om. plannck
             </p>
             <p n="p19">
           <!-- p BLC5a27 -->
-               <q n="q">Reliquum est quod uos <quote xml:id="quote6a">per uiscera <corr n="corr1">misericordiae</corr> saluatoris nostri</quote><note n="note" type="fons" place="end" target="#quote6a">
+               <q n="q">Reliquum est quod uos <quote xml:id="quote19.6">per uiscera <corr n="corr1">misericordiae</corr> saluatoris nostri</quote><note n="note" type="fons" place="end" target="#quote19.6">
                   <add n="add" resp="NJ">Cf. <bibl n="bibl">Lk 1, 78</bibl>: <quote n="quote">per viscera misericordiae Dei nostri in quibus visitavit nos oriens ex alto.</quote>
                   </add>
                </note>
