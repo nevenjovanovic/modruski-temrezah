@@ -526,7 +526,7 @@ conuerterat ut dicere cum psalmista libere posset: <quote n="q" xml:id="quote4">
 priorum rectorum distracta negligentia propriis pecuniis recuperare;
 uestimenta, libros, uasa <!-- uasa BLC5a27, BL17814; uaso BL18645, izd -->sacra, et caetera ad
 splendorem diuini cultus spectantia maximis sumptibus coemere, et,
-quam prestantiora haberi poterant, comparare. Testatur hanc <!-- 16; pb BLC5a27
+quam praestantiora haberi poterant, comparare. Testatur hanc <!-- 16; pb BLC5a27
 -->eius munificentiam in hac Romana urbe diui Gregorii templum et
 prouentibus optime auctum et aedificiis perquam magnifice instauratum;
 testatur Taruixii <!-- BL18645; Taruisii BL27527 --> maior basilica non <corr n="corr3">paruis</corr>
@@ -542,7 +542,7 @@ nullos, adeo ut, quotiens diuina res patranda erat, opus esset ab
 aliis sacris aedibus omnia mutuari; nunc tanta cum omnium, tum praecipue
 libellorum,<!-- libellor- BL18645; librorum BLC5a27, BL27527; libroru- BL17814, ja --> calicum, ac uestimentorum copia
    <corr n="corr5">abundat</corr> 
-               <!-- habundat BL17814, BL18645 --> ut aliae ecclesiae mutuum, quod prestare solebant, ab hac una
+               <!-- habundat BL17814, BL18645 --> ut aliae ecclesiae mutuum, quod praestare solebant, ab hac una
    omnes accipiant. Huius <corr n="corr6">eiusdem</corr>
                <!-- eiusdem BLC5a27; eisdem BL27527, BL18645 --> 
                <corr n="corr7">fani</corr> 
@@ -574,15 +574,17 @@ purgauit, et <corr n="corr14">munitus</corr>
 </p>
             <p n="p18">
 Iamque uicinus morti domesticos ac familiares accersiri iubet, quibus
-presto exsistentibus in nullos prorupit <corr n="corr1">fletus</corr>, <corr n="corr2">nullis</corr>
+praesto exsistentibus in nullos prorupit <corr n="corr1">fletus</corr>, <corr n="corr2">nullis</corr>
                <!-- nullis BLC5a27, BL17814, BL27527; multis BL18645, izd
 --> mundanarum cupiditatum desideriis <!-- deside/ pb BL18645 --> ingemuit, non deum, non fortunam
 accusauit, nec se in medio iuuentutis flore ex tanto imperio et ex
 talibus operibus<!-- opib- BLC5a27, BL17814, BL27527; opibus ja; operib- BL18645 --> subtrahi uel leuiter indoluit;
 quin magno constantique pectore <q n="q1">Sentio,</q> inquit, <q n="q2">filii
-   fratresque mei, manum domini super me<!-- 18, pb BLC5a27 --> aggrauari; <corr n="corr1">uolens</corr>
+   fratresque mei, <quote xml:id="q2.quote1a">manum domini super me<!-- 18, pb BLC5a27 --> aggrauari</quote>
+   <note target="#q2.quote1a">Cf. <bibl>1 Samuel 5.6</bibl><quote>Aggravata est autem manus Domini super Azotios</quote>.</note>; <corr n="corr1">uolens</corr>
                   <!--
-uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. --> lubensque eius presto sum uoluntati, eo
+uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. --> lubensque <quote xml:id="q2.quote1b">eius praesto sum uoluntati</quote><note target="#q2.quote1b">Cf. <bibl>S. Bernard, De annuntiatione domini sermo II, 3</bibl>: 
+      <quote>Ecce ancilla Domini: praesto sum ejus voluntati</quote>.</note>, eo
    quidem libentior quo me et famae et gloriae meae satis uixisse scio. <corr n="corr2">Cepi</corr>
                   <!-- Cepi BL17814, BL27527, BL18645 -->
 enim illum ex hac mortalitate fructum quem maximum mea fortuna capere
@@ -602,7 +604,7 @@ nisi tanta temporis angustia prohibitus fuissem, nullus uestrum meae
 gratitudinis uices doleret. Meritum, quod potui, moriens uobis
 persolui. Supplicaui <!-- Supplicauit BL17814 --> summo pontifici ut beneficia, quae in me
 contulerat, sua clementia inter uos partiatur, ut et uos meritorum
-uestrorum et me non prestiti officii minus <corr n="corr4">paeniteat</corr>.<!-- peniteat BLC5a27, BL17814, BL27527, pe-iteat BL18645; consecutio? --> Ad haec compellit
+uestrorum et me non praestiti officii minus <corr n="corr4">paeniteat</corr>.<!-- peniteat BLC5a27, BL17814, BL27527, pe-iteat BL18645; consecutio? --> Ad haec compellit
 me et uehementius urget mea erga uos incredibilis caritas ut uos
 horter atque obtester ne huius mundi illecebris atque lenociniis
 animum uestrum inducatis, neue in luxu ac <corr n="corr5">inanibus</corr>
