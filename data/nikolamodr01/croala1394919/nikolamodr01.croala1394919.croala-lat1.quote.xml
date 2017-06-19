@@ -607,8 +607,8 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
                     licet <quote n="quote1" xml:id="quote5">cupiam dissolui et esse cum Christo, uror
                         tamen sola uestrarum rerum cura</quote>. Cognosco enim me tenuem uobis
                     mercedem pro meritis exhibuisse
-                    <!-- exhibuisse BL17814, BL27527; exipuisse BL18645 -->, tametsi nunquam mihi
-                    uoluntas defuerit, sed facultas. Et nisi tanta temporis angustia prohibitus
+                    <!-- exhibuisse BL17814, BL27527; exipuisse BL18645 -->, tametsi <quote xml:id="q2.quote5b">nunquam mihi
+                    uoluntas defuerit, sed facultas</quote>. Et nisi tanta temporis angustia prohibitus
                     fuissem, nullus uestrum meae gratitudinis uices doleret. Meritum, quod potui,
                     moriens uobis persolui. Supplicaui <!-- Supplicauit BL17814 --> summo pontifici
                     ut beneficia, quae in me contulerat, sua clementia inter uos partiatur, ut et
