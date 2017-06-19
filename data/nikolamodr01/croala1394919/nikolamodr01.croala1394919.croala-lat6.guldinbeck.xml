@@ -3604,7 +3604,7 @@
                 <w>et</w>
                 <w>gloriae</w>
                 <w>meae</w>
-                <w>satis</w>
+                <lb/><w>satis</w>
                 <w>uixisse</w>
                 <w>scio</w><pc>.</pc>
                 <w>Cepi</w>
@@ -3615,7 +3615,7 @@
                 <w>mortalitate</w>
                 <w>fructum</w>
                 <w>quem</w>
-                <w>maximum</w>
+                <lb/><w>maximum</w>
                 <w>mea</w>
                 <w>fortuna</w>
                 <w>capere</w>
@@ -3624,14 +3624,14 @@
                 <w>restabat</w>
                 <w>nihil</w><pc>,</pc>
                 <w>quicquid</w>
-                <w>supererat</w><pc>,</pc>
+                <lb/><w>supererat</w><pc>,</pc>
                 <w>merito</w>
                 <w>mihi</w>
                 <w>suspectum</w>
                 <w>metuendumque</w>
                 <w>fuisset</w><pc>.</pc>
                 <w>Proinde</w>
-                <w>licet</w>
+                <lb/><w>licet</w>
                 <w>cupiam</w>
                 <w>dissolui</w>
                 <w>et</w>
@@ -3643,7 +3643,7 @@
                 <w>sola</w>
                 <w>uestrarum</w>
                 <w>rerum</w>
-                <w>cura</w><pc>.</pc>
+                <w>cu<lb/>ra</w><pc>.</pc>
                 <w>Cognosco</w>
                 <w>enim</w>
                 <w>me</w>
@@ -3652,8 +3652,8 @@
                 <w>mercedem</w>
                 <w>pro</w>
                 <w>meritis</w>
-                <w>exhibuisse</w><pc>,</pc>
-                <w>tametsi</w>
+                <sic resp="#viaf6913774"><w>exipuisse</w></sic><pc>,</pc>
+                <lb/><w>tametsi</w>
                 <w>nunquam</w>
                 <w>mihi</w>
                 <w>uoluntas</w>
