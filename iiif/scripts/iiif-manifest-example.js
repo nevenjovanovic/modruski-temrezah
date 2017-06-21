@@ -7,7 +7,7 @@ map = L.map('map', {
   zoom: 0
 });
 
-var manifestUrl = 'guldinbeckmanifest.json';
+
 
 // Grab a IIIF manifest
 $.getJSON(manifestUrl, function(data) {
