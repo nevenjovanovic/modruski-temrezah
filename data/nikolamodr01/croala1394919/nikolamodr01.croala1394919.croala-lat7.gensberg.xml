@@ -355,7 +355,7 @@
                 <w>responsa</w>
                 <w>et</w>
                 <w>reddere</w>
-                <w>consueuerat</w>
+                <w>con<lb/>sueuerat</w>
                 <w>et</w>
                 <w>accipere</w><pc>.</pc>
                 <w>Absit</w>
@@ -363,47 +363,47 @@
                 <w>inuidia</w>
                 <w>et</w>
                 <w>liuor</w>
-                <w>edax</w>
+                <lb/><w>edax</w>
                 <w>saltem</w>
                 <w>parcat</w>
                 <w>cineribus</w><pc>.</pc>
                 <w>Extinctus</w>
                 <w>iacet</w>
-                <w>optimarum</w>
+                <w>opti<lb/>marum</w>
                 <w>artium</w>
                 <w>deditissimus</w>
                 <w>amator</w><pc>;</pc>
                 <w>interiit</w>
                 <w>omnium</w>
-                <w>studiosorum</w>
+                <lb/><sic resp="#viaf6913774"><w>studiorum</w></sic>
                 <w>praecipuus</w>
                 <w>fautor</w><pc>,</pc>
                 <w>cultor</w>
                 <w>bonorum</w><pc>,</pc>
                 <w>curiae</w>
-                <w>splendor</w><pc>,</pc>
+                <lb/><w>splendor</w><pc>,</pc>
                 <w>ornamentum</w>
                 <w>ciuitatis</w><pc>,</pc>
                 <w>et</w>
                 <w>huius</w>
                 <w>urbis</w>
-                <w>diligentissimus</w>
+                <w>dili<lb/>gentissimus</w>
                 <w>restaurator</w><pc>.</pc>
                 <w>Corruit</w>
                 <w>praeclarum</w>
-                <w>magnanimitatis</w>
+                <w>magnanimi<lb/>tatis</w>
                 <w>exemplar</w><pc>,</pc>
                 <w>cecidit</w>
                 <w>munificentiae</w><pc>,</pc>
                 <w>gratitudinis</w><pc>,</pc>
-                <w>et</w>
+                <lb/><w>et</w>
                 <w>totius</w>
                 <w>liberalitatis</w>
-                <sic><w>alumpnus</w></sic><pc>.</pc>
+                <expan resp="#viaf6913774"><w>alumnus</w></expan><pc>.</pc>
                 <w>Cuius</w>
                 <w>iactura</w>
                 <w>cum</w>
-                <w>uniuersis</w>
+                <lb/><w>uniuersis</w>
                 <w>lugenda</w>
                 <w>sit</w><pc>,</pc>
                 <w>tum</w>
@@ -411,28 +411,28 @@
                 <w>praecipue</w>
                 <w>atque</w>
                 <w>his</w>
-                <w>infelicissimis</w>
+                <w>in<lb/>felicissimis</w>
                 <w>conseruis</w>
                 <w>meis</w><pc>,</pc>
                 <w>quibus</w>
                 <w>haec</w>
                 <w>crudelis</w>
                 <w>et</w>
-                <w>dira</w>
+                <w>di<lb/>ra</w>
                 <w>mors</w>
                 <w>tam</w>
                 <w>benignissimum</w>
                 <w>abstulit</w>
                 <w>dominum</w><pc>,</pc>
                 <w>interuertit</w>
-                <w>benefactorem</w><pc>,</pc>
+                <lb/><w>benefactorem</w><pc>,</pc>
                 <w>ademit</w>
                 <w>praesidium</w><pc>,</pc>
                 <w>et</w>
                 <w>unico</w>
                 <w>atque</w>
                 <w>eodem</w>
-                <w>piissimo</w>
+                <w>piis<lb/>simo</w>
                 <w>patre</w>
                 <w>nos</w>
                 <w>acerba</w>
@@ -440,13 +440,13 @@
                 <w>Nolite</w>
                 <w>igitur</w>
                 <w>nolite</w>
-                <w>expectare</w><pc>,</pc>
+                <lb/><w>expectare</w><pc>,</pc>
                 <w>praestantissimi</w>
                 <w>patres</w><pc>,</pc>
                 <w>ut</w>
                 <w>luctum</w>
                 <w>ac</w>
-                <w>merorem</w><pc>,</pc>
+                <w>mero<lb/>rem</w><pc>,</pc>
                 <w>in</w>
                 <w>quo</w>
                 <w>et</w>
@@ -458,20 +458,21 @@
                 <w>me</w>
                 <w>ac</w>
                 <w>totam</w>
-                <w>hanc</w>
+                <lb/><w>hanc</w>
                 <w>miserandam</w>
                 <w>familiam</w><pc>,</pc>
                 <w>quoad</w>
                 <w>uixerimus</w><pc>,</pc>
                 <w>fore</w>
-                <w>necesse</w>
+                <w>ne<lb/>cesse</w>
                 <w>est</w><pc>,</pc>
                 <w>uobis</w>
                 <w>adimam</w><pc>.</pc>
+                <pc unit="para" force="strong" pre="true">¶</pc>
                 <w>Quin</w>
                 <w>potius</w>
                 <w>pro</w>
-                <w>uestra</w>
+                <w>ue<lb/>stra</w>
                 <w>clementia</w>
                 <w>dabitis</w>
                 <w>dolori</w>
@@ -479,13 +480,13 @@
                 <w>ueniam</w>
                 <w>si</w>
                 <w>eius</w>
-                <w>acerbitate</w>
+                <lb/><w>acerbitate</w>
                 <w>abductus</w>
                 <w>nec</w>
                 <w>rerum</w>
                 <w>ordinem</w>
                 <w>seruare</w>
-                <w>ualeam</w>
+                <w>ua<lb/>leam</w>
                 <w>nec</w>
                 <w>uerborum</w>
                 <w>tenere</w>
@@ -493,7 +494,7 @@
                 <w>praesertim</w>
                 <w>cum</w>
                 <w>ea</w>
-                <w>culpa</w>
+                <w>cul<lb/>pa</w>
                 <w>libentius</w>
                 <w>ego</w>
                 <w>carere</w>
@@ -502,14 +503,14 @@
                 <w>illam</w>
                 <w>a</w>
                 <w>uobis</w>
-                <w>deprecari</w>
+                <w>depre<lb/>cari</w>
                 <w>si</w>
                 <w>mihi</w>
                 <w>impositum</w>
                 <w>onus</w>
                 <w>detractare</w>
                 <w>licuisset</w><pc>;</pc>
-                <w>agam</w>
+                <lb/><w>agam</w>
                 <w>tamen</w>
                 <w>ut</w>
                 <w>potero</w><pc>,</pc>
@@ -517,7 +518,7 @@
                 <w>minus</w>
                 <w>temeritatis</w>
                 <w>quam</w>
-                <w>ingratitudinis</w>
+                <w>ingratitu<lb/>dinis</w>
                 <w>notam</w>
                 <w>subire</w>
                 <w>uerebor</w><pc>.</pc>
@@ -527,20 +528,20 @@
                 <w>Dicturus</w>
                 <w>igitur</w>
                 <w>de</w>
-                <w>laudibus</w>
+                <w>lau<lb/>dibus</w>
                 <w>reuerendissimi</w>
                 <w>domini</w>
                 <w>domini</w>
                 <w>Petri</w>
                 <w>cardinalis</w>
                 <w>sancti</w>
-                <w>Sixti</w><pc>,</pc>
+                <lb/><w>Sixti</w><pc>,</pc>
                 <w>cuius</w>
                 <w>miserandum</w>
                 <w>funus</w>
                 <w>hodierna</w>
                 <w>die</w>
-                <w>celebratur</w><pc>,</pc>
+                <w>cele<lb/>bratur</w><pc>,</pc>
                 <w>eas</w>
                 <w>laudes</w><pc>,</pc>
                 <w>quas</w>
@@ -550,13 +551,13 @@
                 <w>uel</w>
                 <w>a</w>
                 <w>patria</w>
-                <w>ipsius</w>
+                <lb/><w>ipsius</w>
                 <w>colligere</w>
                 <w>poteram</w><pc>,</pc>
                 <w>hoc</w>
                 <w>loco</w>
                 <w>praetermittendas</w>
-                <w>putaui</w><pc>;</pc>
+                <lb/><w>putaui</w><pc>;</pc>
                 <w>non</w>
                 <w>quod</w>
                 <w>illas</w>
@@ -565,12 +566,12 @@
                 <w>aut</w>
                 <w>tenues</w>
                 <w>fore</w>
-                <w>dixerim</w><pc>,</pc>
+                <lb/><sic resp="#viaf6913774"><w>duxerim</w></sic><pc>,</pc>
                 <w>quoniam</w>
                 <w>et</w>
                 <w>honestissimis</w>
                 <w>nobilissimisque</w>
-                <w>ciuitatis</w>
+                <w>ciui<pb n="2a"/><lb/>tatis</w>
                 <w>suae</w>
                 <w>parentibus</w>
                 <w>est</w>
@@ -578,7 +579,7 @@
                 <w>et</w>
                 <w>celeberrimo</w>
                 <w>uetustoque</w>
-                <w>Ligurum</w>
+                <lb/><w>Ligurum</w>
                 <w>oppido</w>
                 <w>Saona</w><pc>,</pc>
                 <w>uerum</w>

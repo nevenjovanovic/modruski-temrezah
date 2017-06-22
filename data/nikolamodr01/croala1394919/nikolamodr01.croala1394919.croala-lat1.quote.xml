@@ -214,14 +214,14 @@
                 singulare solacium et sacrae eius senectutis optatissimum baculum, participem
                 secretorum, laborum socium, peregrinationis comitem, leuamen curarum, et per quem
                 totius orbis principibus fidissima responsa et reddere consueuerat et accipere.
-                Absit uero inuidia et liuor edax saltem parcat cineribus. Extinctus iacet optimarum
+                Absit uero inuidia et <quote xml:id="p1.quote1">liuor edax</quote> saltem parcat cineribus. Extinctus iacet optimarum
                 artium deditissimus amator; interiit omnium studiosorum praecipuus fautor, cultor
                 bonorum, curiae splendor, ornamentum ciuitatis, et huius urbis diligentissimus
                 restaurator. Corruit praeclarum magnanimitatis exemplar, cecidit munificentiae,
                 gratitudinis, et totius liberalitatis alumnus. Cuius iactura cum uniuersis lugenda
                 sit, tum mihi praecipue atque his infelicissimis conseruis meis, quibus haec
-                crudelis et dira mors tam benignissimum abstulit dominum, interuertit benefactorem,
-                ademit praesidium, et unico atque eodem piissimo patre nos acerba orbauit. Nolite
+                <quote xml:id="p1.quote2a" next="#p1.quote2b">crudelis et dira mors</quote> tam benignissimum abstulit dominum, interuertit benefactorem,
+                ademit praesidium, et unico atque eodem piissimo patre nos <quote xml:id="p1.quote2b" prev="#p1.quote2a">acerba</quote> orbauit. Nolite
                 igitur expectare, praestantissimi patres, ut luctum ac merorem, in quo et uos nunc
                 esse intueor et me ac totam hanc miserandam familiam, quoad uixerimus, fore necesse
                 est, uobis adimam. Quin potius pro uestra clementia dabitis dolori meo ueniam si
