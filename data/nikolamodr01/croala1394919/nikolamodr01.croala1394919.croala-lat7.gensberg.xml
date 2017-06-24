@@ -1034,18 +1034,18 @@
                 <w>familiares</w>
                 <w>eius</w><pc>,</pc>
                 <w>uiros</w>
-                <w>quidem</w>
+                <lb/><w>quidem</w>
                 <w>doctissimos</w><pc>,</pc>
                 <w>quibuscum</w>
                 <w>inter</w>
                 <w>cenandum</w>
                 <w>de</w>
                 <w>uariis</w>
-                <w>disciplinarum</w>
+                <lb/><w>disciplinarum</w>
                 <w>studiis</w>
                 <w>frequenter</w>
                 <w>disserere</w>
-                <w>consueuerat</w>
+                <w>consueue<lb/>rat</w>
                 <w>adeo</w>
                 <w>acute</w>
                 <w>adeoque</w>
@@ -1053,91 +1053,92 @@
                 <w>ac</w>
                 <w>subtiliter</w>
                 <w>de</w>
-                <w>quaestione</w>
+                <lb/><w>quaestione</w>
                 <w>proposita</w>
                 <w>ut</w>
                 <w>eum</w>
-                <sic><w>putare</w></sic>
+                <sic resp="#viaf6913774"><w>putaret</w></sic>
                 <w>die</w>
                 <w>noctuque</w>
-                <w>nulli</w>
+                <lb/><w>nulli</w>
                 <w>adeo</w>
                 <w>alii</w>
                 <w>rei</w>
                 <w>quam</w>
                 <w>euoluendis</w>
                 <w>theologorum</w>
-                <w>philosophorumque</w>
+                <w>philosophorum<lb/>que</w>
                 <w>libris</w>
                 <w>uacare</w><pc>.</pc>
                 <w>Tenebat</w>
                 <w>fixa</w>
                 <w>memoriae</w>
                 <w>quaecunque</w>
-                <w>ab</w>
+                <lb/><w>ab</w>
                 <w>ineunte</w>
                 <w>aetate</w>
                 <w>a</w>
                 <w>praeceptoribus</w>
                 <w>audierat</w><pc>.</pc>
                 <w>Vigebat</w>
-                <w>praeterea</w>
+                <lb/><w>praeterea</w>
                 <w>stupendo</w>
                 <w>ingenii</w>
                 <w>acumine</w><pc>,</pc>
                 <w>cuius</w>
-                <w>perspicacitate</w>
+                <w>perspicacita<lb/>te</w>
                 <w>facile</w>
                 <w>in</w>
                 <w>abditissima</w>
                 <w>quaeque</w>
                 <w>naturae</w>
                 <w>secreta</w>
-                <w>penetrabat</w><pc>,</pc>
+                <w>pene<lb/>trabat</w><pc>,</pc>
                 <w>et</w>
                 <w>ex</w>
                 <w>perceptis</w>
                 <w>semel</w>
                 <w>principiis</w>
                 <w>difficillima</w>
-                <w>quaeuis</w>
+                <lb/><w>quaeuis</w>
                 <w>uel</w>
                 <w>philosophiae</w>
-                <supplied resp="#viaf6913774"><w>uel</w> <w>theologiae</w></supplied>
+                <w>uel</w> 
+                <w>theologiae</w>
                 <w>problemata</w>
                 <w>summa</w>
-                <w>cum</w>
+                <lb/><w>cum</w>
                 <w>omnium</w>
                 <w>admiratione</w>
                 <w>absoluebat</w><pc>;</pc>
                 <w>uersus</w>
-                <w>complures</w>
+                <w>complu<lb/>res</w>
                 <w>multosque</w>
-                <w>grammatice</w>
+                <w>grammaticae</w>
                 <w>textus</w><pc>,</pc>
                 <w>quos</w>
                 <w>olim</w>
                 <w>puer</w>
-                <w>edidicerat</w><pc>,</pc>
+                <lb/><w>edidicerat</w><pc>,</pc>
                 <w>ita</w>
                 <w>memoriter</w>
                 <w>recitabat</w>
                 <w>ut</w>
                 <w>ea</w>
                 <w>illum</w>
-                <w>heri</w>
+                <w>he<lb/>ri</w>
                 <w>aut</w>
                 <w>nudiustertius</w>
                 <w>memoriae</w>
                 <w>mandasse</w>
-                <w>existimares</w><pc>.</pc>
+                <w>existima<lb/>res</w><pc>.</pc>
                 <w>Perfectis</w>
                 <w>igitur</w>
                 <w>quam</w>
                 <w>celerrime</w>
                 <w>omnium</w>
                 <w>bonarum</w>
-                <w>artium</w>
+                <w>ar<lb/>tium</w>
                 <w>studiis</w><pc>,</pc>
                 <w>rediit</w>
                 <w>sollicitus</w>
@@ -1145,26 +1146,26 @@
                 <w>magistrum</w><pc>,</pc>
                 <w>munus</w><pc>,</pc>
                 <w>cui</w>
-                <w>caelitus</w>
+                <lb/><w>caelitus</w>
                 <w>destinatus</w>
                 <w>erat</w><pc>,</pc>
                 <w>optime</w>
                 <w>impleturus</w><pc>.</pc>
                 <w>Inerat</w>
-                <w>enim</w>
+                <lb/><w>enim</w>
                 <w>menti</w>
                 <w>eius</w>
                 <w>praesaga</w>
                 <w>quaedam</w>
                 <w>futurorum</w>
                 <w>diuinitas</w>
-                <w>complurimaque</w><pc>,</pc>
+                <w>com<lb/>plurimaque</w><pc>,</pc>
                 <w>antequam</w>
                 <w>contigissent</w><pc>,</pc>
                 <w>per</w>
                 <w>quietem</w>
                 <w>discebat</w><pc>,</pc>
-                <w>ita</w>
+                <lb/><w>ita</w>
                 <w>ut</w>
                 <w>insomnia</w>
                 <w>ipsius</w>
