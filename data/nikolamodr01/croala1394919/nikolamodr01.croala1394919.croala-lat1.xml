@@ -301,11 +301,12 @@ izd; p-agendo BLC5a27 --> strenuus, secretorum
             uidebatur, nec ullius rei facilius quam inimicitiarum obliuiscebatur. Floccipendebat
             <!-- flocc. etc. prvi prijepis --> aemulos <!-- 9; pb BLC5a27 -->quoscumque et nullam in
             rem pronior quam in supplicium ueniam uidebatur, tantumque ab omni ulciscendi ardore
-            aberat ut inimicis suis benefacere gauderet. Nihil in se fictum, nihil subdolum aut
-            simulatum esse uolebat, nec quicquam magis detestabatur quam mentitam probitatem. Mali
+            aberat ut inimicis suis benefacere gauderet. <quote  xml:id="p4.quote2">Nihil in se fictum, nihil subdolum aut
+               simulatum esse</quote><note target="#p4.quote2">Cf. <bibl>Cic. de am. 25, 95</bibl>, <bibl>Plin. paneg. 66, 5</bibl></note> uolebat, nec quicquam magis detestabatur quam mentitam probitatem. <quote  xml:id="p4.quote3">Mali
             quippe et iniqui hominis esse dicebat meliorem se <corr n="corr5">foris</corr>
-            <!-- foris BLC5a27; fortis izd --> ostendere quam gerere domi, proborum autem uirorum
-            esse non simulatione, sed integritate uiros superare. </p>
+                  <!-- foris BLC5a27; fortis izd --> ostendere quam gerere domi</quote><note target="#p4.quote3">Cf. <bibl>Thomas a Kempis, im. 1, 19, 1</bibl>: <quote>Vita boni Religiosi omnibus virtutibus pollere debet, ut sit talis interius qualis ab hominibus videtur exterius. Et multo plus debet esse intus, quam quod cernitur foris</quote>.</note>, proborum autem uirorum
+            esse <quote xml:id="p4.quote4">non simulatione, sed integritate uiros superare</quote>.
+            <note target="#p4.quote4">Cf. <bibl>Aur. Vict. caes. 42, 4</bibl>: <quote>Quae res satis edocuit non modo domi, verum militiae quoque dicendi copiam praestare; qua demum vel ardua proclivius eo conficiuntur, si modestia atque integritate superet.</quote></note></p>
             <p n="p5">
 Sane munificentiae liberalitatisque eius largitatem quis est qui
 ignoret nisi qui illa uti uel noluerit uel nescierit? Ea ipse ita

@@ -354,11 +354,11 @@ izd; p-agendo BLC5a27 --> strenuus, secretorum
                 Floccipendebat <!-- flocc. etc. prvi prijepis --> aemulos
                 <!-- 9; pb BLC5a27 -->quoscumque et nullam in rem pronior quam in supplicium ueniam
                 uidebatur, tantumque ab omni ulciscendi ardore aberat ut inimicis suis benefacere
-                gauderet. Nihil in se fictum, nihil subdolum aut simulatum esse uolebat, nec
-                quicquam magis detestabatur quam mentitam probitatem. Mali quippe et iniqui hominis
+                gauderet. <quote xml:id="p4.quote2">Nihil in se fictum, nihil subdolum aut simulatum esse</quote> uolebat, nec
+                quicquam magis detestabatur quam mentitam probitatem. <quote xml:id="p4.quote3">Mali quippe et iniqui hominis
                 esse dicebat meliorem se foris <!-- foris BLC5a27; fortis izd --> ostendere quam
-                gerere domi, proborum autem uirorum esse non simulatione, sed integritate uiros
-                superare. </p>
+                    gerere domi</quote>, proborum autem uirorum esse <quote xml:id="p4.quote4">non simulatione, sed integritate uiros
+                superare</quote>. </p>
             <p n="p5"> Sane munificentiae liberalitatisque eius largitatem quis est qui ignoret nisi
                 qui illa uti uel noluerit uel nescierit? Ea ipse ita flagrabat ut illos etiam,
                 quibus iustis de causis aliquando irascebatur, muneribus tamen ornare non cessaret.
