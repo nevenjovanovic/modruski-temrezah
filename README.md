@@ -2,6 +2,8 @@
 
 Priredili [Neven Jovanović](orcid.org/0000-0002-9119-399X) i [Luka Špoljarić](https://viaf.org/viaf/305787705), Odsjek za klasičnu filologiju [Filozofskog fakulteta Sveučilišta u Zagrebu](https://www.wikidata.org/wiki/Q3445232).
 
+[![DOI](https://zenodo.org/badge/73575423.svg)](https://zenodo.org/badge/latestdoi/73575423)
+
 Ovo je izdanje dio projekta [TeMrežaH - Tekstualne mreže ranonovovjekovne Hrvatske](http://temrezah.ffzg.unizg.hr/).
 
 ## O izdanju
