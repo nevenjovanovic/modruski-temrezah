@@ -561,8 +561,8 @@ his proximis diebus adiecturus erat praestantissimis omnium scientiarum
 libris egregie refertam.  Sed dei uoluntate nobis tam repente ademptus
 est, non quod tam piis operibus non delectaretur deus, uerum (quod
 ualde pertimesco) ut eum calamitatibus, quibus forsan in nostra crimina
-<corr n="corr10">desaeuire</corr> decreuit, immeritum subtraheret, et pro adimpleto bene
-   ministerio<!-- misterio BL18645 -->, cuius <corr n="corr11">gratia</corr>
+               <corr n="corr10">desaeuire</corr> decreuit, immeritum subtraheret, et pro <quote xml:id="p17.quote1">adimpleto bene
+                  ministerio</quote><note target="#p17.quote1">Cf. <bibl>Aug. ep. 142</bibl>: <quote>ministerium vestrum sinceriter adimplete</quote></note><!-- misterio BL18645 -->, cuius <corr n="corr11">gratia</corr>
                <!-- gracia BL18645; gratia BL27527; gra- BL17814 --> eum procreauerat, congruis praemiis afficere
 non differret.  Cuius miserationis dilectionisque certa indicia in
 ipsius uidimus morte; quam, cum multis ante diebus aduentare
@@ -587,7 +587,7 @@ quin magno constantique pectore <q n="q1">Sentio,</q> inquit, <q n="q2">filii
                   <!--
 uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. --> lubensque <quote xml:id="q2.quote1b">eius praesto sum uoluntati</quote><note target="#q2.quote1b">Cf. <bibl>S. Bernard, De annuntiatione domini sermo II, 3</bibl>: 
       <quote>Ecce ancilla Domini: praesto sum ejus voluntati</quote>.</note>, eo
-   quidem libentior quo me et famae et gloriae meae satis uixisse scio. <corr n="corr2">Cepi</corr>
+   quidem libentior quo <quote xml:id="p18.quote3">me et famae et gloriae meae satis uixisse scio</quote><note target="#p18.quote3">Cf. <bibl>Cic. pro Marc. 25</bibl>: <quote> Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi: "Satis diu vel naturae vixi vel gloriae.''</quote></note>. <corr n="corr2">Cepi</corr>
                   <!-- Cepi BL17814, BL27527, BL18645 -->
 enim illum ex hac mortalitate fructum quem maximum mea fortuna capere
 potuit. Maius restabat nihil,<!-- nichil BLC5a27; nichil 1; nihil BL18645, BL17814, BL27527 izd --> quicquid
@@ -612,7 +612,11 @@ gratitudinis uices doleret. Meritum, quod potui, moriens uobis
 persolui. Supplicaui <!-- Supplicauit BL17814 --> summo pontifici ut beneficia, quae in me
 contulerat, sua clementia inter uos partiatur, ut et uos meritorum
 uestrorum et me non praestiti officii minus <corr n="corr4">paeniteat</corr>.<!-- peniteat BLC5a27, BL17814, BL27527, pe-iteat BL18645; consecutio? --> Ad haec compellit
-me et uehementius urget mea erga uos incredibilis caritas ut uos
+me et uehementius urget mea erga uos <quote xml:id="p18.quote7">incredibilis caritas</quote>
+   <note target="#p18.quote7">
+      Cf. <bibl>S. Bern. Sermones Super cantica canticorum 79, 6</bibl>: 
+      <quote>Incredibilis caritas, si non sermo, quem locuta est ipsa, fecisset fidem.</quote>
+   </note>ut uos
 horter atque obtester ne huius mundi illecebris atque lenociniis
 animum uestrum inducatis, neue in luxu ac <corr n="corr5">inanibus</corr>
                   <!-- inanibus BLC5a27, BL17814, in-/anibus BL27527; manib- BL18645; manibus izd -->
@@ -630,7 +634,10 @@ caducum esse potest, sed omnia incorruptibilia, omnia
 sempiterna.</quote><note target="#quote6a">Cf. Io 14, 2-3  <quote>2 in domo Patris mei mansiones multae sunt si quo minus dixissem vobis quia vado parare vobis locum
    3 et si abiero et praeparavero vobis locum iterum venio et accipiam vos ad me ipsum ut ubi sum ego et vos sitis</quote>
 </note> Proinde date operam probitati, et uirtuti totis uiribus
-incumbite.  Colite pietatem et <!-- et BLC5a27, BL17814, BL27527; et om. plannck; , BL18645 -->integritati nihil anteponite, scientes unicuique uestrum propositam esse a domino laborum suorum mercedem; quae etiam si nulla esset, hoc tamen<!-- 19; pb BLC5a27 -->
+incumbite.  Colite pietatem et <!-- et BLC5a27, BL17814, BL27527; et om. plannck; , BL18645 -->integritati nihil anteponite, scientes unicuique uestrum <quote xml:id="p18.quote8">propositam esse a domino laborum suorum mercedem</quote>
+   <note target="#p18.quote8">
+      Cf. <bibl>Sap. 10, 17</bibl>: <quote>reddidit iustis mercedem laborum suorum</quote>.
+   </note>; quae etiam si nulla esset, hoc tamen<!-- 19; pb BLC5a27 -->
    ipsum <corr n="corr8">pie</corr> 
                   <!-- pię BLC5a27; pie BL18645, BL17814 -->et sancte uixisse maxima uiro bono merces esse debet, quippe
    cuius beneficio homines a brutis secernuntur, et nomen suum <corr n="corr9">sempiternae</corr> 
