@@ -3838,35 +3838,36 @@
                 <w>beneficio</w>
                 <w>homines</w>
                 <w>a</w>
-                <w>brutis</w>
+                <w>bru<lb/>tis</w>
                 <w>secernuntur</w><pc>,</pc>
                 <w>et</w>
                 <w>nomen</w>
                 <w>suum</w>
                 <w>sempiternae</w>
                 <w>consecrant</w>
-                <w>immortalitati</w><pc>.</pc>
+                <lb/><w>immortalitati</w><pc>.</pc>
             </p>
             <p n="p19">
+                <pc unit="para" force="strong" pre="true">¶</pc>
                 <w>Reliquum</w>
                 <w>est</w>
                 <w>quod</w>
                 <w>uos</w>
                 <w>per</w>
-                <w>uiscera</w>
+                <w>uisce<lb/>ra</w>
                 <w>misericordiae</w>
                 <w>saluatoris</w>
                 <w>nostri</w>
                 <w>supplex</w>
                 <w>deprecor</w>
-                <w>ut</w>
+                <lb/><w>ut</w>
                 <w>mihi</w><pc>,</pc>
                 <w>quaecunque</w>
                 <w>in</w>
                 <w>uos</w>
                 <w>deliqui</w><pc>,</pc>
                 <w>condonare</w>
-                <w>dignemini</w><pc>.</pc>
+                <w>digne<lb/>mini</w><pc>.</pc>
                 <w>Minus</w>
                 <w>quippe</w>
                 <w>meae</w>
@@ -3874,14 +3875,14 @@
                 <w>potens</w>
                 <w>fui</w><pc>,</pc>
                 <w>et</w>
-                <w>nonnunquam</w>
+                <lb/><w>nonnunquam</w>
                 <w>partim</w>
                 <w>oculos</w><pc>,</pc>
                 <w>partim</w>
                 <w>aures</w>
                 <w>uestras</w>
                 <w>in</w>
-                <w>multis</w>
+                <w>mul<lb/>tis</w>
                 <w>offendi</w><pc>.</pc>
                 <w>Sed</w>
                     <w>eorum</w>
@@ -3890,19 +3891,19 @@
                     <w>me</w>
                     <w>a</w>
                     <w>domino</w>
-                <w>misericordiarum</w>
+                <w>mise<lb/>ricordiarum</w>
                     <w>consecuturum</w>
                     <w>confido</w>
                     <w>quanto</w>
                     <w>uos</w>
                 <w>modestius</w>
-                    <w>uiuentes</w>
+                <lb/><w>uiuentes</w>
                     <w>pro</w>
                     <w>me</w>
                     <w>dominum</w>
                 <w>deprecabimini</w>.
                 <w>Ego</w>
-                <w>quoque</w><pc>,</pc>
+                <w>quo<lb/>que</w><pc>,</pc>
                 <w>si</w>
                 <w>quis</w>
                 <w>mortuis</w>
@@ -3912,14 +3913,14 @@
                 <w>pro</w>
                 <w>uobis</w>
                 <w>me</w>
-                <w>spondeo</w>
+                <lb/><w>spondeo</w>
                 <w>facturum</w><pc>.</pc>
                 <w>Viuite</w>
                 <w>mei</w>
                 <w>memores</w>
                 <w>et</w><pc>,</pc>
                 <w>quam</w>
-                <w>caduca</w>
+                <w>ca<lb/>duca</w>
                 <w>sit</w>
                 <w>huius</w>
                 <w>mundi</w>
@@ -3927,7 +3928,7 @@
                 <w>uel</w>
                 <w>meo</w>
                 <w>exemplo</w>
-                <w>discite</w><pc>.</pc>
+                <lb/><w>discite</w><pc>.</pc>
             </p>
             <p n="p20">
                 <w>His</w>
