@@ -3938,58 +3938,58 @@
                 <w>plerisque</w>
                 <w>summa</w>
                 <w>cum</w>
-                <w>religione</w>
+                <w>reli<lb/>gione</w>
                 <w>sanctissime</w>
                 <w>monitos</w>
                 <w>singulos</w>
                 <w>flentes</w>
-                <w>eiulantesque</w>
+                <w>eiu<lb/>lantesque</w>
                 <w>deosculatus</w>
                 <w>dimisit</w><pc>.</pc>
                 <w>Se</w>
                 <w>autem</w>
                 <w>in</w>
                 <w>lectulo</w>
-                <w>componens</w><pc>,</pc>
+                <w>com<lb/>ponens</w><pc>,</pc>
                 <w>intentis</w>
                 <w>iugiter</w>
                 <w>in</w>
                 <w>caelum</w>
                 <w>oculis</w><pc>,</pc>
-                <w>misericordiam</w>
+                <w>misericordi<lb/>am</w>
                 <w>peccatorum</w>
                 <w>suorum</w>
                 <w>supplex</w>
                 <w>a</w>
                 <w>domino</w>
                 <w>precabatur</w><pc>.</pc>
-                <sic><w>Cunque</w></sic>
+                <lb/><expan resp="#viaf6913774"><w>Cumque</w></expan>
                 <w>iam</w>
                 <w>nox</w>
                 <w>intempesta</w>
                 <w>medium</w>
                 <w>cursum</w>
                 <w>peregisset</w><pc>,</pc>
-                <w>conuersus</w>
+                <lb/><w>conuersus</w>
                 <w>ad</w>
                 <w>Viterbiensem</w>
                 <w>praesulem</w>
                 <w>Ecce</w><pc>,</pc>
                 <w>inquit</w><pc>,</pc>
-                <w>appropinquat</w>
+                <lb/><w>appropinquat</w>
                 <w>iam</w>
                 <w>hora</w><pc>;</pc>
                 <w>affer</w>
                 <w>mihi</w>
                 <w>sacrae</w>
-                <w>unctionis</w>
+                <w>unctio<lb/>nis</w>
                 <w>oleum</w><pc>.</pc>
                 <w>Quod</w>
                 <w>confestim</w>
                 <w>cubiculo</w>
                 <w>illatum</w>
                 <w>nudato</w>
-                <w>ac</w>
+                <lb/><w>ac</w>
                 <w>sublato</w><pc>,</pc>
                 <w>ut</w>
                 <w>poterat</w><pc>,</pc>
@@ -3997,13 +3997,13 @@
                 <w>religiose</w>
                 <w>ueneratus</w>
                 <w>est</w><pc>,</pc>
-                <w>deinde</w>
+                <lb/><w>deinde</w>
                 <w>exhibitis</w>
                 <w>manibus</w>
                 <w>ac</w>
                 <w>pedibus</w>
                 <w>rite</w>
-                <w>perunctus</w><pc>;</pc>
+                <w>perunc<lb/>tus</w><pc>;</pc>
                 <w>quo</w>
                 <w>facto</w>
                 <w>Proferte</w><pc>,</pc>
@@ -4011,35 +4011,35 @@
                 <w>sacros</w>
                 <w>codices</w><pc>,</pc>
                 <w>et</w>
-                <w>aliquid</w>
+                <lb/><w>aliquid</w>
                 <w>de</w>
                 <w>diuinis</w>
-                <sic><w>misteriis</w></sic>
+                <sic resp="#viaf6913774"><w>misteriis</w></sic>
                 <w>meam</w>
                 <w>domino</w>
                 <w>animam</w>
-                <w>commendantes</w>
+                <w>com<lb/>mendantes</w>
                 <w>recitate</w><pc>.</pc>
                 <w>Quibus</w>
                 <w>mox</w>
                 <w>prolatis</w>
                 <w>usque</w>
                 <w>in</w>
-                <w>lucem</w>
+                <lb/><w>lucem</w>
                 <w>partim</w>
                 <w>psalmi</w>
                 <w>decantati</w>
                 <w>sunt</w><pc>,</pc>
                 <w>partim</w>
                 <w>lecta</w>
-                <w>euangelia</w><pc>,</pc>
+                <lb/><w>euangelia</w><pc>,</pc>
                 <w>semperque</w>
                 <w>intentus</w>
                 <w>auribus</w>
                 <w>atque</w>
                 <w>oculis</w>
                 <w>in</w>
-                <w>ea</w>
+                <lb/><w>ea</w>
                 <w>quae</w>
                 <w>legebantur</w><pc>,</pc>
                 <w>etiam</w>
@@ -4047,24 +4047,24 @@
                 <w>spiritu</w><pc>,</pc>
                 <w>perstitit</w><pc>,</pc>
                 <w>donec</w>
-                <w>lector</w>
+                <pb n="10r"/><lb/><w>lector</w>
                 <w>dominicae</w>
                 <w>passionis</w>
                 <w>ad</w>
                 <w>illum</w>
                 <w>locum</w>
                 <w>peruenit</w>
-                <w>ubi</w>
+                <lb/><w>ubi</w>
                 <w>scriptura</w>
                 <w>inquit</w>
                 <w>et</w>
                 <w>inclinato</w>
                 <w>capite</w>
                 <w>emisit</w>
-                <w>spiritum</w><pc>.</pc>
+                <w>spi<lb/>ritum</w><pc>.</pc>
             </p>
             <p n="p21">
-                <pc unit="para" force="strong" pre="true">¶</pc>
+                <supplied resp="#viaf6913774"><pc unit="para" force="strong" pre="true">¶</pc>
                 <w>Ad</w>
                 <w>hanc</w>
                 <w>uocem</w>
@@ -4080,7 +4080,7 @@
                 <w>dominum</w>
                 <w>suum</w>
                 <w>confestim</w>
-                <w>euolauit</w><pc>.</pc>
+                <w>euolauit</w><pc>.</pc></supplied>
             </p>
             <p n="p22"><pc unit="para" force="strong" pre="true">¶</pc>
                 <w>O</w>
@@ -4092,7 +4092,7 @@
                 <w>et</w>
                 <w>uita</w>
                 <w>summam</w>
-                <w>dedit</w>
+                <lb/><w>dedit</w>
                 <w>gloriam</w>
                 <w>et</w>
                 <w>mors</w>
@@ -4100,14 +4100,14 @@
                 <w>meritam</w>
                 <w>diuinitatem</w>
                 <w>non</w>
-                <w>denegauit</w><pc>.</pc>
+                <lb/><w>denegauit</w><pc>.</pc>
                 <w>Non</w>
                 <w>est</w>
                 <w>ergo</w>
                 <w>quod</w>
                 <w>eius</w>
                 <w>casu</w>
-                <w>ingemiscere</w>
+                <w>ingemisce<lb/>re</w>
                 <w>habeamus</w><pc>,</pc>
                 <w>quoniam</w>
                 <w>in</w>
@@ -4115,7 +4115,7 @@
                 <w>annis</w>
                 <w>maximam</w>
                 <w>aetatem</w>
-                <w>compleuit</w><pc>;</pc>
+                <lb/><w>compleuit</w><pc>;</pc>
                 <w>nec</w>
                 <w>sibi</w>
                 <w>nec</w>
@@ -4124,19 +4124,19 @@
                 <w>parum</w>
                 <w>uixit</w>
                 <w>qui</w><pc>,</pc>
-                <w>quaecumque</w>
+                <lb/><w>quaecumque</w>
                 <w>unius</w>
                 <w>hominis</w>
                 <w>fortuna</w>
                 <w>capere</w>
                 <w>potuit</w><pc>,</pc>
-                <w>abunde</w>
+                <lb/><w>abunde</w>
                 <w>consecutus</w>
                 <w>est</w><pc>.</pc>
                 <w>Nobis</w>
                 <w>forsan</w>
                 <w>amplius</w>
-                <w>uiuere</w>
+                <w>ui<lb/>uere</w>
                 <w>poterat</w><pc>,</pc>
                 <w>et</w>
                 <w>nimirum</w>
@@ -4144,7 +4144,7 @@
                 <w>et</w>
                 <w>ornamento</w>
                 <w>et</w>
-                <w>utilitati</w><pc>.</pc>
+                <lb/><w>utilitati</w><pc>.</pc>
                 <w>Sed</w>
                 <w>non</w>
                 <w>est</w>
@@ -4152,29 +4152,29 @@
                 <w>officium</w>
                 <w>sua</w>
                 <w>commoda</w>
-                <w>ex</w>
+                <lb/><w>ex</w>
                 <w>amici</w>
                 <w>spectare</w>
                 <w>incommodis</w><pc>.</pc>
                 <w>Quicquid</w>
-                <w>superuixisset</w><pc>,</pc>
+                <w>superuix<lb/>isset</w><pc>,</pc>
                 <w>doloribus</w>
                 <w>superuixisset</w>
                 <w>et</w>
                 <w>laboribus</w><pc>;</pc>
                 <w>quibus</w>
-                <w>quoniam</w>
+                <lb/><w>quoniam</w>
                 <w>eum</w>
                 <w>diuina</w>
                 <w>clementia</w>
                 <w>misericorditer</w>
-                <w>subduxit</w><pc>,</pc>
+                <w>sub<lb/>duxit</w><pc>,</pc>
                 <w>gratias</w>
                 <w>illi</w>
                 <w>agamus</w>
                 <w>atque</w>
                 <w>dicamus</w>
-                <w>Dominus</w>
+                <w>Domi<lb/>nus</w>
                 <w>dedit</w><pc>,</pc>
                 <w>dominus</w>
                 <w>abstulit</w><pc>;</pc>
@@ -4182,14 +4182,19 @@
                 <w>domino</w>
                 <w>placuit</w><pc>,</pc>
                 <w>ita</w>
-                <w>factum</w>
+                <lb/><w>factum</w>
                 <w>est</w><pc>;</pc>
                 <w>sit</w>
                 <w>nomen</w>
                 <w>domini</w>
                 <w>benedictum</w><pc>.</pc>
                 <w>Amen</w><pc>.</pc></p>
-            
+            <closer>
+                <lb/><w>ET</w>
+                <w>SIC</w>
+                <w>EST</w>
+                <w>FINIS</w><pc>.</pc>
+            </closer>
         </body>
    </text>
 </TEI>
