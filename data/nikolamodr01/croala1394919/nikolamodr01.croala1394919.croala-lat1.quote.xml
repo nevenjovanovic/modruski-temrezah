@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc xml:id="modr-n-oratio-riar">
@@ -50,98 +49,30 @@
          <!-- corr: amplisssimis, commitebant, eset, ommnibus, iniuriiis -->
       </fileDesc>
       <encodingDesc>
-         <tagsDecl>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="abbr" occurs="3"/>
-               <tagUsage gi="abstract" occurs="1"/>
-               <tagUsage gi="add" occurs="12"/>
-               <tagUsage gi="author" occurs="1"/>
-               <tagUsage gi="bibl" occurs="11"/>
-               <tagUsage gi="body" occurs="1"/>
-               <tagUsage gi="change" occurs="1"/>
-               <tagUsage gi="closer" occurs="1"/>
-               <tagUsage gi="corr" occurs="68"/>
-               <tagUsage gi="creation" occurs="1"/>
-               <tagUsage gi="date" occurs="4"/>
-               <tagUsage gi="div" occurs="1"/>
-               <tagUsage gi="edition" occurs="1"/>
-               <tagUsage gi="editionStmt" occurs="1"/>
-               <tagUsage gi="editor" occurs="1"/>
-               <tagUsage gi="encodingDesc" occurs="1"/>
-               <tagUsage gi="expan" occurs="3"/>
-               <tagUsage gi="extent" occurs="1"/>
-               <tagUsage gi="fileDesc" occurs="1" withId="1"/>
-               <tagUsage gi="head" occurs="1"/>
-               <tagUsage gi="keywords" occurs="3"/>
-               <tagUsage gi="langUsage" occurs="1"/>
-               <tagUsage gi="language" occurs="1"/>
-               <tagUsage gi="namespace" occurs="1"/>
-               <tagUsage gi="note" occurs="10"/>
-               <tagUsage gi="orgName" occurs="1"/>
-               <tagUsage gi="p" occurs="26"/>
-               <tagUsage gi="particDesc" occurs="1"/>
-               <tagUsage gi="persName" occurs="19"/>
-               <tagUsage gi="placeName" occurs="21"/>
-               <tagUsage gi="profileDesc" occurs="1"/>
-               <tagUsage gi="publicationStmt" occurs="1"/>
-               <tagUsage gi="q" occurs="16"/>
-               <tagUsage gi="quote" occurs="7"/>
-               <tagUsage gi="ref" occurs="24"/>
-               <tagUsage gi="resp" occurs="1"/>
-               <tagUsage gi="respStmt" occurs="1"/>
-               <tagUsage gi="revisionDesc" occurs="1"/>
-               <tagUsage gi="settingDesc" occurs="1"/>
-               <tagUsage gi="sic" occurs="8"/>
-               <tagUsage gi="sourceDesc" occurs="1"/>
-               <tagUsage gi="tagUsage" occurs="45"/>
-               <tagUsage gi="tagsDecl" occurs="1"/>
-               <tagUsage gi="teiHeader" occurs="1"/>
-               <tagUsage gi="term" occurs="5"/>
-               <tagUsage gi="text" occurs="1"/>
-               <tagUsage gi="textClass" occurs="1"/>
-               <tagUsage gi="title" occurs="1"/>
-               <tagUsage gi="titleStmt" occurs="1"/>
-            </namespace>
-         </tagsDecl>
+         
          <refsDecl n="CTS">
-            <cRefPattern n="segment"
-                         matchPattern="(\w+).(\w+).(\w+).(\w+).(\w+).(\w+).(\w+).(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4']/*[@n='$5']/*[@n='$6']/*[@n='$7']/*[@n='$8'])">
+            <cRefPattern n="segment" matchPattern="(\w+).(\w+).(\w+).(\w+).(\w+).(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4']/*[@n='$5']/*[@n='$6']/*[@n='$7']/*[@n='$8'])">
                <p>This pointer pattern extracts @n value of segment.</p>
             </cRefPattern>
-            <cRefPattern n="segment"
-                         matchPattern="(\w+).(\w+).(\w+).(\w+).(\w+).(\w+).(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4']/*[@n='$5']/*[@n='$6']/*[@n='$7'])">
+            <cRefPattern n="segment" matchPattern="(\w+).(\w+).(\w+).(\w+).(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4']/*[@n='$5']/*[@n='$6']/*[@n='$7'])">
                <p>This pointer pattern extracts @n value of segment.</p>
             </cRefPattern>
-            <cRefPattern n="segment"
-                         matchPattern="(\w+).(\w+).(\w+).(\w+).(\w+).(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4']/*[@n='$5']/*[@n='$6'])">
+            <cRefPattern n="segment" matchPattern="(\w+).(\w+).(\w+).(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4']/*[@n='$5']/*[@n='$6'])">
                <p>This pointer pattern extracts @n value of segment.</p>
             </cRefPattern>
-            <cRefPattern n="segment"
-                         matchPattern="(\w+).(\w+).(\w+).(\w+).(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4']/*[@n='$5'])">
+            <cRefPattern n="segment" matchPattern="(\w+).(\w+).(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4']/*[@n='$5'])">
                <p>This pointer pattern extracts @n value of segment.</p>
             </cRefPattern>
-            <cRefPattern n="segment"
-                         matchPattern="(\w+).(\w+).(\w+).(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4'])">
+            <cRefPattern n="segment" matchPattern="(\w+).(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3']/*[@n='$4'])">
                <p>This pointer pattern extracts @n value of segment.</p>
             </cRefPattern>
-            <cRefPattern n="segment"
-                         matchPattern="(\w+).(\w+).(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3'])">
+            <cRefPattern n="segment" matchPattern="(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2']/*[@n='$3'])">
                <p>This pointer pattern extracts @n value of segment.</p>
             </cRefPattern>
-            <cRefPattern n="segment"
-                         matchPattern="(\w+).(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2'])">
+            <cRefPattern n="segment" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1']/*[@n='$2'])">
                <p>This pointer pattern extracts @n value of segment.</p>
             </cRefPattern>
-            <cRefPattern n="segment"
-                         matchPattern="(\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1'])">
+            <cRefPattern n="segment" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/*[@n='$1'])">
                <p>This pointer pattern extracts @n value of segment.</p>
             </cRefPattern>
          </refsDecl>
@@ -188,9 +119,7 @@
          </change>
       </revisionDesc>
    </teiHeader>
-   <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1.quote"
-         xml:lang="lat"
-         type="prosa-oratio">
+   <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1.quote" xml:lang="lat" type="prosa-oratio">
         <body n="body">
 
             <!-- 2 -->
@@ -299,8 +228,7 @@
                 praedicebat. Cerno hic nonnullos praelatos et ex aliis ordinibus uiros praestantes a
                 quibus magna cum attestatione audiui singula haec, quae gessit, multis ante annis ab
                 ipso praedicta fuisse. Itaque repugnantem magistrum et se tanto fastigio indignum
-                reclamantem urgere non destitit donec multis et signis et prodigiis euictum <sic
-                    n="sic">propulit</sic> Romam proficisci, in qua constitutus minime conquieuit
+                reclamantem urgere non destitit donec multis et signis et prodigiis euictum <sic n="sic">propulit</sic> Romam proficisci, in qua constitutus minime conquieuit
                 antequam demandatum ab altissimi prouidentia munus uiriliter absolueret et magistrum
                 suum per uaria bonorum incrementa ad summum apostolatus culmen conscendisse uideret,
                 pro quibus laboribus et pro tam diligenti nauata opera eadem ipsa diuina
@@ -311,8 +239,7 @@
                 certamque esse illam Nabuchdonosoris confessionem in quam et regno et sensui
                 restitutus supplex prorupit dicens <quote xml:id="quote1">in manu solius
                     omnipotentis dei esse omnia regna terrarum atque illa quibus ipse uoluerit tradi
-                    nec esse alium quemquam qui eius possit obsistere uoluntati aut dicere illi <q
-                        n="q" xml:id="q1">quare sic fecisti</q>
+                    nec esse alium quemquam qui eius possit obsistere uoluntati aut dicere illi <q n="q" xml:id="q1">quare sic fecisti</q>
                 </quote>. </p>
             <p n="p4"> Petrus igitur per hunc modum <quote n="quote1" xml:id="p4quote1">in principatu constitutus qui solet uiros
                 ostendere</quote>, talem sese exhibuit qualem uix optare poteramus, non sperare. Assumpsit
@@ -430,8 +357,7 @@ prij --> lacrimis suffusum oculos et
             <p n="p10">
                 <!-- tako BLC5a27 --> Ostendit id nouissima haec ipsius legatio in qua omnes Italiae
                 populi singulique ipsorum principes summis decertarunt studiis quisnam eum
-                amplioribus honoribus exciperet et <expan n="expan1"
-                >prosequeretur</expan>,<!-- prosequeretur ? p-seq-ret- BLC5a27
+                amplioribus honoribus exciperet et <expan n="expan1">prosequeretur</expan>,<!-- prosequeretur ? p-seq-ret- BLC5a27
 --> illeque se
                 uicisse <!-- 12; pb BLC5a27 -->putabat qui plurima in eum ornamenta contulisset. In
                 quibus acceptandis adeo prudens temperamentum inibat ut, cum omnium communis esset
@@ -490,8 +416,7 @@ prij --> lacrimis suffusum oculos et
                 aliis a duce adiectis prediis plus quam quinque<!-- v izd; quinq- BLC5a27 --> milia
                 ducatorum quotannis capere poterit, neque Imolam nisi eo uolente redimere uoluit.
                 Magistratus hortabatur ius suum absque ullo respectu cuique administrare. Et licet
-                nonnumquam domesticorum amicorumque euictus precibus aut litteris aut <sic n="sic"
-                    >nunciis</sic>
+                nonnumquam domesticorum amicorumque euictus precibus aut litteris aut <sic n="sic">nunciis</sic>
                 <!-- nuntijs izd; nu-ciis BLC5a27; nunciis BL27527 --> multos iudicibus commendaret,
                 id tamen citra <!-- citra BLC5a27, BL27527; circa izd --> cuiusque
                 <!-- cuiusquam BL27527 --> iniuriam fieri uolebat. Vnde et cum a gubernatore urbis
@@ -507,8 +432,7 @@ prij --> lacrimis suffusum oculos et
                 atque,<!-- atq- BLC5a27; adque izd --> ne cui ministrorum peccandi daretur occasio,
                 omnium decretorum suorum, similiter et litterarum, exemplaria apud notarios exstare
                 <!-- extare BLC5a27 --> iusserat. Huius praeclarissimae uirtutis nec moriens
-                obliuisci potuit; nam cum hortaretur ab amicis testamentum condere, <q n="q3"
-                    >Nihil</q>,<!-- nichil BLC5a27; nihil izd --> inquit, <q n="q4">meum habeo,
+                obliuisci potuit; nam cum hortaretur ab amicis testamentum condere, <q n="q3">Nihil</q>,<!-- nichil BLC5a27; nihil izd --> inquit, <q n="q4">meum habeo,
                     omnia sunt ecclesiae. Supplicabitis tamen meo nomine summo pontifici ut aes
                     alienum, cuius maiorem partem pro redimendis ecclesiae rebus contraxi, pro sua
                     benignitate dissoluat.</q>
@@ -574,7 +498,8 @@ prij --> lacrimis suffusum oculos et
                 nobis tam repente ademptus est, non quod tam piis operibus non delectaretur deus,
                 uerum (quod ualde pertimesco) ut eum calamitatibus, quibus forsan in nostra crimina
                 desaeuire decreuit, immeritum subtraheret, et pro <quote xml:id="p17.quote1">adimpleto bene
-                ministerio</quote><!-- misterio BL18645 -->, cuius gratia
+                ministerio</quote>
+        <!-- misterio BL18645 -->, cuius gratia
                 <!-- gracia BL18645; gratia BL27527; gra- BL17814 --> eum procreauerat, congruis
                 praemiis afficere non differret. Cuius miserationis dilectionisque certa indicia in
                 ipsius uidimus morte; quam, cum multis ante diebus aduentare praesentiret,
@@ -675,14 +600,14 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
                 quoniam in paucis annis maximam aetatem compleuit; nec sibi nec gloriae suae parum
                 uixit qui, quaecumque unius hominis fortuna capere potuit, abunde consecutus est.
                 Nobis forsan amplius uiuere poterat, et nimirum magno et ornamento et utilitati. Sed
-                non est amicorum officium <quote xml:id="quote22.1">sua commoda ex amici spectare incommodis</quote><note n="note" type="fons" place="end" target="#quote22.1">
+                non est amicorum officium <quote xml:id="quote22.1">sua commoda ex amici spectare incommodis</quote>
+        <note n="note" type="fons" place="end" target="#quote22.1">
                     <add n="add" resp="NJ">Cf. <bibl n="bibl">Ter. Andr. 627-628</bibl>: <quote n="quote">ex incommodis
                         alterius sua ut comparent commoda?</quote>
                     </add>
                 </note>. Quicquid
                 superuixisset, doloribus superuixisset et laboribus; quibus quoniam eum diuina
-                clementia misericorditer subduxit, gratias illi agamus atque dicamus <quote n="q"
-                    xml:id="quote8">Dominus dedit, dominus abstulit; sicut domino placuit, ita
+                clementia misericorditer subduxit, gratias illi agamus atque dicamus <quote n="q" xml:id="quote8">Dominus dedit, dominus abstulit; sicut domino placuit, ita
                     factum est; sit nomen domini benedictum.</quote> Amen. </p>
             <closer n="closer"> ET SIC EST FINIS.
                 <!-- BL17814; nema BLC5a27, nema BL18645; Laus deo.  Impressum Padue die penultima / Augusti. 1482. Per Matheum Cerdonis. BL27527 -->
