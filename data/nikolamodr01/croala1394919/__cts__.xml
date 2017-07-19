@@ -3,7 +3,11 @@
   <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii, versio electronica</ti:label>
     <ti:description xml:lang="lat">Prima editio electronica. Editio archivalis programmatis rerum investigandarum CroALa.</ti:description>
-    <ti:description xml:lang="hrv">Prvo digitalno izdanje. Temeljno arhivsko digitalno izdanje projekta CroALa.</ti:description>
+    <ti:description xml:lang="hrv">Prvo digitalno izdanje. Temeljno arhivsko digitalno izdanje projekata CroALa i TeMrežaH.</ti:description>
+  </ti:edition>
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1p">
+    <ti:label xml:lang="lat">Oratio in funere Petri Riarii, versio electronica in paragraphos distincta</ti:label>
+    <ti:description xml:lang="hrv">Izdanje teksta u kojem je struktura označena do razine odlomaka (jedna razina ispod tijela teksta).</ti:description>
   </ti:edition>
   <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat2w">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii, versio electronica verbatim distincta</ti:label>
