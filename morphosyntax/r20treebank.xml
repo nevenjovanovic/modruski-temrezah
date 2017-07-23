@@ -1,0 +1,40 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" target="p20" xml:lang="lat" format="aldt" direction="ltr" version="1.5">
+  <date>2016-08-15 10:38:20 +0000</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>nevenjovanovic-aai</short>
+    <name>Neven Jovanovic</name>
+    <address>neven.jovanovic@ffzg.hr</address>
+    <uri>http://data.perseus.org/sosol/users/nevenjovanovic-aai</uri>
+  </annotator>
+  <sentence id="s1" document_id="urn:cts:croala:modruski-n.oratio-riario.croala-loci:body1.div1.p20" subdoc="" span="">
+    <word id="w1" form="Ad" lemma="ad" postag="r--------" relation="" head=""/>
+    <word id="w2" form="hanc" lemma="hic" postag="p-s---fa-" relation="" head=""/>
+    <word id="w3" form="uocem" lemma="vox" postag="n-s---fa-" relation="" head=""/>
+    <word id="w4" form="illa" lemma="ille" postag="p-s---fn-" relation="" head=""/>
+    <word id="w5" form="dilecta" lemma="diligo" postag="v-srppfn-" relation="" head=""/>
+    <word id="w6" form="deo" lemma="deus" postag="n-s---md-" relation="" head=""/>
+    <word id="w7" form="anima" lemma="anima" postag="n-s---fn-" relation="" head=""/>
+    <word id="w8" form="ueluti" lemma="velut" postag="d--------" relation="" head=""/>
+    <word id="w9" form="certo" lemma="certus" postag="a-s---nb-" relation="" head=""/>
+    <word id="w10" form="accepto" lemma="accipio" postag="v-srppnb-" relation="" head=""/>
+    <word id="w11" form="signo" lemma="signum" postag="n-s---nb-" relation="" head=""/>
+    <word id="w12" form="ad" lemma="ad" postag="r--------" relation="" head=""/>
+    <word id="w13" form="dominum" lemma="dominus" postag="n-s---ma-" relation="" head=""/>
+    <word id="w14" form="suum" lemma="suus" postag="a-s---ma-" relation="" head=""/>
+    <word id="w15" form="confestim" lemma="confestim" postag="d--------" relation="" head=""/>
+    <word id="w16" form="euolauit" lemma="evolo" postag="v3sria---" relation="" head=""/>
+    <word id="w17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+</treebank>

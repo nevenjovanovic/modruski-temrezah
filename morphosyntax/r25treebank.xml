@@ -1,0 +1,28 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" target="closer1" xml:lang="lat" format="aldt" direction="ltr" version="1.5">
+  <date>2016-08-15 10:43:58 +0000</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>nevenjovanovic-aai</short>
+    <name>Neven Jovanovic</name>
+    <address>neven.jovanovic@ffzg.hr</address>
+    <uri>http://data.perseus.org/sosol/users/nevenjovanovic-aai</uri>
+  </annotator>
+  <sentence id="s1" document_id="urn:cts:croala:modruski-n.oratio-riario.croala-loci:body1.div1.closer1" subdoc="" span="">
+    <word id="w1" form="ET" lemma="et" postag="c--------" relation="" head=""/>
+    <word id="w2" form="SIC" lemma="sic" postag="d--------" relation="" head=""/>
+    <word id="w3" form="EST" lemma="sum1" postag="v3spia---" relation="" head=""/>
+    <word id="w4" form="FINIS" lemma="finis" postag="n-s---mn-" relation="" head=""/>
+    <word id="w5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+</treebank>

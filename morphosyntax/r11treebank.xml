@@ -1,0 +1,82 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" target="p11" xml:lang="lat" format="aldt" direction="ltr" version="1.5">
+  <date>2016-07-31 07:47:52 +0000</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>nevenjovanovic-aai</short>
+    <name>Neven Jovanovic</name>
+    <address>neven.jovanovic@ffzg.hr</address>
+    <uri>http://data.perseus.org/sosol/users/nevenjovanovic-aai</uri>
+  </annotator>
+  <sentence id="s1" document_id="urn:cts:croala:modruski-n.oratio-riario.croala-loci:body1.div1.p11" subdoc="" span="">
+    <word id="w1" form="Tanta" lemma="tantus" postag="a-s---fb-" relation="" head=""/>
+    <word id="w2" form="uero" lemma="vero" postag="d-------p" relation="" head=""/>
+    <word id="w3" form="animi" lemma="animus" postag="n-s---mg-" relation="" head=""/>
+    <word id="w4" form="moderatione" lemma="moderatio" postag="n-s---fb-" relation="" head=""/>
+    <word id="w5" form="erat" lemma="sum1" postag="v3siia---" relation="" head=""/>
+    <word id="w6" form="ut" lemma="ut" postag="c--------" relation="" head=""/>
+    <word id="w7" form="irasceretur" lemma="irascor" postag="v3sisd---" relation="" head=""/>
+    <word id="w8" form="perraro" lemma="perraro" postag="d-------p" relation="" head=""/>
+    <word id="w9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="w10" form="iratus" lemma="irascor" postag="v-srpdmnp" relation="" head=""/>
+    <word id="w11" form="autem" lemma="autem" postag="c--------" relation="" head=""/>
+    <word id="w12" form="extemplo" lemma="extemplo" postag="d--------" relation="" head=""/>
+    <word id="w13" form="animum" lemma="animus" postag="n-s---ma-" relation="" head=""/>
+    <word id="w14" form="ad" lemma="ad" postag="r--------" relation="" head=""/>
+    <word id="w15" form="tranquillitatem" lemma="tranquillitas" postag="n-s---fa-" relation="" head=""/>
+    <word id="w16" form="reuocaret" lemma="revoco" postag="v3sisa---" relation="" head=""/>
+    <word id="w17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="s2" document_id="" subdoc="" span="">
+    <word id="w1" form="De" lemma="de" postag="r--------" relation="" head=""/>
+    <word id="w2" form="nullo" lemma="nullus" postag="a-s---mb-" relation="" head=""/>
+    <word id="w3" form="obloquebatur" lemma="obloquor" postag="v3siid---" relation="" head=""/>
+    <word id="w4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="w5" form="detrahebat" lemma="detraho" postag="v3siia---" relation="" head=""/>
+    <word id="w6" form="nemini" lemma="nemo" postag="n-s---md-" relation="" head=""/>
+    <word id="w7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="w8" form="et" lemma="et" postag="c--------" relation="" head=""/>
+    <word id="w9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="w10" form="nisi" lemma="nisi" postag="c--------" relation="" head=""/>
+    <word id="w11" form="familiarium" lemma="familiaris" postag="a-p---mg-" relation="" head=""/>
+    <word id="w12" form="suorum" lemma="suus" postag="a-p---mg-" relation="" head=""/>
+    <word id="w13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="w14" form="aliorum" lemma="alius" postag="a-p---mgp" relation="" head=""/>
+    <word id="w15" form="uitae" lemma="vita" postag="n-s---fg-" relation="" head=""/>
+    <word id="w16" form="minime" lemma="minime" postag="d--------" relation="" head=""/>
+    <word id="w17" form="erat" lemma="sum1" postag="v3siia---" relation="" head=""/>
+    <word id="w18" form="curiosus" lemma="curiosus" postag="a-s---mn-" relation="" head=""/>
+    <word id="w19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="s3" document_id="" subdoc="" span="">
+    <word id="w1" form="Maximum" lemma="magnus" postag="a-s---nns" relation="" head=""/>
+    <word id="w2" form="eius" lemma="is" postag="p-s---mg-" relation="" head=""/>
+    <word id="w3" form="conuitium" lemma="convicium" postag="n-s---nn-" relation="" head=""/>
+    <word id="w4" form="putabatur" lemma="puto" postag="v3siip---" relation="" head=""/>
+    <word id="w5" form="si" lemma="si" postag="c--------" relation="" head=""/>
+    <word id="w6" form="quem" lemma="qui2" postag="p-s---ma-" relation="" head=""/>
+    <word id="w7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="w8" form="quod" lemma="quod" postag="c--------" relation="" head=""/>
+    <word id="w9" form="tamen" lemma="tamen" postag="d--------" relation="" head=""/>
+    <word id="w10" form="parcissime" lemma="parce" postag="d-------s" relation="" head=""/>
+    <word id="w11" form="fiebat" lemma="fio" postag="v3s-ia---" relation="" head=""/>
+    <word id="w12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="w13" form="per" lemma="per" postag="r--------" relation="" head=""/>
+    <word id="w14" form="iocum" lemma="jocus" postag="n-s---ma-" relation="" head=""/>
+    <word id="w15" form="aliquo" lemma="aliquis" postag="p-s---mb-" relation="" head=""/>
+    <word id="w16" form="urbanitatis" lemma="urbanitas" postag="n-s---fg-" relation="" head=""/>
+    <word id="w17" form="sale" lemma="sal" postag="n-s---mb-" relation="" head=""/>
+    <word id="w18" form="respersisset" lemma="respergo1" postag="v3slsa---" relation="" head=""/>
+    <word id="w19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+</treebank>

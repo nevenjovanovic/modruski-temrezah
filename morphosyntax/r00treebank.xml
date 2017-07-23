@@ -1,0 +1,35 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" target="head1" xml:lang="lat" format="aldt" direction="ltr" version="1.5">
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+  <sentence id="s1" document_id="urn:cts:croala:modruski-n.oratio-riario.croala-loci:body1.div1.head1" subdoc="" span="">
+    <word id="w1" form="Oratio" lemma="oratio" postag="n-s---fn-" relation="" head=""/>
+    <word id="w2" form="in" lemma="in" postag="r--------" relation="" head=""/>
+    <word id="w3" form="funere" lemma="funus" postag="n-s---nb-" relation="" head=""/>
+    <word id="w4" form="reuerendissimi" lemma="reverendus" postag="a-s---mgs" relation="" head=""/>
+    <word id="w5" form="domini" lemma="dominus" postag="n-s---mg-" relation="" head=""/>
+    <word id="w6" form="domini" lemma="dominus" postag="n-s---mg-" relation="" head=""/>
+    <word id="w7" form="Petri" lemma="Petrus" postag="n-s---mg-" relation="" head=""/>
+    <word id="w8" form="cardinalis" lemma="cardinalis" postag="n-s---mg-" relation="" head=""/>
+    <word id="w9" form="sancti" lemma="sanctus" postag="n-s---mg-" relation="" head=""/>
+    <word id="w10" form="Sixti" lemma="Sixtus" postag="n-s---mg-" relation="" head=""/>
+    <word id="w11" form="habita" lemma="habeo" postag="v-srppfn-" relation="" head=""/>
+    <word id="w12" form="a" lemma="ab" postag="r--------" relation="" head=""/>
+    <word id="w13" form="reuerendo" lemma="reverendus" postag="a-s---mbp" relation="" head=""/>
+    <word id="w14" form="patre" lemma="pater" postag="n-s---mb-" relation="" head=""/>
+    <word id="w15" form="domino" lemma="dominus" postag="n-s---mb-" relation="" head=""/>
+    <word id="w16" form="Nicolao" lemma="Nicolaus" postag="n-s---mb-" relation="" head=""/>
+    <word id="w17" form="episcopo" lemma="episcopus" postag="n-s---mb-" relation="" head=""/>
+    <word id="w18" form="Modrusiensi" lemma="Modrusiensis" postag="a-s---mbp" relation="" head=""/>
+    <word id="w19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+</treebank>
