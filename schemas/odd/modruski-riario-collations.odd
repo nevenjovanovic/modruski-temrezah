@@ -280,6 +280,9 @@
                   <attDef ident="ana" mode="delete"/>
                   <attDef ident="resp" mode="delete"/>
                   <attDef ident="type" mode="delete"/>
+                  <attDef ident="n" usage="req" mode="change">
+                     <gloss>Folio number with recto or verso mark, e. g. 1r.</gloss>
+                  </attDef>
                </attList>
             </elementSpec>
             <elementSpec ident="lb" mode="change">
