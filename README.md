@@ -31,15 +31,20 @@ Izvori digitalnog izdanja dostupni su na repozitorijima [Github](https://github.
 2. Život s fokusom na karijeru od 1473. do 1480.
 3. Oratio in funere
 	1. Uži kontekst
-	2. Izdanja i rukopisi 
-	3. Žanr, stil, izvori, usporedba s Perottijem 
-	4. Sadržaj
+	2. Izvori: izdanja (profili tiskara) i rukopisi 
+	3. Struktura djela
+	4. Stilska obilježja
+	5. Žanr, izvori, usporedba s Perottijem 
+	4. Recepcija, renesansna i moderna
 4. Defensio
 	1. Uži kontekst
 	2. Rukopisi
 	3. Žanr, stil, izvori
 	4. Sadržaj
 5. Načela priređivanja teksta
+	1. Općenito
+	1. Oratio in funere
+	2. Defensio
 
 
 ## Sadržaj
