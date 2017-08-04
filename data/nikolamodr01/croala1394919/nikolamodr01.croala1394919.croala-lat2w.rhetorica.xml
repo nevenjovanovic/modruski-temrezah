@@ -502,8 +502,8 @@
           <w ana="n-s---fa-" n="w9">ueniam</w>
           <w ana="c--------" n="w10">si</w>
           <w ana="p-s---mg-" n="w11">eius</w>
-          <w ana="n-s---fb-" n="w12">acerbitate</w>
-          <w ana="v-srppmn-" n="w13">abductus</w>
+          <phr ana="#ALLITERATIO"><w ana="n-s---fb-" n="w12">acerbitate</w>
+          <w ana="v-srppmn-" n="w13">abductus</w></phr>
           <phr ana="#PARALLELISMUS"><w ana="c--------" n="w14">nec</w>
           <w ana="n-p---fg-" n="w15">rerum</w>
           <w ana="n-s---ma-" n="w16">ordinem</w>
