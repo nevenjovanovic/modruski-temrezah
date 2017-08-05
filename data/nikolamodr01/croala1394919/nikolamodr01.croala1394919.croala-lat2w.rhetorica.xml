@@ -860,7 +860,7 @@
           <w ana="v1spip---" n="w37">opinor</w>
           <pc n="pc38">,</pc>
           <w ana="n-s---mb-" n="w39">nutu</w>
-          <phr ana="#PARALLELISMUS"><w ana="v-sfpamn-" n="w40">futurus</w>
+          <phr ana="#PARALLELISMUS-POLYPTOTON"><w ana="v-sfpamn-" n="w40">futurus</w>
           <w ana="r--------" n="w41">ad</w>
           <w ana="n-s---ma-" n="w42">apostolatum</w>
           <w ana="d--------" n="w43">tam</w>
@@ -933,7 +933,7 @@
           <w ana="c--------" n="w2">cum</w>
           <w ana="n-s---mg-" n="w3">pueri</w>
           <w ana="n-s---fa-" n="w4">constantiam</w>
-          <phr ana="#TRICOLON-CRESCENS"><w ana="a-p---fb-" n="w5">nullis</w>
+          <phr ana="#TRICOLON-CRESCENS-GRADATIO"><w ana="a-p---fb-" n="w5">nullis</w>
           <w ana="n-p---fb-" n="w6">blanditiis</w>
           <pc n="pc7">,</pc>
           <w ana="a-p---fb-" n="w8">nullis</w>
@@ -5020,12 +5020,13 @@
         <interp xml:id="GRADATIO">Figura gradatio</interp>
         <interp xml:id="HYPERBOLE">Figura hyperbole</interp>
         <interp xml:id="PARONOMASIA">Figura paronomasia (sonat similiter)</interp>
-        <interp xml:id="POLYPTOTON">Figura tricolon crescens</interp>
+        <interp xml:id="POLYPTOTON">Figura polyptoton</interp>
         <interp xml:id="SIMILE">Figura simile</interp>
         <interp xml:id="TRICOLON-CRESCENS">Figura tricolon crescens</interp>
-        <interp xml:id="TETRACOLON-CRESCENS">Figura tricolon crescens</interp>
+        <interp xml:id="TRICOLON-CRESCENS-GRADATIO">Figura tricolon crescens cum gradatione</interp>
         <interp xml:id="TETRACOLON">Figura tetracolon</interp>
         <interp xml:id="TETRACOLON-CHIASMUS">Figura tetracolon cum chiasmo</interp>
+        <interp xml:id="TETRACOLON-CRESCENS">Figura tetracolon crescens</interp>
         <interp xml:id="METAPHORA">Figura metaphora</interp>
         <interp xml:id="METAPHORA-CHRISTIANA">Figura metaphora (apud Christianos in usu)</interp>
         <interp xml:id="METONYMIA">Figura metonymia</interp>
@@ -5033,6 +5034,7 @@
         <interp xml:id="PARALLELISMUS">Figura parallelismus</interp>
         <interp xml:id="PARALLELISMUS-CHIASMUS">Figura parallelismus cum chiasmo</interp>
         <interp xml:id="PARALLELISMUS-CRESCENS">Figura parallelismus crescens</interp>
+        <interp xml:id="PARALLELISMUS-POLYPTOTON">Figura parallelismus cum polyptoto</interp>
         <interp xml:id="SYNONYMIA">Figura synonymia (idem repetitur aliis verbis)</interp>
         <interp xml:id="SYNONYMIA-PARALLELISMUS">Figura synonymia cum parallelismo ordinis verborum</interp>
       </interpGrp>
