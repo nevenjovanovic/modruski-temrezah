@@ -1331,7 +1331,7 @@
           <w ana="p-p---nb-" n="w1">Quibus</w>
           <w ana="d-------p" n="w2">uarie</w>
           <w ana="v-srppmn-" n="w3">sollicitatus</w>
-          <phr ana="#ANAPHORA"><w ana="v3sria---" n="w4">coepit</w>
+          <phr ana="#ANAPHORA-GRADATIO"><w ana="v3sria---" n="w4">coepit</w>
           <w ana="n-s---ma-" n="w5">auunculum</w>
           <w ana="a-s---ma-" n="w6">suum</w>
           <w ana="v--pnp---" n="w7">hortari</w>
@@ -1345,12 +1345,12 @@
           <w ana="r--------" n="w15">in</w>
           <w ana="p-s---fb-" n="w16">ea</w>
           <w ana="n-s---fb-" n="w17">urbe</w>
-          <w ana="v--pnp---" n="w18">uersari</w>
-          <w ana="v3sisa---" n="w19">uellet</w>
+          <phr ana="#ALLITERATIO"><w ana="v--pnp---" n="w18">uersari</w>
+          <w ana="v3sisa---" n="w19">uellet</w></phr>
           <pc n="pc20">,</pc>
           <w ana="r--------" n="w21">in</w>
           <w ana="p-s---fb-" n="w22">qua</w>
-          <w ana="r--------" n="w23">a</w>
+          <phr ana="#PARALLELISMUS"><w ana="r--------" n="w23">a</w>
           <w ana="a-s---mbs" n="w24">maximo</w>
           <w ana="a-p---ng-" n="w25">omnium</w>
           <w ana="n-s---mb-" n="w26">rectore</w>
@@ -1359,7 +1359,7 @@
           <w ana="a-s---mns" n="w29">summus</w>
           <w ana="n-s---mn-" n="w30">pontifex</w>
           <w ana="v3siia---" n="w31">erat</w>
-          <w ana="v-srppmn-" n="w32">designatus</w>
+          <w ana="v-srppmn-" n="w32">designatus</w></phr>
           <pc n="pc33">;</pc>
           <w ana="c--------" n="w34">ubi</w>
           <w ana="c--------" n="w35">et</w>
@@ -5010,6 +5010,7 @@
       <interpGrp>
         <interp xml:id="ANADIPLOSIS">Figura anadiplosis</interp>
         <interp xml:id="ANAPHORA">Figura anaphora</interp>
+        <interp xml:id="ANAPHORA-GRADATIO">Figura anaphora cum gradatione</interp>
         <interp xml:id="ANTITHESIS">Figura antithesis</interp>
         <interp xml:id="ALLITERATIO">Figura alliteratio</interp>
         <interp xml:id="APOSTROPHE">Figura apostrophe</interp>
