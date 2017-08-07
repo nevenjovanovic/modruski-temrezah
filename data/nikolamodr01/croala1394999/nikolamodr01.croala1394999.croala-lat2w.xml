@@ -10375,7 +10375,8 @@
           <w n="w10">a</w>
           <w n="w11">civitatibus</w>
           <w n="w12">dono</w>
-          <w n="w13">datasunt</w>
+          <w n="w13">data</w>
+          <w>sunt</w>
           <pc n="pc14">.</pc>
         </s>
         <s n="s26">
@@ -10857,7 +10858,8 @@
           <w n="w1">Ubi</w>
           <w lemmaRef="lemlat:s3436" n="w2">sunt</w>
           <w lemmaRef="lemlat:a3434" n="w3">audacissimi</w>
-          <w n="w4">nebulonesqui</w>
+          <w n="w4">nebulones</w>
+          <w>qui</w>
           <w n="w5">cum</w>
           <w n="w6">blasphemo</w>
           <w lemmaRef="lemlat:74804" n="w7">Semei</w>
@@ -13594,7 +13596,8 @@
           <w n="w11">Senae</w>
           <w n="w12">multisque</w>
           <w n="w13">aliis</w>
-          <w n="w14">incivitatibus</w>
+          <w n="w14">in</w>
+          <w>civitatibus</w>
           <w lemmaRef="lemlat:p0865" n="w15">per</w>
           <w n="w16">Italiam</w>
           <w n="w17">visere</w>
@@ -13689,7 +13692,8 @@
           <w lemmaRef="lemlat:i2070" n="w29">insontes</w>
           <pc n="pc30">,</pc>
           <w lemmaRef="lemlat:a1208" n="w31">agi</w>
-          <w n="w32">inexilium</w>
+          <w n="w32">in</w>
+          <w>exilium</w>
           <w lemmaRef="lemlat:c3044" n="w33">concives</w>
           <pc n="pc34">,</pc>
           <w n="w35">divelli</w>
@@ -14888,7 +14892,8 @@
           <w lemmaRef="lemlat:q0178" n="w22">queo</w>
           <w n="w23">qua</w>
           <w n="w24">impudentia</w>
-          <w n="w25">audeantumquam</w>
+          <w n="w25">audeant</w>
+          <w>umquam</w>
           <w lemmaRef="lemlat:i0205" n="w26">illius</w>
           <w lemmaRef="lemlat:e1589" n="w27">expeditionis</w>
           <w lemmaRef="lemlat:m0759" n="w28">mentionem</w>
@@ -16338,7 +16343,8 @@
           <w lemmaRef="lemlat:s3436" n="w38">fuerit</w>
           <w n="w39">Pontifici</w>
           <w lemmaRef="lemlat:e0997" n="w40">et</w>
-          <w n="w41">coeptamin</w>
+          <w n="w41">coeptam</w>
+          <w>in</w>
           <w n="w42">Turcos</w>
           <w lemmaRef="lemlat:o0699" n="w43">omittere</w>
           <w lemmaRef="lemlat:e1589" n="w44">expeditionem</w>
@@ -16466,7 +16472,8 @@
           <w n="w5">curis</w>
           <w lemmaRef="lemlat:76876" n="w6">Sixtus</w>
           <w lemmaRef="lemlat:r0924" n="w7">rursum</w>
-          <w n="w8">adbellum</w>
+          <w n="w8">ad</w>
+          <w>bellum</w>
           <w n="w9">Turcorum</w>
           <w n="w10">intendit</w>
           <w n="w11">animum</w>
