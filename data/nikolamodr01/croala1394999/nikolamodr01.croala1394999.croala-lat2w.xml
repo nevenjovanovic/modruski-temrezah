@@ -133,7 +133,7 @@
           <w n="w20">magna</w>
           <w lemmaRef="lemlat:o0723" n="w21">omnium</w>
           <w n="w22">cum</w>
-          <w n="w23">admiratione</w>
+          <w lemmaRef="lemlat:a0665" n="w23">admiratione</w>
           <w lemmaRef="lemlat:c1049" n="w24">celebrantur</w>
           <pc n="pc25">.</pc>
         </s>
@@ -160,7 +160,7 @@
           <w n="w20">in</w>
           <w lemmaRef="lemlat:s0201" n="w21">salsugine</w>
           <pc n="pc22">,</pc>
-          <w n="w23">aemuli</w>
+          <w lemmaRef="lemlat:a0901" n="w23">aemuli</w>
           <w lemmaRef="lemlat:s2668" n="w24">stupent</w>
           <pc n="pc25">,</pc>
           <w lemmaRef="lemlat:c3671" n="w26">contabescunt</w>
@@ -192,12 +192,12 @@
           <w lemmaRef="lemlat:p2300" n="w10">plaudunt</w>
           <pc n="pc11">,</pc>
           <w lemmaRef="lemlat:i2983" n="w12">iubilant</w>
-          <w n="w13">socii</w>
+          <w lemmaRef="lemlat:s1844" n="w13">socii</w>
           <pc n="pc14">,</pc>
-          <w n="w15">municipes</w>
+          <w lemmaRef="lemlat:m1726" n="w15">municipes</w>
           <w lemmaRef="lemlat:l0128" n="w16">laetantur</w>
           <w lemmaRef="lemlat:e0997" n="w17">et</w>
-          <w n="w18">servorum</w>
+          <w lemmaRef="lemlat:s1432" n="w18">servorum</w>
           <w lemmaRef="lemlat:f0491" n="w19">fidelissimi</w>
           <w n="w20">quique</w>
           <w lemmaRef="lemlat:i1413" n="w21">inenarrabili</w>
@@ -227,7 +227,7 @@
           <w lemmaRef="lemlat:d1703" n="w19">discretus</w>
           <w n="w20">intervallo</w>
           <w n="w21">coram</w>
-          <w n="w22">congaudere</w>
+          <w lemmaRef="lemlat:c3340" n="w22">congaudere</w>
           <w lemmaRef="lemlat:i2912" n="w23">eius</w>
           <w lemmaRef="lemlat:s0267" n="w24">sancti</w>
           <w lemmaRef="lemlat:a3606" n="w25">aut</w>
@@ -244,7 +244,7 @@
           <w lemmaRef="lemlat:o0585" n="w36">officium</w>
           <w n="w37">calami</w>
           <w lemmaRef="lemlat:m1751" n="w38">munere</w>
-          <w n="w39">persolvere</w>
+          <w lemmaRef="lemlat:p1596" n="w39">persolvere</w>
           <pc n="pc40">.</pc>
         </s>
         <s n="s5">
@@ -297,14 +297,14 @@
           <w n="w6">populi</w>
           <w lemmaRef="lemlat:m0572" n="w7">meditati</w>
           <w lemmaRef="lemlat:s3436" n="w8">fuerant</w>
-          <w n="w9">inania</w>
+          <w lemmaRef="lemlat:i0767" n="w9">inania</w>
           <w n="w10">adversus</w>
           <w lemmaRef="lemlat:m0448" n="w11">matrem</w>
           <w n="w12">suam</w>
           <w lemmaRef="lemlat:e0037" n="w13">ecclesiam</w>
           <w lemmaRef="lemlat:e0997" n="w14">et</w>
           <w n="w15">adversus</w>
-          <w n="w16">sanctum</w>
+          <w lemmaRef="lemlat:s0267" n="w16">sanctum</w>
           <w n="w17">Christum</w>
           <w lemmaRef="lemlat:i2912" n="w18">eius</w>
           <w lemmaRef="lemlat:c3872" n="w19">convenerant</w>
@@ -428,7 +428,7 @@
           <w lemmaRef="lemlat:e0997" n="w15">et</w>
           <w n="w16">a</w>
           <w n="w17">catulis</w>
-          <w n="w18">praeparatis</w>
+          <w lemmaRef="lemlat:p3191" n="w18">praeparatis</w>
           <w n="w19">ad</w>
           <w n="w20">escam</w>
           <pc n="pc21">,</pc>
@@ -469,7 +469,7 @@
           <w n="w24">ne</w>
           <w lemmaRef="lemlat:t0096" n="w25">tangerent</w>
           <w n="w26">Christos</w>
-          <w n="w27">suos</w>
+          <w lemmaRef="lemlat:s3894" n="w27">suos</w>
           <w lemmaRef="lemlat:e0997" n="w28">et</w>
           <w n="w29">prophetis</w>
           <w n="w30">suis</w>
@@ -526,7 +526,7 @@
         <s n="s3">
           <w n="w1">Filii</w>
           <w n="w2">quos</w>
-          <w n="w3">enutriverat</w>
+          <w lemmaRef="lemlat:e0653" n="w3">enutriverat</w>
           <w lemmaRef="lemlat:s2146" n="w4">spreverant</w>
           <w n="w5">eam</w>
           <w lemmaRef="lemlat:e0997" n="w6">et</w>
@@ -560,7 +560,7 @@
           <w n="w34">sacerdotum</w>
           <w lemmaRef="lemlat:i2780" n="w35">ipsius</w>
           <w n="w36">longe</w>
-          <w n="w37">profligaverant</w>
+          <w lemmaRef="lemlat:p3771" n="w37">profligaverant</w>
           <pc n="pc38">.</pc>
         </s>
         <s n="s4">
@@ -572,7 +572,7 @@
           <w lemmaRef="lemlat:e0997" n="w6">et</w>
           <w n="w7">decimas</w>
           <w n="w8">Diaboli</w>
-          <w n="w9">persolvere</w>
+          <w lemmaRef="lemlat:p1596" n="w9">persolvere</w>
           <w lemmaRef="lemlat:c2810" n="w10">compellebantur</w>
           <pc n="pc11">.</pc>
         </s>
@@ -589,7 +589,7 @@
           <w lemmaRef="lemlat:e1178" n="w10">exactores</w>
           <w lemmaRef="lemlat:n0627" n="w11">nudare</w>
           <w lemmaRef="lemlat:u0511" n="w12">vestimentis</w>
-          <w n="w13">ministros</w>
+          <w lemmaRef="lemlat:m1034" n="w13">ministros</w>
           <w n="w14">Christi</w>
           <w lemmaRef="lemlat:e0997" n="w15">et</w>
           <w lemmaRef="lemlat:m0690" n="w16">membra</w>
@@ -600,7 +600,7 @@
           <pc n="pc21">,</pc>
           <w lemmaRef="lemlat:s2612" n="w22">stringere</w>
           <w n="w23">manicis</w>
-          <w n="w24">ferreis</w>
+          <w lemmaRef="lemlat:f0394" n="w24">ferreis</w>
           <w n="w25">sacrificas</w>
           <w n="w26">palmas</w>
           <w lemmaRef="lemlat:e0997" n="w27">et</w>
@@ -627,7 +627,7 @@
           <pc n="pc14">.</pc>
         </s>
         <s n="s7">
-          <w n="w1">Viduis</w>
+          <w lemmaRef="lemlat:u0633" n="w1">Viduis</w>
           <w lemmaRef="lemlat:e0997" n="w2">et</w>
           <w lemmaRef="lemlat:p0630" n="w3">pauperibus</w>
           <w n="w4">Christi</w>
@@ -640,7 +640,7 @@
           <w lemmaRef="lemlat:p0566" n="w11">paterentur</w>
           <pc n="pc12">,</pc>
           <w lemmaRef="lemlat:u0835" n="w13">vitae</w>
-          <w n="w14">necessaria</w>
+          <w lemmaRef="lemlat:n0141" n="w14">necessaria</w>
           <w lemmaRef="lemlat:s3219" n="w15">subtrahebantur</w>
           <pc n="pc16">:</pc>
           <w lemmaRef="lemlat:n9508" n="w17">non</w>
@@ -662,19 +662,19 @@
           <w lemmaRef="lemlat:a3395" n="w33">avaritia</w>
           <w n="w34">singula</w>
           <w lemmaRef="lemlat:e0037" n="w35">ecclesiarum</w>
-          <w n="w36">aeraria</w>
+          <w lemmaRef="lemlat:a0970" n="w36">aeraria</w>
           <w n="w37">expilare</w>
           <w lemmaRef="lemlat:n9508" n="w38">non</w>
           <w lemmaRef="lemlat:c1303" n="w39">cessabat</w>
           <pc n="pc40">,</pc>
-          <w n="w41">donariis</w>
+          <w lemmaRef="lemlat:d2168" n="w41">donariis</w>
           <w n="w42">deo</w>
           <w n="w43">dicatis</w>
           <w lemmaRef="lemlat:n9508" n="w44">non</w>
-          <w n="w45">abstinere</w>
+          <w lemmaRef="lemlat:a0191" n="w45">abstinere</w>
           <pc n="pc46">,</pc>
           <w lemmaRef="lemlat:n9508" n="w47">non</w>
-          <w n="w48">sacratis</w>
+          <w lemmaRef="lemlat:s0071" n="w48">sacratis</w>
           <w n="w49">cultui</w>
           <w lemmaRef="lemlat:i2912" n="w50">eius</w>
           <w lemmaRef="lemlat:u0133" n="w51">vasculis</w>
@@ -725,7 +725,7 @@
           <w n="w16">Christum</w>
           <w lemmaRef="lemlat:a0001" n="w17">ab</w>
           <w n="w18">ipsis</w>
-          <w n="w19">crucifixum</w>
+          <w lemmaRef="lemlat:c4430" n="w19">crucifixum</w>
           <pc n="pc20">,</pc>
           <w n="w21">nisi</w>
           <w lemmaRef="lemlat:e0997" n="w22">et</w>
@@ -733,8 +733,8 @@
           <w lemmaRef="lemlat:e1033" n="w24">evangelium</w>
           <w lemmaRef="lemlat:t0888" n="w25">totiens</w>
           <w n="w26">illis</w>
-          <w n="w27">polluendum</w>
-          <w n="w28">conspuendumque</w>
+          <w lemmaRef="lemlat:p2479" n="w27">polluendum</w>
+          <w lemmaRef="lemlat:c3601" n="w28">conspuendumque</w>
           <w lemmaRef="lemlat:o0052" n="w29">obiciatur</w>
           <pc n="pc30">.</pc>
         </s>
@@ -770,7 +770,7 @@
           <w lemmaRef="lemlat:n9508" n="w6">non</w>
           <w lemmaRef="lemlat:p2697" n="w7">potuit</w>
           <w lemmaRef="lemlat:n0149" n="w8">nec</w>
-          <w n="w9">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w9">vicario</w>
           <w n="w10">Christi</w>
           <w n="w11">coluber</w>
           <w n="w12">pro</w>
@@ -790,7 +790,7 @@
           <w lemmaRef="lemlat:e0997" n="w26">et</w>
           <w lemmaRef="lemlat:8" n="w27">Aaron</w>
           <pc n="pc28">,</pc>
-          <w n="w29">conspiratione</w>
+          <w lemmaRef="lemlat:c3592" n="w29">conspiratione</w>
           <w n="w30">sacerdotia</w>
           <w n="w31">pro</w>
           <w n="w32">cuiusque</w>
@@ -822,8 +822,8 @@
           <w lemmaRef="lemlat:e0997" n="w58">et</w>
           <w n="w59">sanctitati</w>
           <w lemmaRef="lemlat:d0101" n="w60">debitas</w>
-          <w n="w61">plus</w>
-          <w n="w62">offerenti</w>
+          <w lemmaRef="lemlat:p2389" n="w61">plus</w>
+          <w lemmaRef="lemlat:o0573" n="w62">offerenti</w>
           <w lemmaRef="lemlat:a0527" n="w63">addicere</w>
           <pc n="pc64">:</pc>
           <w n="w65">Nemo</w>
@@ -848,7 +848,7 @@
         </s>
         <s n="s12">
           <w n="w1">Iam</w>
-          <w n="w2">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w2">vicario</w>
           <w n="w3">Christi</w>
           <w lemmaRef="lemlat:p4721" n="w4">praeterea</w>
           <w lemmaRef="lemlat:n9508" n="w5">non</w>
@@ -867,7 +867,7 @@
           <w lemmaRef="lemlat:a3585" n="w4">aurum</w>
           <w lemmaRef="lemlat:e0997" n="w5">et</w>
           <w lemmaRef="lemlat:i1664" n="w6">infula</w>
-          <w n="w7">indueris</w>
+          <w lemmaRef="lemlat:i1366" n="w7">indueris</w>
           <pc n="pc8">.</pc>
         </s>
         <s n="s15">
@@ -1015,7 +1015,7 @@
           <w lemmaRef="lemlat:l0715" n="w29">licet</w>
           <w lemmaRef="lemlat:u1318" n="w30">ut</w>
           <w lemmaRef="lemlat:c4656" n="w31">cupio</w>
-          <w n="w32">distribuere</w>
+          <w lemmaRef="lemlat:d1973" n="w32">distribuere</w>
           <pc n="pc33">.</pc>
         </s>
         <s n="s24">
@@ -1130,7 +1130,7 @@
           <w n="w3">tam</w>
           <w n="w4">diris</w>
           <w lemmaRef="lemlat:c2733" n="w5">commoveatur</w>
-          <w n="w6">blasphemiis</w>
+          <w lemmaRef="lemlat:b0472" n="w6">blasphemiis</w>
           <pc n="pc7">?</pc>
         </s>
         <s n="s30">
@@ -1178,8 +1178,8 @@
           <w lemmaRef="lemlat:m1097" n="w30">miscuerunt</w>
           <pc n="pc31">,</pc>
           <w lemmaRef="lemlat:p2562" n="w32">posuerunt</w>
-          <w n="w33">morticina</w>
-          <w n="w34">servorum</w>
+          <w lemmaRef="lemlat:m1430" n="w33">morticina</w>
+          <w lemmaRef="lemlat:s1432" n="w34">servorum</w>
           <w n="w35">tuorum</w>
           <pc n="pc36">,</pc>
           <w n="w37">Deus</w>
@@ -1342,7 +1342,7 @@
           <w lemmaRef="lemlat:s0098" n="w132">saevitia</w>
           <w lemmaRef="lemlat:d1704" n="w133">discerptis</w>
           <w lemmaRef="lemlat:a3301" n="w134">ac</w>
-          <w n="w135">dilaniatis</w>
+          <w lemmaRef="lemlat:d1561" n="w135">dilaniatis</w>
           <pc n="pc136">.</pc>
         </s>
       </p>
@@ -1449,7 +1449,7 @@
           <w lemmaRef="lemlat:t0106" n="w50">tantam</w>
           <w n="w51">impietatem</w>
           <w lemmaRef="lemlat:s3436" n="w52">sit</w>
-          <w n="w53">desiderandum</w>
+          <w lemmaRef="lemlat:d0968" n="w53">desiderandum</w>
           <pc n="pc54">.</pc>
         </s>
         <s n="s5">
@@ -1468,7 +1468,7 @@
           <pc n="pc13">,</pc>
           <w n="w14">cum</w>
           <w lemmaRef="lemlat:m1695" n="w15">multos</w>
-          <w n="w16">iugulasset</w>
+          <w lemmaRef="lemlat:i3023" n="w16">iugulasset</w>
           <w lemmaRef="lemlat:e0763" n="w17">episcopos</w>
           <w lemmaRef="lemlat:e0037" n="w18">ecclesiasque</w>
           <w lemmaRef="lemlat:c2873" n="w19">complures</w>
@@ -1504,7 +1504,7 @@
           <w lemmaRef="lemlat:u1318" n="w49">ut</w>
           <w lemmaRef="lemlat:s3894" n="w50">suorum</w>
           <w lemmaRef="lemlat:n9818" n="w51">nonnulli</w>
-          <w n="w52">spiritum</w>
+          <w lemmaRef="lemlat:s2214" n="w52">spiritum</w>
           <w lemmaRef="lemlat:e1457" n="w53">exalarent</w>
           <pc n="pc54">,</pc>
           <w n="w55">alii</w>
@@ -1612,7 +1612,7 @@
           <w lemmaRef="lemlat:f0382" n="w3">fers</w>
           <w n="w4">animo</w>
           <w lemmaRef="lemlat:a0001" n="w5">ab</w>
-          <w n="w6">alienis</w>
+          <w lemmaRef="lemlat:a1363" n="w6">alienis</w>
           <w lemmaRef="lemlat:i2912" n="w7">eos</w>
           <w lemmaRef="lemlat:u0361" n="w8">verberari</w>
           <pc n="pc9">,</pc>
@@ -1645,7 +1645,7 @@
           <w n="w9">aliena</w>
           <w n="w10">in</w>
           <w lemmaRef="lemlat:i2912" n="w11">eos</w>
-          <w n="w12">animadversione</w>
+          <w lemmaRef="lemlat:a2030" n="w12">animadversione</w>
           <w lemmaRef="lemlat:t1849" n="w13">tuum</w>
           <w n="w14">ius</w>
           <pc n="pc15">,</pc>
@@ -1674,7 +1674,7 @@
           <w n="w7">iura</w>
           <w lemmaRef="lemlat:t1849" n="w8">tua</w>
           <w lemmaRef="lemlat:t0103" n="w9">tantopere</w>
-          <w n="w10">commoveris</w>
+          <w lemmaRef="lemlat:c2733" n="w10">commoveris</w>
           <w n="w11">saevisque</w>
           <pc n="pc12">,</pc>
           <w lemmaRef="lemlat:e0997" n="w13">et</w>
@@ -1691,7 +1691,7 @@
           <w n="w24">maiestatemque</w>
           <w lemmaRef="lemlat:t1712" n="w25">tueri</w>
           <w n="w26">oblitus</w>
-          <w n="w27">admiraris</w>
+          <w lemmaRef="lemlat:a0668" n="w27">admiraris</w>
           <pc n="pc28">.</pc>
         </s>
         <s n="s13">
@@ -1805,7 +1805,7 @@
           <w lemmaRef="lemlat:u0738" n="w4">violatores</w>
           <w lemmaRef="lemlat:i1117" n="w5">increpans</w>
           <w lemmaRef="lemlat:a2445" n="w6">Apostolus</w>
-          <w n="w7">ait</w>
+          <w lemmaRef="lemlat:a1250" n="w7">ait</w>
           <pc n="pc8">:</pc>
           <w lemmaRef="lemlat:t1483" n="w9">Tu</w>
           <w n="w10">quis</w>
@@ -1813,8 +1813,8 @@
           <pc n="pc12">,</pc>
           <w n="w13">qui</w>
           <w lemmaRef="lemlat:i2999" n="w14">iudicas</w>
-          <w n="w15">servum</w>
-          <w n="w16">alienum</w>
+          <w lemmaRef="lemlat:s1432" n="w15">servum</w>
+          <w lemmaRef="lemlat:a1363" n="w16">alienum</w>
           <pc n="pc17">?</pc>
           <w n="w18">Si</w>
           <w lemmaRef="lemlat:s1430" n="w19">stat</w>
@@ -1834,7 +1834,7 @@
           <w lemmaRef="lemlat:q9410" n="w1">Quod</w>
           <w n="w2">si</w>
           <w n="w3">illum</w>
-          <w n="w4">iudicaveris</w>
+          <w lemmaRef="lemlat:i2999" n="w4">iudicaveris</w>
           <w lemmaRef="lemlat:a3606" n="w5">aut</w>
           <w lemmaRef="lemlat:a3434" n="w6">audacius</w>
           <w lemmaRef="lemlat:o0884" n="w7">oppresseris</w>
@@ -1870,7 +1870,7 @@
           <w lemmaRef="lemlat:d2067" n="w6">docentvr</w>
           <w n="w7">ivstissimae</w>
           <w lemmaRef="lemlat:c0995" n="w8">cavsae</w>
-          <w n="w9">svscepti</w>
+          <w lemmaRef="lemlat:s3844" n="w9">svscepti</w>
           <w n="w10">belli</w>
           <w n="w11">contra</w>
           <w n="w12">florentinos</w>
@@ -1929,9 +1929,9 @@
           <w n="w15">est</w>
           <pc n="pc16">,</pc>
           <w lemmaRef="lemlat:s3848" n="w17">suscitavitque</w>
-          <w n="w18">spiritum</w>
+          <w lemmaRef="lemlat:s2214" n="w18">spiritum</w>
           <w lemmaRef="lemlat:z0015" n="w19">zeli</w>
-          <w n="w20">vicarii</w>
+          <w lemmaRef="lemlat:u0580" n="w20">vicarii</w>
           <w n="w21">sui</w>
           <w lemmaRef="lemlat:e0997" n="w22">et</w>
           <w lemmaRef="lemlat:a2888" n="w23">armavit</w>
@@ -1956,10 +1956,10 @@
           <w n="w11">Dei</w>
           <w n="w12">sui</w>
           <pc n="pc13">,</pc>
-          <w n="w14">convocatisque</w>
+          <w lemmaRef="lemlat:c3931" n="w14">convocatisque</w>
           <w n="w15">fratribus</w>
           <w n="w16">exemplo</w>
-          <w n="w17">Moysi</w>
+          <w lemmaRef="lemlat:53187" n="w17">Moysi</w>
           <w n="w18">hortatus</w>
           <w n="w19">est</w>
           <w lemmaRef="lemlat:i2912" n="w20">eos</w>
@@ -1969,7 +1969,7 @@
           <w lemmaRef="lemlat:s3452" n="w1">Sumant</w>
           <w n="w2">singuli</w>
           <w lemmaRef="lemlat:g0332" n="w3">gladios</w>
-          <w n="w4">suos</w>
+          <w lemmaRef="lemlat:s3894" n="w4">suos</w>
           <w lemmaRef="lemlat:e0997" n="w5">et</w>
           <w lemmaRef="lemlat:i2329" n="w6">interficiat</w>
           <w lemmaRef="lemlat:u7502" n="w7">unusquisque</w>
@@ -2001,10 +2001,10 @@
           <pc n="pc6">,</pc>
           <w lemmaRef="lemlat:u1318" n="w7">ut</w>
           <w lemmaRef="lemlat:n0776" n="w8">nulla</w>
-          <w n="w9">dissimulatione</w>
+          <w lemmaRef="lemlat:d1908" n="w9">dissimulatione</w>
           <pc n="pc10">,</pc>
           <w lemmaRef="lemlat:n0776" n="w11">nulla</w>
-          <w n="w12">tergiversatione</w>
+          <w lemmaRef="lemlat:t0346" n="w12">tergiversatione</w>
           <w lemmaRef="lemlat:p2697" n="w13">posset</w>
           <w lemmaRef="lemlat:p3372" n="w14">praeteriri</w>
           <pc n="pc15">.</pc>
@@ -2023,7 +2023,7 @@
           <w n="w11">si</w>
           <w lemmaRef="lemlat:u0219" n="w12">vel</w>
           <w n="w13">paululum</w>
-          <w n="w14">cessasset</w>
+          <w lemmaRef="lemlat:c1303" n="w14">cessasset</w>
           <w n="w15">mercenarius</w>
           <w n="w16">magis</w>
           <w lemmaRef="lemlat:q9410" n="w17">quam</w>
@@ -2073,7 +2073,7 @@
           <pc n="pc9">,</pc>
           <w n="w10">in</w>
           <w n="w11">columnam</w>
-          <w n="w12">ferream</w>
+          <w lemmaRef="lemlat:f0394" n="w12">ferream</w>
           <pc n="pc13">,</pc>
           <w n="w14">in</w>
           <w n="w15">murum</w>
@@ -2156,7 +2156,7 @@
           <w n="w16">dignitate</w>
           <w lemmaRef="lemlat:a3301" n="w17">ac</w>
           <w n="w18">honore</w>
-          <w n="w19">tanti</w>
+          <w lemmaRef="lemlat:t0106" n="w19">tanti</w>
           <w n="w20">patris</w>
           <w lemmaRef="lemlat:e1653" n="w21">exposuit</w>
           <pc n="pc22">.</pc>
@@ -2175,7 +2175,7 @@
           <w n="w11">Iudas</w>
           <w n="w12">Macchabaeus</w>
           <pc n="pc13">,</pc>
-          <w n="w14">aeger</w>
+          <w lemmaRef="lemlat:a0866" n="w14">aeger</w>
           <w lemmaRef="lemlat:q0201" n="w15">quidem</w>
           <w n="w16">pedibus</w>
           <w n="w17">sed</w>
@@ -2203,11 +2203,11 @@
           <w n="w4">Alemanorum</w>
           <w n="w5">qui</w>
           <w n="w6">Domino</w>
-          <w n="w7">auxiliaribus</w>
-          <w n="w8">vicarii</w>
+          <w lemmaRef="lemlat:a3637" n="w7">auxiliaribus</w>
+          <w lemmaRef="lemlat:u0580" n="w8">vicarii</w>
           <w n="w9">sui</w>
           <w lemmaRef="lemlat:f0271" n="w10">favente</w>
-          <w n="w11">exigua</w>
+          <w lemmaRef="lemlat:e1489" n="w11">exigua</w>
           <w lemmaRef="lemlat:s3894" n="w12">suorum</w>
           <w lemmaRef="lemlat:m0362" n="w13">manu</w>
           <w lemmaRef="lemlat:i1850" n="w14">innumeras</w>
@@ -2271,8 +2271,8 @@
           <w n="w52">voluit</w>
           <w n="w53">qui</w>
           <w lemmaRef="lemlat:e0997" n="w54">et</w>
-          <w n="w55">adeundi</w>
-          <w n="w56">tanti</w>
+          <w lemmaRef="lemlat:a0553" n="w55">adeundi</w>
+          <w lemmaRef="lemlat:t0106" n="w56">tanti</w>
           <w lemmaRef="lemlat:d1758" n="w57">discriminis</w>
           <w lemmaRef="lemlat:s3436" n="w58">fuisset</w>
           <pc n="pc59">.</pc>
@@ -2294,7 +2294,7 @@
           <w n="w14">Herculis</w>
           <w n="w15">felicitate</w>
           <w n="w16">cum</w>
-          <w n="w17">paucis</w>
+          <w lemmaRef="lemlat:p0605" n="w17">paucis</w>
           <w lemmaRef="lemlat:a0681" n="w18">admodum</w>
           <w lemmaRef="lemlat:c2572" n="w19">comitibus</w>
           <w lemmaRef="lemlat:a3592" n="w20">auspicio</w>
@@ -2308,7 +2308,7 @@
           <w lemmaRef="lemlat:p0865" n="w28">per</w>
           <w n="w29">totam</w>
           <w n="w30">Liguriam</w>
-          <w n="w31">plura</w>
+          <w lemmaRef="lemlat:p2389" n="w31">plura</w>
           <w n="w32">oppida</w>
           <w n="w33">una</w>
           <w n="w34">die</w>
@@ -2318,7 +2318,7 @@
           <w n="w38">cursor</w>
           <w lemmaRef="lemlat:q0166" n="w39">quattuor</w>
           <w n="w40">diebus</w>
-          <w n="w41">perlustrasset</w>
+          <w lemmaRef="lemlat:p1327" n="w41">perlustrasset</w>
           <pc n="pc42">;</pc>
           <w n="w43">sublatoque</w>
           <w lemmaRef="lemlat:c3231" n="w44">confestim</w>
@@ -2334,7 +2334,7 @@
           <w n="w54">vero</w>
           <w n="w55">antiquas</w>
           <w n="w56">sedes</w>
-          <w n="w57">restituit</w>
+          <w lemmaRef="lemlat:r1365" n="w57">restituit</w>
           <pc n="pc58">.</pc>
         </s>
         <s n="s17">
@@ -2374,7 +2374,7 @@
           <w lemmaRef="lemlat:g0203" n="w20">gentes</w>
           <w lemmaRef="lemlat:e0997" n="w21">et</w>
           <w n="w22">cum</w>
-          <w n="w23">alienigenis</w>
+          <w lemmaRef="lemlat:a1358" n="w23">alienigenis</w>
           <w n="w24">foedus</w>
           <w lemmaRef="lemlat:p1003" n="w25">percusserunt</w>
           <pc n="pc26">.</pc>
@@ -2408,7 +2408,7 @@
           <w lemmaRef="lemlat:e0218" n="w12">ego</w>
           <w lemmaRef="lemlat:i2780" n="w13">ipse</w>
           <w n="w14">die</w>
-          <w n="w15">quarta</w>
+          <w lemmaRef="lemlat:q0148" n="w15">quarta</w>
           <w n="w16">Augusti</w>
           <pc n="pc17">,</pc>
           <w n="w18">te</w>
@@ -2457,7 +2457,7 @@
         <s n="s22">
           <w n="w1">Ubi</w>
           <w lemmaRef="lemlat:76876" n="w2">sixtvs</w>
-          <w n="w3">accersito</w>
+          <w lemmaRef="lemlat:a2688" n="w3">accersito</w>
           <w lemmaRef="lemlat:e0763" n="w4">Episcopo</w>
           <w n="w5">Aleriensi</w>
           <w n="w6">arreptum</w>
@@ -2500,7 +2500,7 @@
           <w n="w21">domo</w>
           <w n="w22">concidit</w>
           <w lemmaRef="lemlat:a3301" n="w23">ac</w>
-          <w n="w24">corruit</w>
+          <w lemmaRef="lemlat:c4131" n="w24">corruit</w>
           <pc n="pc25">.</pc>
         </s>
         <s n="s24">
@@ -2551,7 +2551,7 @@
           <w n="w45">exercitum</w>
           <w lemmaRef="lemlat:p3771" n="w46">profligaverunt</w>
           <w lemmaRef="lemlat:e0997" n="w47">et</w>
-          <w n="w48">spoliatis</w>
+          <w lemmaRef="lemlat:s2252" n="w48">spoliatis</w>
           <w n="w49">castris</w>
           <w n="w50">arma</w>
           <w lemmaRef="lemlat:i2912" n="w51">eorum</w>
@@ -2583,7 +2583,7 @@
           <w lemmaRef="lemlat:r1350" n="w1">Respexit</w>
           <w n="w2">Dominus</w>
           <w lemmaRef="lemlat:h0656" n="w3">humilitatem</w>
-          <w n="w4">vicarii</w>
+          <w lemmaRef="lemlat:u0580" n="w4">vicarii</w>
           <w n="w5">sui</w>
           <w n="w6">qui</w>
           <w n="w7">honorem</w>
@@ -2685,7 +2685,7 @@
           <w lemmaRef="lemlat:d0818" n="w25">deponere</w>
           <w lemmaRef="lemlat:f0433" n="w26">festinabat</w>
           <w lemmaRef="lemlat:c4604" n="w27">cumulatissime</w>
-          <w n="w28">restituit</w>
+          <w lemmaRef="lemlat:r1365" n="w28">restituit</w>
           <pc n="pc29">;</pc>
           <w n="w30">superbiam</w>
           <w n="w31">vero</w>
@@ -2768,7 +2768,7 @@
           <pc n="pc24">.</pc>
         </s>
         <s n="s4">
-          <w n="w1">Accersitur</w>
+          <w lemmaRef="lemlat:a2688" n="w1">Accersitur</w>
           <w n="w2">magnis</w>
           <w lemmaRef="lemlat:s2659" n="w3">studiis</w>
           <w n="w4">maiore</w>
@@ -2825,15 +2825,15 @@
           <w lemmaRef="lemlat:i1712" n="w7">ingrediatur</w>
           <pc n="pc8">,</pc>
           <w lemmaRef="lemlat:p3729" n="w9">prodentibus</w>
-          <w n="w10">sceleratis</w>
+          <w lemmaRef="lemlat:s0594" n="w10">sceleratis</w>
           <w lemmaRef="lemlat:q9202" n="w11">quibusdam</w>
-          <w n="w12">patriae</w>
+          <w lemmaRef="lemlat:p0588" n="w12">patriae</w>
           <w n="w13">portas</w>
           <pc n="pc14">;</pc>
           <w n="w15">cumque</w>
           <w lemmaRef="lemlat:o0723" n="w16">omnia</w>
           <w n="w17">ad</w>
-          <w n="w18">tantum</w>
+          <w lemmaRef="lemlat:t0106" n="w18">tantum</w>
           <w lemmaRef="lemlat:f0047" n="w19">facinus</w>
           <w n="w20">essent</w>
           <w lemmaRef="lemlat:i2151" n="w21">instructa</w>
@@ -2841,7 +2841,7 @@
           <w lemmaRef="lemlat:e0820" n="w23">equitum</w>
           <w lemmaRef="lemlat:p0865" n="w24">per</w>
           <w n="w25">ordines</w>
-          <w n="w26">suos</w>
+          <w lemmaRef="lemlat:s3894" n="w26">suos</w>
           <w n="w27">constituta</w>
           <w n="w28">nocte</w>
           <w n="w29">iter</w>
@@ -2893,11 +2893,11 @@
           <w n="w3">acerba</w>
           <w n="w4">ducis</w>
           <w n="w5">Philippi</w>
-          <w n="w6">recordatione</w>
+          <w lemmaRef="lemlat:r0193" n="w6">recordatione</w>
           <w n="w7">a</w>
           <w n="w8">quo</w>
           <w n="w9">se</w>
-          <w n="w10">ait</w>
+          <w lemmaRef="lemlat:a1250" n="w10">ait</w>
           <w n="w11">monitum</w>
           <w lemmaRef="lemlat:e1795" n="w12">exstitisse</w>
           <w n="w13">cum</w>
@@ -2911,7 +2911,7 @@
           <w lemmaRef="lemlat:s3436" n="w21">fuisset</w>
           <pc n="pc22">,</pc>
           <w lemmaRef="lemlat:c0949" n="w23">Caverem</w>
-          <w n="w24">inquit</w>
+          <w lemmaRef="lemlat:i1914" n="w24">inquit</w>
           <w lemmaRef="lemlat:o0723" n="w25">omni</w>
           <w n="w26">tempore</w>
           <w lemmaRef="lemlat:e0037" n="w27">Ecclesiae</w>
@@ -2955,7 +2955,7 @@
           <w n="w10">divina</w>
           <w n="w11">ultio</w>
           <w lemmaRef="lemlat:s0597" n="w12">scelestum</w>
-          <w n="w13">spiritum</w>
+          <w lemmaRef="lemlat:s2214" n="w13">spiritum</w>
           <w n="w14">dirissimis</w>
           <w n="w15">cum</w>
           <w n="w16">doloribus</w>
@@ -2979,7 +2979,7 @@
           <w n="w13">ipsis</w>
           <w n="w14">civitatis</w>
           <w lemmaRef="lemlat:p2645" n="w15">portis</w>
-          <w n="w16">illusum</w>
+          <w lemmaRef="lemlat:i0264" n="w16">illusum</w>
           <w lemmaRef="lemlat:r1080" n="w17">redire</w>
           <w lemmaRef="lemlat:c2323" n="w18">coegit</w>
           <pc n="pc19">,</pc>
@@ -3016,7 +3016,7 @@
           <pc n="pc20">.</pc>
         </s>
         <s n="s11">
-          <w n="w1">Recense</w>
+          <w lemmaRef="lemlat:r1001" n="w1">Recense</w>
           <w n="w2">singulas</w>
           <w lemmaRef="lemlat:p0865" n="w3">per</w>
           <w lemmaRef="lemlat:37956" n="w4">Hetruriam</w>
@@ -3052,7 +3052,7 @@
           <w n="w13">est</w>
           <w lemmaRef="lemlat:n9508" n="w14">non</w>
           <w n="w15">caruit</w>
-          <w n="w16">dispensatione</w>
+          <w lemmaRef="lemlat:d1825" n="w16">dispensatione</w>
           <w n="w17">divina</w>
           <pc n="pc18">,</pc>
           <w n="w19">quae</w>
@@ -3060,7 +3060,7 @@
           <w lemmaRef="lemlat:p3526" n="w21">pridem</w>
           <w n="w22">decreverat</w>
           <w lemmaRef="lemlat:62389" n="w23">Perusinorum</w>
-          <w n="w24">municipes</w>
+          <w lemmaRef="lemlat:m1726" n="w24">municipes</w>
           <w n="w25">qui</w>
           <w n="w26">cum</w>
           <w n="w27">Montonio</w>
@@ -3157,7 +3157,7 @@
           <w n="w24">in</w>
           <w n="w25">quibus</w>
           <w n="w26">hostium</w>
-          <w n="w27">innumeri</w>
+          <w lemmaRef="lemlat:i1850" n="w27">innumeri</w>
           <w lemmaRef="lemlat:g0596" n="w28">gravi</w>
           <w n="w29">pestilentia</w>
           <w lemmaRef="lemlat:t0007" n="w30">tabescebant</w>
@@ -3200,7 +3200,7 @@
           <w lemmaRef="lemlat:m1357" n="w34">monstrum</w>
           <w n="w35">Caci</w>
           <w n="w36">pontificis</w>
-          <w n="w37">vaticinium</w>
+          <w lemmaRef="lemlat:u0159" n="w37">vaticinium</w>
           <w lemmaRef="lemlat:a0589" n="w38">adimplevit</w>
           <pc n="pc39">.</pc>
         </s>
@@ -3246,7 +3246,7 @@
           <w n="w13">exercitus</w>
           <w n="w14">dirissima</w>
           <w n="w15">lue</w>
-          <w n="w16">laboraverit</w>
+          <w lemmaRef="lemlat:l0030" n="w16">laboraverit</w>
           <pc n="pc17">,</pc>
           <w n="w18">noster</w>
           <w lemmaRef="lemlat:s1187" n="w19">semper</w>
@@ -3267,7 +3267,7 @@
           <w n="w34">ipso</w>
           <w lemmaRef="lemlat:p0049" n="w35">paene</w>
           <w lemmaRef="lemlat:i2911" n="w36">eodem</w>
-          <w n="w37">tecto</w>
+          <w lemmaRef="lemlat:t0200" n="w37">tecto</w>
           <pc n="pc38">,</pc>
           <w lemmaRef="lemlat:s0223" n="w39">salubris</w>
           <w lemmaRef="lemlat:t0084" n="w40">tamen</w>
@@ -3305,7 +3305,7 @@
           <w n="w27">contra</w>
           <w lemmaRef="lemlat:o0723" n="w28">omnium</w>
           <w lemmaRef="lemlat:a3270" n="w29">astronomorum</w>
-          <w n="w30">vaticinia</w>
+          <w lemmaRef="lemlat:u0159" n="w30">vaticinia</w>
           <w n="w31">adeo</w>
           <w lemmaRef="lemlat:s0223" n="w32">salubri</w>
           <w n="w33">aura</w>
@@ -3313,7 +3313,7 @@
           <w n="w35">est</w>
           <w lemmaRef="lemlat:u1318" n="w36">ut</w>
           <w lemmaRef="lemlat:c2873" n="w37">complures</w>
-          <w n="w38">aegroti</w>
+          <w lemmaRef="lemlat:a0891" n="w38">aegroti</w>
           <w lemmaRef="lemlat:u1064" n="w39">undique</w>
           <w n="w40">ad</w>
           <w n="w41">illam</w>
@@ -3336,7 +3336,7 @@
         <s n="s19">
           <w n="w1">Quo</w>
           <w n="w2">facto</w>
-          <w n="w3">declaratum</w>
+          <w lemmaRef="lemlat:d0216" n="w3">declaratum</w>
           <w n="w4">est</w>
           <w n="w5">universa</w>
           <w lemmaRef="lemlat:n0725" n="w6">nutui</w>
@@ -3355,7 +3355,7 @@
           <pc n="pc19">,</pc>
           <w n="w20">uentos</w>
           <pc n="pc21">,</pc>
-          <w n="w22">pluuias</w>
+          <w lemmaRef="lemlat:p2409" n="w22">pluuias</w>
           <pc n="pc23">,</pc>
           <w lemmaRef="lemlat:c1576" n="w24">cibos</w>
           <pc n="pc25">,</pc>
@@ -3386,7 +3386,7 @@
           <w lemmaRef="lemlat:u1318" n="w10">ut</w>
           <w n="w11">possit</w>
           <w lemmaRef="lemlat:n9508" n="w12">non</w>
-          <w n="w13">immerito</w>
+          <w lemmaRef="lemlat:i0371" n="w13">immerito</w>
           <w n="w14">cum</w>
           <w n="w15">illis</w>
           <w n="w16">priscis</w>
@@ -3518,7 +3518,7 @@
           <w lemmaRef="lemlat:n9508" n="w23">non</w>
           <w n="w24">modo</w>
           <w lemmaRef="lemlat:n9508" n="w25">non</w>
-          <w n="w26">optasses</w>
+          <w lemmaRef="lemlat:o0909" n="w26">optasses</w>
           <w n="w27">sed</w>
           <w n="w28">ne</w>
           <w lemmaRef="lemlat:c3034" n="w29">concepisses</w>
@@ -3530,15 +3530,15 @@
           <w lemmaRef="lemlat:e0997" n="w2">et</w>
           <w n="w3">pro</w>
           <w n="w4">tui</w>
-          <w n="w5">unius</w>
+          <w lemmaRef="lemlat:u1136" n="w5">unius</w>
           <w lemmaRef="lemlat:c0574" n="w6">captivitate</w>
-          <w n="w7">innumeri</w>
+          <w lemmaRef="lemlat:i1850" n="w7">innumeri</w>
           <w n="w8">ipsorum</w>
           <w lemmaRef="lemlat:c0580" n="w9">captivati</w>
           <w lemmaRef="lemlat:s3436" n="w10">sunt</w>
           <w lemmaRef="lemlat:e0997" n="w11">et</w>
           <w n="w12">pro</w>
-          <w n="w13">paucorum</w>
+          <w lemmaRef="lemlat:p0605" n="w13">paucorum</w>
           <w n="w14">tuorum</w>
           <w n="w15">indigna</w>
           <w lemmaRef="lemlat:n0264" n="w16">nece</w>
@@ -3602,11 +3602,11 @@
           <w lemmaRef="lemlat:d1852" n="w11">dispositor</w>
           <w n="w12">voluerit</w>
           <w n="w13">tam</w>
-          <w n="w14">praeclari</w>
+          <w lemmaRef="lemlat:p2858" n="w14">praeclari</w>
           <w lemmaRef="lemlat:f0047" n="w15">facinoris</w>
           <w n="w16">sui</w>
           <w n="w17">esse</w>
-          <w n="w18">ministrum</w>
+          <w lemmaRef="lemlat:m1034" n="w18">ministrum</w>
           <w lemmaRef="lemlat:e0997" n="w19">et</w>
           <w lemmaRef="lemlat:r1006" n="w20">recuperandae</w>
           <w lemmaRef="lemlat:e0038" n="w21">ecclesiasticae</w>
@@ -3614,11 +3614,11 @@
           <w lemmaRef="lemlat:i0680" n="w23">impulsorem</w>
           <pc n="pc24">,</pc>
           <w lemmaRef="lemlat:i1204" n="w25">indefessum</w>
-          <w n="w26">vicarii</w>
+          <w lemmaRef="lemlat:u0580" n="w26">vicarii</w>
           <w n="w27">sui</w>
           <w n="w28">adiutorem</w>
           <w lemmaRef="lemlat:e0997" n="w29">et</w>
-          <w n="w30">sumendi</w>
+          <w lemmaRef="lemlat:s3452" n="w30">sumendi</w>
           <w n="w31">de</w>
           <w lemmaRef="lemlat:h0639" n="w32">hostibus</w>
           <w n="w33">Sedis</w>
@@ -3652,7 +3652,7 @@
           <w lemmaRef="lemlat:a0961" n="w20">aequare</w>
           <w n="w21">voluit</w>
           <w lemmaRef="lemlat:u0219" n="w22">vel</w>
-          <w n="w23">praeferre</w>
+          <w lemmaRef="lemlat:p2977" n="w23">praeferre</w>
           <w lemmaRef="lemlat:s2872" n="w24">subiciens</w>
           <w lemmaRef="lemlat:t1483" n="w25">tibi</w>
           <w lemmaRef="lemlat:u1126" n="w26">universas</w>
@@ -3673,14 +3673,14 @@
           <w n="w2">capitvlvm</w>
           <w n="w3">sextvm</w>
           <w n="w4">de</w>
-          <w n="w5">svmmis</w>
+          <w lemmaRef="lemlat:s3451" n="w5">svmmis</w>
           <w lemmaRef="lemlat:p2566" n="w6">pontificibvs</w>
           <w n="w7">qvi</w>
           <w n="w8">pro</w>
           <w lemmaRef="lemlat:e0037" n="w9">ecclesiae</w>
           <w lemmaRef="lemlat:p2687" n="w10">possessionibus</w>
           <w n="w11">armis</w>
-          <w n="w12">decertarvnt</w>
+          <w lemmaRef="lemlat:d0182" n="w12">decertarvnt</w>
           <pc n="pc13">.</pc>
         </title>
         <s n="s2">
@@ -3709,15 +3709,15 @@
           <w n="w23">Longobardorum</w>
           <pc n="pc24">,</pc>
           <w n="w25">bello</w>
-          <w n="w26">superatum</w>
+          <w lemmaRef="lemlat:s3650" n="w26">superatum</w>
           <w lemmaRef="lemlat:e0037" n="w27">ecclesiae</w>
           <w n="w28">urbes</w>
           <w lemmaRef="lemlat:q9410" n="w29">quas</w>
           <w n="w30">in</w>
           <w n="w31">Romandiola</w>
-          <w n="w32">occupaverat</w>
+          <w lemmaRef="lemlat:o0417" n="w32">occupaverat</w>
           <w lemmaRef="lemlat:c2810" n="w33">compulit</w>
-          <w n="w34">restituere</w>
+          <w lemmaRef="lemlat:r1365" n="w34">restituere</w>
           <pc n="pc35">.</pc>
         </s>
         <s n="s3">
@@ -3740,9 +3740,9 @@
           <w n="w17">secundo</w>
           <w lemmaRef="lemlat:a2579" n="w18">apud</w>
           <w n="w19">Ticinium</w>
-          <w n="w20">devictum</w>
+          <w lemmaRef="lemlat:d1162" n="w20">devictum</w>
           <w lemmaRef="lemlat:p4027" n="w21">propter</w>
-          <w n="w22">usurpatum</w>
+          <w lemmaRef="lemlat:u1317" n="w22">usurpatum</w>
           <w lemmaRef="lemlat:69429" n="w23">Ravennae</w>
           <w n="w24">exarchatum</w>
           <w n="w25">in</w>
@@ -3755,7 +3755,7 @@
         </s>
         <s n="s4">
           <w n="w1">Maximis</w>
-          <w n="w2">praeconiis</w>
+          <w lemmaRef="lemlat:p2879" n="w2">praeconiis</w>
           <w lemmaRef="lemlat:e0127" n="w3">effertur</w>
           <w n="w4">Iohannis</w>
           <w n="w5">Decimi</w>
@@ -3767,7 +3767,7 @@
           <w lemmaRef="lemlat:p0865" n="w11">per</w>
           <w n="w12">legatos</w>
           <w lemmaRef="lemlat:a3606" n="w13">aut</w>
-          <w n="w14">vicarios</w>
+          <w lemmaRef="lemlat:u0580" n="w14">vicarios</w>
           <w n="w15">verum</w>
           <w lemmaRef="lemlat:p0865" n="w16">per</w>
           <w n="w17">se</w>
@@ -3812,7 +3812,7 @@
           <w n="w7">cum</w>
           <w n="w8">Henrico</w>
           <w lemmaRef="lemlat:n0766" n="w9">nondum</w>
-          <w n="w10">coronato</w>
+          <w lemmaRef="lemlat:c4078" n="w10">coronato</w>
           <w n="w11">ausus</w>
           <w n="w12">est</w>
           <w n="w13">pro</w>
@@ -3864,7 +3864,7 @@
           <w lemmaRef="lemlat:n0264" n="w59">nece</w>
           <w lemmaRef="lemlat:e1791" n="w60">extinxit</w>
           <pc n="pc61">,</pc>
-          <w n="w62">praedia</w>
+          <w lemmaRef="lemlat:p2944" n="w62">praedia</w>
           <w n="w63">atque</w>
           <w n="w64">oppida</w>
           <w lemmaRef="lemlat:e0037" n="w65">ecclesiae</w>
@@ -3908,7 +3908,7 @@
           <w n="w13">sibi</w>
           <w n="w14">regium</w>
           <w n="w15">nomen</w>
-          <w n="w16">usurpaverat</w>
+          <w lemmaRef="lemlat:u1317" n="w16">usurpaverat</w>
           <w n="w17">Regno</w>
           <w n="w18">Apuliae</w>
           <w lemmaRef="lemlat:76102" n="w19">Siciliaeque</w>
@@ -3956,7 +3956,7 @@
           <w n="w38">debitum</w>
           <w lemmaRef="lemlat:e0037" n="w39">ecclesiae</w>
           <w lemmaRef="lemlat:u0187" n="w40">vectigal</w>
-          <w n="w41">persolvere</w>
+          <w lemmaRef="lemlat:p1596" n="w41">persolvere</w>
           <w lemmaRef="lemlat:d1115" n="w42">detrectaret</w>
           <pc n="pc43">,</pc>
           <w n="w44">Lonogario</w>
@@ -3970,7 +3970,7 @@
           <w n="w52">electo</w>
           <pc n="pc53">;</pc>
           <w lemmaRef="lemlat:q9410" n="w54">quod</w>
-          <w n="w55">memorandum</w>
+          <w lemmaRef="lemlat:m0706" n="w55">memorandum</w>
           <w lemmaRef="lemlat:f0047" n="w56">facinus</w>
           <w lemmaRef="lemlat:l0691" n="w57">libuit</w>
           <w n="w58">futuris</w>
@@ -4007,13 +4007,13 @@
           <w n="w14">minori</w>
           <w n="w15">felicitate</w>
           <w n="w16">armis</w>
-          <w n="w17">decertasset</w>
+          <w lemmaRef="lemlat:d0182" n="w17">decertasset</w>
           <pc n="pc18">,</pc>
           <w lemmaRef="lemlat:n9508" n="w19">non</w>
           <w n="w20">valens</w>
           <w n="w21">contra</w>
           <w n="w22">se</w>
-          <w n="w23">accersitis</w>
+          <w lemmaRef="lemlat:a2688" n="w23">accersitis</w>
           <w lemmaRef="lemlat:73171" n="w24">Saracenorum</w>
           <w lemmaRef="lemlat:u0804" n="w25">viribus</w>
           <w lemmaRef="lemlat:i2911" n="w26">eadem</w>
@@ -4026,7 +4026,7 @@
           <w lemmaRef="lemlat:u0013" n="w33">vacante</w>
           <w lemmaRef="lemlat:i0496" n="w34">imperio</w>
           <w lemmaRef="lemlat:86542" n="w35">Tusciae</w>
-          <w n="w36">vicarium</w>
+          <w lemmaRef="lemlat:u0580" n="w36">vicarium</w>
           <w lemmaRef="lemlat:c3616" n="w37">constituerat</w>
           <w lemmaRef="lemlat:i1768" n="w38">inimicos</w>
           <w lemmaRef="lemlat:e0037" n="w39">ecclesiae</w>
@@ -4054,7 +4054,7 @@
           <w lemmaRef="lemlat:88441" n="w61">Venetiarumque</w>
           <w n="w62">civitatibus</w>
           <w n="w63">libertatem</w>
-          <w n="w64">restituit</w>
+          <w lemmaRef="lemlat:r1365" n="w64">restituit</w>
           <w n="w65">Sedique</w>
           <w n="w66">Apostolicae</w>
           <w lemmaRef="lemlat:c3435" n="w67">coniunxit</w>
@@ -4067,20 +4067,20 @@
           <w lemmaRef="lemlat:35491" n="w74">Genuensium</w>
           <w n="w75">parantem</w>
           <w n="w76">magna</w>
-          <w n="w77">interpellasset</w>
+          <w lemmaRef="lemlat:i2431" n="w77">interpellasset</w>
           <pc n="pc78">,</pc>
           <w lemmaRef="lemlat:n9508" n="w79">non</w>
           <w n="w80">modo</w>
           <w n="w81">Manfredum</w>
           <w n="w82">de</w>
           <w lemmaRef="lemlat:76102" n="w83">Siciliae</w>
-          <w n="w84">possessione</w>
+          <w lemmaRef="lemlat:p2687" n="w84">possessione</w>
           <w lemmaRef="lemlat:d0478" n="w85">deiecisset</w>
           <w n="w86">sed</w>
           <w lemmaRef="lemlat:e0997" n="w87">et</w>
           <w n="w88">ipsos</w>
           <w lemmaRef="lemlat:73171" n="w89">Saracenos</w>
-          <w n="w90">renovato</w>
+          <w lemmaRef="lemlat:r1249" n="w90">renovato</w>
           <w n="w91">bello</w>
           <w lemmaRef="lemlat:9006" n="w92">Asiatico</w>
           <w lemmaRef="lemlat:g0596" n="w93">graviter</w>
@@ -4125,7 +4125,7 @@
           <w lemmaRef="lemlat:63415" n="w34">Picenum</w>
           <w n="w35">quoque</w>
           <w n="w36">agrum</w>
-          <w n="w37">occupaverat</w>
+          <w lemmaRef="lemlat:o0417" n="w37">occupaverat</w>
           <pc n="pc38">,</pc>
           <w n="w39">misso</w>
           <w n="w40">legato</w>
@@ -4133,7 +4133,7 @@
           <w n="w42">cum</w>
           <w n="w43">Gallorum</w>
           <w lemmaRef="lemlat:m0362" n="w44">manu</w>
-          <w n="w45">superatoque</w>
+          <w lemmaRef="lemlat:s3650" n="w45">superatoque</w>
           <w lemmaRef="lemlat:a2579" n="w46">apud</w>
           <w lemmaRef="lemlat:12711" n="w47">Brixiam</w>
           <w n="w48">Uberto</w>
@@ -4201,7 +4201,7 @@
           <w lemmaRef="lemlat:i2912" n="w17">eius</w>
           <w n="w18">confortavit</w>
           <w n="w19">ad</w>
-          <w n="w20">persequendum</w>
+          <w lemmaRef="lemlat:p1575" n="w20">persequendum</w>
           <w lemmaRef="lemlat:i0553" n="w21">impiissimum</w>
           <w n="w22">Manfredum</w>
           <pc n="pc23">,</pc>
@@ -4234,7 +4234,7 @@
           <w n="w50">quotannis</w>
           <w lemmaRef="lemlat:q0011" n="w51">quadraginta</w>
           <w n="w52">milia</w>
-          <w n="w53">aureorum</w>
+          <w lemmaRef="lemlat:a3541" n="w53">aureorum</w>
           <w n="w54">nummorum</w>
           <w n="w55">census</w>
           <w n="w56">pendendi</w>
@@ -4246,7 +4246,7 @@
           <w n="w62">in</w>
           <w n="w63">Basilica</w>
           <w lemmaRef="lemlat:46045" n="w64">Lateranensi</w>
-          <w n="w65">declaratum</w>
+          <w lemmaRef="lemlat:d0216" n="w65">declaratum</w>
           <w lemmaRef="lemlat:m1143" n="w66">misit</w>
           <w n="w67">in</w>
           <w n="w68">Manfredum</w>
@@ -4265,7 +4265,7 @@
           <pc n="pc81">,</pc>
           <w lemmaRef="lemlat:73171" n="w82">Saracenorum</w>
           <w n="w83">aliis</w>
-          <w n="w84">trucidatis</w>
+          <w lemmaRef="lemlat:t1452" n="w84">trucidatis</w>
           <w n="w85">aliis</w>
           <w n="w86">in</w>
           <w lemmaRef="lemlat:d0317" n="w87">deditionem</w>
@@ -4298,7 +4298,7 @@
           <w n="w18">misso</w>
           <w n="w19">crucem</w>
           <w n="w20">praedicare</w>
-          <w n="w21">iussit</w>
+          <w lemmaRef="lemlat:i2980" n="w21">iussit</w>
           <w n="w22">adversus</w>
           <w lemmaRef="lemlat:62644" n="w23">Petrum</w>
           <pc n="pc24">,</pc>
@@ -4312,7 +4312,7 @@
           <w lemmaRef="lemlat:76102" n="w32">Siciliae</w>
           <pc n="pc33">,</pc>
           <w n="w34">de</w>
-          <w n="w35">possessione</w>
+          <w lemmaRef="lemlat:p2687" n="w35">possessione</w>
           <w n="w36">regni</w>
           <w lemmaRef="lemlat:d1128" n="w37">deturbare</w>
           <w n="w38">conatus</w>
@@ -4403,7 +4403,7 @@
           <w n="w2">magnis</w>
           <w n="w3">cum</w>
           <w n="w4">laudum</w>
-          <w n="w5">praeconiis</w>
+          <w lemmaRef="lemlat:p2879" n="w5">praeconiis</w>
           <w lemmaRef="lemlat:e0997" n="w6">et</w>
           <w n="w7">Clementis</w>
           <w n="w8">Quinti</w>
@@ -4424,7 +4424,7 @@
           <w lemmaRef="lemlat:m1292" n="w23">monitos</w>
           <w lemmaRef="lemlat:n0149" n="w24">nec</w>
           <w lemmaRef="lemlat:r1341" n="w25">resipiscere</w>
-          <w n="w26">volentes</w>
+          <w lemmaRef="lemlat:u1167" n="w26">volentes</w>
           <w n="w27">anathemate</w>
           <w lemmaRef="lemlat:n0552" n="w28">notavit</w>
           <pc n="pc29">,</pc>
@@ -4438,7 +4438,7 @@
           <w lemmaRef="lemlat:f0361" n="w37">ferme</w>
           <w n="w38">die</w>
           <w n="w39">decreto</w>
-          <w n="w40">promulgato</w>
+          <w lemmaRef="lemlat:p3905" n="w40">promulgato</w>
           <w n="w41">quo</w>
           <w lemmaRef="lemlat:p0865" n="w42">per</w>
           <w lemmaRef="lemlat:u1126" n="w43">universam</w>
@@ -4466,7 +4466,7 @@
           <w n="w65">Pelaguram</w>
           <w n="w66">qui</w>
           <w n="w67">cruce</w>
-          <w n="w68">signatum</w>
+          <w lemmaRef="lemlat:s1627" n="w68">signatum</w>
           <w n="w69">exercitum</w>
           <w lemmaRef="lemlat:d2279" n="w70">duxit</w>
           <w n="w71">in</w>
@@ -4491,7 +4491,7 @@
           <w lemmaRef="lemlat:p2700" n="w1">Post</w>
           <w lemmaRef="lemlat:h0360" n="w2">haec</w>
           <w n="w3">cum</w>
-          <w n="w4">instauratis</w>
+          <w lemmaRef="lemlat:i2115" n="w4">instauratis</w>
           <w n="w5">subinde</w>
           <w n="w6">ipsorum</w>
           <w n="w7">copiis</w>
@@ -4533,9 +4533,9 @@
           <w lemmaRef="lemlat:q9410" n="w7">quam</w>
           <w lemmaRef="lemlat:c1159" n="w8">centum</w>
           <w n="w9">milia</w>
-          <w n="w10">aureorum</w>
+          <w lemmaRef="lemlat:a3541" n="w10">aureorum</w>
           <w n="w11">in</w>
-          <w n="w12">aerarium</w>
+          <w lemmaRef="lemlat:a0970" n="w12">aerarium</w>
           <w n="w13">apostolicum</w>
           <w lemmaRef="lemlat:i1548" n="w14">intulissent</w>
           <pc n="pc15">.</pc>
@@ -4572,7 +4572,7 @@
           <w lemmaRef="lemlat:e0037" n="w29">ecclesiae</w>
           <w n="w30">oppidum</w>
           <pc n="pc31">,</pc>
-          <w n="w32">occupaverat</w>
+          <w lemmaRef="lemlat:o0417" n="w32">occupaverat</w>
           <w n="w33">a</w>
           <w n="w34">legato</w>
           <w n="w35">qui</w>
@@ -4582,7 +4582,7 @@
           <w n="w39">victum</w>
           <w n="w40">interdictorum</w>
           <w n="w41">sacrorum</w>
-          <w n="w42">relaxatione</w>
+          <w lemmaRef="lemlat:r0332" n="w42">relaxatione</w>
           <w n="w43">nisi</w>
           <w n="w44">restituta</w>
           <w n="w45">Argenta</w>
@@ -4649,7 +4649,7 @@
           <w lemmaRef="lemlat:t0901" n="w21">tyrannos</w>
           <w lemmaRef="lemlat:e1487" n="w22">exegit</w>
           <pc n="pc23">,</pc>
-          <w n="w24">paucis</w>
+          <w lemmaRef="lemlat:p0605" n="w24">paucis</w>
           <w lemmaRef="lemlat:d2324" n="w25">dumtaxat</w>
           <w lemmaRef="lemlat:e1311" n="w26">exceptis</w>
           <w n="w27">quos</w>
@@ -4660,10 +4660,10 @@
           <pc n="pc32">.</pc>
         </s>
         <s n="s22">
-          <w n="w1">Vicarios</w>
+          <w lemmaRef="lemlat:u0580" n="w1">Vicarios</w>
           <w lemmaRef="lemlat:i0591" n="w2">imposito</w>
           <w n="w3">censu</w>
-          <w n="w4">constituit</w>
+          <w lemmaRef="lemlat:c3616" n="w4">constituit</w>
           <w n="w5">atque</w>
           <w lemmaRef="lemlat:e1167" n="w6">ex</w>
           <w n="w7">Italia</w>
@@ -4671,7 +4671,7 @@
           <pc n="pc9">,</pc>
           <w n="w10">Arduino</w>
           <w n="w11">Burgundo</w>
-          <w n="w12">abbate</w>
+          <w lemmaRef="lemlat:lemlat:a0013" n="w12">abbate</w>
           <w n="w13">Cistersiense</w>
           <w lemmaRef="lemlat:s3272" n="w14">successore</w>
           <w n="w15">accepto</w>
@@ -4789,7 +4789,7 @@
           <w lemmaRef="lemlat:p2700" n="w3">post</w>
           <w n="w4">Florentinis</w>
           <w lemmaRef="lemlat:s3753" n="w5">suppetias</w>
-          <w n="w6">ferens</w>
+          <w lemmaRef="lemlat:f0382" n="w6">ferens</w>
           <w n="w7">legatus</w>
           <w lemmaRef="lemlat:i2254" n="w8">inter</w>
           <w n="w9">Aretium</w>
@@ -4856,7 +4856,7 @@
           <w n="w19">legatum</w>
           <w lemmaRef="lemlat:u0219" n="w20">vel</w>
           <w n="w21">duces</w>
-          <w n="w22">ecclesiastici</w>
+          <w lemmaRef="lemlat:e0038" n="w22">ecclesiastici</w>
           <w n="w23">exercitus</w>
           <w lemmaRef="lemlat:s1890" n="w24">solitis</w>
           <w n="w25">suis</w>
@@ -4872,7 +4872,7 @@
           <w lemmaRef="lemlat:p2566" n="w35">pontificem</w>
           <w lemmaRef="lemlat:p3098" n="w36">praematura</w>
           <w n="w37">mors</w>
-          <w n="w38">occupasset</w>
+          <w lemmaRef="lemlat:o0417" n="w38">occupasset</w>
           <pc n="pc39">.</pc>
         </s>
         <s n="s29">
@@ -4883,7 +4883,7 @@
           <w lemmaRef="lemlat:71628" n="w5">Romanum</w>
           <w n="w6">populum</w>
           <w n="w7">in</w>
-          <w n="w8">Britones</w>
+          <w lemmaRef="lemlat:12694" n="w8">Britones</w>
           <w lemmaRef="lemlat:m1143" n="w9">mittit</w>
           <w n="w10">agros</w>
           <w n="w11">Urbis</w>
@@ -4915,10 +4915,10 @@
           <w n="w14">Regis</w>
           <w n="w15">Ungariae</w>
           <pc n="pc16">,</pc>
-          <w n="w17">accersitum</w>
+          <w lemmaRef="lemlat:a2688" n="w17">accersitum</w>
           <w lemmaRef="lemlat:r0645" n="w18">Regemque</w>
           <w n="w19">Apuliae</w>
-          <w n="w20">declaratum</w>
+          <w lemmaRef="lemlat:d0216" n="w20">declaratum</w>
           <w lemmaRef="lemlat:n9508" n="w21">non</w>
           <w n="w22">sine</w>
           <w n="w23">magni</w>
@@ -4941,7 +4941,7 @@
           <w n="w11">antipapis</w>
           <w lemmaRef="lemlat:i0496" n="w12">imperio</w>
           <w n="w13">imminutus</w>
-          <w n="w14">excogitato</w>
+          <w lemmaRef="lemlat:e1346" n="w14">excogitato</w>
           <w n="w15">Annatarum</w>
           <w n="w16">praesidio</w>
           <w n="w17">multa</w>
@@ -5082,7 +5082,7 @@
           <w n="w17">decore</w>
           <w n="w18">Sedis</w>
           <w n="w19">Apostolicae</w>
-          <w n="w20">certasse</w>
+          <w lemmaRef="lemlat:c1274" n="w20">certasse</w>
           <w lemmaRef="lemlat:c4290" n="w21">creduntur</w>
           <pc n="pc22">,</pc>
           <w lemmaRef="lemlat:n9508" n="w23">non</w>
@@ -5130,7 +5130,7 @@
           <w lemmaRef="lemlat:p2566" n="w5">pontificibvs</w>
           <w n="w6">qvi</w>
           <w n="w7">in</w>
-          <w n="w8">corripiendo</w>
+          <w lemmaRef="lemlat:c4112" n="w8">corripiendo</w>
           <w n="w9">mores</w>
           <w lemmaRef="lemlat:r0645" n="w10">regvm</w>
           <w lemmaRef="lemlat:e0997" n="w11">et</w>
@@ -5154,7 +5154,7 @@
           <w n="w12">tenui</w>
           <w lemmaRef="lemlat:a0681" n="w13">admodum</w>
           <w n="w14">potentia</w>
-          <w n="w15">suffultum</w>
+          <w lemmaRef="lemlat:s3389" n="w15">suffultum</w>
           <w lemmaRef="lemlat:a0188" n="w16">absterrere</w>
           <w lemmaRef="lemlat:n9508" n="w17">non</w>
           <w lemmaRef="lemlat:p2697" n="w18">potuit</w>
@@ -5179,7 +5179,7 @@
           <w lemmaRef="lemlat:f0370" n="w37">feriret</w>
           <w lemmaRef="lemlat:s1232" n="w38">sententia</w>
           <w lemmaRef="lemlat:e0997" n="w39">et</w>
-          <w n="w40">haeresis</w>
+          <w lemmaRef="lemlat:h0047" n="w40">haeresis</w>
           <w n="w41">infamia</w>
           <w lemmaRef="lemlat:n0552" n="w42">notaret</w>
           <pc n="pc43">.</pc>
@@ -5188,7 +5188,7 @@
           <w lemmaRef="lemlat:n9508" n="w1">Non</w>
           <w n="w2">minore</w>
           <w n="w3">certe</w>
-          <w n="w4">admiratione</w>
+          <w lemmaRef="lemlat:a0665" n="w4">admiratione</w>
           <w lemmaRef="lemlat:e0997" n="w5">et</w>
           <w lemmaRef="lemlat:35279" n="w6">Gelasius</w>
           <w n="w7">Primus</w>
@@ -5199,26 +5199,26 @@
           <w lemmaRef="lemlat:f0271" n="w12">faveret</w>
           <w n="w13">Achatio</w>
           <w n="w14">Constantinopolitano</w>
-          <w n="w15">haeretico</w>
+          <w lemmaRef="lemlat:h0048" n="w15">haeretico</w>
           <pc n="pc16">,</pc>
           <w lemmaRef="lemlat:q9410" n="w17">quod</w>
           <w n="w18">factum</w>
           <w lemmaRef="lemlat:p2702" n="w19">postea</w>
           <w n="w20">decreto</w>
           <w lemmaRef="lemlat:p0550" n="w21">patrum</w>
-          <w n="w22">comprobatum</w>
+          <w lemmaRef="lemlat:c2909" n="w22">comprobatum</w>
           <w n="w23">est</w>
           <w n="w24">sacrisque</w>
-          <w n="w25">insertum</w>
+          <w lemmaRef="lemlat:i2002" n="w25">insertum</w>
           <w n="w26">legibus</w>
           <w lemmaRef="lemlat:e0997" n="w27">et</w>
-          <w n="w28">declaratum</w>
+          <w lemmaRef="lemlat:d0216" n="w28">declaratum</w>
           <w n="w29">imperatorum</w>
           <pc n="pc30">,</pc>
           <w n="w31">quamvis</w>
-          <w n="w32">sublime</w>
+          <w lemmaRef="lemlat:s2944" n="w32">sublime</w>
           <w lemmaRef="lemlat:f0245" n="w33">fastigium</w>
-          <w n="w34">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w34">vicario</w>
           <w n="w35">Christi</w>
           <w n="w36">esse</w>
           <w lemmaRef="lemlat:o0147" n="w37">obnoxium</w>
@@ -5330,7 +5330,7 @@
           <w n="w58">ad</w>
           <w n="w59">gremium</w>
           <w lemmaRef="lemlat:e0037" n="w60">ecclesiae</w>
-          <w n="w61">recusasset</w>
+          <w lemmaRef="lemlat:r1063" n="w61">recusasset</w>
           <w lemmaRef="lemlat:e1733" n="w62">exsecrationes</w>
           <w n="w63">in</w>
           <w n="w64">eum</w>
@@ -5349,14 +5349,14 @@
           <w lemmaRef="lemlat:m1751" n="w6">muneribus</w>
           <w lemmaRef="lemlat:d0526" n="w7">delinire</w>
           <w n="w8">frustra</w>
-          <w n="w9">temptasset</w>
+          <w lemmaRef="lemlat:t0263" n="w9">temptasset</w>
           <pc n="pc10">,</pc>
           <w n="w11">probris</w>
           <w lemmaRef="lemlat:e0997" n="w12">et</w>
           <w n="w13">contumeliis</w>
           <w lemmaRef="lemlat:a1081" n="w14">affectos</w>
           <w lemmaRef="lemlat:d2327" n="w15">duobus</w>
-          <w n="w16">tantum</w>
+          <w lemmaRef="lemlat:t0106" n="w16">tantum</w>
           <w n="w17">nautis</w>
           <w lemmaRef="lemlat:d0323" n="w18">deducendos</w>
           <w n="w19">ad</w>
@@ -5392,7 +5392,7 @@
           <w lemmaRef="lemlat:o0573" n="w16">oblatos</w>
           <w n="w17">efficere</w>
           <w lemmaRef="lemlat:n0761" n="w18">nequicquam</w>
-          <w n="w19">temptarunt</w>
+          <w lemmaRef="lemlat:t0263" n="w19">temptarunt</w>
           <pc n="pc20">,</pc>
           <w lemmaRef="lemlat:q0290" n="w21">quippe</w>
           <w n="w22">qui</w>
@@ -5447,7 +5447,7 @@
           <w lemmaRef="lemlat:e0997" n="w36">et</w>
           <w n="w37">posteris</w>
           <w n="w38">universis</w>
-          <w n="w39">praecipuum</w>
+          <w lemmaRef="lemlat:p2849" n="w39">praecipuum</w>
           <w lemmaRef="lemlat:r1181" n="w40">relinquens</w>
           <w lemmaRef="lemlat:e1428" n="w41">exemplum</w>
           <w lemmaRef="lemlat:u1318" n="w42">ut</w>
@@ -5477,7 +5477,7 @@
           <w n="w14">sanctorumque</w>
           <w lemmaRef="lemlat:i2912" n="w15">eius</w>
           <w lemmaRef="lemlat:d1043" n="w16">destrui</w>
-          <w n="w17">mandasset</w>
+          <w lemmaRef="lemlat:m0260" n="w17">mandasset</w>
           <pc n="pc18">.</pc>
         </s>
         <s n="s11">
@@ -5500,7 +5500,7 @@
           <w lemmaRef="lemlat:q9410" n="w17">quam</w>
           <w lemmaRef="lemlat:p3572" n="w18">prius</w>
           <w n="w19">monitus</w>
-          <w n="w20">repudiaverat</w>
+          <w lemmaRef="lemlat:r1303" n="w20">repudiaverat</w>
           <w n="w21">iterum</w>
           <w n="w22">uxori</w>
           <w lemmaRef="lemlat:s3521" n="w23">superduxisset</w>
@@ -5523,7 +5523,7 @@
           <w lemmaRef="lemlat:m0760" n="w40">mentitus</w>
           <w lemmaRef="lemlat:s2214" n="w41">Spiritui</w>
           <w lemmaRef="lemlat:s0267" n="w42">Sancto</w>
-          <w n="w43">impetrasset</w>
+          <w lemmaRef="lemlat:i0533" n="w43">impetrasset</w>
           <w lemmaRef="lemlat:e1045" n="w44">Eucharistiamque</w>
           <w n="w45">ficto</w>
           <w n="w46">corde</w>
@@ -5537,7 +5537,7 @@
           <pc n="pc54">,</pc>
           <w lemmaRef="lemlat:m1457" n="w55">mox</w>
           <w lemmaRef="lemlat:g0596" n="w56">gravi</w>
-          <w n="w57">castigatione</w>
+          <w lemmaRef="lemlat:c0773" n="w57">castigatione</w>
           <w lemmaRef="lemlat:d2401" n="w58">duriter</w>
           <w n="w59">correptus</w>
           <w n="w60">est</w>
@@ -5618,7 +5618,7 @@
           <w n="w37">comitis</w>
           <w n="w38">Andagavensis</w>
           <w lemmaRef="lemlat:u1391" n="w39">uxorem</w>
-          <w n="w40">copulaverat</w>
+          <w lemmaRef="lemlat:c3978" n="w40">copulaverat</w>
           <pc n="pc41">.</pc>
         </s>
         <s n="s15">
@@ -5678,7 +5678,7 @@
           <w n="w22">oratio</w>
           <w n="w23">qui</w>
           <w n="w24">pro</w>
-          <w n="w25">tuenda</w>
+          <w lemmaRef="lemlat:t1712" n="w25">tuenda</w>
           <w n="w26">Sedis</w>
           <w n="w27">Apostolicae</w>
           <w lemmaRef="lemlat:a3422" n="w28">auctoritate</w>
@@ -5687,7 +5687,7 @@
           <w lemmaRef="lemlat:i2780" n="w31">ipsam</w>
           <w n="w32">cum</w>
           <w n="w33">morte</w>
-          <w n="w34">commutarunt</w>
+          <w lemmaRef="lemlat:c2756" n="w34">commutarunt</w>
           <pc n="pc35">.</pc>
         </s>
         <s n="s3">
@@ -5707,7 +5707,7 @@
           <w lemmaRef="lemlat:i0480" n="w14">imperatore</w>
           <w n="w15">quo</w>
           <w lemmaRef="lemlat:c3620" n="w16">constanter</w>
-          <w n="w17">tuente</w>
+          <w lemmaRef="lemlat:t1712" n="w17">tuente</w>
           <w n="w18">iura</w>
           <w lemmaRef="lemlat:e0037" n="w19">ecclesiae</w>
           <w lemmaRef="lemlat:p2566" n="w20">pontifice</w>
@@ -5857,7 +5857,7 @@
           <w n="w9">sua</w>
           <w n="w10">pietate</w>
           <w lemmaRef="lemlat:c3231" n="w11">confestim</w>
-          <w n="w12">liberasset</w>
+          <w lemmaRef="lemlat:l0684" n="w12">liberasset</w>
           <w n="w13">iterum</w>
           <w n="w14">veniens</w>
           <w lemmaRef="lemlat:71617" n="w15">Romam</w>
@@ -5907,7 +5907,7 @@
           <w n="w16">futurum</w>
           <w lemmaRef="lemlat:n0776" n="w17">nullasque</w>
           <w n="w18">de</w>
-          <w n="w19">cetero</w>
+          <w lemmaRef="lemlat:c1312" n="w19">cetero</w>
           <w lemmaRef="lemlat:u0219" n="w20">vel</w>
           <w lemmaRef="lemlat:r0497" n="w21">rebus</w>
           <w lemmaRef="lemlat:u0219" n="w22">vel</w>
@@ -5921,7 +5921,7 @@
           <w lemmaRef="lemlat:h0951" n="w1">Haudquaquam</w>
           <w n="w2">minore</w>
           <w lemmaRef="lemlat:u0219" n="w3">vel</w>
-          <w n="w4">miseratione</w>
+          <w lemmaRef="lemlat:m1103" n="w4">miseratione</w>
           <w lemmaRef="lemlat:u0219" n="w5">vel</w>
           <w n="w6">laude</w>
           <w lemmaRef="lemlat:p0492" n="w7">Pascalis</w>
@@ -5955,7 +5955,7 @@
           <w lemmaRef="lemlat:i2912" n="w35">eorum</w>
           <w lemmaRef="lemlat:f0288" n="w36">fautores</w>
           <w n="w37">digna</w>
-          <w n="w38">animadversione</w>
+          <w lemmaRef="lemlat:a2030" n="w38">animadversione</w>
           <w lemmaRef="lemlat:c0776" n="w39">castigaret</w>
           <pc n="pc40">;</pc>
           <w lemmaRef="lemlat:d0490" n="w41">deinde</w>
@@ -6017,7 +6017,7 @@
           <pc n="pc15">;</pc>
           <w n="w16">altero</w>
           <w n="w17">oppidorum</w>
-          <w n="w18">expugnato</w>
+          <w lemmaRef="lemlat:e1688" n="w18">expugnato</w>
           <w lemmaRef="lemlat:i2115" n="w19">instauraverunt</w>
           <w n="w20">ei</w>
           <w n="w21">labores</w>
@@ -6110,7 +6110,7 @@
           <w lemmaRef="lemlat:s0433" n="w12">satisfecisset</w>
           <w lemmaRef="lemlat:e0997" n="w13">et</w>
           <w lemmaRef="lemlat:e0763" n="w14">episcopos</w>
-          <w n="w15">suos</w>
+          <w lemmaRef="lemlat:s3894" n="w15">suos</w>
           <w n="w16">quos</w>
           <w n="w17">contra</w>
           <w n="w18">ius</w>
@@ -6185,7 +6185,7 @@
           <w lemmaRef="lemlat:p2700" n="w25">post</w>
           <w lemmaRef="lemlat:c4430" n="w26">crucifigere</w>
           <w n="w27">hominem</w>
-          <w n="w28">volentibus</w>
+          <w lemmaRef="lemlat:u1167" n="w28">volentibus</w>
           <w n="w29">Urbe</w>
           <w n="w30">pulsus</w>
           <w n="w31">est</w>
@@ -6223,7 +6223,7 @@
           <w n="w3">in</w>
           <w n="w4">Apuliam</w>
           <w lemmaRef="lemlat:c3021" n="w5">Concilii</w>
-          <w n="w6">celebrandi</w>
+          <w lemmaRef="lemlat:c1049" n="w6">celebrandi</w>
           <w n="w7">gratia</w>
           <w lemmaRef="lemlat:r0924" n="w8">rursum</w>
           <w n="w9">a</w>
@@ -6233,7 +6233,7 @@
           <w lemmaRef="lemlat:e0997" n="w13">et</w>
           <w lemmaRef="lemlat:a0001" n="w14">ab</w>
           <w n="w15">Henrico</w>
-          <w n="w16">plurimum</w>
+          <w lemmaRef="lemlat:p2395" n="w16">plurimum</w>
           <w lemmaRef="lemlat:f0260" n="w17">fatigatus</w>
           <w n="w18">victor</w>
           <w lemmaRef="lemlat:t0094" n="w19">tandem</w>
@@ -6370,7 +6370,7 @@
           <w n="w38">signis</w>
           <w n="w39">pro</w>
           <w n="w40">suo</w>
-          <w n="w41">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w41">vicario</w>
           <w lemmaRef="lemlat:d1610" n="w42">dimicanti</w>
           <w lemmaRef="lemlat:u1167" n="w43">velit</w>
           <w lemmaRef="lemlat:p4721" n="w44">praeterea</w>
@@ -6408,7 +6408,7 @@
           <w n="w21">a</w>
           <w lemmaRef="lemlat:p2566" n="w22">Pontifice</w>
           <w n="w23">pro</w>
-          <w n="w24">satisfactione</w>
+          <w lemmaRef="lemlat:s0435" n="w24">satisfactione</w>
           <w lemmaRef="lemlat:a0275" n="w25">accipiens</w>
           <w lemmaRef="lemlat:e1589" n="w26">expeditionem</w>
           <w n="w27">in</w>
@@ -6437,7 +6437,7 @@
           <w n="w50">a</w>
           <w n="w51">militibus</w>
           <w n="w52">Hyerosolimum</w>
-          <w n="w53">delatum</w>
+          <w lemmaRef="lemlat:d0362" n="w53">delatum</w>
           <pc n="pc54">.</pc>
         </s>
         <s n="s21">
@@ -6449,7 +6449,7 @@
           <w lemmaRef="lemlat:p3372" n="w6">praeteribo</w>
           <pc n="pc7">,</pc>
           <w lemmaRef="lemlat:p2566" n="w8">pontificum</w>
-          <w n="w9">insigne</w>
+          <w lemmaRef="lemlat:i2023" n="w9">insigne</w>
           <w n="w10">decus</w>
           <pc n="pc11">,</pc>
           <w n="w12">Innocenti</w>
@@ -6461,7 +6461,7 @@
           <pc n="pc18">,</pc>
           <w n="w19">mores</w>
           <pc n="pc20">,</pc>
-          <w n="w21">doctrina</w>
+          <w lemmaRef="lemlat:d2082" n="w21">doctrina</w>
           <w lemmaRef="lemlat:e0997" n="w22">et</w>
           <w lemmaRef="lemlat:r0497" n="w23">rerum</w>
           <w lemmaRef="lemlat:g0238" n="w24">gestarum</w>
@@ -6469,14 +6469,14 @@
           <w n="w26">magna</w>
           <w n="w27">cum</w>
           <w n="w28">gloria</w>
-          <w n="w29">decertarunt</w>
+          <w lemmaRef="lemlat:d0182" n="w29">decertarunt</w>
           <pc n="pc30">.</pc>
         </s>
         <s n="s22">
           <w lemmaRef="lemlat:e0997" n="w1">Et</w>
           <w n="w2">cum</w>
           <w n="w3">esset</w>
-          <w n="w4">nimium</w>
+          <w lemmaRef="lemlat:n0312" n="w4">nimium</w>
           <w lemmaRef="lemlat:o0723" n="w5">omnia</w>
           <w lemmaRef="lemlat:a0001" n="w6">abs</w>
           <w n="w7">te</w>
@@ -6498,10 +6498,10 @@
           <w n="w23">cum</w>
           <w lemmaRef="lemlat:p1117" n="w24">perfido</w>
           <w lemmaRef="lemlat:c3712" n="w25">contendens</w>
-          <w n="w26">Othone</w>
+          <w lemmaRef="lemlat:58716" n="w26">Othone</w>
           <w lemmaRef="lemlat:i0685" n="w27">incredibili</w>
           <w lemmaRef="lemlat:o0723" n="w28">omnium</w>
-          <w n="w29">admiratione</w>
+          <w lemmaRef="lemlat:a0665" n="w29">admiratione</w>
           <w lemmaRef="lemlat:p1111" n="w30">perfecisti</w>
           <pc n="pc31">.</pc>
         </s>
@@ -6539,10 +6539,10 @@
           <w n="w31">se</w>
           <w lemmaRef="lemlat:d0347" n="w32">defensurum</w>
           <w lemmaRef="lemlat:f0126" n="w33">fallaciter</w>
-          <w n="w34">iuraverat</w>
+          <w lemmaRef="lemlat:i3067" n="w34">iuraverat</w>
           <w lemmaRef="lemlat:u1288" n="w35">usque</w>
           <w n="w36">adeo</w>
-          <w n="w37">turbatis</w>
+          <w lemmaRef="lemlat:t1770" n="w37">turbatis</w>
           <w lemmaRef="lemlat:u1318" n="w38">ut</w>
           <w lemmaRef="lemlat:p0441" n="w39">partem</w>
           <w n="w40">Regni</w>
@@ -6580,7 +6580,7 @@
           <w n="w14">coactus</w>
           <w n="w15">est</w>
           <w lemmaRef="lemlat:t0093" n="w16">tamquam</w>
-          <w n="w17">profugus</w>
+          <w lemmaRef="lemlat:p3781" n="w17">profugus</w>
           <w n="w18">externa</w>
           <w lemmaRef="lemlat:q0096" n="w19">quaerere</w>
           <w n="w20">praesidia</w>
@@ -6684,7 +6684,7 @@
           <w n="w6">Fernandus</w>
           <pc n="pc7">,</pc>
           <w n="w8">deductus</w>
-          <w n="w9">Parisius</w>
+          <w lemmaRef="lemlat:59953" n="w9">Parisius</w>
           <w n="w10">vita</w>
           <w lemmaRef="lemlat:e1287" n="w11">excessit</w>
           <pc n="pc12">.</pc>
@@ -6780,7 +6780,7 @@
         </s>
         <s n="s32">
           <w n="w1">Sed</w>
-          <w n="w2">respirandi</w>
+          <w lemmaRef="lemlat:r1351" n="w2">respirandi</w>
           <w n="w3">accepta</w>
           <w n="w4">facultate</w>
           <w n="w5">reparatisque</w>
@@ -6818,7 +6818,7 @@
           <w n="w37">Federici</w>
           <w n="w38">audita</w>
           <w lemmaRef="lemlat:42432" n="w39">Innocentii</w>
-          <w n="w40">creatione</w>
+          <w lemmaRef="lemlat:c4274" n="w40">creatione</w>
           <w lemmaRef="lemlat:l0117" n="w41">laetabundi</w>
           <w n="w42">domino</w>
           <w lemmaRef="lemlat:g0578" n="w43">gratularentur</w>
@@ -6848,14 +6848,14 @@
           <w lemmaRef="lemlat:e0594" n="w2">enim</w>
           <w n="w3">hominis</w>
           <w lemmaRef="lemlat:m0113" n="w4">magnanimitatem</w>
-          <w n="w5">iniuriarum</w>
+          <w lemmaRef="lemlat:i1799" n="w5">iniuriarum</w>
           <w lemmaRef="lemlat:m1031" n="w6">minime</w>
           <w n="w7">patientem</w>
           <pc n="pc8">.</pc>
         </s>
         <s n="s35">
           <w n="w1">Itaque</w>
-          <w n="w2">secutum</w>
+          <w lemmaRef="lemlat:s1348" n="w2">secutum</w>
           <w n="w3">est</w>
           <pc n="pc4">.</pc>
         </s>
@@ -6925,11 +6925,11 @@
           <w n="w29">quae</w>
           <w n="w30">eversam</w>
           <w n="w31">Parmam</w>
-          <w n="w32">transferre</w>
-          <w n="w33">destinaverat</w>
+          <w lemmaRef="lemlat:t0995" n="w32">transferre</w>
+          <w lemmaRef="lemlat:d1030" n="w33">destinaverat</w>
           <pc n="pc34">,</pc>
           <w lemmaRef="lemlat:e0997" n="w35">et</w>
-          <w n="w36">abrogato</w>
+          <w lemmaRef="lemlat:a0143" n="w36">abrogato</w>
           <w lemmaRef="lemlat:u0542" n="w37">veteri</w>
           <w n="w38">nomine</w>
           <w n="w39">Victoriam</w>
@@ -6961,17 +6961,17 @@
           <pc n="pc12">.</pc>
         </s>
         <s n="s39">
-          <w n="w1">Excitato</w>
+          <w lemmaRef="lemlat:e1322" n="w1">Excitato</w>
           <w n="w2">legati</w>
           <w n="w3">apostolici</w>
           <w lemmaRef="lemlat:s2214" n="w4">spiritu</w>
           <w n="w5">qui</w>
           <w n="w6">cum</w>
           <w n="w7">multis</w>
-          <w n="w8">auxiliaribus</w>
+          <w lemmaRef="lemlat:a3637" n="w8">auxiliaribus</w>
           <w n="w9">copiis</w>
           <w n="w10">Parmam</w>
-          <w n="w11">tuebatur</w>
+          <w lemmaRef="lemlat:t1712" n="w11">tuebatur</w>
           <w lemmaRef="lemlat:c3328" n="w12">confudit</w>
           <w lemmaRef="lemlat:e0997" n="w13">et</w>
           <w n="w14">Federicum</w>
@@ -6991,7 +6991,7 @@
           <w n="w8">armis</w>
           <w n="w9">eum</w>
           <w n="w10">castrisque</w>
-          <w n="w11">exuit</w>
+          <w lemmaRef="lemlat:e1917" n="w11">exuit</w>
           <pc n="pc12">,</pc>
           <w n="w13">in</w>
           <w n="w14">quibus</w>
@@ -7043,14 +7043,14 @@
           <w n="w31">quem</w>
           <w lemmaRef="lemlat:r0645" n="w32">regem</w>
           <w n="w33">Italiae</w>
-          <w n="w34">creaverat</w>
+          <w lemmaRef="lemlat:c4307" n="w34">creaverat</w>
           <w n="w35">in</w>
           <w n="w36">Apulia</w>
           <w lemmaRef="lemlat:q9410" n="w37">quod</w>
           <w lemmaRef="lemlat:e0037" n="w38">ecclesiae</w>
           <w lemmaRef="lemlat:f0271" n="w39">faveret</w>
           <w lemmaRef="lemlat:t0053" n="w40">taeterrimo</w>
-          <w n="w41">inclusum</w>
+          <w lemmaRef="lemlat:i0945" n="w41">inclusum</w>
           <w lemmaRef="lemlat:c0608" n="w42">carceri</w>
           <w n="w43">morte</w>
           <w lemmaRef="lemlat:a1081" n="w44">affecerat</w>
@@ -7113,14 +7113,14 @@
           <w n="w17">virtutis</w>
           <w lemmaRef="lemlat:e0997" n="w18">et</w>
           <w n="w19">futuris</w>
-          <w n="w20">insigne</w>
+          <w lemmaRef="lemlat:i2023" n="w20">insigne</w>
           <w lemmaRef="lemlat:e1428" n="w21">exemplum</w>
           <w n="w22">pro</w>
           <w lemmaRef="lemlat:a1775" n="w23">amplitudine</w>
           <w n="w24">Sedis</w>
           <w n="w25">Apostolicae</w>
           <w lemmaRef="lemlat:g0596" n="w26">graviter</w>
-          <w n="w27">agendi</w>
+          <w lemmaRef="lemlat:a1208" n="w27">agendi</w>
           <pc n="pc28">.</pc>
         </s>
         <s n="s44">
@@ -7142,11 +7142,11 @@
           <w lemmaRef="lemlat:a3422" n="w16">auctoritate</w>
           <w n="w17">Sedis</w>
           <w n="w18">Apostolicae</w>
-          <w n="w19">usurpaverat</w>
+          <w lemmaRef="lemlat:u1317" n="w19">usurpaverat</w>
           <w n="w20">citatum</w>
           <w lemmaRef="lemlat:p3572" n="w21">prius</w>
           <w lemmaRef="lemlat:r0746" n="w22">riteque</w>
-          <w n="w23">damnatum</w>
+          <w lemmaRef="lemlat:d0038" n="w23">damnatum</w>
           <w lemmaRef="lemlat:d0818" n="w24">deposuit</w>
           <w lemmaRef="lemlat:e0997" n="w25">et</w>
           <w n="w26">antipapam</w>
@@ -7154,7 +7154,7 @@
           <w n="w28">eo</w>
           <w n="w29">in</w>
           <w n="w30">se</w>
-          <w n="w31">erectum</w>
+          <w lemmaRef="lemlat:e0884" n="w31">erectum</w>
           <w n="w32">fratrem</w>
           <w lemmaRef="lemlat:q9202" n="w33">quendam</w>
           <w n="w34">nomine</w>
@@ -7220,16 +7220,16 @@
           <w lemmaRef="lemlat:p1184" n="w1">Pergrande</w>
           <w lemmaRef="lemlat:e0218" n="w2">mihi</w>
           <w lemmaRef="lemlat:u1182" n="w3">volumen</w>
-          <w n="w4">scribendum</w>
+          <w lemmaRef="lemlat:s0758" n="w4">scribendum</w>
           <w n="w5">esset</w>
           <w n="w6">si</w>
           <w lemmaRef="lemlat:p2566" n="w7">pontificum</w>
           <w lemmaRef="lemlat:s0275" n="w8">singulorum</w>
-          <w n="w9">praeclara</w>
+          <w lemmaRef="lemlat:p2858" n="w9">praeclara</w>
           <w lemmaRef="lemlat:f0047" n="w10">facinora</w>
           <w n="w11">quae</w>
           <w n="w12">pro</w>
-          <w n="w13">tuenda</w>
+          <w lemmaRef="lemlat:t1712" n="w13">tuenda</w>
           <w lemmaRef="lemlat:u0219" n="w14">vel</w>
           <w lemmaRef="lemlat:e0037" n="w15">ecclesiae</w>
           <w lemmaRef="lemlat:u0219" n="w16">vel</w>
@@ -7246,8 +7246,8 @@
           <w n="w1">Sed</w>
           <w lemmaRef="lemlat:e1167" n="w2">ex</w>
           <w n="w3">multis</w>
-          <w n="w4">pauca</w>
-          <w n="w5">delibasse</w>
+          <w lemmaRef="lemlat:p0605" n="w4">pauca</w>
+          <w lemmaRef="lemlat:d0544" n="w5">delibasse</w>
           <w lemmaRef="lemlat:s3351" n="w6">sufficiat</w>
           <w n="w7">si</w>
           <w lemmaRef="lemlat:i0205" n="w8">illud</w>
@@ -7259,7 +7259,7 @@
           <w lemmaRef="lemlat:n9508" n="w14">non</w>
           <w n="w15">minus</w>
           <w n="w16">pro</w>
-          <w n="w17">privata</w>
+          <w lemmaRef="lemlat:p3590" n="w17">privata</w>
           <w lemmaRef="lemlat:q9410" n="w18">quam</w>
           <w n="w19">pro</w>
           <w n="w20">publica</w>
@@ -7290,7 +7290,7 @@
           <w n="w18">Constantinopolitana</w>
           <w n="w19">in</w>
           <w n="w20">Archadiam</w>
-          <w n="w21">relegasset</w>
+          <w lemmaRef="lemlat:r1171" n="w21">relegasset</w>
           <pc n="pc22">,</pc>
           <w lemmaRef="lemlat:q9410" n="w23">quam</w>
           <w lemmaRef="lemlat:o0002" n="w24">ob</w>
@@ -7345,7 +7345,7 @@
         <s n="s7">
           <w n="w1">Pari</w>
           <w n="w2">censura</w>
-          <w n="w3">animadvertit</w>
+          <w lemmaRef="lemlat:a1944" n="w3">animadvertit</w>
           <w lemmaRef="lemlat:e0997" n="w4">et</w>
           <w lemmaRef="lemlat:55060" n="w5">Nicolaus</w>
           <w n="w6">Primus</w>
@@ -7401,7 +7401,7 @@
           <w n="w56">traditus</w>
           <w n="w57">est</w>
           <w lemmaRef="lemlat:e0997" n="w58">et</w>
-          <w n="w59">Ignatius</w>
+          <w lemmaRef="lemlat:39568" n="w59">Ignatius</w>
           <w n="w60">in</w>
           <w n="w61">sedem</w>
           <w n="w62">suam</w>
@@ -7426,16 +7426,16 @@
           <w n="w15">Romani</w>
           <w n="w16">pontificis</w>
           <w n="w17">decreta</w>
-          <w n="w18">tuentem</w>
+          <w lemmaRef="lemlat:t1712" n="w18">tuentem</w>
           <w lemmaRef="lemlat:u0352" n="w19">verberibus</w>
-          <w n="w20">necasset</w>
+          <w lemmaRef="lemlat:n0151" n="w20">necasset</w>
           <w n="w21">atque</w>
           <w n="w22">in</w>
           <w lemmaRef="lemlat:i2912" n="w23">eius</w>
           <w n="w24">locum</w>
           <w lemmaRef="lemlat:55042" n="w25">Nicetam</w>
           <w lemmaRef="lemlat:s2054" n="w26">Spadonem</w>
-          <w n="w27">subrogasset</w>
+          <w lemmaRef="lemlat:s3069" n="w27">subrogasset</w>
           <pc n="pc28">.</pc>
         </s>
         <s n="s9">
@@ -7538,10 +7538,10 @@
           <w n="w5">morte</w>
           <w lemmaRef="lemlat:a2706" n="w6">archiepiscopi</w>
           <w n="w7">legitime</w>
-          <w n="w8">purgasset</w>
+          <w lemmaRef="lemlat:p4553" n="w8">purgasset</w>
           <pc n="pc9">,</pc>
           <w n="w10">de</w>
-          <w n="w11">vexatione</w>
+          <w lemmaRef="lemlat:u0549" n="w11">vexatione</w>
           <w lemmaRef="lemlat:t0084" n="w12">tamen</w>
           <w lemmaRef="lemlat:e0997" n="w13">et</w>
           <w n="w14">occasione</w>
@@ -7561,11 +7561,11 @@
           <w n="w28">gratam</w>
           <w n="w29">sibi</w>
           <w lemmaRef="lemlat:f0048" n="w30">facturos</w>
-          <w n="w31">existimassent</w>
+          <w lemmaRef="lemlat:e1506" n="w31">existimassent</w>
           <w n="w32">pro</w>
           <w n="w33">cuius</w>
           <w lemmaRef="lemlat:c4349" n="w34">criminis</w>
-          <w n="w35">expiatione</w>
+          <w lemmaRef="lemlat:e1614" n="w35">expiatione</w>
           <w n="w36">iussus</w>
           <w n="w37">est</w>
           <w n="w38">comparatis</w>
@@ -7624,7 +7624,7 @@
           <w n="w10">constantia</w>
           <w n="w11">qui</w>
           <w n="w12">censuris</w>
-          <w n="w13">ecclesiasticis</w>
+          <w lemmaRef="lemlat:e0038" n="w13">ecclesiasticis</w>
           <w lemmaRef="lemlat:n9508" n="w14">non</w>
           <w lemmaRef="lemlat:d0981" n="w15">destitit</w>
           <w lemmaRef="lemlat:u0557" n="w16">vexare</w>
@@ -7721,7 +7721,7 @@
           <w n="w8">Philippum</w>
           <w lemmaRef="lemlat:a0684" n="w9">admonere</w>
           <w n="w10">publice</w>
-          <w n="w11">iussit</w>
+          <w lemmaRef="lemlat:i2980" n="w11">iussit</w>
           <w lemmaRef="lemlat:6857" n="w12">Apameensem</w>
           <w lemmaRef="lemlat:d1620" n="w13">dimitteret</w>
           <w lemmaRef="lemlat:e0997" n="w14">et</w>
@@ -7745,7 +7745,7 @@
           <w n="w32">ad</w>
           <w n="w33">Sedem</w>
           <w lemmaRef="lemlat:a2444" n="w34">Apostolicam</w>
-          <w n="w35">devolutum</w>
+          <w lemmaRef="lemlat:d1176" n="w35">devolutum</w>
           <pc n="pc36">,</pc>
           <w lemmaRef="lemlat:h0360" n="w37">his</w>
           <w lemmaRef="lemlat:a0535" n="w38">adderet</w>
@@ -7777,7 +7777,7 @@
           <w lemmaRef="lemlat:e0763" n="w12">episcopum</w>
           <w n="w13">liberum</w>
           <w lemmaRef="lemlat:a0043" n="w14">abire</w>
-          <w n="w15">iussit</w>
+          <w lemmaRef="lemlat:i2980" n="w15">iussit</w>
           <pc n="pc16">.</pc>
         </s>
       </p>
@@ -7826,8 +7826,8 @@
           <w lemmaRef="lemlat:h0360" n="w26">hoc</w>
           <w n="w27">loco</w>
           <w lemmaRef="lemlat:e1167" n="w28">ex</w>
-          <w n="w29">innumeris</w>
-          <w n="w30">pauca</w>
+          <w lemmaRef="lemlat:i1850" n="w29">innumeris</w>
+          <w lemmaRef="lemlat:p0605" n="w30">pauca</w>
           <w lemmaRef="lemlat:q9202" n="w31">quaedam</w>
           <w lemmaRef="lemlat:d0544" n="w32">delibare</w>
           <w n="w33">quibus</w>
@@ -7873,8 +7873,8 @@
           <w lemmaRef="lemlat:e0037" n="w6">ecclesiae</w>
           <w lemmaRef="lemlat:t0593" n="w7">thesauros</w>
           <w n="w8">pro</w>
-          <w n="w9">redemptione</w>
-          <w n="w10">captivorum</w>
+          <w lemmaRef="lemlat:r0227" n="w9">redemptione</w>
+          <w lemmaRef="lemlat:c0581" n="w10">captivorum</w>
           <pc n="pc11">?</pc>
         </s>
         <s n="s5">
@@ -7900,7 +7900,7 @@
           <w lemmaRef="lemlat:a2264" n="w20">antistites</w>
           <w lemmaRef="lemlat:e1167" n="w21">ex</w>
           <w n="w22">asse</w>
-          <w n="w23">erogarunt</w>
+          <w lemmaRef="lemlat:e0908" n="w23">erogarunt</w>
           <pc n="pc24">,</pc>
           <w n="w25">sacris</w>
           <w lemmaRef="lemlat:n9508" n="w26">non</w>
@@ -7925,13 +7925,13 @@
           <pc n="pc45">.</pc>
         </s>
         <s n="s6">
-          <w n="w1">Infinitum</w>
+          <w lemmaRef="lemlat:i1581" n="w1">Infinitum</w>
           <w n="w2">esset</w>
           <w n="w3">singulas</w>
           <w lemmaRef="lemlat:p1575" n="w4">persequi</w>
           <w lemmaRef="lemlat:p4216" n="w5">provincias</w>
           <pc n="pc6">;</pc>
-          <w n="w7">unius</w>
+          <w lemmaRef="lemlat:u1136" n="w7">unius</w>
           <w lemmaRef="lemlat:q0099" n="w8">quaeso</w>
           <w n="w9">Italiae</w>
           <w n="w10">facta</w>
@@ -7979,11 +7979,11 @@
           <w lemmaRef="lemlat:q9410" n="w52">quod</w>
           <w lemmaRef="lemlat:i2780" n="w53">ipsa</w>
           <w n="w54">aliis</w>
-          <w n="w55">propinaverat</w>
+          <w lemmaRef="lemlat:p3989" n="w55">propinaverat</w>
           <w lemmaRef="lemlat:e0997" n="w56">et</w>
           <w lemmaRef="lemlat:i3111" n="w57">iuxta</w>
           <w n="w58">Iohannis</w>
-          <w n="w59">vaticinium</w>
+          <w lemmaRef="lemlat:u0159" n="w59">vaticinium</w>
           <w lemmaRef="lemlat:n0776" n="w60">nulla</w>
           <w lemmaRef="lemlat:g0203" n="w61">gens</w>
           <w lemmaRef="lemlat:s3436" n="w62">fuit</w>
@@ -7991,7 +7991,7 @@
           <w n="w64">illi</w>
           <w lemmaRef="lemlat:n9508" n="w65">non</w>
           <w lemmaRef="lemlat:m1097" n="w66">miscuerit</w>
-          <w n="w67">duplum</w>
+          <w lemmaRef="lemlat:d2379" n="w67">duplum</w>
           <w lemmaRef="lemlat:a3606" n="w68">aut</w>
           <w n="w69">acceptae</w>
           <w n="w70">fornicationis</w>
@@ -8042,7 +8042,7 @@
           <w n="w37">Italorum</w>
           <w n="w38">favore</w>
           <w lemmaRef="lemlat:r0351" n="w39">reliquias</w>
-          <w n="w40">vertere</w>
+          <w lemmaRef="lemlat:u0459" n="w40">vertere</w>
           <pc n="pc41">,</pc>
           <w n="w42">se</w>
           <w n="w43">in</w>
@@ -8052,7 +8052,7 @@
           <w lemmaRef="lemlat:u0219" n="w47">vel</w>
           <w n="w48">ad</w>
           <w lemmaRef="lemlat:h0655" n="w49">humillima</w>
-          <w n="w50">descendere</w>
+          <w lemmaRef="lemlat:d0930" n="w50">descendere</w>
           <w n="w51">munera</w>
           <w n="w52">modo</w>
           <w lemmaRef="lemlat:s3768" n="w53">supplicum</w>
@@ -8076,7 +8076,7 @@
           <w lemmaRef="lemlat:u0219" n="w71">vel</w>
           <w n="w72">multis</w>
           <w lemmaRef="lemlat:u0219" n="w73">vel</w>
-          <w n="w74">paucis</w>
+          <w lemmaRef="lemlat:p0605" n="w74">paucis</w>
           <w lemmaRef="lemlat:p4150" n="w75">prodesse</w>
           <w n="w76">oviculis</w>
           <pc n="pc77">.</pc>
@@ -8140,7 +8140,7 @@
           <w lemmaRef="lemlat:p0865" n="w9">per</w>
           <w n="w10">Italiam</w>
           <w n="w11">superesse</w>
-          <w n="w12">cernitis</w>
+          <w lemmaRef="lemlat:c1244" n="w12">cernitis</w>
           <pc n="pc13">,</pc>
           <w n="w14">totum</w>
           <w lemmaRef="lemlat:t0106" n="w15">tantae</w>
@@ -8157,13 +8157,13 @@
           <w n="w4">malum</w>
           <w lemmaRef="lemlat:e0997" n="w5">et</w>
           <w n="w6">a</w>
-          <w n="w7">septemtrione</w>
+          <w lemmaRef="lemlat:s1292" n="w7">septemtrione</w>
           <w n="w8">tempestas</w>
           <w n="w9">valida</w>
           <w lemmaRef="lemlat:o0162" n="w10">oborta</w>
           <w n="w11">est</w>
           <w n="w12">quae</w>
-          <w n="w13">vastatis</w>
+          <w lemmaRef="lemlat:u0150" n="w13">vastatis</w>
           <w n="w14">Mysiis</w>
           <pc n="pc15">,</pc>
           <w lemmaRef="lemlat:39896" n="w16">Illyrico</w>
@@ -8179,7 +8179,7 @@
           <w lemmaRef="lemlat:88441" n="w26">Venetiarum</w>
           <w n="w27">Transpadanasque</w>
           <w n="w28">civitates</w>
-          <w n="w29">violentissimo</w>
+          <w lemmaRef="lemlat:u0740" n="w29">violentissimo</w>
           <w n="w30">turbine</w>
           <w lemmaRef="lemlat:e1072" n="w31">everterat</w>
           <pc n="pc32">.</pc>
@@ -8230,7 +8230,7 @@
           <w n="w6">de</w>
           <w lemmaRef="lemlat:t1185" n="w7">tribu</w>
           <w lemmaRef="lemlat:44796" n="w8">Iuda</w>
-          <w n="w9">vicarius</w>
+          <w lemmaRef="lemlat:u0580" n="w9">vicarius</w>
           <w lemmaRef="lemlat:u0300" n="w10">venientem</w>
           <w lemmaRef="lemlat:p4129" n="w11">prospiciens</w>
           <w n="w12">lupum</w>
@@ -8248,7 +8248,7 @@
           <w n="w24">Padi</w>
           <w lemmaRef="lemlat:p1537" n="w25">perrumperet</w>
           <pc n="pc26">,</pc>
-          <w n="w27">occurrit</w>
+          <w lemmaRef="lemlat:o0420" n="w27">occurrit</w>
           <w n="w28">Atilae</w>
           <w lemmaRef="lemlat:a2579" n="w29">apud</w>
           <w n="w30">Mintium</w>
@@ -8267,7 +8267,7 @@
           <w n="w43">in</w>
           <w n="w44">gladio</w>
           <w n="w45">verum</w>
-          <w n="w46">tantum</w>
+          <w lemmaRef="lemlat:t0106" n="w46">tantum</w>
           <w n="w47">in</w>
           <w n="w48">nomine</w>
           <w n="w49">Domini</w>
@@ -8293,7 +8293,7 @@
           <w n="w13">caelestes</w>
           <w n="w14">comites</w>
           <w n="w15">intuitus</w>
-          <w n="w16">flammeo</w>
+          <w lemmaRef="lemlat:f0629" n="w16">flammeo</w>
           <w n="w17">armatos</w>
           <w n="w18">gladio</w>
           <w lemmaRef="lemlat:e1167" n="w19">ex</w>
@@ -8303,7 +8303,7 @@
           <w n="w23">ad</w>
           <w n="w24">pedes</w>
           <w lemmaRef="lemlat:u0300" n="w25">venientis</w>
-          <w n="w26">procidit</w>
+          <w lemmaRef="lemlat:p3652" n="w26">procidit</w>
           <pc n="pc27">.</pc>
         </s>
         <s n="s14">
@@ -8339,7 +8339,7 @@
           <w n="w8">minus</w>
           <w lemmaRef="lemlat:t0084" n="w9">tamen</w>
           <w lemmaRef="lemlat:u1327" n="w10">utilem</w>
-          <w n="w11">paucis</w>
+          <w lemmaRef="lemlat:p0605" n="w11">paucis</w>
           <w lemmaRef="lemlat:p2700" n="w12">post</w>
           <w n="w13">annis</w>
           <w lemmaRef="lemlat:e0997" n="w14">et</w>
@@ -8354,7 +8354,7 @@
           <w n="w23">infectus</w>
           <w lemmaRef="lemlat:l0014" n="w24">labe</w>
           <w lemmaRef="lemlat:q9410" n="w25">quod</w>
-          <w n="w26">audisset</w>
+          <w lemmaRef="lemlat:a3440" n="w26">audisset</w>
           <w lemmaRef="lemlat:45017" n="w27">Iustinum</w>
           <w lemmaRef="lemlat:i0480" n="w28">imperatorem</w>
           <w n="w29">totum</w>
@@ -8367,7 +8367,7 @@
           <w n="w36">Italiam</w>
           <w n="w37">gladio</w>
           <w lemmaRef="lemlat:f0370" n="w38">ferire</w>
-          <w n="w39">destinaverat</w>
+          <w lemmaRef="lemlat:d1030" n="w39">destinaverat</w>
           <w lemmaRef="lemlat:e0997" n="w40">et</w>
           <w lemmaRef="lemlat:u0708" n="w41">vindictam</w>
           <w lemmaRef="lemlat:q9410" n="w42">quam</w>
@@ -8379,7 +8379,7 @@
           <w n="w48">in</w>
           <w lemmaRef="lemlat:m0448" n="w49">matrem</w>
           <w lemmaRef="lemlat:o0723" n="w50">omnium</w>
-          <w n="w51">exercere</w>
+          <w lemmaRef="lemlat:e1434" n="w51">exercere</w>
           <w n="w52">imperatorum</w>
           <pc n="pc53">.</pc>
         </s>
@@ -8411,7 +8411,7 @@
           <w n="w25">Salvatoris</w>
           <w n="w26">exemplo</w>
           <w lemmaRef="lemlat:s1756" n="w27">sinat</w>
-          <w n="w28">haereticum</w>
+          <w lemmaRef="lemlat:h0048" n="w28">haereticum</w>
           <w lemmaRef="lemlat:l0997" n="w29">Lolium</w>
           <w n="w30">cum</w>
           <w lemmaRef="lemlat:o1047" n="w31">orthodoxo</w>
@@ -8439,8 +8439,8 @@
           <w lemmaRef="lemlat:m0362" n="w7">manu</w>
           <w n="w8">pontificis</w>
           <w n="w9">corona</w>
-          <w n="w10">honoratum</w>
-          <w n="w11">veneratumque</w>
+          <w lemmaRef="lemlat:h0548" n="w10">honoratum</w>
+          <w lemmaRef="lemlat:u0293" n="w11">veneratumque</w>
           <w lemmaRef="lemlat:d1620" n="w12">dimittit</w>
           <pc n="pc13">,</pc>
           <w n="w14">magnam</w>
@@ -8449,7 +8449,7 @@
           <w lemmaRef="lemlat:o0344" n="w17">obvenisse</w>
           <w lemmaRef="lemlat:r1312" n="w18">reputans</w>
           <w lemmaRef="lemlat:q9410" n="w19">quod</w>
-          <w n="w20">vicarium</w>
+          <w lemmaRef="lemlat:u0580" n="w20">vicarium</w>
           <w n="w21">Christi</w>
           <w n="w22">multo</w>
           <w lemmaRef="lemlat:a2109" n="w23">ante</w>
@@ -8520,10 +8520,10 @@
           <w lemmaRef="lemlat:o0723" n="w55">omnibus</w>
           <w n="w56">oppidis</w>
           <w lemmaRef="lemlat:e0997" n="w57">et</w>
-          <w n="w58">captivis</w>
+          <w lemmaRef="lemlat:c0581" n="w58">captivis</w>
           <w lemmaRef="lemlat:q0297" n="w59">quoad</w>
           <w lemmaRef="lemlat:p0865" n="w60">per</w>
-          <w n="w61">aerarium</w>
+          <w lemmaRef="lemlat:a0970" n="w61">aerarium</w>
           <w n="w62">apostolicum</w>
           <w n="w63">licuit</w>
           <w n="w64">a</w>
@@ -8576,7 +8576,7 @@
           <w lemmaRef="lemlat:c4623" n="w1">Cuncti</w>
           <w lemmaRef="lemlat:e0594" n="w2">enim</w>
           <w n="w3">intra</w>
-          <w n="w4">paucos</w>
+          <w lemmaRef="lemlat:p0605" n="w4">paucos</w>
           <w n="w5">menses</w>
           <w n="w6">misere</w>
           <w lemmaRef="lemlat:i2317" n="w7">interierunt</w>
@@ -8586,7 +8586,7 @@
           <w lemmaRef="lemlat:r0497" n="w11">rem</w>
           <w n="w12">Anastasius</w>
           <w lemmaRef="lemlat:c2316" n="w13">cognomento</w>
-          <w n="w14">Artemius</w>
+          <w lemmaRef="lemlat:8723" n="w14">Artemius</w>
           <w n="w15">qui</w>
           <w lemmaRef="lemlat:62990" n="w16">Philippico</w>
           <w n="w17">sublato</w>
@@ -8664,7 +8664,7 @@
           <w n="w17">quo</w>
           <w n="w18">magna</w>
           <w n="w19">cum</w>
-          <w n="w20">veneratione</w>
+          <w lemmaRef="lemlat:u0289" n="w20">veneratione</w>
           <w lemmaRef="lemlat:s3844" n="w21">susceptus</w>
           <w lemmaRef="lemlat:q9211" n="w22">quicquid</w>
           <w n="w23">voluit</w>
@@ -8721,7 +8721,7 @@
           <w n="w2">capitvlvm</w>
           <w lemmaRef="lemlat:u1401" n="w3">vndecimvm</w>
           <w n="w4">de</w>
-          <w n="w5">translatione</w>
+          <w lemmaRef="lemlat:t1044" n="w5">translatione</w>
           <w lemmaRef="lemlat:i0496" n="w6">imperii</w>
           <w lemmaRef="lemlat:o0995" n="w7">orientalis</w>
           <pc n="pc8">.</pc>
@@ -8790,12 +8790,12 @@
           <w lemmaRef="lemlat:f0361" n="w22">ferme</w>
           <w n="w23">orbem</w>
           <w n="w24">sacrilegis</w>
-          <w n="w25">implicitum</w>
+          <w lemmaRef="lemlat:i0574" n="w25">implicitum</w>
           <w lemmaRef="lemlat:s2204" n="w26">spiris</w>
           <w lemmaRef="lemlat:c4440" n="w27">crudeliter</w>
           <w lemmaRef="lemlat:u0685" n="w28">vinciebat</w>
           <pc n="pc29">,</pc>
-          <w n="w30">occupaverat</w>
+          <w lemmaRef="lemlat:o0417" n="w30">occupaverat</w>
           <w n="w31">Asiam</w>
           <pc n="pc32">,</pc>
           <w n="w33">Africam</w>
@@ -8849,7 +8849,7 @@
           <w n="w17">libertatis</w>
           <w lemmaRef="lemlat:a6142" n="w18">assertorem</w>
           <w n="w19">parare</w>
-          <w n="w20">instituit</w>
+          <w lemmaRef="lemlat:i2136" n="w20">instituit</w>
           <pc n="pc21">.</pc>
         </s>
         <s n="s6">
@@ -8858,7 +8858,7 @@
           <w lemmaRef="lemlat:s1856" n="w3">secordiae</w>
           <w lemmaRef="lemlat:t1721" n="w4">tum</w>
           <w lemmaRef="lemlat:p1115" n="w5">perfidiae</w>
-          <w n="w6">damnato</w>
+          <w lemmaRef="lemlat:d0038" n="w6">damnato</w>
           <w lemmaRef="lemlat:i0480" n="w7">imperatore</w>
           <w n="w8">Leone</w>
           <w lemmaRef="lemlat:t0995" n="w9">transtulit</w>
@@ -8868,7 +8868,7 @@
           <pc n="pc13">.</pc>
         </s>
         <s n="s7">
-          <w n="w1">Notaverat</w>
+          <w lemmaRef="lemlat:n0552" n="w1">Notaverat</w>
           <w lemmaRef="lemlat:e0594" n="w2">enim</w>
           <pc n="pc3">,</pc>
           <w lemmaRef="lemlat:u0252" n="w4">veluti</w>
@@ -8957,10 +8957,10 @@
           <w lemmaRef="lemlat:i0205" n="w15">illud</w>
           <w n="w16">certo</w>
           <w lemmaRef="lemlat:o0723" n="w17">omnibus</w>
-          <w n="w18">convenit</w>
+          <w lemmaRef="lemlat:c3872" n="w18">convenit</w>
           <pc n="pc19">,</pc>
           <w lemmaRef="lemlat:h0360" n="w20">hunc</w>
-          <w n="w21">praeclarum</w>
+          <w lemmaRef="lemlat:p2858" n="w21">praeclarum</w>
           <w lemmaRef="lemlat:n9508" n="w22">non</w>
           <w n="w23">modo</w>
           <w n="w24">Italiae</w>
@@ -9039,7 +9039,7 @@
           <w n="w24">principes</w>
           <w lemmaRef="lemlat:o0383" n="w25">occidentales</w>
           <w n="w26">ad</w>
-          <w n="w27">ferendam</w>
+          <w lemmaRef="lemlat:f0382" n="w27">ferendam</w>
           <w n="w28">Siculis</w>
           <w n="w29">opem</w>
           <w n="w30">frustra</w>
@@ -9091,7 +9091,7 @@
           <w n="w76">qui</w>
           <w n="w77">prospera</w>
           <w n="w78">usus</w>
-          <w n="w79">navigatione</w>
+          <w lemmaRef="lemlat:n0096" n="w79">navigatione</w>
           <w lemmaRef="lemlat:e1653" n="w80">expositisque</w>
           <w n="w81">feliciter</w>
           <w n="w82">copiis</w>
@@ -9110,10 +9110,10 @@
           <w lemmaRef="lemlat:s2550" n="w95">strage</w>
           <w lemmaRef="lemlat:a1081" n="w96">affecit</w>
           <w lemmaRef="lemlat:u1318" n="w97">ut</w>
-          <w n="w98">desperatis</w>
+          <w lemmaRef="lemlat:d1003" n="w98">desperatis</w>
           <w lemmaRef="lemlat:r0497" n="w99">rebus</w>
-          <w n="w100">maturaverint</w>
-          <w n="w101">suos</w>
+          <w lemmaRef="lemlat:m0493" n="w100">maturaverint</w>
+          <w lemmaRef="lemlat:s3894" n="w101">suos</w>
           <w lemmaRef="lemlat:e1167" n="w102">ex</w>
           <w n="w103">Sicilia</w>
           <w lemmaRef="lemlat:r1447" n="w104">revocare</w>
@@ -9129,7 +9129,7 @@
           <w n="w7">est</w>
           <w lemmaRef="lemlat:s1428" n="w8">servata</w>
           <w lemmaRef="lemlat:e0997" n="w9">et</w>
-          <w n="w10">Bonifacius</w>
+          <w lemmaRef="lemlat:12328" n="w10">Bonifacius</w>
           <w n="w11">cum</w>
           <w lemmaRef="lemlat:u0620" n="w12">victrici</w>
           <w n="w13">classe</w>
@@ -9138,7 +9138,7 @@
           <w n="w16">praeda</w>
           <w lemmaRef="lemlat:o1167" n="w17">ovans</w>
           <w n="w18">in</w>
-          <w n="w19">patriam</w>
+          <w lemmaRef="lemlat:p0588" n="w19">patriam</w>
           <w lemmaRef="lemlat:r1434" n="w20">reversus</w>
           <w n="w21">est</w>
           <pc n="pc22">.</pc>
@@ -9218,7 +9218,7 @@
           <w n="w6">memoria</w>
           <w lemmaRef="lemlat:o0723" n="w7">omni</w>
           <w n="w8">sane</w>
-          <w n="w9">veneratione</w>
+          <w lemmaRef="lemlat:u0289" n="w9">veneratione</w>
           <w lemmaRef="lemlat:c3489" n="w10">consecrata</w>
           <w lemmaRef="lemlat:h0004" n="w11">habetur</w>
           <w lemmaRef="lemlat:p5011" n="w12">propterea</w>
@@ -9242,7 +9242,7 @@
           <w n="w30">Claramontem</w>
           <w n="w31">habito</w>
           <w n="w32">adeo</w>
-          <w n="w33">persuadendo</w>
+          <w lemmaRef="lemlat:p1634" n="w33">persuadendo</w>
           <w n="w34">valuit</w>
           <w lemmaRef="lemlat:u1318" n="w35">ut</w>
           <w n="w36">amplius</w>
@@ -9265,7 +9265,7 @@
           <w lemmaRef="lemlat:r1434" n="w2">reversus</w>
           <w n="w3">Italorum</w>
           <w n="w4">quoque</w>
-          <w n="w5">aemulatione</w>
+          <w lemmaRef="lemlat:a0897" n="w5">aemulatione</w>
           <w lemmaRef="lemlat:u0219" n="w6">vel</w>
           <w n="w7">gloriae</w>
           <w lemmaRef="lemlat:u0219" n="w8">vel</w>
@@ -9281,7 +9281,7 @@
           <w lemmaRef="lemlat:a2888" n="w18">armavit</w>
           <pc n="pc19">,</pc>
           <w n="w20">qua</w>
-          <w n="w21">expeditione</w>
+          <w lemmaRef="lemlat:e1589" n="w21">expeditione</w>
           <w lemmaRef="lemlat:n9508" n="w22">non</w>
           <w n="w23">modo</w>
           <w n="w24">Terra</w>
@@ -9304,7 +9304,7 @@
           <w lemmaRef="lemlat:p0492" n="w4">Pascalis</w>
           <w n="w5">Secundus</w>
           <w n="w6">imitatus</w>
-          <w n="w7">susceptum</w>
+          <w lemmaRef="lemlat:s3844" n="w7">susceptum</w>
           <w lemmaRef="lemlat:9006" n="w8">Asiaticum</w>
           <w n="w9">bellum</w>
           <w n="w10">multa</w>
@@ -9392,13 +9392,13 @@
           <w lemmaRef="lemlat:a2658" n="w46">arbitrabantur</w>
           <w lemmaRef="lemlat:e0997" n="w47">et</w>
           <w lemmaRef="lemlat:i2912" n="w48">eius</w>
-          <w n="w49">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w49">vicario</w>
           <w lemmaRef="lemlat:r1134" n="w50">refragari</w>
           <w lemmaRef="lemlat:n0166" n="w51">nefas</w>
           <pc n="pc52">.</pc>
         </s>
         <s n="s21">
-          <w n="w1">Nimium</w>
+          <w lemmaRef="lemlat:n0312" n="w1">Nimium</w>
           <w n="w2">esset</w>
           <w lemmaRef="lemlat:u0219" n="w3">vel</w>
           <w n="w4">nomina</w>
@@ -9407,7 +9407,7 @@
           <w n="w7">referre</w>
           <w n="w8">quorum</w>
           <w lemmaRef="lemlat:a3592" n="w9">auspiciis</w>
-          <w n="w10">innumeri</w>
+          <w lemmaRef="lemlat:i1850" n="w10">innumeri</w>
           <w lemmaRef="lemlat:f0361" n="w11">ferme</w>
           <w n="w12">reges</w>
           <w lemmaRef="lemlat:i0480" n="w13">imperatoresque</w>
@@ -9416,7 +9416,7 @@
           <w n="w16">minus</w>
           <w n="w17">late</w>
           <w lemmaRef="lemlat:71628" n="w18">Romanum</w>
-          <w n="w19">propagarunt</w>
+          <w lemmaRef="lemlat:p3945" n="w19">propagarunt</w>
           <w lemmaRef="lemlat:i0496" n="w20">imperium</w>
           <w lemmaRef="lemlat:q9410" n="w21">quam</w>
           <w n="w22">illi</w>
@@ -9427,7 +9427,7 @@
           <pc n="pc27">.</pc>
         </s>
         <s n="s22">
-          <w n="w1">Subiugaverant</w>
+          <w lemmaRef="lemlat:s2914" n="w1">Subiugaverant</w>
           <w lemmaRef="lemlat:e0594" n="w2">enim</w>
           <w n="w3">Asiam</w>
           <pc n="pc4">,</pc>
@@ -9454,7 +9454,7 @@
           <w n="w9">parte</w>
           <w lemmaRef="lemlat:30339" n="w10">Europae</w>
           <w lemmaRef="lemlat:a1723" n="w11">amissa</w>
-          <w n="w12">extremum</w>
+          <w lemmaRef="lemlat:e1844" n="w12">extremum</w>
           <w lemmaRef="lemlat:i2912" n="w13">eius</w>
           <w n="w14">angulum</w>
           <w n="w15">aegre</w>
@@ -9462,12 +9462,12 @@
           <pc n="pc17">.</pc>
         </s>
         <s n="s24">
-          <w n="w1">Ceterum</w>
+          <w lemmaRef="lemlat:c1312" n="w1">Ceterum</w>
           <w n="w2">de</w>
           <w lemmaRef="lemlat:h0360" n="w3">his</w>
           <w n="w4">alias</w>
           <w lemmaRef="lemlat:s3436" n="w5">erit</w>
-          <w n="w6">expostulandi</w>
+          <w lemmaRef="lemlat:e1664" n="w6">expostulandi</w>
           <w n="w7">locus</w>
           <pc n="pc8">.</pc>
         </s>
@@ -9502,7 +9502,7 @@
           <w n="w28">minus</w>
           <w n="w29">pro</w>
           <w lemmaRef="lemlat:s0233" n="w30">salute</w>
-          <w n="w31">unius</w>
+          <w lemmaRef="lemlat:u1136" n="w31">unius</w>
           <w n="w32">regni</w>
           <w lemmaRef="lemlat:q9410" n="w33">quam</w>
           <w n="w34">pro</w>
@@ -9546,7 +9546,7 @@
           <w n="w16">Caroli</w>
           <w n="w17">Magni</w>
           <w n="w18">patrem</w>
-          <w n="w19">iussit</w>
+          <w lemmaRef="lemlat:i2980" n="w19">iussit</w>
           <w n="w20">baronibus</w>
           <w lemmaRef="lemlat:s3069" n="w21">subrogari</w>
           <pc n="pc22">.</pc>
@@ -9572,7 +9572,7 @@
           <w n="w18">fratre</w>
           <w lemmaRef="lemlat:i2912" n="w19">eius</w>
           <w n="w20">Alfonso</w>
-          <w n="w21">coronato</w>
+          <w lemmaRef="lemlat:c4078" n="w21">coronato</w>
           <pc n="pc22">.</pc>
         </s>
         <s n="s4">
@@ -9671,7 +9671,7 @@
           <w n="w31">in</w>
           <w lemmaRef="lemlat:o0723" n="w32">omnibus</w>
           <w n="w33">aliis</w>
-          <w n="w34">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w34">vicario</w>
           <w n="w35">Christi</w>
           <w n="w36">morem</w>
           <w lemmaRef="lemlat:g0238" n="w37">gessit</w>
@@ -9712,7 +9712,7 @@
           <w n="w17">summa</w>
           <w n="w18">cum</w>
           <w n="w19">dignitate</w>
-          <w n="w20">imperasset</w>
+          <w lemmaRef="lemlat:i0503" n="w20">imperasset</w>
           <w lemmaRef="lemlat:u0372" n="w21">vergens</w>
           <w n="w22">ad</w>
           <w n="w23">senectam</w>
@@ -9743,7 +9743,7 @@
           <w n="w18">quartum</w>
           <w lemmaRef="lemlat:34047" n="w19">Franciae</w>
           <w lemmaRef="lemlat:r0645" n="w20">regem</w>
-          <w n="w21">constituit</w>
+          <w lemmaRef="lemlat:c3616" n="w21">constituit</w>
           <w n="w22">qui</w>
           <w n="w23">Carolus</w>
           <w n="w24">Calvus</w>
@@ -9758,7 +9758,7 @@
           <w n="w33">possiderent</w>
           <w lemmaRef="lemlat:p0550" n="w34">patre</w>
           <w lemmaRef="lemlat:o0723" n="w35">omnem</w>
-          <w n="w36">summam</w>
+          <w lemmaRef="lemlat:s3451" n="w36">summam</w>
           <w lemmaRef="lemlat:r0497" n="w37">rerum</w>
           <w lemmaRef="lemlat:a0662" n="w38">administrante</w>
           <w n="w39">filii</w>
@@ -9767,10 +9767,10 @@
           <w lemmaRef="lemlat:u1318" n="w42">ut</w>
           <w lemmaRef="lemlat:q0310" n="w43">quondam</w>
           <w n="w44">Absalon</w>
-          <w n="w45">sollicitatis</w>
+          <w lemmaRef="lemlat:s1927" n="w45">sollicitatis</w>
           <w n="w46">populis</w>
           <w n="w47">factaque</w>
-          <w n="w48">coniuratione</w>
+          <w lemmaRef="lemlat:c3438" n="w48">coniuratione</w>
           <w lemmaRef="lemlat:i2200" n="w49">insurgunt</w>
           <w n="w50">in</w>
           <w n="w51">patrem</w>
@@ -9867,7 +9867,7 @@
         <s n="s12">
           <w lemmaRef="lemlat:h0360" n="w1">Hac</w>
           <w lemmaRef="lemlat:i2911" n="w2">eadem</w>
-          <w n="w3">ratione</w>
+          <w lemmaRef="lemlat:r0095" n="w3">ratione</w>
           <w lemmaRef="lemlat:e0997" n="w4">et</w>
           <w n="w5">Alexander</w>
           <w n="w6">Quartus</w>
@@ -9876,7 +9876,7 @@
           <w lemmaRef="lemlat:63687" n="w9">Pisanos</w>
           <w lemmaRef="lemlat:t1721" n="w10">tum</w>
           <w n="w11">belli</w>
-          <w n="w12">socios</w>
+          <w lemmaRef="lemlat:s1844" n="w12">socios</w>
           <w lemmaRef="lemlat:u0209" n="w13">vehementer</w>
           <w lemmaRef="lemlat:c4112" n="w14">corripuit</w>
           <w lemmaRef="lemlat:q9410" n="w15">quod</w>
@@ -9887,7 +9887,7 @@
           <w lemmaRef="lemlat:35491" n="w20">Genuensibus</w>
           <w lemmaRef="lemlat:a2579" n="w21">apud</w>
           <w n="w22">Ptholomaidem</w>
-          <w n="w23">pugnassent</w>
+          <w lemmaRef="lemlat:p4432" n="w23">pugnassent</w>
           <pc n="pc24">,</pc>
           <w lemmaRef="lemlat:n0149" n="w25">nec</w>
           <w lemmaRef="lemlat:p3572" n="w26">prius</w>
@@ -9901,7 +9901,7 @@
           <w lemmaRef="lemlat:q9410" n="w34">quam</w>
           <w lemmaRef="lemlat:o0723" n="w35">omnes</w>
           <w lemmaRef="lemlat:35491" n="w36">Genuensium</w>
-          <w n="w37">captivos</w>
+          <w lemmaRef="lemlat:c0581" n="w37">captivos</w>
           <pc n="pc38">,</pc>
           <w n="w39">quorum</w>
           <w n="w40">maximus</w>
@@ -9941,7 +9941,7 @@
           <w n="w2">quoque</w>
           <w lemmaRef="lemlat:a3301" n="w3">ac</w>
           <w lemmaRef="lemlat:35491" n="w4">Genuenses</w>
-          <w n="w5">mutuis</w>
+          <w lemmaRef="lemlat:m1878" n="w5">mutuis</w>
           <w lemmaRef="lemlat:i7526" n="w6">invicem</w>
           <w lemmaRef="lemlat:c2012" n="w7">cladibus</w>
           <w lemmaRef="lemlat:g0560" n="w8">grassantes</w>
@@ -9968,9 +9968,9 @@
           <w n="w10">cum</w>
           <w lemmaRef="lemlat:a3422" n="w11">auctoritate</w>
           <pc n="pc12">,</pc>
-          <w n="w13">ceterum</w>
+          <w lemmaRef="lemlat:c1312" n="w13">ceterum</w>
           <w n="w14">morte</w>
-          <w n="w15">praeoccupato</w>
+          <w lemmaRef="lemlat:p3178" n="w15">praeoccupato</w>
           <w lemmaRef="lemlat:p2566" n="w16">pontifice</w>
           <w n="w17">infectis</w>
           <w lemmaRef="lemlat:n0196" n="w18">negotiis</w>
@@ -10011,7 +10011,7 @@
           <w n="w31">potenti</w>
           <w n="w32">exercitu</w>
           <w n="w33">ad</w>
-          <w n="w34">ferendam</w>
+          <w lemmaRef="lemlat:f0382" n="w34">ferendam</w>
           <w n="w35">miseris</w>
           <w n="w36">opem</w>
           <w lemmaRef="lemlat:p3971" n="w37">propere</w>
@@ -10022,7 +10022,7 @@
           <w n="w42">ingressus</w>
           <w n="w43">primo</w>
           <w n="w44">impetu</w>
-          <w n="w45">deturbato</w>
+          <w lemmaRef="lemlat:d1128" n="w45">deturbato</w>
           <w n="w46">e</w>
           <w lemmaRef="lemlat:60287" n="w47">Patavio</w>
           <w lemmaRef="lemlat:t0901" n="w48">tyranni</w>
@@ -10043,7 +10043,7 @@
           <w lemmaRef="lemlat:e0997" n="w63">et</w>
           <w n="w64">cum</w>
           <w lemmaRef="lemlat:n0776" n="w65">nullam</w>
-          <w n="w66">recuperandi</w>
+          <w lemmaRef="lemlat:r1006" n="w66">recuperandi</w>
           <w lemmaRef="lemlat:60287" n="w67">Patavii</w>
           <w n="w68">spem</w>
           <w n="w69">superesse</w>
@@ -10070,7 +10070,7 @@
           <w n="w2">tam</w>
           <w lemmaRef="lemlat:e1736" n="w3">exsecrandae</w>
           <w n="w4">impietatis</w>
-          <w n="w5">paucos</w>
+          <w lemmaRef="lemlat:p0605" n="w5">paucos</w>
           <w lemmaRef="lemlat:p2700" n="w6">post</w>
           <w n="w7">dies</w>
           <w lemmaRef="lemlat:s3650" n="w8">superatus</w>
@@ -10115,7 +10115,7 @@
           <w n="w8">restituta</w>
           <w n="w9">est</w>
           <w lemmaRef="lemlat:n9508" n="w10">non</w>
-          <w n="w11">tantum</w>
+          <w lemmaRef="lemlat:t0106" n="w11">tantum</w>
           <w lemmaRef="lemlat:88441" n="w12">Venetiarum</w>
           <w n="w13">civitatibus</w>
           <w n="w14">sed</w>
@@ -10123,7 +10123,7 @@
           <w n="w16">ipsis</w>
           <w n="w17">Cisalpinis</w>
           <pc n="pc18">,</pc>
-          <w n="w19">paucis</w>
+          <w lemmaRef="lemlat:p0605" n="w19">paucis</w>
           <w lemmaRef="lemlat:d2324" n="w20">dumtaxat</w>
           <w lemmaRef="lemlat:e1311" n="w21">exceptis</w>
           <w lemmaRef="lemlat:q9410" n="w22">quas</w>
@@ -10141,12 +10141,12 @@
           <pc n="pc34">.</pc>
         </s>
         <s n="s19">
-          <w n="w1">Ceterum</w>
+          <w lemmaRef="lemlat:c1312" n="w1">Ceterum</w>
           <w n="w2">eo</w>
           <w lemmaRef="lemlat:m1411" n="w3">mortuo</w>
           <w n="w4">Pallavicinus</w>
           <w n="w5">deposita</w>
-          <w n="w6">ovina</w>
+          <w lemmaRef="lemlat:o1164" n="w6">ovina</w>
           <w n="w7">pelle</w>
           <w lemmaRef="lemlat:q9410" n="w8">quam</w>
           <w n="w9">metu</w>
@@ -10191,8 +10191,8 @@
           <w lemmaRef="lemlat:o0723" n="w48">omni</w>
           <w n="w49">praeda</w>
           <w lemmaRef="lemlat:u0835" n="w50">vitae</w>
-          <w n="w51">necessaria</w>
-          <w n="w52">desideraverit</w>
+          <w lemmaRef="lemlat:n0141" n="w51">necessaria</w>
+          <w lemmaRef="lemlat:d0968" n="w52">desideraverit</w>
           <pc n="pc53">.</pc>
         </s>
         <s n="s20">
@@ -10210,7 +10210,7 @@
           <w lemmaRef="lemlat:33480" n="w12">Florentiam</w>
           <w n="w13">illos</w>
           <w n="w14">in</w>
-          <w n="w15">patriam</w>
+          <w lemmaRef="lemlat:p0588" n="w15">patriam</w>
           <w lemmaRef="lemlat:r1098" n="w16">reduxit</w>
           <pc n="pc17">,</pc>
           <w lemmaRef="lemlat:t1505" n="w18">tametsi</w>
@@ -10264,7 +10264,7 @@
           <w lemmaRef="lemlat:s3436" n="w26">sunt</w>
           <w n="w27">restituti</w>
           <pc n="pc28">,</pc>
-          <w n="w29">magistratibus</w>
+          <w lemmaRef="lemlat:m0103" n="w29">magistratibus</w>
           <w lemmaRef="lemlat:c4623" n="w30">cunctis</w>
           <w n="w31">in</w>
           <w n="w32">urbibus</w>
@@ -10284,7 +10284,7 @@
           <w lemmaRef="lemlat:l0030" n="w7">laboravit</w>
           <w n="w8">Luchinum</w>
           <w lemmaRef="lemlat:86450" n="w9">Turianum</w>
-          <w n="w10">vicarium</w>
+          <w lemmaRef="lemlat:u0580" n="w10">vicarium</w>
           <w n="w11">in</w>
           <w lemmaRef="lemlat:29997" n="w12">Etruriam</w>
           <w lemmaRef="lemlat:a0001" n="w13">ab</w>
@@ -10292,7 +10292,7 @@
           <w n="w15">missum</w>
           <w lemmaRef="lemlat:a3301" n="w16">ac</w>
           <w lemmaRef="lemlat:e1167" n="w17">ex</w>
-          <w n="w18">Miniate</w>
+          <w lemmaRef="lemlat:m1032" n="w18">Miniate</w>
           <w n="w19">oppido</w>
           <w n="w20">Lucenses</w>
           <w n="w21">Florentinosque</w>
@@ -10302,7 +10302,7 @@
           <w n="w25">a</w>
           <w lemmaRef="lemlat:c1289" n="w26">cervicibus</w>
           <w lemmaRef="lemlat:i2912" n="w27">eorum</w>
-          <w n="w28">submovere</w>
+          <w lemmaRef="lemlat:s2984" n="w28">submovere</w>
           <pc n="pc29">.</pc>
         </s>
         <s n="s23">
@@ -10314,7 +10314,7 @@
           <w n="w6">Cisalpinamque</w>
           <w n="w7">Galliam</w>
           <w n="w8">imperatorum</w>
-          <w n="w9">vicarii</w>
+          <w lemmaRef="lemlat:u0580" n="w9">vicarii</w>
           <w lemmaRef="lemlat:u0252" n="w10">veluti</w>
           <w lemmaRef="lemlat:f0150" n="w11">famelicae</w>
           <w n="w12">ferae</w>
@@ -10342,13 +10342,13 @@
         </s>
         <s n="s24">
           <w lemmaRef="lemlat:p3821" n="w1">Proinde</w>
-          <w n="w2">Bonifacius</w>
+          <w lemmaRef="lemlat:12328" n="w2">Bonifacius</w>
           <w n="w3">Octavus</w>
           <w lemmaRef="lemlat:p3521" n="w4">precibus</w>
           <w lemmaRef="lemlat:29999" n="w5">Etruscorum</w>
           <w n="w6">commotus</w>
           <w lemmaRef="lemlat:l0684" n="w7">liberat</w>
-          <w n="w8">vexatione</w>
+          <w lemmaRef="lemlat:u0549" n="w8">vexatione</w>
           <w lemmaRef="lemlat:p4216" n="w9">provinciam</w>
           <w n="w10">missumque</w>
           <w n="w11">Gabilionem</w>
@@ -10370,7 +10370,7 @@
           <w lemmaRef="lemlat:q9410" n="w5">quam</w>
           <w lemmaRef="lemlat:o0477" n="w6">octuaginta</w>
           <w n="w7">milia</w>
-          <w n="w8">aureorum</w>
+          <w lemmaRef="lemlat:a3541" n="w8">aureorum</w>
           <w n="w9">pontifici</w>
           <w n="w10">a</w>
           <w n="w11">civitatibus</w>
@@ -10397,7 +10397,7 @@
           <w n="w15">de</w>
           <w n="w16">Vicecomitibus</w>
           <w n="w17">Lombardiae</w>
-          <w n="w18">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w18">vicario</w>
           <pc n="pc19">;</pc>
           <w n="w20">Mastino</w>
           <w lemmaRef="lemlat:a3607" n="w21">autem</w>
@@ -10413,7 +10413,7 @@
           <w lemmaRef="lemlat:a3301" n="w31">ac</w>
           <w n="w32">Regio</w>
           <pc n="pc33">;</pc>
-          <w n="w34">Obitione</w>
+          <w lemmaRef="lemlat:o0064" n="w34">Obitione</w>
           <w n="w35">Estensi</w>
           <w n="w36">Ferariae</w>
           <pc n="pc37">,</pc>
@@ -10489,13 +10489,13 @@
           <w lemmaRef="lemlat:e1487" n="w58">exegit</w>
           <w n="w59">partim</w>
           <w lemmaRef="lemlat:a0001" n="w60">ab</w>
-          <w n="w61">iniuriis</w>
+          <w lemmaRef="lemlat:i1799" n="w61">iniuriis</w>
           <w lemmaRef="lemlat:t0241" n="w62">temperare</w>
           <w lemmaRef="lemlat:c2810" n="w63">compulit</w>
           <pc n="pc64">.</pc>
         </s>
         <s n="s28">
-          <w n="w1">Ceterum</w>
+          <w lemmaRef="lemlat:c1312" n="w1">Ceterum</w>
           <w n="w2">legato</w>
           <w n="w3">Italiam</w>
           <w lemmaRef="lemlat:e0221" n="w4">egresso</w>
@@ -10691,7 +10691,7 @@
           <w n="w2">vero</w>
           <w lemmaRef="lemlat:h0360" n="w3">his</w>
           <w n="w4">quamvis</w>
-          <w n="w5">paucis</w>
+          <w lemmaRef="lemlat:p0605" n="w5">paucis</w>
           <w n="w6">satis</w>
           <w lemmaRef="lemlat:t0084" n="w7">tamen</w>
           <w lemmaRef="lemlat:l0464" n="w8">lectorem</w>
@@ -10731,7 +10731,7 @@
           <w n="w42">dignitatem</w>
           <pc n="pc43">,</pc>
           <w n="w44">libertatem</w>
-          <w n="w45">defendere</w>
+          <w lemmaRef="lemlat:d0347" n="w45">defendere</w>
           <w lemmaRef="lemlat:e0037" n="w46">ecclesiae</w>
           <pc n="pc47">,</pc>
           <w n="w48">iura</w>
@@ -10755,7 +10755,7 @@
           <w lemmaRef="lemlat:e0997" n="w66">et</w>
           <w n="w67">populis</w>
           <w n="w68">suam</w>
-          <w n="w69">restituere</w>
+          <w lemmaRef="lemlat:r1365" n="w69">restituere</w>
           <w n="w70">libertatem</w>
           <pc n="pc71">.</pc>
         </s>
@@ -10825,7 +10825,7 @@
           <w n="w15">de</w>
           <w lemmaRef="lemlat:l1176" n="w16">luminibus</w>
           <w n="w17">suis</w>
-          <w n="w18">amovere</w>
+          <w lemmaRef="lemlat:a1724" n="w18">amovere</w>
           <w lemmaRef="lemlat:n9508" n="w19">non</w>
           <w lemmaRef="lemlat:c4706" n="w20">curant</w>
           <pc n="pc21">?</pc>
@@ -10850,7 +10850,7 @@
           <w lemmaRef="lemlat:u0219" n="w17">vel</w>
           <w lemmaRef="lemlat:m1031" n="w18">minimo</w>
           <w lemmaRef="lemlat:d1433" n="w19">digitulo</w>
-          <w n="w20">movere</w>
+          <w lemmaRef="lemlat:m1456" n="w20">movere</w>
           <w lemmaRef="lemlat:r1141" n="w21">refugiunt</w>
           <pc n="pc22">.</pc>
         </s>
@@ -10916,7 +10916,7 @@
           <w lemmaRef="lemlat:a3239" n="w36">astantibusque</w>
           <w n="w37">episcopis</w>
           <w n="w38">Multas</w>
-          <w n="w39">inquit</w>
+          <w lemmaRef="lemlat:i1914" n="w39">inquit</w>
           <w n="w40">ad</w>
           <w n="w41">me</w>
           <w lemmaRef="lemlat:a1079" n="w42">attulistis</w>
@@ -10927,12 +10927,12 @@
           <w n="w47">a</w>
           <w n="w48">me</w>
           <w lemmaRef="lemlat:s1232" n="w49">sententiam</w>
-          <w n="w50">flagitatis</w>
+          <w lemmaRef="lemlat:f0608" n="w50">flagitatis</w>
           <pc n="pc51">.</pc>
         </s>
         <s n="s11">
           <w lemmaRef="lemlat:a1816" n="w1">An</w>
-          <w n="w2">ignoratis</w>
+          <w lemmaRef="lemlat:i0160" n="w2">ignoratis</w>
           <w lemmaRef="lemlat:q0311" n="w3">quoniam</w>
           <w lemmaRef="lemlat:u1223" n="w4">vos</w>
           <w n="w5">nostri</w>
@@ -10950,7 +10950,7 @@
           <w lemmaRef="lemlat:u1223" n="w7">vos</w>
           <w lemmaRef="lemlat:n0773" n="w8">nobis</w>
           <w n="w9">pastores</w>
-          <w n="w10">constituit</w>
+          <w lemmaRef="lemlat:c3616" n="w10">constituit</w>
           <pc n="pc11">.</pc>
         </s>
         <s n="s13">
@@ -10964,7 +10964,7 @@
         <s n="s14">
           <w lemmaRef="lemlat:e0218" n="w1">Ego</w>
           <w lemmaRef="lemlat:a3607" n="w2">autem</w>
-          <w n="w3">tantum</w>
+          <w lemmaRef="lemlat:t0106" n="w3">tantum</w>
           <w lemmaRef="lemlat:a0200" n="w4">abest</w>
           <w lemmaRef="lemlat:u1318" n="w5">ut</w>
           <w lemmaRef="lemlat:u1223" n="w6">vos</w>
@@ -11153,7 +11153,7 @@
           <w n="w37">filii</w>
           <w n="w38">sui</w>
           <w n="w39">quem</w>
-          <w n="w40">constituit</w>
+          <w lemmaRef="lemlat:c3616" n="w40">constituit</w>
           <w lemmaRef="lemlat:h0297" n="w41">heredem</w>
           <w n="w42">universorum</w>
           <w lemmaRef="lemlat:t0885" n="w43">tot</w>
@@ -11182,7 +11182,7 @@
           <w n="w66">pedum</w>
           <w lemmaRef="lemlat:i2912" n="w67">eius</w>
           <w lemmaRef="lemlat:q0311" n="w68">quoniam</w>
-          <w n="w69">sanctum</w>
+          <w lemmaRef="lemlat:s0267" n="w69">sanctum</w>
           <w n="w70">est</w>
           <pc n="pc71">.</pc>
         </s>
@@ -11218,7 +11218,7 @@
           <w lemmaRef="lemlat:e0997" n="w4">et</w>
           <w lemmaRef="lemlat:e0218" n="w5">mihi</w>
           <w n="w6">cognitum</w>
-          <w n="w7">furtum</w>
+          <w lemmaRef="lemlat:f1235" n="w7">furtum</w>
           <w lemmaRef="lemlat:u0707" n="w8">vendicare</w>
           <w lemmaRef="lemlat:n9508" n="w9">non</w>
           <w lemmaRef="lemlat:l0715" n="w10">licet</w>
@@ -11280,7 +11280,7 @@
           <w lemmaRef="lemlat:u1000" n="w3">umquam</w>
           <w lemmaRef="lemlat:s3436" n="w4">fuit</w>
           <w n="w5">qui</w>
-          <w n="w6">negaverit</w>
+          <w lemmaRef="lemlat:n0185" n="w6">negaverit</w>
           <w lemmaRef="lemlat:f0221" n="w7">fas</w>
           <w n="w8">esse</w>
           <w n="w9">auctoribus</w>
@@ -11365,7 +11365,7 @@
           <w lemmaRef="lemlat:p2697" n="w50">potentibus</w>
           <w n="w51">potentia</w>
           <w n="w52">parata</w>
-          <w n="w53">tormenta</w>
+          <w lemmaRef="lemlat:t0841" n="w53">tormenta</w>
           <pc n="pc54">.</pc>
         </s>
         <s n="s28">
@@ -11413,7 +11413,7 @@
           <w n="w6">pontifici</w>
           <w n="w7">paci</w>
           <w lemmaRef="lemlat:s2656" n="w8">studere</w>
-          <w n="w9">convenit</w>
+          <w lemmaRef="lemlat:c3872" n="w9">convenit</w>
           <w lemmaRef="lemlat:e0997" n="w10">et</w>
           <w lemmaRef="lemlat:t1483" n="w11">tibi</w>
           <w n="w12">profecto</w>
@@ -11426,13 +11426,13 @@
           <w lemmaRef="lemlat:a1371" n="w19">alioquin</w>
           <w n="w20">frustra</w>
           <w lemmaRef="lemlat:t1483" n="w21">tibi</w>
-          <w n="w22">blandiris</w>
+          <w lemmaRef="lemlat:b0462" n="w22">blandiris</w>
           <w n="w23">cum</w>
           <w n="w24">noveris</w>
           <w n="w25">Dominum</w>
           <w lemmaRef="lemlat:i2980" n="w26">iussisse</w>
           <w lemmaRef="lemlat:i1658" n="w27">infructuosam</w>
-          <w n="w28">effodi</w>
+          <w lemmaRef="lemlat:e0165" n="w28">effodi</w>
           <w n="w29">arborem</w>
           <pc n="pc30">.</pc>
         </s>
@@ -11445,7 +11445,7 @@
           <pc n="pc6">,</pc>
           <w lemmaRef="lemlat:n0594" n="w7">noxie</w>
           <w n="w8">minus</w>
-          <w n="w9">parcendum</w>
+          <w lemmaRef="lemlat:p0367" n="w9">parcendum</w>
           <w lemmaRef="lemlat:m0260" n="w10">mandavit</w>
           <pc n="pc11">,</pc>
           <w lemmaRef="lemlat:a3606" n="w12">aut</w>
@@ -11482,7 +11482,7 @@
           <w lemmaRef="lemlat:e0997" n="w13">et</w>
           <w lemmaRef="lemlat:i2780" n="w14">ipsa</w>
           <w n="w15">natura</w>
-          <w n="w16">summam</w>
+          <w lemmaRef="lemlat:s3451" n="w16">summam</w>
           <w lemmaRef="lemlat:r0497" n="w17">rerum</w>
           <w n="w18">iure</w>
           <w lemmaRef="lemlat:d0362" n="w19">detulit</w>
@@ -11497,7 +11497,7 @@
           <w n="w28">terris</w>
           <w lemmaRef="lemlat:q9410" n="w29">quam</w>
           <w lemmaRef="lemlat:i0205" n="w30">illius</w>
-          <w n="w31">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w31">vicario</w>
           <w n="w32">qui</w>
           <w lemmaRef="lemlat:s1947" n="w33">solus</w>
           <w lemmaRef="lemlat:u1136" n="w34">unus</w>
@@ -11546,7 +11546,7 @@
           <w n="w35">qui</w>
           <w n="w36">singula</w>
           <w lemmaRef="lemlat:m0690" n="w37">membra</w>
-          <w n="w38">fovet</w>
+          <w lemmaRef="lemlat:f0913" n="w38">fovet</w>
           <w lemmaRef="lemlat:r1156" n="w39">regitque</w>
           <w n="w40">ipsum</w>
           <w n="w41">quoque</w>
@@ -11668,9 +11668,9 @@
           <w lemmaRef="lemlat:n9508" n="w8">non</w>
           <w lemmaRef="lemlat:t0084" n="w9">tamen</w>
           <w lemmaRef="lemlat:i0073" n="w10">idcirco</w>
-          <w n="w11">putaveris</w>
+          <w lemmaRef="lemlat:p4613" n="w11">putaveris</w>
           <w lemmaRef="lemlat:e0997" n="w12">et</w>
-          <w n="w13">pontificium</w>
+          <w lemmaRef="lemlat:p2569" n="w13">pontificium</w>
           <w n="w14">te</w>
           <w n="w15">excussise</w>
           <pc n="pc16">.</pc>
@@ -11687,7 +11687,7 @@
           <w lemmaRef="lemlat:i2780" n="w9">ipsius</w>
           <w n="w10">in</w>
           <w lemmaRef="lemlat:o0723" n="w11">omni</w>
-          <w n="w12">generatione</w>
+          <w lemmaRef="lemlat:g0170" n="w12">generatione</w>
           <w lemmaRef="lemlat:a3301" n="w13">ac</w>
           <w lemmaRef="lemlat:p3791" n="w14">progenie</w>
           <pc n="pc15">.</pc>
@@ -11706,7 +11706,7 @@
           <w lemmaRef="lemlat:i0492" n="w11">imperiali</w>
           <w n="w12">potestate</w>
           <w n="w13">esse</w>
-          <w n="w14">subtractum</w>
+          <w lemmaRef="lemlat:s3219" n="w14">subtractum</w>
           <pc n="pc15">,</pc>
           <w n="w16">pro</w>
           <w n="w17">quo</w>
@@ -11720,12 +11720,12 @@
           <w lemmaRef="lemlat:s3737" n="w25">superius</w>
           <w lemmaRef="lemlat:d2067" n="w26">docuimus</w>
           <w n="w27">in</w>
-          <w n="w28">aerarium</w>
+          <w lemmaRef="lemlat:a0970" n="w28">aerarium</w>
           <w lemmaRef="lemlat:12328" n="w29">Bonifacii</w>
           <w n="w30">Octavii</w>
           <w lemmaRef="lemlat:o0477" n="w31">octuaginta</w>
           <w n="w32">milia</w>
-          <w n="w33">aureorum</w>
+          <w lemmaRef="lemlat:a3541" n="w33">aureorum</w>
           <w lemmaRef="lemlat:i1548" n="w34">intulisti</w>
           <w n="w35">iure</w>
           <w n="w36">iurando</w>
@@ -11821,7 +11821,7 @@
           <w n="w21">alium</w>
           <w n="w22">alii</w>
           <w n="w23">inuriam</w>
-          <w n="w24">inferre</w>
+          <w lemmaRef="lemlat:i1548" n="w24">inferre</w>
           <w lemmaRef="lemlat:m1031" n="w25">minime</w>
           <w lemmaRef="lemlat:p1367" n="w26">permittat</w>
           <w lemmaRef="lemlat:e0997" n="w27">et</w>
@@ -11835,7 +11835,7 @@
           <w n="w35">sed</w>
           <w lemmaRef="lemlat:t1849" n="w36">tuam</w>
           <w lemmaRef="lemlat:c4562" n="w37">culpam</w>
-          <w n="w38">accusaveris</w>
+          <w lemmaRef="lemlat:a0329" n="w38">accusaveris</w>
           <pc n="pc39">.</pc>
         </s>
         <s n="s16">
@@ -11924,7 +11924,7 @@
           <w n="w34">amplius</w>
           <w n="w35">annis</w>
           <w n="w36">cum</w>
-          <w n="w37">durasset</w>
+          <w lemmaRef="lemlat:d2400" n="w37">durasset</w>
           <pc n="pc38">,</pc>
           <w lemmaRef="lemlat:n0149" n="w39">nec</w>
           <w n="w40">esset</w>
@@ -11968,7 +11968,7 @@
           <w n="w27">annis</w>
           <w lemmaRef="lemlat:g0596" n="w28">graviter</w>
           <w lemmaRef="lemlat:s3436" n="w29">sit</w>
-          <w n="w30">laboratum</w>
+          <w lemmaRef="lemlat:l0030" n="w30">laboratum</w>
           <pc n="pc31">.</pc>
         </s>
         <s n="s20">
@@ -11983,7 +11983,7 @@
           <w lemmaRef="lemlat:a3301" n="w9">ac</w>
           <w lemmaRef="lemlat:i0857" n="w10">incendiis</w>
           <w n="w11">tota</w>
-          <w n="w12">flagraverit</w>
+          <w lemmaRef="lemlat:f0613" n="w12">flagraverit</w>
           <w n="w13">Italia</w>
           <w lemmaRef="lemlat:q0118" n="w14">quamdiu</w>
           <w lemmaRef="lemlat:p2566" n="w15">pontifices</w>
@@ -12002,7 +12002,7 @@
           <w lemmaRef="lemlat:e0997" n="w28">et</w>
           <w lemmaRef="lemlat:i2780" n="w29">ipsa</w>
           <w lemmaRef="lemlat:p2697" n="w30">potentior</w>
-          <w n="w31">ratione</w>
+          <w lemmaRef="lemlat:r0095" n="w31">ratione</w>
           <w n="w32">experientia</w>
           <w n="w33">saepe</w>
           <w lemmaRef="lemlat:d2067" n="w34">docuerit</w>
@@ -12050,7 +12050,7 @@
           <pc n="pc26">,</pc>
           <w lemmaRef="lemlat:n0231" n="w27">neminem</w>
           <w n="w28">esse</w>
-          <w n="w29">periclitatum</w>
+          <w lemmaRef="lemlat:p1210" n="w29">periclitatum</w>
           <w n="w30">nisi</w>
           <w n="w31">quis</w>
           <w lemmaRef="lemlat:s0844" n="w32">sese</w>
@@ -12062,7 +12062,7 @@
           <w n="w38">navem</w>
           <w n="w39">in</w>
           <w n="w40">fluctus</w>
-          <w n="w41">sponte</w>
+          <w lemmaRef="lemlat:s2271" n="w41">sponte</w>
           <w lemmaRef="lemlat:e0232" n="w42">eiecerit</w>
           <pc n="pc43">.</pc>
         </s>
@@ -12113,7 +12113,7 @@
           <w lemmaRef="lemlat:d1715" n="w4">disciplina</w>
           <w n="w5">est</w>
           <w lemmaRef="lemlat:e0997" n="w6">et</w>
-          <w n="w7">nimia</w>
+          <w lemmaRef="lemlat:n0312" n="w7">nimia</w>
           <w n="w8">indulgentia</w>
           <w lemmaRef="lemlat:a0681" n="w9">admodum</w>
           <w lemmaRef="lemlat:p1401" n="w10">perniciosa</w>
@@ -12165,7 +12165,7 @@
           <w lemmaRef="lemlat:d0343" n="w8">defectionem</w>
           <w lemmaRef="lemlat:s1927" n="w9">sollicitantur</w>
           <w lemmaRef="lemlat:e0037" n="w10">ecclesiae</w>
-          <w n="w11">vicarii</w>
+          <w lemmaRef="lemlat:u0580" n="w11">vicarii</w>
           <pc n="pc12">,</pc>
           <w lemmaRef="lemlat:c4213" n="w13">cottidie</w>
           <w n="w14">manus</w>
@@ -12176,7 +12176,7 @@
           <pc n="pc19">,</pc>
           <w lemmaRef="lemlat:c4213" n="w20">cottidie</w>
           <w lemmaRef="lemlat:d2197" n="w21">dotis</w>
-          <w n="w22">praedia</w>
+          <w lemmaRef="lemlat:p2944" n="w22">praedia</w>
           <w lemmaRef="lemlat:o0417" n="w23">occupantur</w>
           <pc n="pc24">,</pc>
           <w n="w25">dirripiuntur</w>
@@ -12200,7 +12200,7 @@
           <w n="w43">contumeliis</w>
           <pc n="pc44">,</pc>
           <w n="w45">Levitae</w>
-          <w n="w46">ministrique</w>
+          <w lemmaRef="lemlat:m1034" n="w46">ministrique</w>
           <w n="w47">altaris</w>
           <w n="w48">Christi</w>
           <w n="w49">more</w>
@@ -12226,9 +12226,9 @@
           <pc n="pc15">,</pc>
           <w lemmaRef="lemlat:l0516" n="w16">leniunt</w>
           <w n="w17">sermones</w>
-          <w n="w18">suos</w>
+          <w lemmaRef="lemlat:s3894" n="w18">suos</w>
           <w n="w19">super</w>
-          <w n="w20">oleum</w>
+          <w lemmaRef="lemlat:o0617" n="w20">oleum</w>
           <pc n="pc21">.</pc>
         </s>
         <s n="s5">
@@ -12327,10 +12327,10 @@
           <w n="w4">in</w>
           <w lemmaRef="lemlat:i2912" n="w5">eos</w>
           <w n="w6">a</w>
-          <w n="w7">summis</w>
+          <w lemmaRef="lemlat:s3451" n="w7">summis</w>
           <w lemmaRef="lemlat:p2566" n="w8">pontificibus</w>
           <w lemmaRef="lemlat:s1187" n="w9">semper</w>
-          <w n="w10">saevitum</w>
+          <w lemmaRef="lemlat:s0095" n="w10">saevitum</w>
           <w n="w11">est</w>
           <pc n="pc12">,</pc>
           <w lemmaRef="lemlat:a0001" n="w13">ab</w>
@@ -12339,7 +12339,7 @@
           <w n="w16">legibus</w>
           <w n="w17">arma</w>
           <w n="w18">ad</w>
-          <w n="w19">persequendum</w>
+          <w lemmaRef="lemlat:p1575" n="w19">persequendum</w>
           <w lemmaRef="lemlat:u0951" n="w20">ultro</w>
           <w n="w21">delata</w>
           <pc n="pc22">,</pc>
@@ -12352,13 +12352,13 @@
           <w n="w29">verum</w>
           <w lemmaRef="lemlat:e1010" n="w30">etiam</w>
           <w n="w31">amplissimis</w>
-          <w n="w32">propositis</w>
+          <w lemmaRef="lemlat:p4008" n="w32">propositis</w>
           <w lemmaRef="lemlat:p3125" n="w33">praemiis</w>
           <w n="w34">quibus</w>
           <w lemmaRef="lemlat:c2873" n="w35">complures</w>
           <w n="w36">priscorum</w>
           <w lemmaRef="lemlat:a2579" n="w37">apud</w>
-          <w n="w38">suos</w>
+          <w lemmaRef="lemlat:s3894" n="w38">suos</w>
           <w n="w39">divinos</w>
           <w lemmaRef="lemlat:p3873" n="w40">promeruerunt</w>
           <w n="w41">honores</w>
@@ -12379,7 +12379,7 @@
           <pc n="pc56">,</pc>
           <w lemmaRef="lemlat:p5011" n="w57">propterea</w>
           <w lemmaRef="lemlat:q9410" n="w58">quod</w>
-          <w n="w59">compertum</w>
+          <w lemmaRef="lemlat:c2827" n="w59">compertum</w>
           <w n="w60">est</w>
           <w n="w61">mentis</w>
           <w lemmaRef="lemlat:n0569" n="w62">nostrae</w>
@@ -12492,7 +12492,7 @@
         <s n="s16">
           <w lemmaRef="lemlat:h0360" n="w1">His</w>
           <w n="w2">tam</w>
-          <w n="w3">praeclaris</w>
+          <w lemmaRef="lemlat:p2858" n="w3">praeclaris</w>
           <w n="w4">meritis</w>
           <w lemmaRef="lemlat:t0106" n="w5">tanta</w>
           <w n="w6">gratitudo</w>
@@ -12525,7 +12525,7 @@
           <w lemmaRef="lemlat:a3301" n="w33">ac</w>
           <w lemmaRef="lemlat:8432" n="w34">Aristogitoni</w>
           <w lemmaRef="lemlat:q9410" n="w35">quod</w>
-          <w n="w36">patriam</w>
+          <w lemmaRef="lemlat:p0588" n="w36">patriam</w>
           <w lemmaRef="lemlat:25616" n="w37">Dioclis</w>
           <w lemmaRef="lemlat:t1871" n="w38">tyrannide</w>
           <w lemmaRef="lemlat:l0684" n="w39">liberare</w>
@@ -12544,10 +12544,10 @@
           <w lemmaRef="lemlat:h0639" n="w4">hostes</w>
           <w lemmaRef="lemlat:t0106" n="w5">tanta</w>
           <w n="w6">in</w>
-          <w n="w7">admiratione</w>
+          <w lemmaRef="lemlat:a0665" n="w7">admiratione</w>
           <w lemmaRef="lemlat:s3436" n="w8">fuere</w>
           <w lemmaRef="lemlat:u1318" n="w9">ut</w>
-          <w n="w10">Xerxes</w>
+          <w lemmaRef="lemlat:90565" n="w10">Xerxes</w>
           <w lemmaRef="lemlat:d1162" n="w11">devictis</w>
           <w n="w12">Athenis</w>
           <w n="w13">solis</w>
@@ -12558,7 +12558,7 @@
           <w n="w18">regnum</w>
           <w n="w19">suum</w>
           <w lemmaRef="lemlat:t0995" n="w20">translatas</w>
-          <w n="w21">veneratione</w>
+          <w lemmaRef="lemlat:u0289" n="w21">veneratione</w>
           <w lemmaRef="lemlat:f0048" n="w22">fecerit</w>
           <w n="w23">dignas</w>
           <pc n="pc24">,</pc>
@@ -12606,7 +12606,7 @@
           <w n="w16">manibus</w>
           <w n="w17">a</w>
           <w lemmaRef="lemlat:55051" n="w18">Nicocreonte</w>
-          <w n="w19">tormentis</w>
+          <w lemmaRef="lemlat:t0841" n="w19">tormentis</w>
           <w n="w20">excruciatus</w>
           <w lemmaRef="lemlat:n0231" n="w21">neminem</w>
           <w lemmaRef="lemlat:t0084" n="w22">tamen</w>
@@ -12623,10 +12623,10 @@
           <w lemmaRef="lemlat:t0901" n="w33">tyrannus</w>
           <w lemmaRef="lemlat:c3906" n="w34">convicia</w>
           <w lemmaRef="lemlat:i2780" n="w35">ipsius</w>
-          <w n="w36">ferre</w>
+          <w lemmaRef="lemlat:f0382" n="w36">ferre</w>
           <w lemmaRef="lemlat:n9508" n="w37">non</w>
           <w lemmaRef="lemlat:p3419" n="w38">praevalens</w>
-          <w n="w39">praecidi</w>
+          <w lemmaRef="lemlat:p2838" n="w39">praecidi</w>
           <w lemmaRef="lemlat:i2980" n="w40">iusserat</w>
           <w n="w41">in</w>
           <w n="w42">os</w>
@@ -12636,7 +12636,7 @@
         </s>
         <s n="s19">
           <w n="w1">Pari</w>
-          <w n="w2">veneratione</w>
+          <w lemmaRef="lemlat:u0289" n="w2">veneratione</w>
           <w lemmaRef="lemlat:o0002" n="w3">ob</w>
           <w n="w4">parem</w>
           <w n="w5">virtutem</w>
@@ -12729,7 +12729,7 @@
           <w n="w1">Brutum</w>
           <w n="w2">matronae</w>
           <w lemmaRef="lemlat:o0723" n="w3">omnes</w>
-          <w n="w4">mortuum</w>
+          <w lemmaRef="lemlat:m1411" n="w4">mortuum</w>
           <w lemmaRef="lemlat:u0252" n="w5">velut</w>
           <w n="w6">publicum</w>
           <w n="w7">parentem</w>
@@ -12744,7 +12744,7 @@
           <w n="w3">caput</w>
           <w lemmaRef="lemlat:i2324" n="w4">interfectoribus</w>
           <w n="w5">auro</w>
-          <w n="w6">pensatum</w>
+          <w lemmaRef="lemlat:p0821" n="w6">pensatum</w>
           <w n="w7">est</w>
           <pc n="pc8">.</pc>
         </s>
@@ -12768,7 +12768,7 @@
           <w n="w17">populo</w>
           <w n="w18">primus</w>
           <w n="w19">pater</w>
-          <w n="w20">patriae</w>
+          <w lemmaRef="lemlat:p0588" n="w20">patriae</w>
           <w n="w21">est</w>
           <w lemmaRef="lemlat:c3463" n="w22">consalutatus</w>
           <pc n="pc23">.</pc>
@@ -12784,7 +12784,7 @@
           <w n="w8">qui</w>
           <w lemmaRef="lemlat:t1505" n="w9">tametsi</w>
           <w lemmaRef="lemlat:a6142" n="w10">assertores</w>
-          <w n="w11">suos</w>
+          <w lemmaRef="lemlat:s3894" n="w11">suos</w>
           <w lemmaRef="lemlat:i2254" n="w12">inter</w>
           <w n="w13">deos</w>
           <w lemmaRef="lemlat:n9508" n="w14">non</w>
@@ -12839,7 +12839,7 @@
           <w n="w63">illis</w>
           <w n="w64">exemplo</w>
           <w n="w65">qui</w>
-          <w n="w66">circumventum</w>
+          <w lemmaRef="lemlat:c1921" n="w66">circumventum</w>
           <w n="w67">in</w>
           <w lemmaRef="lemlat:t0251" n="w68">templo</w>
           <w n="w69">Antiochum</w>
@@ -12859,10 +12859,10 @@
           <w n="w83">die</w>
           <w n="w84">quotannis</w>
           <w lemmaRef="lemlat:s1920" n="w85">sollemnitate</w>
-          <w n="w86">statuta</w>
+          <w lemmaRef="lemlat:s2405" n="w86">statuta</w>
           <w lemmaRef="lemlat:n9508" n="w87">non</w>
           <w n="w88">solum</w>
-          <w n="w89">Hierosolymis</w>
+          <w lemmaRef="lemlat:38121" n="w89">Hierosolymis</w>
           <w n="w90">verum</w>
           <w lemmaRef="lemlat:e1010" n="w91">etiam</w>
           <w n="w92">toto</w>
@@ -12874,7 +12874,7 @@
           <w lemmaRef="lemlat:e1167" n="w98">ex</w>
           <w n="w99">ipsis</w>
           <w n="w100">litteris</w>
-          <w n="w101">videre</w>
+          <w lemmaRef="lemlat:u0626" n="w101">videre</w>
           <w lemmaRef="lemlat:l0715" n="w102">licet</w>
           <w lemmaRef="lemlat:q9410" n="w103">quarum</w>
           <w lemmaRef="lemlat:e1423" n="w104">exemplar</w>
@@ -12908,7 +12908,7 @@
           <w lemmaRef="lemlat:n9508" n="w14">non</w>
           <w n="w15">polluisse</w>
           <w n="w16">sed</w>
-          <w n="w17">expiasse</w>
+          <w lemmaRef="lemlat:e1623" n="w17">expiasse</w>
           <w n="w18">potius</w>
           <w lemmaRef="lemlat:s0267" n="w19">sancta</w>
           <w lemmaRef="lemlat:a2658" n="w20">arbitrati</w>
@@ -12918,7 +12918,7 @@
           <w lemmaRef="lemlat:c4454" n="w24">cruore</w>
           <w n="w25">qui</w>
           <w lemmaRef="lemlat:n0764" n="w26">nihil</w>
-          <w n="w27">sanctum</w>
+          <w lemmaRef="lemlat:s0267" n="w27">sanctum</w>
           <w lemmaRef="lemlat:r1181" n="w28">reliquerat</w>
           <pc n="pc29">,</pc>
           <w lemmaRef="lemlat:n0764" n="w30">nihil</w>
@@ -12945,7 +12945,7 @@
         </s>
         <s n="s28">
           <w lemmaRef="lemlat:a0195" n="w1">Abstrahe</w>
-          <w n="w2">inquit</w>
+          <w lemmaRef="lemlat:i1914" n="w2">inquit</w>
           <w n="w3">Dominus</w>
           <w lemmaRef="lemlat:h0511" n="w4">homicidam</w>
           <w n="w5">a</w>
@@ -12958,7 +12958,7 @@
           <w n="w12">sed</w>
           <w n="w13">qui</w>
           <w n="w14">homicidis</w>
-          <w n="w15">sanctum</w>
+          <w lemmaRef="lemlat:s0267" n="w15">sanctum</w>
           <w lemmaRef="lemlat:n0185" n="w16">negavit</w>
           <w lemmaRef="lemlat:p1164" n="w17">perfugium</w>
           <w n="w18">multo</w>
@@ -12979,7 +12979,7 @@
           <pc n="pc8">,</pc>
           <w lemmaRef="lemlat:q0290" n="w9">quippe</w>
           <w n="w10">qui</w>
-          <w n="w11">patriae</w>
+          <w lemmaRef="lemlat:p0588" n="w11">patriae</w>
           <w n="w12">suae</w>
           <w lemmaRef="lemlat:u0740" n="w13">violentas</w>
           <w lemmaRef="lemlat:i1759" n="w14">iniciunt</w>
@@ -12990,7 +12990,7 @@
           <w n="w19">libertatem</w>
           <pc n="pc20">,</pc>
           <w n="w21">publicas</w>
-          <w n="w22">privatasque</w>
+          <w lemmaRef="lemlat:p3590" n="w22">privatasque</w>
           <w lemmaRef="lemlat:p2951" n="w23">praedantur</w>
           <w n="w24">facultates</w>
           <pc n="pc25">:</pc>
@@ -13027,7 +13027,7 @@
           <w n="w56">confictis</w>
           <w lemmaRef="lemlat:d0038" n="w57">damnatos</w>
           <w lemmaRef="lemlat:c4349" n="w58">criminibus</w>
-          <w n="w59">extremo</w>
+          <w lemmaRef="lemlat:e1844" n="w59">extremo</w>
           <w lemmaRef="lemlat:a1081" n="w60">afficiunt</w>
           <w lemmaRef="lemlat:s3772" n="w61">supplicio</w>
           <pc n="pc62">,</pc>
@@ -13060,7 +13060,7 @@
           <pc n="pc12">,</pc>
           <w lemmaRef="lemlat:e1167" n="w13">ex</w>
           <w n="w14">lautissima</w>
-          <w n="w15">plerumque</w>
+          <w lemmaRef="lemlat:p2337" n="w15">plerumque</w>
           <w n="w16">fortuna</w>
           <w n="w17">in</w>
           <w lemmaRef="lemlat:t0106" n="w18">tantam</w>
@@ -13091,7 +13091,7 @@
           <pc n="pc43">,</pc>
           <w n="w44">durissimas</w>
           <w lemmaRef="lemlat:s1426" n="w45">servitutis</w>
-          <w n="w46">subire</w>
+          <w lemmaRef="lemlat:s2844" n="w46">subire</w>
           <w n="w47">conditiones</w>
           <pc n="pc48">,</pc>
           <w n="w49">virgines</w>
@@ -13105,7 +13105,7 @@
           <w n="w57">indigna</w>
           <w n="w58">generis</w>
           <w n="w59">sui</w>
-          <w n="w60">inire</w>
+          <w lemmaRef="lemlat:i1421" n="w60">inire</w>
           <w lemmaRef="lemlat:c3862" n="w61">connubia</w>
           <pc n="pc62">,</pc>
           <w n="w63">partim</w>
@@ -13190,7 +13190,7 @@
           <w lemmaRef="lemlat:t0251" n="w64">templa</w>
           <w n="w65">sacraque</w>
           <w lemmaRef="lemlat:o0723" n="w66">omnia</w>
-          <w n="w67">armaverit</w>
+          <w lemmaRef="lemlat:a2888" n="w67">armaverit</w>
           <pc n="pc68">,</pc>
           <w lemmaRef="lemlat:i2780" n="w69">ipsas</w>
           <w n="w70">quoque</w>
@@ -13246,7 +13246,7 @@
           <w lemmaRef="lemlat:t0010" n="w21">tabernaculo</w>
           <w n="w22">Domini</w>
           <w n="w23">occidi</w>
-          <w n="w24">iussit</w>
+          <w lemmaRef="lemlat:i2980" n="w24">iussit</w>
           <w lemmaRef="lemlat:q9410" n="w25">quod</w>
           <w n="w26">Adoniae</w>
           <w lemmaRef="lemlat:a1076" n="w27">affectandae</w>
@@ -13270,7 +13270,7 @@
           <pc n="pc7">,</pc>
           <w lemmaRef="lemlat:n0764" n="w8">nihil</w>
           <w n="w9">illis</w>
-          <w n="w10">sanctum</w>
+          <w lemmaRef="lemlat:s0267" n="w10">sanctum</w>
           <pc n="pc11">,</pc>
           <w lemmaRef="lemlat:n0764" n="w12">nihil</w>
           <w n="w13">tutum</w>
@@ -13287,7 +13287,7 @@
           <pc n="pc24">.</pc>
         </s>
         <s n="s36">
-          <w n="w1">Ceterum</w>
+          <w lemmaRef="lemlat:c1312" n="w1">Ceterum</w>
           <w lemmaRef="lemlat:q0198" n="w2">quid</w>
           <w lemmaRef="lemlat:t1849" n="w3">tua</w>
           <pc n="pc4">,</pc>
@@ -13295,7 +13295,7 @@
           <pc n="pc6">,</pc>
           <w n="w7">si</w>
           <w n="w8">illos</w>
-          <w n="w9">volens</w>
+          <w lemmaRef="lemlat:u1167" n="w9">volens</w>
           <w lemmaRef="lemlat:p0566" n="w10">patitur</w>
           <w n="w11">populus</w>
           <pc n="pc12">?</pc>
@@ -13383,7 +13383,7 @@
           <pc n="pc6">,</pc>
           <w lemmaRef="lemlat:h0360" n="w7">hinc</w>
           <w lemmaRef="lemlat:t0106" n="w8">tanta</w>
-          <w n="w9">parendi</w>
+          <w lemmaRef="lemlat:p0391" n="w9">parendi</w>
           <w n="w10">impatientia</w>
           <pc n="pc11">,</pc>
           <w lemmaRef="lemlat:h0360" n="w12">hinc</w>
@@ -13405,7 +13405,7 @@
           <w lemmaRef="lemlat:e1010" n="w28">etiam</w>
           <w n="w29">agrestes</w>
           <w n="w30">in</w>
-          <w n="w31">tantum</w>
+          <w lemmaRef="lemlat:t0106" n="w31">tantum</w>
           <w lemmaRef="lemlat:u0244" n="w32">vellicat</w>
           <w lemmaRef="lemlat:u1318" n="w33">ut</w>
           <w lemmaRef="lemlat:55947" n="w34">Nursinorum</w>
@@ -13415,7 +13415,7 @@
           <w n="w38">Samarinensium</w>
           <w lemmaRef="lemlat:c1312" n="w39">ceterorumque</w>
           <w n="w40">alpestrium</w>
-          <w n="w41">nimium</w>
+          <w lemmaRef="lemlat:n0312" n="w41">nimium</w>
           <w lemmaRef="lemlat:i2780" n="w42">ipsius</w>
           <w lemmaRef="lemlat:s2659" n="w43">studium</w>
           <w lemmaRef="lemlat:r1455" n="w44">ridere</w>
@@ -13459,7 +13459,7 @@
           <w lemmaRef="lemlat:p0049" n="w13">paene</w>
           <w n="w14">Italiae</w>
           <w n="w15">populum</w>
-          <w n="w16">volentem</w>
+          <w lemmaRef="lemlat:u1167" n="w16">volentem</w>
           <w lemmaRef="lemlat:l0691" n="w17">lubentemque</w>
           <w lemmaRef="lemlat:t0901" n="w18">tyranno</w>
           <w lemmaRef="lemlat:s1419" n="w19">servire</w>
@@ -13511,7 +13511,7 @@
         </s>
         <s n="s44">
           <w n="w1">Inde</w>
-          <w n="w2">Mutii</w>
+          <w lemmaRef="lemlat:m1866" n="w2">Mutii</w>
           <w n="w3">patientia</w>
           <pc n="pc4">,</pc>
           <w n="w5">inde</w>
@@ -13529,7 +13529,7 @@
           <w n="w17">inde</w>
           <w lemmaRef="lemlat:p0550" n="w18">patrum</w>
           <w n="w19">Gallis</w>
-          <w n="w20">exhibitum</w>
+          <w lemmaRef="lemlat:e1468" n="w20">exhibitum</w>
           <w lemmaRef="lemlat:i3024" n="w21">iugulum</w>
           <pc n="pc22">,</pc>
           <w n="w23">inde</w>
@@ -13540,8 +13540,8 @@
           <w n="w28">parentum</w>
           <w n="w29">in</w>
           <w n="w30">liberos</w>
-          <w n="w31">capitalis</w>
-          <w n="w32">diraque</w>
+          <w lemmaRef="lemlat:c0507" n="w31">capitalis</w>
+          <w lemmaRef="lemlat:d1662" n="w32">diraque</w>
           <w lemmaRef="lemlat:a2030" n="w33">animadversio</w>
           <pc n="pc34">.</pc>
         </s>
@@ -13600,7 +13600,7 @@
           <w>civitatibus</w>
           <w lemmaRef="lemlat:p0865" n="w15">per</w>
           <w n="w16">Italiam</w>
-          <w n="w17">visere</w>
+          <w lemmaRef="lemlat:u0827" n="w17">visere</w>
           <w lemmaRef="lemlat:l0715" n="w18">licet</w>
           <pc n="pc19">,</pc>
           <w n="w20">quamvis</w>
@@ -13639,7 +13639,7 @@
           <w lemmaRef="lemlat:s0109" n="w22">sagacissimum</w>
           <w lemmaRef="lemlat:c0255" n="w23">callidissimumque</w>
           <pc n="pc24">,</pc>
-          <w n="w25">volentem</w>
+          <w lemmaRef="lemlat:u1167" n="w25">volentem</w>
           <w n="w26">liberis</w>
           <w n="w27">carere</w>
           <w lemmaRef="lemlat:s3379" n="w28">suffragiis</w>
@@ -13674,7 +13674,7 @@
           <w n="w11">in</w>
           <w n="w12">privatum</w>
           <w lemmaRef="lemlat:i1548" n="w13">inferri</w>
-          <w n="w14">aerarium</w>
+          <w lemmaRef="lemlat:a0970" n="w14">aerarium</w>
           <pc n="pc15">,</pc>
           <w lemmaRef="lemlat:n0445" n="w16">nobilissimas</w>
           <w n="w17">deleri</w>
@@ -13696,7 +13696,7 @@
           <w>exilium</w>
           <w lemmaRef="lemlat:c3044" n="w33">concives</w>
           <pc n="pc34">,</pc>
-          <w n="w35">divelli</w>
+          <w lemmaRef="lemlat:d2010" n="w35">divelli</w>
           <w n="w36">sua</w>
           <w lemmaRef="lemlat:u0816" n="w37">viscera</w>
           <w lemmaRef="lemlat:e0997" n="w38">et</w>
@@ -13740,7 +13740,7 @@
           <w lemmaRef="lemlat:h0360" n="w5">haec</w>
           <w n="w6">atque</w>
           <w n="w7">talia</w>
-          <w n="w8">innumera</w>
+          <w lemmaRef="lemlat:i1850" n="w8">innumera</w>
           <w n="w9">sanum</w>
           <w n="w10">populum</w>
           <w lemmaRef="lemlat:l0691" n="w11">lubenter</w>
@@ -13801,7 +13801,7 @@
           <w lemmaRef="lemlat:c1031" n="w35">cedere</w>
           <pc n="pc36">,</pc>
           <w lemmaRef="lemlat:c0178" n="w37">calcaribus</w>
-          <w n="w38">fodere</w>
+          <w lemmaRef="lemlat:f0758" n="w38">fodere</w>
           <w n="w39">latera</w>
           <w lemmaRef="lemlat:a3301" n="w40">ac</w>
           <w n="w41">in</w>
@@ -13818,7 +13818,7 @@
           <pc n="pc3">,</pc>
           <w lemmaRef="lemlat:u1318" n="w4">ut</w>
           <w n="w5">refert</w>
-          <w n="w6">Aristoteles</w>
+          <w lemmaRef="lemlat:8452" n="w6">Aristoteles</w>
           <pc n="pc7">,</pc>
           <w n="w8">Phidon</w>
           <w lemmaRef="lemlat:a2579" n="w9">apud</w>
@@ -13841,11 +13841,11 @@
           <w lemmaRef="lemlat:63739" n="w26">Pisistratus</w>
           <pc n="pc27">,</pc>
           <w lemmaRef="lemlat:e0997" n="w28">et</w>
-          <w n="w29">Dionisius</w>
+          <w lemmaRef="lemlat:25651" n="w29">Dionisius</w>
           <w lemmaRef="lemlat:a2579" n="w30">apud</w>
           <w n="w31">Syracusanos</w>
           <w lemmaRef="lemlat:t1871" n="w32">tyrannidem</w>
-          <w n="w33">occuparunt</w>
+          <w lemmaRef="lemlat:o0417" n="w33">occuparunt</w>
           <pc n="pc34">.</pc>
         </s>
         <s n="s53">
@@ -13909,12 +13909,12 @@
           <w lemmaRef="lemlat:37074" n="w1">Hanno</w>
           <w lemmaRef="lemlat:q9410" n="w2">quod</w>
           <w lemmaRef="lemlat:14822" n="w3">Carthaginensium</w>
-          <w n="w4">attemptasset</w>
+          <w lemmaRef="lemlat:a3338" n="w4">attemptasset</w>
           <w n="w5">libertatem</w>
           <w n="w6">diriorem</w>
           <w n="w7">in</w>
           <w n="w8">se</w>
-          <w n="w9">saeviendi</w>
+          <w lemmaRef="lemlat:s0095" n="w9">saeviendi</w>
           <w n="w10">civibus</w>
           <w n="w11">suis</w>
           <w lemmaRef="lemlat:p3327" n="w12">praestitit</w>
@@ -13946,7 +13946,7 @@
           <w n="w22">quis</w>
           <w lemmaRef="lemlat:a3606" n="w23">aut</w>
           <w n="w24">ad</w>
-          <w n="w25">imitandum</w>
+          <w lemmaRef="lemlat:i0336" n="w25">imitandum</w>
           <w n="w26">tam</w>
           <w n="w27">audax</w>
           <w lemmaRef="lemlat:f0047" n="w28">facinus</w>
@@ -14006,7 +14006,7 @@
           <w n="w40">paululum</w>
           <w n="w41">se</w>
           <w lemmaRef="lemlat:i0926" n="w42">incivilius</w>
-          <w n="w43">efferentes</w>
+          <w lemmaRef="lemlat:e0127" n="w43">efferentes</w>
           <w n="w44">e</w>
           <w lemmaRef="lemlat:u0509" n="w45">vestigio</w>
           <w lemmaRef="lemlat:d0862" n="w46">depressit</w>
@@ -14034,7 +14034,7 @@
           <w n="w7">maxime</w>
           <w lemmaRef="lemlat:16739" n="w8">Cinna</w>
           <pc n="pc9">,</pc>
-          <w n="w10">Marius</w>
+          <w lemmaRef="lemlat:50128" n="w10">Marius</w>
           <w lemmaRef="lemlat:a3301" n="w11">ac</w>
           <w n="w12">Sylla</w>
           <pc n="pc13">,</pc>
@@ -14083,7 +14083,7 @@
           <w lemmaRef="lemlat:h0360" n="w10">haec</w>
           <w n="w11">aetas</w>
           <w n="w12">multo</w>
-          <w n="w13">pluribus</w>
+          <w lemmaRef="lemlat:p2389" n="w13">pluribus</w>
           <w lemmaRef="lemlat:s3436" n="w14">sit</w>
           <w lemmaRef="lemlat:r1109" n="w15">referta</w>
           <pc n="pc16">?</pc>
@@ -14094,7 +14094,7 @@
           <w n="w3">tam</w>
           <w n="w4">latum</w>
           <w lemmaRef="lemlat:35491" n="w5">Genuensium</w>
-          <w n="w6">imminuit</w>
+          <w lemmaRef="lemlat:i0378" n="w6">imminuit</w>
           <w lemmaRef="lemlat:i0496" n="w7">imperium</w>
           <w lemmaRef="lemlat:a3606" n="w8">aut</w>
           <w lemmaRef="lemlat:i2780" n="w9">ipsam</w>
@@ -14113,9 +14113,9 @@
         <s n="s62">
           <w n="w1">Quis</w>
           <w lemmaRef="lemlat:63687" n="w2">Pisanorum</w>
-          <w n="w3">evertit</w>
+          <w lemmaRef="lemlat:e1072" n="w3">evertit</w>
           <w n="w4">opes</w>
-          <w n="w5">alius</w>
+          <w lemmaRef="lemlat:a1506" n="w5">alius</w>
           <w lemmaRef="lemlat:q9410" n="w6">quam</w>
           <w lemmaRef="lemlat:p2697" n="w7">potens</w>
           <w n="w8">Gambacurta</w>
@@ -14172,7 +14172,7 @@
           <w n="w6">Claravallensium</w>
           <w n="w7">Cathalanorumque</w>
           <w n="w8">familias</w>
-          <w n="w9">sublimius</w>
+          <w lemmaRef="lemlat:s2944" n="w9">sublimius</w>
           <w lemmaRef="lemlat:n9508" n="w10">non</w>
           <w n="w11">extulisset</w>
           <pc n="pc12">.</pc>
@@ -14195,7 +14195,7 @@
           <pc n="pc15">,</pc>
           <w lemmaRef="lemlat:i1850" n="w16">innumerae</w>
           <w n="w17">hominum</w>
-          <w n="w18">strages</w>
+          <w lemmaRef="lemlat:s2550" n="w18">strages</w>
           <w n="w19">multaeque</w>
           <w n="w20">moeniorum</w>
           <w lemmaRef="lemlat:s3894" n="w21">suorum</w>
@@ -14249,7 +14249,7 @@
           <w lemmaRef="lemlat:u0219" n="w21">vel</w>
           <w lemmaRef="lemlat:n0312" n="w22">nimiae</w>
           <w n="w23">indulgentiae</w>
-          <w n="w24">nimia</w>
+          <w lemmaRef="lemlat:n0312" n="w24">nimia</w>
           <w lemmaRef="lemlat:s1243" n="w25">sentiat</w>
           <w lemmaRef="lemlat:d1118" n="w26">detrimenta</w>
           <pc n="pc27">.</pc>
@@ -14262,10 +14262,10 @@
           <w n="w3">sextvm</w>
           <w n="w4">decimvm</w>
           <w n="w5">de</w>
-          <w n="w6">necessariis</w>
+          <w lemmaRef="lemlat:n0141" n="w6">necessariis</w>
           <w n="w7">cavsis</w>
           <w n="w8">bellis</w>
-          <w n="w9">svscepti</w>
+          <w lemmaRef="lemlat:s3844" n="w9">svscepti</w>
           <pc n="pc10">.</pc>
         </title>
         <s n="s2">
@@ -14309,7 +14309,7 @@
           <w lemmaRef="lemlat:e0997" n="w2">et</w>
           <w lemmaRef="lemlat:i1943" n="w3">insanum</w>
           <w lemmaRef="lemlat:u0692" n="w4">vinculis</w>
-          <w n="w5">colligatum</w>
+          <w lemmaRef="lemlat:c2425" n="w5">colligatum</w>
           <w n="w6">patientem</w>
           <w n="w7">medellae</w>
           <w lemmaRef="lemlat:p3327" n="w8">praestat</w>
@@ -14324,7 +14324,7 @@
           <w lemmaRef="lemlat:s0328" n="w17">sanare</w>
           <w n="w18">nequit</w>
           <w lemmaRef="lemlat:p5656" n="w19">priusquam</w>
-          <w n="w20">cetera</w>
+          <w lemmaRef="lemlat:c1312" n="w20">cetera</w>
           <w lemmaRef="lemlat:u0865" n="w21">vitiet</w>
           <w lemmaRef="lemlat:m0690" n="w22">membra</w>
           <w lemmaRef="lemlat:u0219" n="w23">vel</w>
@@ -14399,14 +14399,14 @@
           <pc n="pc42">:</pc>
           <w lemmaRef="lemlat:e0997" n="w43">Et</w>
           <w n="w44">si</w>
-          <w n="w45">videris</w>
-          <w n="w46">inquit</w>
+          <w lemmaRef="lemlat:u0626" n="w45">videris</w>
+          <w lemmaRef="lemlat:i1914" n="w46">inquit</w>
           <w lemmaRef="lemlat:i0553" n="w47">impium</w>
           <w lemmaRef="lemlat:n0149" n="w48">nec</w>
           <w lemmaRef="lemlat:c4112" n="w49">corripueris</w>
           <w n="w50">eum</w>
           <pc n="pc51">,</pc>
-          <w n="w52">impius</w>
+          <w lemmaRef="lemlat:i0553" n="w52">impius</w>
           <w lemmaRef="lemlat:q0201" n="w53">quidem</w>
           <w n="w54">in</w>
           <w n="w55">impietate</w>
@@ -14441,7 +14441,7 @@
         </s>
         <s n="s10">
           <w lemmaRef="lemlat:t1483" n="w1">Tu</w>
-          <w n="w2">siccarius</w>
+          <w lemmaRef="lemlat:s1561" n="w2">siccarius</w>
           <w n="w3">in</w>
           <w n="w4">cives</w>
           <pc n="pc5">,</pc>
@@ -14452,7 +14452,7 @@
           <pc n="pc10">,</pc>
           <w lemmaRef="lemlat:t1483" n="w11">tu</w>
           <w n="w12">in</w>
-          <w n="w13">socios</w>
+          <w lemmaRef="lemlat:s1844" n="w13">socios</w>
           <w n="w14">populator</w>
           <pc n="pc15">,</pc>
           <w lemmaRef="lemlat:t1483" n="w16">tu</w>
@@ -14461,13 +14461,13 @@
           <w lemmaRef="lemlat:h0511" n="w19">homicida</w>
           <pc n="pc20">,</pc>
           <w lemmaRef="lemlat:t1483" n="w21">tu</w>
-          <w n="w22">patriae</w>
+          <w lemmaRef="lemlat:p0588" n="w22">patriae</w>
           <w n="w23">libertatis</w>
           <w n="w24">occupator</w>
           <pc n="pc25">,</pc>
           <w lemmaRef="lemlat:t1483" n="w26">tu</w>
           <w n="w27">expilator</w>
-          <w n="w28">aerarii</w>
+          <w lemmaRef="lemlat:a0970" n="w28">aerarii</w>
           <pc n="pc29">,</pc>
           <w lemmaRef="lemlat:t1483" n="w30">tu</w>
           <w n="w31">bonorum</w>
@@ -14540,7 +14540,7 @@
           <w lemmaRef="lemlat:d2089" n="w27">documenti</w>
           <pc n="pc28">,</pc>
           <w n="w29">quo</w>
-          <w n="w30">suos</w>
+          <w lemmaRef="lemlat:s3894" n="w30">suos</w>
           <w lemmaRef="lemlat:a0684" n="w31">admonere</w>
           <w lemmaRef="lemlat:n9508" n="w32">non</w>
           <w lemmaRef="lemlat:d0978" n="w33">desinebant</w>
@@ -14601,7 +14601,7 @@
           <pc n="pc5">.</pc>
         </s>
         <s n="s15">
-          <w n="w1">Existimasti</w>
+          <w lemmaRef="lemlat:e1506" n="w1">Existimasti</w>
           <w n="w2">inique</w>
           <w lemmaRef="lemlat:q9410" n="w3">quod</w>
           <w n="w4">ero</w>
@@ -14622,12 +14622,12 @@
         <s n="s17">
           <w lemmaRef="lemlat:e0997" n="w1">Et</w>
           <w n="w2">ad</w>
-          <w n="w3">vicarium</w>
+          <w lemmaRef="lemlat:u0580" n="w3">vicarium</w>
           <w n="w4">suum</w>
-          <w n="w5">ait</w>
+          <w lemmaRef="lemlat:a1250" n="w5">ait</w>
           <pc n="pc6">:</pc>
           <w lemmaRef="lemlat:e0035" n="w7">Ecce</w>
-          <w n="w8">constitui</w>
+          <w lemmaRef="lemlat:c3616" n="w8">constitui</w>
           <w n="w9">te</w>
           <w lemmaRef="lemlat:h0478" n="w10">hodie</w>
           <w n="w11">super</w>
@@ -14666,10 +14666,10 @@
           <pc n="pc14">,</pc>
           <w lemmaRef="lemlat:a1483" n="w15">alterum</w>
           <w n="w16">quem</w>
-          <w n="w17">ministri</w>
+          <w lemmaRef="lemlat:m1034" n="w17">ministri</w>
           <w n="w18">iussu</w>
           <w lemmaRef="lemlat:i2780" n="w19">ipsius</w>
-          <w n="w20">tantum</w>
+          <w lemmaRef="lemlat:t0106" n="w20">tantum</w>
           <w lemmaRef="lemlat:e0106" n="w21">educerent</w>
           <w n="w22">in</w>
           <w lemmaRef="lemlat:u0708" n="w23">vindictam</w>
@@ -14681,7 +14681,7 @@
           <w n="w2">vero</w>
           <w n="w3">bonorum</w>
           <w n="w4">edicto</w>
-          <w n="w5">proposito</w>
+          <w lemmaRef="lemlat:p4008" n="w5">proposito</w>
           <w n="w6">anima</w>
           <w n="w7">quae</w>
           <w lemmaRef="lemlat:n9508" n="w8">non</w>
@@ -14736,7 +14736,7 @@
           <w n="w8">multisque</w>
           <w n="w9">Turcis</w>
           <w n="w10">tecum</w>
-          <w n="w11">conglobatis</w>
+          <w lemmaRef="lemlat:c3374" n="w11">conglobatis</w>
           <w n="w12">penetralia</w>
           <w n="w13">pontificis</w>
           <w n="w14">oppugnes</w>
@@ -14746,7 +14746,7 @@
           <w n="w18">illum</w>
           <w lemmaRef="lemlat:e1854" n="w19">externis</w>
           <w n="w20">arma</w>
-          <w n="w21">inferre</w>
+          <w lemmaRef="lemlat:i1548" n="w21">inferre</w>
           <pc n="pc22">.</pc>
         </s>
         <s n="s4">
@@ -14754,7 +14754,7 @@
           <w n="w2">os</w>
           <pc n="pc3">,</pc>
           <w n="w4">Turcorum</w>
-          <w n="w5">socius</w>
+          <w lemmaRef="lemlat:s1844" n="w5">socius</w>
           <pc n="pc6">,</pc>
           <w n="w7">in</w>
           <w n="w8">Turcos</w>
@@ -14765,7 +14765,7 @@
           <w lemmaRef="lemlat:e1589" n="w13">expeditionem</w>
           <w lemmaRef="lemlat:q9410" n="w14">quam</w>
           <w lemmaRef="lemlat:s1187" n="w15">semper</w>
-          <w n="w16">perturbasti</w>
+          <w lemmaRef="lemlat:p1695" n="w16">perturbasti</w>
           <w lemmaRef="lemlat:n0670" n="w17">nunc</w>
           <w n="w18">demum</w>
           <w lemmaRef="lemlat:m0186" n="w19">maligne</w>
@@ -14785,7 +14785,7 @@
           <w n="w33">pariter</w>
           <w lemmaRef="lemlat:a1204" n="w34">agnoscaris</w>
           <w lemmaRef="lemlat:e0997" n="w35">et</w>
-          <w n="w36">sociorum</w>
+          <w lemmaRef="lemlat:s1844" n="w36">sociorum</w>
           <w n="w37">proditor</w>
           <w lemmaRef="lemlat:e0997" n="w38">et</w>
           <w n="w39">rei</w>
@@ -14872,8 +14872,8 @@
           <w n="w2">animo</w>
           <w lemmaRef="lemlat:e0997" n="w3">et</w>
           <w lemmaRef="lemlat:p2788" n="w4">prae</w>
-          <w n="w5">nimia</w>
-          <w n="w6">indignatione</w>
+          <w lemmaRef="lemlat:n0312" n="w5">nimia</w>
+          <w lemmaRef="lemlat:i1275" n="w6">indignatione</w>
           <w n="w7">totus</w>
           <w n="w8">corde</w>
           <w lemmaRef="lemlat:d1684" n="w9">disrumpor</w>
@@ -14922,13 +14922,13 @@
           <w n="w1">Ultimi</w>
           <w lemmaRef="lemlat:38019" n="w2">Hiberi</w>
           <w lemmaRef="lemlat:e0997" n="w3">et</w>
-          <w n="w4">extremi</w>
+          <w lemmaRef="lemlat:e1844" n="w4">extremi</w>
           <w n="w5">Zimbri</w>
           <pc n="pc6">,</pc>
           <w n="w7">totoque</w>
           <w n="w8">orbe</w>
           <w n="w9">penitus</w>
-          <w n="w10">divisi</w>
+          <w lemmaRef="lemlat:d2029" n="w10">divisi</w>
           <w n="w11">Britanni</w>
           <w lemmaRef="lemlat:e0997" n="w12">et</w>
           <w lemmaRef="lemlat:74177" n="w13">Scoti</w>
@@ -15000,7 +15000,7 @@
           <w n="w24">dolum</w>
           <w lemmaRef="lemlat:e0997" n="w25">et</w>
           <w n="w26">fraudem</w>
-          <w n="w27">intervertere</w>
+          <w lemmaRef="lemlat:i2536" n="w27">intervertere</w>
           <w lemmaRef="lemlat:n9508" n="w28">non</w>
           <w lemmaRef="lemlat:e0929" n="w29">erubuerunt</w>
           <pc n="pc30">.</pc>
@@ -15012,7 +15012,7 @@
           <pc n="pc4">,</pc>
           <w lemmaRef="lemlat:m0022" n="w5">machinas</w>
           <pc n="pc6">,</pc>
-          <w n="w7">ceterumque</w>
+          <w lemmaRef="lemlat:c1312" n="w7">ceterumque</w>
           <w n="w8">bellicum</w>
           <w n="w9">apparatum</w>
           <w lemmaRef="lemlat:c2013" n="w10">clam</w>
@@ -15035,14 +15035,14 @@
           <w lemmaRef="lemlat:e0997" n="w10">et</w>
           <w lemmaRef="lemlat:73171" n="w11">Saracenos</w>
           <w n="w12">auctoribus</w>
-          <w n="w13">Summis</w>
+          <w lemmaRef="lemlat:s3451" n="w13">Summis</w>
           <w lemmaRef="lemlat:p2566" n="w14">Pontificibus</w>
           <w n="w15">gestum</w>
           <w n="w16">est</w>
           <pc n="pc17">,</pc>
-          <w n="w18">tantumque</w>
-          <w n="w19">cessatum</w>
-          <w n="w20">quantum</w>
+          <w lemmaRef="lemlat:t0106" n="w18">tantumque</w>
+          <w lemmaRef="lemlat:c1303" n="w19">cessatum</w>
+          <w lemmaRef="lemlat:q0135" n="w20">quantum</w>
           <w lemmaRef="lemlat:p0865" n="w21">per</w>
           <w lemmaRef="lemlat:s0618" n="w22">schisma</w>
           <w lemmaRef="lemlat:n9508" n="w23">non</w>
@@ -15108,7 +15108,7 @@
           <w lemmaRef="lemlat:t0084" n="w25">tamen</w>
           <w lemmaRef="lemlat:h0360" n="w26">hanc</w>
           <w lemmaRef="lemlat:e1589" n="w27">expeditionem</w>
-          <w n="w28">detractarunt</w>
+          <w lemmaRef="lemlat:d1115" n="w28">detractarunt</w>
           <w lemmaRef="lemlat:q0320" n="w29">quotiens</w>
           <w n="w30">illam</w>
           <w n="w31">Sedis</w>
@@ -15135,7 +15135,7 @@
           <w n="w14">ad</w>
           <w lemmaRef="lemlat:s3451" n="w15">summum</w>
           <w lemmaRef="lemlat:t0324" n="w16">ter</w>
-          <w n="w17">tanto</w>
+          <w lemmaRef="lemlat:t0106" n="w17">tanto</w>
           <w n="w18">in</w>
           <w n="w19">numero</w>
           <w n="w20">arma</w>
@@ -15177,7 +15177,7 @@
           <w lemmaRef="lemlat:n9508" n="w6">non</w>
           <w n="w7">tam</w>
           <w lemmaRef="lemlat:o0291" n="w8">obfuissent</w>
-          <w n="w9">quantum</w>
+          <w lemmaRef="lemlat:q0135" n="w9">quantum</w>
           <w lemmaRef="lemlat:n9508" n="w10">non</w>
           <w lemmaRef="lemlat:p4150" n="w11">profuerunt</w>
           <pc n="pc12">.</pc>
@@ -15291,7 +15291,7 @@
           <w n="w17">ad</w>
           <w n="w18">radices</w>
           <w n="w19">montis</w>
-          <w n="w20">Emi</w>
+          <w lemmaRef="lemlat:e0479" n="w20">Emi</w>
           <w n="w21">affectus</w>
           <w lemmaRef="lemlat:u1318" n="w22">ut</w>
           <w n="w23">amplius</w>
@@ -15384,7 +15384,7 @@
           <w n="w23">Turcorum</w>
           <w lemmaRef="lemlat:i0480" n="w24">imperatorem</w>
           <w n="w25">castris</w>
-          <w n="w26">exutum</w>
+          <w lemmaRef="lemlat:e1917" n="w26">exutum</w>
           <w n="w27">adeo</w>
           <w lemmaRef="lemlat:p3771" n="w28">profligaverunt</w>
           <pc n="pc29">,</pc>
@@ -15407,7 +15407,7 @@
           <w n="w46">se</w>
           <w n="w47">ad</w>
           <w n="w48">Andrinopolim</w>
-          <w n="w49">delatum</w>
+          <w lemmaRef="lemlat:d0362" n="w49">delatum</w>
           <w n="w50">esse</w>
           <w lemmaRef="lemlat:c2322" n="w51">cognoverit</w>
           <pc n="pc52">.</pc>
@@ -15540,12 +15540,12 @@
           <w lemmaRef="lemlat:u1318" n="w8">ut</w>
           <w n="w9">primum</w>
           <w lemmaRef="lemlat:c0885" n="w10">cathedram</w>
-          <w n="w11">attigit</w>
+          <w lemmaRef="lemlat:a3362" n="w11">attigit</w>
           <w n="w12">Petri</w>
           <w n="w13">animum</w>
           <w n="w14">in</w>
           <w n="w15">Turcum</w>
-          <w n="w16">intendit</w>
+          <w lemmaRef="lemlat:i2245" n="w16">intendit</w>
           <w lemmaRef="lemlat:49867" n="w17">Mantuamque</w>
           <w n="w18">profectus</w>
           <w lemmaRef="lemlat:c4623" n="w19">cunctos</w>
@@ -15595,7 +15595,7 @@
           <w n="w11">quibus</w>
           <w n="w12">male</w>
           <w lemmaRef="lemlat:l0691" n="w13">libentibus</w>
-          <w n="w14">baptizatis</w>
+          <w lemmaRef="lemlat:b0112" n="w14">baptizatis</w>
           <w lemmaRef="lemlat:r0645" n="w15">rex</w>
           <w n="w16">Bosnae</w>
           <w n="w17">homines</w>
@@ -15623,7 +15623,7 @@
           <w n="w39">Stephano</w>
           <w n="w40">capto</w>
           <w lemmaRef="lemlat:e0997" n="w41">et</w>
-          <w n="w42">trucidato</w>
+          <w lemmaRef="lemlat:t1452" n="w42">trucidato</w>
           <pc n="pc43">,</pc>
           <w n="w44">regno</w>
           <w lemmaRef="lemlat:a3607" n="w45">autem</w>
@@ -15711,7 +15711,7 @@
           <w n="w27">Pannones</w>
           <w lemmaRef="lemlat:d1030" n="w28">destinat</w>
           <w n="w29">ad</w>
-          <w n="w30">excitandum</w>
+          <w lemmaRef="lemlat:e1322" n="w30">excitandum</w>
           <w lemmaRef="lemlat:i2682" n="w31">invictissimum</w>
           <w lemmaRef="lemlat:r0645" n="w32">Regem</w>
           <w n="w33">Ungarorum</w>
@@ -15720,7 +15720,7 @@
           <w lemmaRef="lemlat:39896" n="w36">Illyricorum</w>
           <w lemmaRef="lemlat:r0351" n="w37">reliquiis</w>
           <w n="w38">opem</w>
-          <w n="w39">ferre</w>
+          <w lemmaRef="lemlat:f0382" n="w39">ferre</w>
           <w lemmaRef="lemlat:p2466" n="w40">pollicentibus</w>
           <w n="w41">ad</w>
           <w n="w42">id</w>
@@ -15750,7 +15750,7 @@
           <w n="w15">Mysia</w>
           <w lemmaRef="lemlat:r1080" n="w16">redeuntem</w>
           <pc n="pc17">,</pc>
-          <w n="w18">paucis</w>
+          <w lemmaRef="lemlat:p0605" n="w18">paucis</w>
           <w n="w19">mandata</w>
           <w lemmaRef="lemlat:e1653" n="w20">expono</w>
           <pc n="pc21">.</pc>
@@ -15759,7 +15759,7 @@
           <w n="w1">Neque</w>
           <w lemmaRef="lemlat:e0594" n="w2">enim</w>
           <w n="w3">cupidissimus</w>
-          <w n="w4">parendi</w>
+          <w lemmaRef="lemlat:p0391" n="w4">parendi</w>
           <w n="w5">animus</w>
           <w n="w6">multis</w>
           <w n="w7">se</w>
@@ -15846,10 +15846,10 @@
           <w n="w24">suo</w>
           <w lemmaRef="lemlat:a3301" n="w25">ac</w>
           <w n="w26">a</w>
-          <w n="w27">volentibus</w>
+          <w lemmaRef="lemlat:u1167" n="w27">volentibus</w>
           <w n="w28">populis</w>
           <w n="w29">in</w>
-          <w n="w30">tanti</w>
+          <w lemmaRef="lemlat:t0106" n="w30">tanti</w>
           <w n="w31">bellis</w>
           <w n="w32">sumptus</w>
           <w lemmaRef="lemlat:n9508" n="w33">non</w>
@@ -15946,7 +15946,7 @@
           <w lemmaRef="lemlat:e1167" n="w2">ex</w>
           <w lemmaRef="lemlat:o0723" n="w3">omnibus</w>
           <w n="w4">nationibus</w>
-          <w n="w5">innumera</w>
+          <w lemmaRef="lemlat:i1850" n="w5">innumera</w>
           <w n="w6">armatorum</w>
           <w lemmaRef="lemlat:m1684" n="w7">multitudo</w>
           <w lemmaRef="lemlat:e0997" n="w8">et</w>
@@ -15993,7 +15993,7 @@
           <w n="w24">in</w>
           <w n="w25">se</w>
           <w n="w26">laudem</w>
-          <w n="w27">transmovere</w>
+          <w lemmaRef="lemlat:t1063" n="w27">transmovere</w>
           <w lemmaRef="lemlat:p2697" n="w28">possent</w>
           <w n="w29">ne</w>
           <w n="w30">soli</w>
@@ -16032,7 +16032,7 @@
           <w n="w63">sacerdotibus</w>
           <w n="w64">ecclesiisque</w>
           <w lemmaRef="lemlat:c4093" n="w65">corrasas</w>
-          <w n="w66">annuit</w>
+          <w lemmaRef="lemlat:a0721" n="w66">annuit</w>
           <w lemmaRef="lemlat:p2566" n="w67">pontifex</w>
           <w lemmaRef="lemlat:u0219" n="w68">vel</w>
           <w lemmaRef="lemlat:i2715" n="w69">invitus</w>
@@ -16264,7 +16264,7 @@
           <w lemmaRef="lemlat:e0997" n="w8">et</w>
           <w n="w9">Venetis</w>
           <w lemmaRef="lemlat:s3753" n="w10">suppetias</w>
-          <w n="w11">ferre</w>
+          <w lemmaRef="lemlat:f0382" n="w11">ferre</w>
           <w lemmaRef="lemlat:i2980" n="w12">iubet</w>
           <pc n="pc13">,</pc>
           <w n="w14">in</w>
@@ -16287,7 +16287,7 @@
           <w lemmaRef="lemlat:s0946" n="w31">segnitie</w>
           <w lemmaRef="lemlat:a3606" n="w32">aut</w>
           <w lemmaRef="lemlat:a3395" n="w33">avaritia</w>
-          <w n="w34">ferre</w>
+          <w lemmaRef="lemlat:f0382" n="w34">ferre</w>
           <w n="w35">opem</w>
           <w lemmaRef="lemlat:l0030" n="w36">laborantibus</w>
           <w lemmaRef="lemlat:p4049" n="w37">prorsus</w>
@@ -16366,7 +16366,7 @@
           <w n="w60">illo</w>
           <w lemmaRef="lemlat:t1061" n="w61">transmittere</w>
           <w n="w62">ad</w>
-          <w n="w63">pellendum</w>
+          <w lemmaRef="lemlat:p0769" n="w63">pellendum</w>
           <w n="w64">urbe</w>
           <w lemmaRef="lemlat:t0901" n="w65">tyrannum</w>
           <pc n="pc66">,</pc>
@@ -16395,7 +16395,7 @@
           <w n="w89">Pontifici</w>
           <w n="w90">curas</w>
           <w lemmaRef="lemlat:s0076" n="w91">saepius</w>
-          <w n="w92">instauraverit</w>
+          <w lemmaRef="lemlat:i2115" n="w92">instauraverit</w>
           <pc n="pc93">.</pc>
         </s>
         <s n="s6">
@@ -16412,7 +16412,7 @@
           <w lemmaRef="lemlat:t0901" n="w11">tyrannum</w>
           <w lemmaRef="lemlat:e0997" n="w12">et</w>
           <w lemmaRef="lemlat:86549" n="w13">Tusca</w>
-          <w n="w14">edoctum</w>
+          <w lemmaRef="lemlat:e0097" n="w14">edoctum</w>
           <w n="w15">fraude</w>
           <w n="w16">adeo</w>
           <w lemmaRef="lemlat:i2151" n="w17">instruit</w>
@@ -16429,13 +16429,13 @@
           <w lemmaRef="lemlat:p0441" n="w28">partem</w>
           <w lemmaRef="lemlat:d2269" n="w29">ducatus</w>
           <w lemmaRef="lemlat:e0037" n="w30">Ecclesiae</w>
-          <w n="w31">praeoccupasset</w>
+          <w lemmaRef="lemlat:p3178" n="w31">praeoccupasset</w>
           <pc n="pc32">.</pc>
         </s>
         <s n="s7">
           <w n="w1">Sed</w>
           <w n="w2">Deo</w>
-          <w n="w3">vicario</w>
+          <w lemmaRef="lemlat:u0580" n="w3">vicario</w>
           <w n="w4">suo</w>
           <w lemmaRef="lemlat:o0843" n="w5">opitulante</w>
           <w n="w6">in</w>
@@ -16459,7 +16459,7 @@
           <w lemmaRef="lemlat:a1363" n="w24">alienam</w>
           <w lemmaRef="lemlat:f0433" n="w25">festinat</w>
           <w lemmaRef="lemlat:o0417" n="w26">occupare</w>
-          <w n="w27">patriam</w>
+          <w lemmaRef="lemlat:p0588" n="w27">patriam</w>
           <w lemmaRef="lemlat:p1032" n="w28">perdidit</w>
           <w n="w29">suam</w>
           <pc n="pc30">.</pc>
@@ -16475,7 +16475,7 @@
           <w n="w8">ad</w>
           <w>bellum</w>
           <w n="w9">Turcorum</w>
-          <w n="w10">intendit</w>
+          <w lemmaRef="lemlat:i2245" n="w10">intendit</w>
           <w n="w11">animum</w>
           <pc n="pc12">.</pc>
         </s>
@@ -16490,7 +16490,7 @@
           <w lemmaRef="lemlat:n9508" n="w8">non</w>
           <w lemmaRef="lemlat:d0978" n="w9">desinit</w>
           <w lemmaRef="lemlat:u1318" n="w10">ut</w>
-          <w n="w11">collatione</w>
+          <w lemmaRef="lemlat:c2383" n="w11">collatione</w>
           <w n="w12">pecuniarum</w>
           <w n="w13">facta</w>
           <pc n="pc14">,</pc>
@@ -16510,7 +16510,7 @@
           <w n="w28">Turcorum</w>
           <w lemmaRef="lemlat:i1768" n="w29">inimicum</w>
           <w lemmaRef="lemlat:e0997" n="w30">et</w>
-          <w n="w31">praecipuum</w>
+          <w lemmaRef="lemlat:p2849" n="w31">praecipuum</w>
           <w lemmaRef="lemlat:16431" n="w32">Christianae</w>
           <w n="w33">religionis</w>
           <w n="w34">defensorem</w>
@@ -16593,7 +16593,7 @@
           <w lemmaRef="lemlat:m1190" n="w4">modum</w>
           <w n="w5">patris</w>
           <w n="w6">sollicitudo</w>
-          <w n="w7">descendere</w>
+          <w lemmaRef="lemlat:d0930" n="w7">descendere</w>
           <w lemmaRef="lemlat:t0084" n="w8">tamen</w>
           <w n="w9">in</w>
           <w lemmaRef="lemlat:o0723" n="w10">omnes</w>
@@ -16601,8 +16601,8 @@
           <w lemmaRef="lemlat:n9508" n="w12">non</w>
           <w lemmaRef="lemlat:d0978" n="w13">desinit</w>
           <pc n="pc14">,</pc>
-          <w n="w15">rogando</w>
-          <w n="w16">obsecrandoque</w>
+          <w lemmaRef="lemlat:r1472" n="w15">rogando</w>
+          <w lemmaRef="lemlat:o0205" n="w16">obsecrandoque</w>
           <w lemmaRef="lemlat:u1318" n="w17">ut</w>
           <w lemmaRef="lemlat:q0127" n="w18">quando</w>
           <w n="w19">adeo</w>
@@ -16732,7 +16732,7 @@
           <w n="w5">id</w>
           <w lemmaRef="lemlat:i2912" n="w6">eos</w>
           <w lemmaRef="lemlat:n9508" n="w7">non</w>
-          <w n="w8">serio</w>
+          <w lemmaRef="lemlat:s1375" n="w8">serio</w>
           <w lemmaRef="lemlat:f0057" n="w9">factitare</w>
           <pc n="pc10">,</pc>
           <w lemmaRef="lemlat:p5011" n="w11">propterea</w>
@@ -16801,7 +16801,7 @@
           <w lemmaRef="lemlat:p3975" n="w5">prophetam</w>
           <w n="w6">ad</w>
           <w lemmaRef="lemlat:h0958" n="w7">huiusmodi</w>
-          <w n="w8">ait</w>
+          <w lemmaRef="lemlat:a1250" n="w8">ait</w>
           <pc n="pc9">:</pc>
           <w lemmaRef="lemlat:u0025" n="w10">Vae</w>
           <w n="w11">qui</w>
@@ -16867,7 +16867,7 @@
           <w n="w3">Optimus</w>
           <w n="w4">Maximusque</w>
           <w n="w5">id</w>
-          <w n="w6">faxit</w>
+          <w lemmaRef="lemlat:f0048" n="w6">faxit</w>
           <w lemmaRef="lemlat:u1318" n="w7">ut</w>
           <w lemmaRef="lemlat:a9206" n="w8">aliquando</w>
           <w lemmaRef="lemlat:d1451" n="w9">diiudicetur</w>
@@ -16891,13 +16891,13 @@
           <w lemmaRef="lemlat:t0885" n="w27">tot</w>
           <w n="w28">oppida</w>
           <w lemmaRef="lemlat:e0037" n="w29">ecclesiae</w>
-          <w n="w30">occupaverint</w>
+          <w lemmaRef="lemlat:o0417" n="w30">occupaverint</w>
           <pc n="pc31">,</pc>
           <w n="w32">dignitatem</w>
           <w n="w33">Sedis</w>
           <w n="w34">Apostolicae</w>
           <w lemmaRef="lemlat:t0888" n="w35">totiens</w>
-          <w n="w36">violaverint</w>
+          <w lemmaRef="lemlat:u0744" n="w36">violaverint</w>
           <w lemmaRef="lemlat:e0997" n="w37">et</w>
           <w n="w38">libertatem</w>
           <w lemmaRef="lemlat:e0038" n="w39">ecclesiasticam</w>
@@ -16932,7 +16932,7 @@
           <w lemmaRef="lemlat:c0500" n="w68">cepisse</w>
           <w n="w69">iudicium</w>
           <w lemmaRef="lemlat:q9410" n="w70">quam</w>
-          <w n="w71">provocasse</w>
+          <w lemmaRef="lemlat:p4232" n="w71">provocasse</w>
           <pc n="pc72">.</pc>
         </s>
       </p>
@@ -16948,7 +16948,7 @@
           <pc n="pc8">.</pc>
         </title>
         <s n="s2">
-          <w n="w1">Ceterum</w>
+          <w lemmaRef="lemlat:c1312" n="w1">Ceterum</w>
           <w n="w2">de</w>
           <w lemmaRef="lemlat:h0360" n="w3">hoc</w>
           <w n="w4">ipsi</w>
@@ -16973,7 +16973,7 @@
           <pc n="pc15">,</pc>
           <w lemmaRef="lemlat:e0997" n="w16">et</w>
           <w lemmaRef="lemlat:l0715" n="w17">licet</w>
-          <w n="w18">exiguis</w>
+          <w lemmaRef="lemlat:e1489" n="w18">exiguis</w>
           <w lemmaRef="lemlat:p9926" n="w19">proventibus</w>
           <w n="w20">maxima</w>
           <w lemmaRef="lemlat:t0084" n="w21">tamen</w>
@@ -17055,7 +17055,7 @@
           <w n="w2">Mysia</w>
           <w n="w3">cuius</w>
           <w n="w4">dominum</w>
-          <w n="w5">profugum</w>
+          <w lemmaRef="lemlat:p3781" n="w5">profugum</w>
           <w lemmaRef="lemlat:e0997" n="w6">et</w>
           <w n="w7">a</w>
           <w n="w8">Turcis</w>
@@ -17074,7 +17074,7 @@
           <w n="w21">Foro</w>
           <w n="w22">Iulii</w>
           <w lemmaRef="lemlat:p2562" n="w23">positos</w>
-          <w n="w24">fovere</w>
+          <w lemmaRef="lemlat:f0913" n="w24">fovere</w>
           <w lemmaRef="lemlat:n9508" n="w25">non</w>
           <w lemmaRef="lemlat:c1303" n="w26">cessat</w>
           <pc n="pc27">.</pc>
@@ -17117,17 +17117,17 @@
           <w lemmaRef="lemlat:p3385" n="w1">Praetermitto</w>
           <w lemmaRef="lemlat:m0123" n="w2">magnificentissimas</w>
           <w lemmaRef="lemlat:a2579" n="w3">apud</w>
-          <w n="w4">Sanctum</w>
-          <w n="w5">Spiritum</w>
+          <w lemmaRef="lemlat:s0267" n="w4">Sanctum</w>
+          <w lemmaRef="lemlat:s2214" n="w5">Spiritum</w>
           <w lemmaRef="lemlat:h0622" n="w6">hospitalitatis</w>
-          <w n="w7">aedes</w>
+          <w lemmaRef="lemlat:a0842" n="w7">aedes</w>
           <w lemmaRef="lemlat:e0997" n="w8">et</w>
           <w n="w9">ad</w>
           <w n="w10">victum</w>
           <w n="w11">pupillorum</w>
           <w lemmaRef="lemlat:t0885" n="w12">tot</w>
           <w n="w13">donata</w>
-          <w n="w14">praedia</w>
+          <w lemmaRef="lemlat:p2944" n="w14">praedia</w>
           <pc n="pc15">.</pc>
         </s>
         <s n="s12">
@@ -17192,7 +17192,7 @@
           <w n="w7">nobilitatis</w>
           <w lemmaRef="lemlat:a3606" n="w8">aut</w>
           <w n="w9">pulsus</w>
-          <w n="w10">patria</w>
+          <w lemmaRef="lemlat:p0588" n="w10">patria</w>
           <w lemmaRef="lemlat:a3606" n="w11">aut</w>
           <w n="w12">hostium</w>
           <w n="w13">manus</w>
@@ -17319,10 +17319,10 @@
           <w lemmaRef="lemlat:f0037" n="w1">Facessat</w>
           <w lemmaRef="lemlat:o0205" n="w2">obsecro</w>
           <w lemmaRef="lemlat:p0621" n="w3">paulisper</w>
-          <w n="w4">proprius</w>
+          <w lemmaRef="lemlat:p4025" n="w4">proprius</w>
           <w n="w5">amor</w>
           <w lemmaRef="lemlat:e0997" n="w6">et</w>
-          <w n="w7">nimia</w>
+          <w lemmaRef="lemlat:n0312" n="w7">nimia</w>
           <w n="w8">sui</w>
           <w n="w9">indulgentia</w>
           <w lemmaRef="lemlat:p0486" n="w10">parumper</w>
@@ -17346,7 +17346,7 @@
           <w lemmaRef="lemlat:e0997" n="w14">et</w>
           <w n="w15">si</w>
           <w n="w16">me</w>
-          <w n="w17">mentitum</w>
+          <w lemmaRef="lemlat:m0760" n="w17">mentitum</w>
           <w lemmaRef="lemlat:d0856" n="w18">deprehenderit</w>
           <w lemmaRef="lemlat:m1431" n="w19">mortiferis</w>
           <w lemmaRef="lemlat:a2498" n="w20">appetat</w>
@@ -17378,7 +17378,7 @@
           <w n="w5">scriptis</w>
           <w n="w6">magnam</w>
           <w lemmaRef="lemlat:e0218" n="w7">mihi</w>
-          <w n="w8">conflasse</w>
+          <w lemmaRef="lemlat:c3282" n="w8">conflasse</w>
           <w n="w9">invidiam</w>
           <w n="w10">maioribusque</w>
           <w n="w11">me</w>
@@ -17411,7 +17411,7 @@
           <pc n="pc22">,</pc>
           <w lemmaRef="lemlat:n0776" n="w23">nulla</w>
           <w lemmaRef="lemlat:p1215" n="w24">pericula</w>
-          <w n="w25">fugiens</w>
+          <w lemmaRef="lemlat:f1096" n="w25">fugiens</w>
           <w lemmaRef="lemlat:u1318" n="w26">ut</w>
           <w lemmaRef="lemlat:p0605" n="w27">paucae</w>
           <w lemmaRef="lemlat:s3436" n="w28">sint</w>
@@ -17440,12 +17440,12 @@
           <w lemmaRef="lemlat:71628" n="w51">Romanae</w>
           <w lemmaRef="lemlat:e0037" n="w52">Ecclesiae</w>
           <w lemmaRef="lemlat:l0691" n="w53">libens</w>
-          <w n="w54">volensque</w>
+          <w lemmaRef="lemlat:u1167" n="w54">volensque</w>
           <w lemmaRef="lemlat:p1106" n="w55">pertuli</w>
           <w lemmaRef="lemlat:e0997" n="w56">et</w>
           <w lemmaRef="lemlat:q0297" n="w57">quoad</w>
           <w n="w58">vixero</w>
-          <w n="w59">perferre</w>
+          <w lemmaRef="lemlat:p1106" n="w59">perferre</w>
           <w lemmaRef="lemlat:n9508" n="w60">non</w>
           <w lemmaRef="lemlat:r1063" n="w61">recusabo</w>
           <pc n="pc62">.</pc>
@@ -17463,13 +17463,13 @@
           <w n="w10">me</w>
           <w lemmaRef="lemlat:h0360" n="w11">haec</w>
           <w n="w12">cuncta</w>
-          <w n="w13">dictasse</w>
+          <w lemmaRef="lemlat:d1365" n="w13">dictasse</w>
           <w lemmaRef="lemlat:n9508" n="w14">non</w>
           <w n="w15">adeo</w>
           <w n="w16">in</w>
           <w lemmaRef="lemlat:q9203" n="w17">cuiuspiam</w>
           <w n="w18">gratiam</w>
-          <w n="w19">quantum</w>
+          <w lemmaRef="lemlat:q0135" n="w19">quantum</w>
           <w lemmaRef="lemlat:u1318" n="w20">ut</w>
           <w lemmaRef="lemlat:i0120" n="w21">ignaros</w>
           <w lemmaRef="lemlat:e0038" n="w22">ecclesiasticae</w>
@@ -17500,11 +17500,11 @@
           <w n="w47">animos</w>
           <w n="w48">ad</w>
           <w lemmaRef="lemlat:c2832" n="w49">compescendam</w>
-          <w n="w50">temerariorum</w>
+          <w lemmaRef="lemlat:t0221" n="w50">temerariorum</w>
           <w lemmaRef="lemlat:a3433" n="w51">audaciam</w>
           <w lemmaRef="lemlat:e0997" n="w52">et</w>
           <w n="w53">ad</w>
-          <w n="w54">tuendam</w>
+          <w lemmaRef="lemlat:t1712" n="w54">tuendam</w>
           <w n="w55">totis</w>
           <w lemmaRef="lemlat:u0804" n="w56">viribus</w>
           <w n="w57">Sedis</w>
@@ -17537,7 +17537,7 @@
           <w lemmaRef="lemlat:e1167" n="w22">ex</w>
           <w n="w23">parte</w>
           <w lemmaRef="lemlat:d1581" n="w24">diligenter</w>
-          <w n="w25">consulere</w>
+          <w lemmaRef="lemlat:c3652" n="w25">consulere</w>
           <pc n="pc26">.</pc>
         </s>
         <s n="s28">
@@ -17602,7 +17602,7 @@
           <w lemmaRef="lemlat:n0149" n="w7">nec</w>
           <w n="w8">in</w>
           <w lemmaRef="lemlat:c1712" n="w9">circumciso</w>
-          <w n="w10">requies</w>
+          <w lemmaRef="lemlat:r0493" n="w10">requies</w>
           <w lemmaRef="lemlat:n9508" n="w11">non</w>
           <w lemmaRef="lemlat:p0367" n="w12">parcat</w>
           <w n="w13">illi</w>
@@ -17639,7 +17639,7 @@
           <w n="w22">pastor</w>
           <w lemmaRef="lemlat:e0997" n="w23">et</w>
           <w lemmaRef="lemlat:u1136" n="w24">unum</w>
-          <w n="w25">ovile</w>
+          <w lemmaRef="lemlat:o1160" n="w25">ovile</w>
           <w lemmaRef="lemlat:h0544" n="w26">honorificeturque</w>
           <w n="w27">Deus</w>
           <w n="w28">in</w>
