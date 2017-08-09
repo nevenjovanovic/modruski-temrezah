@@ -9697,22 +9697,22 @@
   </w>
   <w ana="multilem">
     <orig>aeneum</orig>
-    <interpGrp cert="16.7">
+    <interpGrp cert="100">
       <interp n="lemlat:a2286" type="N2/1" ana="aeneus"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:a2271" type="N2" ana="aeneum"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2770" type="N1" ana="aeneas"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2771" type="N1" ana="aeneas"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2786" type="N2" ana="aeneus"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2775" type="N2/1" ana="aenei"/>
     </interpGrp>
   </w>
@@ -9724,19 +9724,19 @@
   </w>
   <w ana="multilem">
     <orig>aequis</orig>
-    <interpGrp cert="20">
+    <interpGrp cert="100">
       <interp n="lemlat:a0867" type="N2/1" ana="aequus/-os"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:a0868" type="N2" ana="aequum"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:2941" type="N2" ana="aequum"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:2946" type="N2/1" ana="aequus"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:2865" type="N2/1" ana="aequi"/>
     </interpGrp>
   </w>
@@ -9796,41 +9796,41 @@
   </w>
   <w ana="multilem">
     <orig>aere</orig>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2960" type="N1" ana="aere"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="100">
       <interp n="lemlat:a0965" type="N3B" ana="aer"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:a1001" type="N2" ana="aerus"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:a1004" type="N3B" ana="aes"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2960" type="N1" ana="aere"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2948" type="N3B" ana="aer"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>aereis</orig>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:a0974" type="N2" ana="aereus"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="100">
       <interp n="lemlat:a0974" type="N2/1" ana="a'ereus"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:a0974" type="N2" ana="aereum"/>
     </interpGrp>
-    <interpGrp cert="20" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:a0981" type="N2/1" ana="a&quot;ereus"/>
       <interp n="lemlat:a0981" type="N2/1" ana="aerius"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:2961" type="N1" ana="aerea"/>
     </interpGrp>
   </w>
@@ -9881,10 +9881,10 @@
   </w>
   <w ana="multilem">
     <orig>aeternum</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1043" type="N2/1" ana="aeternus"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:3134" type="N2/1" ana="aeternus"/>
     </interpGrp>
   </w>
