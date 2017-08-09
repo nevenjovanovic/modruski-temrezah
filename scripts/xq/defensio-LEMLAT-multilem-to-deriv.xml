@@ -1,0 +1,9 @@
+copy $doc := let $path := replace(file:parent(static-base-uri()), '/scripts/xq/', '/vocabulary/')
+let $p := $path || "defensio-LEMLAT-TEI-manual.xml"
+let $f := fetch:xml($p)
+return $f
+modify ( for $int in $doc//*:w[@ana="multilem"]
+let $ids := distinct-values($int/*:interpGrp/*:interp/@n)
+where count($ids)=1
+return replace value of node $int/@ana with "deriv" )
+return $doc
