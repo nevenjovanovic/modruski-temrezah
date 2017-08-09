@@ -9436,28 +9436,28 @@
   </w>
   <w ana="multilem">
     <orig>adultera</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a0812" type="N2/1" ana="adulter"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a0812" type="N1" ana="adultera"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a0820" type="V1" ana="adultero/-or"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>adulteris</orig>
-    <interpGrp cert="25">
+    <interpGrp cert="100">
       <interp n="lemlat:a0812" type="N2" ana="adulter"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:a0812" type="N2/1" ana="adulter"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:a0812" type="N1" ana="adultera"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:a0819" type="N2" ana="adulterium"/>
     </interpGrp>
   </w>
@@ -9505,27 +9505,27 @@
   </w>
   <w ana="multilem">
     <orig>aduerso</orig>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:a0792" type="V1" ana="aduerso"/>
     </interpGrp>
-    <interpGrp cert="25" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:a0796" type="N1/2" ana="aduersus"/>
       <interp n="lemlat:a0796" type="V3" ana="aduerto"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:a2240" type="N2" ana="aduersus"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="100">
       <interp n="lemlat:a2245" type="N2" ana="aduersum"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>aduersos</orig>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:a0796" type="N1/2" ana="aduersus"/>
       <interp n="lemlat:a0796" type="V3" ana="aduerto"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a2240" type="N2" ana="aduersus"/>
     </interpGrp>
   </w>
@@ -9601,10 +9601,10 @@
   </w>
   <w ana="multilem">
     <orig>aedifices</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a0844" type="N3B" ana="aedifex"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a0852" type="V1" ana="aedifico"/>
     </interpGrp>
   </w>
@@ -9658,40 +9658,40 @@
   </w>
   <w ana="multilem">
     <orig>aenea</orig>
-    <interpGrp cert="16.7">
+    <interpGrp cert="100">
       <interp n="lemlat:a2286" type="N2/1" ana="aeneus"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:a2271" type="N2" ana="aeneum"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2765" type="N1" ana="aenea"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2770" type="N1" ana="aeneas"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2771" type="N1" ana="aeneas"/>
     </interpGrp>
-    <interpGrp cert="16.7">
+    <interpGrp cert="0">
       <interp n="lemlat:2775" type="N2/1" ana="aenei"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>aeneae</orig>
-    <interpGrp cert="20">
+    <interpGrp cert="100">
       <interp n="lemlat:a2286" type="N2/1" ana="aeneus"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:2765" type="N1" ana="aenea"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:2770" type="N1" ana="aeneas"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:2771" type="N1" ana="aeneas"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:2775" type="N2/1" ana="aenei"/>
     </interpGrp>
   </w>
