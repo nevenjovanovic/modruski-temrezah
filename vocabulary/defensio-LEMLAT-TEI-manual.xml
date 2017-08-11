@@ -158,10 +158,10 @@
   </w>
   <w ana="multilem">
     <orig>africa</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:3338" type="N1" ana="africa"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:3347" type="N2/1" ana="africus"/>
     </interpGrp>
   </w>
@@ -176,34 +176,34 @@
   </w>
   <w ana="multilem">
     <orig>africani</orig>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:3342" type="N2" ana="africanus"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:3340" type="N2/1" ana="africanius"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="100">
       <interp n="lemlat:3341" type="N2/1" ana="africanus"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:3339" type="N2/1" ana="africani"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>agrigentini</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:3729" type="N2/1" ana="agrigentinus"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:3728" type="N2/1" ana="agrigentini"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>agrigentinos</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:3729" type="N2/1" ana="agrigentinus"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:3728" type="N2/1" ana="agrigentini"/>
     </interpGrp>
   </w>
@@ -215,10 +215,10 @@
   </w>
   <w ana="multilem">
     <orig>ais</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1250" type="VA" ana="aio"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:7031" type="N3B" ana="ais"/>
     </interpGrp>
   </w>
@@ -9932,10 +9932,10 @@
   </w>
   <w ana="multilem">
     <orig>affecto</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a1076" type="V1" ana="affecto/-or"/>
     </interpGrp>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="100" ana="deriv">
       <interp n="lemlat:a1081" type="N1/2" ana="affectus"/>
       <interp n="lemlat:a1081" type="V5" ana="afficio"/>
     </interpGrp>
@@ -9996,10 +9996,10 @@
   </w>
   <w ana="multilem">
     <orig>afflictas</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a1101" type="V1" ana="afflicto"/>
     </interpGrp>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="100" ana="deriv">
       <interp n="lemlat:a1104" type="N1/2" ana="afflictus"/>
       <interp n="lemlat:a1104" type="V3" ana="affligo"/>
     </interpGrp>
@@ -10064,19 +10064,19 @@
   </w>
   <w ana="multilem">
     <orig>ager</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="55">
       <interp n="lemlat:a1137" type="N2" ana="ager"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="45">
       <interp n="lemlat:3475" type="N2" ana="ager"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>agere</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a8138" type="V3" ana="agero"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1208" type="V3" ana="ago"/>
     </interpGrp>
   </w>
@@ -10135,64 +10135,64 @@
   </w>
   <w ana="multilem">
     <orig>agnus</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="55">
       <interp n="lemlat:a1207" type="N2" ana="agnus"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="45">
       <interp n="lemlat:3643" type="N2" ana="agnus"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>agraria</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1226" type="N1" ana="agraria"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1225" type="N3A" ana="agraris"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a1226" type="N2/1" ana="agrarius"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>agrestes</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a1230" type="N3A" ana="agrestis"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:3700" type="N3B" ana="agrestis"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>agrisque</orig>
-    <interpGrp cert="14.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a1137" type="N2" ana="ager"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1242" type="N2/1" ana="agrius/-ios"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:3678" type="N1" ana="agra"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:3679" type="N1" ana="agrae"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:3694" type="N1" ana="agre"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:3475" type="N2" ana="ager"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:3762" type="N2/1" ana="agrius"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>agro</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1137" type="N2" ana="ager"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:3475" type="N2" ana="ager"/>
     </interpGrp>
   </w>
@@ -10216,13 +10216,13 @@
   </w>
   <w ana="multilem">
     <orig>agrum</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a1137" type="N2" ana="ager"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:3694" type="N1" ana="agre"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:3475" type="N2" ana="ager"/>
     </interpGrp>
   </w>
