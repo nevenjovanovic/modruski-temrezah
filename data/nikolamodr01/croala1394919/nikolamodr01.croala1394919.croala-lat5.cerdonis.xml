@@ -127,7 +127,7 @@
                                 Označeni krajevi redaka. Segmentirano u riječi. </change>
                 </revisionDesc>
         </teiHeader>
-        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat5.cerdonis"
+        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat5.cerdonis:"
                 xml:lang="lat" type="prosa-oratio">
                 <body n="body">
                         <head n="head">

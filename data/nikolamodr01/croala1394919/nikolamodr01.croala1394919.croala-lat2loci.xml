@@ -105,7 +105,7 @@
         <date>2012-02-15</date>Novo, unificirano zaglavlje.</change>
     </revisionDesc>
   </teiHeader>
-  <text type="prosa-oratio" xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat2loci" xml:lang="lat">
+  <text type="prosa-oratio" xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat2loci:" xml:lang="lat">
     <body n="body1">
       <head n="head1">
         <s n="s1">

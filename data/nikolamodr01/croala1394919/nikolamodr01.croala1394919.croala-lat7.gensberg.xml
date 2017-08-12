@@ -133,7 +133,7 @@
                                 krajevi redaka. Segmentirano u riječi. </change>
                 </revisionDesc>
         </teiHeader>
-        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat7.gensberg"
+        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat7.gensberg:"
                 xml:lang="lat" type="prosa-oratio">
                 <body n="body">
                         <pb n="1r"/>

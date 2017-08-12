@@ -103,7 +103,7 @@
         <date>2017-07-25</date> Početna verzija izdanja s interpretacijom (sadržaj).</change>
     </revisionDesc>
   </teiHeader>
-  <text type="prosa-oratio" xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat2w.interp" xml:lang="lat">
+  <text type="prosa-oratio" xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat2w.interp:" xml:lang="lat">
     <body n="body1">
       <head n="head1">
         <s n="s1">
