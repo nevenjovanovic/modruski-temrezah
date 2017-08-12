@@ -224,13 +224,13 @@
   </w>
   <w ana="multilem">
     <orig>alanis</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="90">
       <interp n="lemlat:3899" type="N2" ana="alanus"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="5">
       <interp n="lemlat:3898" type="N2/1" ana="alanus"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="5">
       <interp n="lemlat:3894" type="N2/1" ana="alani"/>
     </interpGrp>
   </w>
@@ -260,22 +260,22 @@
   </w>
   <w ana="multilem">
     <orig>alexandriam</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:4191" type="N1" ana="alexandria"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:4196" type="N2/1" ana="alexandrius"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>alexandro</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:4186" type="N2" ana="alexander"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:4187" type="N2" ana="alexander"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:4198" type="N2/1" ana="alexandrus"/>
     </interpGrp>
   </w>
@@ -299,26 +299,26 @@
   </w>
   <w ana="multilem">
     <orig>alto</orig>
-    <interpGrp cert="33.3" ana="deriv">
+    <interpGrp cert="100" ana="deriv">
       <interp n="lemlat:a1457" type="N1/2" ana="altus"/>
       <interp n="lemlat:a1457" type="V3" ana="alo"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1527" type="V1" ana="alto"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a8929" type="N2" ana="altum"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>ambrosii</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a2370" type="N2/1" ana="ambrosius"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:5028" type="N2" ana="ambrosius"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5027" type="N2/1" ana="ambrosius"/>
     </interpGrp>
   </w>
@@ -10244,10 +10244,10 @@
   </w>
   <w ana="multilem">
     <orig>alapas</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1265" type="N1" ana="alapa"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a1267" type="V1" ana="alapor/-o"/>
     </interpGrp>
   </w>
@@ -10272,14 +10272,14 @@
   </w>
   <w ana="multilem">
     <orig>aliae</orig>
-    <interpGrp cert="33.3" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:a1324" type="N1" ana="alia"/>
       <interp n="lemlat:a1324" type="N1" ana="alea"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a1506" type="PR" ana="alius"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:4236" type="N1" ana="alia"/>
     </interpGrp>
   </w>
@@ -10332,10 +10332,10 @@
   </w>
   <w ana="multilem">
     <orig>alienas</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a1362" type="V1" ana="alieno"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1363" type="N2/1" ana="alienus"/>
     </interpGrp>
   </w>
@@ -10402,13 +10402,13 @@
   </w>
   <w ana="multilem">
     <orig>alio</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a1506" type="PR" ana="alius"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1506" type="PR" ana="alius"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1382" type="N2" ana="alium"/>
     </interpGrp>
   </w>
@@ -10421,10 +10421,10 @@
   </w>
   <w ana="multilem">
     <orig>aliorumque</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1506" type="PR" ana="alius"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a1382" type="N2" ana="alium"/>
     </interpGrp>
   </w>
@@ -10448,19 +10448,19 @@
   </w>
   <w ana="multilem">
     <orig>aliqui</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="40">
       <interp n="lemlat:a9201" type="PR" ana="aliqui"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="60">
       <interp n="lemlat:a9220" type="PR" ana="aliquis"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>aliquibus</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="40">
       <interp n="lemlat:a9201" type="PR" ana="aliqui"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="60">
       <interp n="lemlat:a9220" type="PR" ana="aliquis"/>
     </interpGrp>
   </w>
@@ -10472,10 +10472,10 @@
   </w>
   <w ana="multilem">
     <orig>aliquos</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a9201" type="PR" ana="aliqui"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a9220" type="PR" ana="aliquis"/>
     </interpGrp>
   </w>
@@ -10555,10 +10555,10 @@
   </w>
   <w ana="multilem">
     <orig>altero</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1483" type="PR" ana="alter"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a1495" type="V1" ana="altero"/>
     </interpGrp>
   </w>
@@ -10583,28 +10583,28 @@
   </w>
   <w ana="multilem">
     <orig>alumno</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a1554" type="N2" ana="alumnus"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1554" type="N2/1" ana="alumnus"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:4707" type="N2" ana="alumnus"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>amaram</orig>
-    <interpGrp cert="25">
+    <interpGrp cert="100">
       <interp n="lemlat:a1589" type="N2/1" ana="amarus"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:4810" type="N1" ana="amara"/>
     </interpGrp>
-    <interpGrp cert="25">
+    <interpGrp cert="0">
       <interp n="lemlat:4811" type="N1" ana="amara"/>
     </interpGrp>
-    <interpGrp cert="25" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:a1705" type="VP" ana="amaui"/>
       <interp n="lemlat:a1705" type="V1" ana="amo"/>
     </interpGrp>
@@ -10638,75 +10638,75 @@
   </w>
   <w ana="multilem">
     <orig>amicis</orig>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1679" type="V4" ana="amicio"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a1687" type="N2" ana="amicus"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a0808" type="N1" ana="amica"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a0783" type="N2/1" ana="amicus"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5147" type="N2" ana="amicos"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5158" type="N2" ana="amicus"/>
     </interpGrp>
-    <interpGrp cert="14.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5144" type="N2/1" ana="amicius"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>amicissimo</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5139" type="N2" ana="amicissimus"/>
     </interpGrp>
-    <interpGrp cert="33.3" ana="deriv">
+    <interpGrp cert="100" ana="deriv">
       <interp n="lemlat:a0783" type="N2/1" ana="amicissimus"/>
       <interp n="lemlat:a0783" type="N2/1" ana="amicus"/>
     </interpGrp>
-    <interpGrp cert="33.3" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:5144" type="N2/1" ana="amicissimus"/>
       <interp n="lemlat:5144" type="N2/1" ana="amicius"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>amicos</orig>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:5147" type="N2" ana="amicos"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="100">
       <interp n="lemlat:a1687" type="N2" ana="amicus"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:a0783" type="N2/1" ana="amicus"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:5147" type="N2" ana="amicos"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:5158" type="N2" ana="amicus"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>amicum</orig>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:a1687" type="N2" ana="amicus"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:a0808" type="N1" ana="amica"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="100">
       <interp n="lemlat:a0783" type="N2/1" ana="amicus"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:5147" type="N2" ana="amicos"/>
     </interpGrp>
-    <interpGrp cert="20">
+    <interpGrp cert="0">
       <interp n="lemlat:5158" type="N2" ana="amicus"/>
     </interpGrp>
   </w>
