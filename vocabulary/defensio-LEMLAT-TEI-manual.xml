@@ -336,13 +336,13 @@
   </w>
   <w ana="multilem">
     <orig>anastasium</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1886" type="N3B" ana="anastasis"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:5724" type="N2" ana="anastasius"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5723" type="N2/1" ana="anastasius"/>
     </interpGrp>
   </w>
@@ -367,31 +367,31 @@
   </w>
   <w ana="multilem">
     <orig>ancona</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a1926" type="N3B" ana="ancon"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:5859" type="N1" ana="ancona"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>anconitanae</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:5862" type="N2/1" ana="anconitanus"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:5861" type="N2/1" ana="anconitani"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>andreas</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:5929" type="N1" ana="andreas"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5928" type="N1" ana="andrea"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5929" type="N1" ana="andreas"/>
     </interpGrp>
   </w>
@@ -442,21 +442,21 @@
   </w>
   <w ana="multilem">
     <orig>annatarum</orig>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:a1183" type="N1/2" ana="annatus"/>
       <interp n="lemlat:a1183" type="V3" ana="agnascor"/>
     </interpGrp>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:a0709" type="N1/2" ana="adnatus"/>
       <interp n="lemlat:a0709" type="V1" ana="adno"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>annii</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:6236" type="N2" ana="annius"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:6235" type="N2/1" ana="annius"/>
     </interpGrp>
   </w>
@@ -10747,22 +10747,22 @@
   </w>
   <w ana="multilem">
     <orig>amnem</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a1704" type="N3B" ana="amnis"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:5255" type="N3B" ana="amnes"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>amor</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a1716" type="N3B" ana="amor"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:5303" type="N3B" ana="amor"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1705" type="V1" ana="amo"/>
     </interpGrp>
   </w>
@@ -10801,22 +10801,22 @@
   </w>
   <w ana="multilem">
     <orig>amplioris</orig>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="100" ana="deriv">
       <interp n="lemlat:a1778" type="N3A" ana="amplior"/>
       <interp n="lemlat:a1778" type="N2/1" ana="amplus"/>
     </interpGrp>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:5473" type="N3A" ana="amplior"/>
       <interp n="lemlat:5473" type="N2/1" ana="amplus"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>amplissimis</orig>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="100" ana="deriv">
       <interp n="lemlat:a1778" type="N2/1" ana="amplissimus"/>
       <interp n="lemlat:a1778" type="N2/1" ana="amplus"/>
     </interpGrp>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="0" ana="deriv">
       <interp n="lemlat:5473" type="N2/1" ana="amplissimus"/>
       <interp n="lemlat:5473" type="N2/1" ana="amplus"/>
     </interpGrp>
@@ -10846,13 +10846,13 @@
   </w>
   <w ana="multilem">
     <orig>anathemate</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a9977" type="N3B" ana="anathe&quot;ma"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a9978" type="N3B" ana="anathe'ma"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a1896" type="V1" ana="anathemo"/>
     </interpGrp>
   </w>
@@ -10882,10 +10882,10 @@
   </w>
   <w ana="multilem">
     <orig>angulum</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a2004" type="N2" ana="angulus"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:6090" type="N2" ana="angulus"/>
     </interpGrp>
   </w>
@@ -10949,22 +10949,22 @@
   </w>
   <w ana="multilem">
     <orig>animas</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a2028" type="N1" ana="anima"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a2041" type="V1" ana="animo"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:6147" type="N1" ana="anima"/>
     </interpGrp>
   </w>
   <w ana="multilem">
     <orig>animatus</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:a2055" type="N4" ana="animatus"/>
     </interpGrp>
-    <interpGrp cert="50" ana="deriv">
+    <interpGrp cert="100" ana="deriv">
       <interp n="lemlat:a2041" type="N1/2" ana="animatus"/>
       <interp n="lemlat:a2041" type="V1" ana="animo"/>
     </interpGrp>
@@ -11007,10 +11007,10 @@
   </w>
   <w ana="multilem">
     <orig>animorum</orig>
-    <interpGrp cert="50">
+    <interpGrp cert="100">
       <interp n="lemlat:a2046" type="N2" ana="animus"/>
     </interpGrp>
-    <interpGrp cert="50">
+    <interpGrp cert="0">
       <interp n="lemlat:6179" type="N2" ana="animus"/>
     </interpGrp>
   </w>
@@ -11090,13 +11090,13 @@
   </w>
   <w ana="multilem">
     <orig>annona</orig>
-    <interpGrp cert="33.3">
+    <interpGrp cert="100">
       <interp n="lemlat:a2063" type="N1" ana="annona"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:a2065" type="V1" ana="annono/-or"/>
     </interpGrp>
-    <interpGrp cert="33.3">
+    <interpGrp cert="0">
       <interp n="lemlat:6252" type="N1" ana="annona"/>
     </interpGrp>
   </w>
