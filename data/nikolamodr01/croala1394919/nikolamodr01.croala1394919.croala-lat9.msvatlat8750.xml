@@ -3676,34 +3676,25 @@
                                 <w>quod</w>
                                 <pc>,</pc>
                                 <w>cum</w>
-                                <w>accepisset</w>
+                                <lb/><w>accepisset</w>
                                 <w>omnibus</w>
                                 <w>ornamentis</w>
-                                <sic resp="#viaf6913774"><w>calicibus</w>
-                                <w>libris</w>
-                                <w>uasis</w>
-                                <w>sacris</w></sic>
                                 <w>spoliatum</w>
                                 <pc>,</pc>
                                 <w>tam</w>
                                 <w>praeclara</w>
                                 <w>instruxit</w>
-                                <w>suppellectili</w>
+                                <lb/><w>suppellectili</w>
                                 <w>ut</w>
                                 <pc>,</pc>
                                 <w>quod</w>
                                 <w>prius</w>
-                                <sic resp="#viaf6913774"><w>et</w>
-                                <w>non</w>
-                                <w>longis</w>
-                                <w>ante</w>
-                                <w>temporibus</w></sic>
-                                <w>caeteris</w>
+                                <supplied resp="#viaf6913774"><w>caeteris</w></supplied>
                                 <w>illius</w>
                                 <w>urbis</w>
                                 <w>obscurius</w>
                                 <w>esse</w>
-                                <w>consueuerat</w>
+                                <w>con<lb/>sueuerat</w>
                                 <pc>,</pc>
                                 <w>nunc</w>
                                 <w>splendore</w>
@@ -3711,7 +3702,7 @@
                                 <w>omnifario</w>
                                 <w>apparatu</w>
                                 <w>uincat</w>
-                                <w>uniuersa</w>
+                                <lb/><w>uniuersa</w>
                                 <pc>.</pc>
                                 <w>Testatur</w>
                                 <w>Papie</w>
@@ -3723,7 +3714,7 @@
                                 <w>quo</w>
                                 <w>ne</w>
                                 <w>unum</w>
-                                <w>quidem</w>
+                                <lb/><w>quidem</w>
                                 <w>uasculum</w>
                                 <w>in</w>
                                 <w>sacrificium</w>
@@ -3734,7 +3725,7 @@
                                 <w>prorsus</w>
                                 <w>nullos</w>
                                 <pc>,</pc>
-                                <w>adeo</w>
+                                <lb/><w>adeo</w>
                                 <w>ut</w>
                                 <pc>,</pc>
                                 <w>quotiens</w>
@@ -3742,29 +3733,23 @@
                                 <w>res</w>
                                 <w>patranda</w>
                                 <w>erat</w>
-                                <sic resp="#viaf6913774"><w>ac</w>
-                                <w>summo</w>
-                                <w>et</w>
-                                <w>immortali</w>
-                                <w>deo</w>
-                                <w>sacrificandum</w></sic>
                                 <pc>,</pc>
                                 <w>opus</w>
                                 <w>esset</w>
                                 <w>ab</w>
-                                <w>aliis</w>
+                                <lb/><w>aliis</w>
                                 <w>sacris</w>
                                 <w>aedibus</w>
-                                <w>omnia</w>
+                                <supplied resp="#viaf6913774"><w>omnia</w></supplied>
                                 <w>mutuari</w>
                                 <pc>;</pc>
                                 <w>nunc</w>
                                 <w>tanta</w>
-                                <sic resp="#viaf6913774"><w>tum</w></sic>
+                                <w>cum</w>
                                 <w>omnium</w>
                                 <pc>,</pc>
                                 <w>tum</w>
-                                <w>praecipue</w>
+                                <lb/><w>praecipue</w>
                                 <sic resp="#viaf6913774"><w>librorum</w></sic>
                                 <pc>,</pc>
                                 <w>calicum</w>
@@ -3775,7 +3760,7 @@
                                 <sic resp="#viaf6913774">
                                         <w>habundat</w>
                                 </sic>
-                                <w>ut</w>
+                                <lb/><w>ut</w>
                                 <w>aliae</w>
                                 <w>ecclesiae</w>
                                 <w>mutuum</w>
@@ -3785,10 +3770,10 @@
                                 <w>solebant</w>
                                 <pc>,</pc>
                                 <w>ab</w>
-                                <w>hac</w>
-                                <w>una</w>
-                                <w>omnes</w>
-                                <sic resp="#viaf6913774"><w>mutuo</w></sic>
+                                <sic resp="#viaf6913774"><w>una</w>
+                                        <w>hac</w>
+                                </sic>
+                                <lb/><w>omnes</w>
                                 <w>accipiant</w>
                                 <pc>.</pc>
                                 <w>Huius</w>
@@ -3799,7 +3784,7 @@
                                 <w>distracta</w>
                                 <w>praedia</w>
                                 <w>multis</w>
-                                <w>laboribus</w>
+                                <lb/><w>laboribus</w>
                                 <pc>,</pc>
                                 <w>sed</w>
                                 <w>multo</w>
@@ -3809,7 +3794,7 @@
                                 <w>recuperauit</w>
                                 <w>et</w>
                                 <w>intra</w>
-                                <w>biennium</w>
+                                <lb/><w>biennium</w>
                                 <w>plus</w>
                                 <w>quam</w>
                                 <w>decem</w>
@@ -3818,9 +3803,7 @@
                                 <w>pro</w>
                                 <w>exaugendis</w>
                                 <w>rebus</w>
-                                <supplied resp="#viaf6913774">
-                                        <w>eius</w>
-                                </supplied>
+                                <lb/><w>eius</w>
                                 <w>exposuit</w>
                                 <pc>.</pc>
                                 <w>Haec</w>
@@ -3829,15 +3812,18 @@
                                 <w>apostolorum</w>
                                 <w>aedes</w>
                                 <w>beneficentiam</w>
-                                <w>eius</w>
+                                <lb/><w>eius</w>
                                 <w>testari</w>
                                 <w>potuisset</w>
+                                <sic resp="#viaf6913774">
+                                        <w>et</w>
+                                </sic>
                                 <w>si</w>
                                 <w>tantum</w>
                                 <w>quatuor</w>
                                 <w>mensibus</w>
                                 <w>superstitem</w>
-                                <w>uidisset</w>
+                                <lb/><w>uidisset</w>
                                 <pc>.</pc>
                                 <w>Iam</w>
                                 <w>enim</w>
@@ -3847,7 +3833,7 @@
                                 <w>et</w>
                                 <w>prouentibus</w>
                                 <w>hac</w>
-                                <w>proxima</w>
+                                <lb/><w>proxima</w>
                                 <w>aestate</w>
                                 <w>ita</w>
                                 <w>eam</w>
@@ -3855,15 +3841,15 @@
                                 <w>ut</w>
                                 <w>quinquaginta</w>
                                 <w>fratribus</w>
-                                <w>et</w>
+                                <lb/><w>et</w>
                                 <w>commodae</w>
                                 <w>mansiones</w>
                                 <w>et</w>
-                                <sic resp="#viaf6913774"><w>necessarios</w></sic>
+                                <w>necessarium</w>
                                 <w>uictus</w>
                                 <w>perpetuo</w>
                                 <w>suppetere</w>
-                                <w>posset</w>
+                                <lb/><w>posset</w>
                                 <pc>.</pc>
                                 <w>Insuper</w>
                                 <w>et</w>
@@ -3872,7 +3858,7 @@
                                 <w>proximis</w>
                                 <w>diebus</w>
                                 <w>adiecturus</w>
-                                <w>erat</w>
+                                <lb/><w>erat</w>
                                 <w>praestantissimis</w>
                                 <w>omnium</w>
                                 <w>scientiarum</w>
@@ -3880,9 +3866,9 @@
                                 <w>egregie</w>
                                 <w>refertam</w>
                                 <pc>.</pc>
-                                <w>Sed</w>
+                                <lb/><w>Sed</w>
                                 <w>dei</w>
-                                <w>uoluntate</w>
+                                <expan resp="#viaf6913774"><w>uolunptate</w></expan>
                                 <w>nobis</w>
                                 <w>tam</w>
                                 <w>repente</w>
@@ -3890,7 +3876,7 @@
                                 <w>est</w>
                                 <pc>,</pc>
                                 <w>non</w>
-                                <w>quod</w>
+                                <lb/><w>quod</w>
                                 <w>tam</w>
                                 <w>piis</w>
                                 <w>operibus</w>
@@ -3902,7 +3888,7 @@
                                 <pc>(</pc>
                                 <w>quod</w>
                                 <w>ualde</w>
-                                <w>pertimesco</w>
+                                <lb/><w>pertimesco</w>
                                 <pc>)</pc>
                                 <w>ut</w>
                                 <w>eum</w>
@@ -3912,16 +3898,16 @@
                                 <w>forsan</w>
                                 <w>in</w>
                                 <w>nostra</w>
-                                <w>crimina</w>
+                                <w>cri<lb/>mina</w>
                                 <w>desaeuire</w>
                                 <w>decreuit</w>
                                 <pc>,</pc>
-                                <sic resp="#viaf6913774"><w>interitum</w></sic>
+                                <sic resp="#viaf6913774"><w>inmeritum</w></sic>
                                 <w>subtraheret</w>
                                 <pc>,</pc>
                                 <w>et</w>
                                 <w>pro</w>
-                                <w>adimpleto</w>
+                                <w>ad<lb/>impleto</w>
                                 <w>bene</w>
                                 <w>ministerio</w>
                                 <pc>,</pc>
@@ -3930,7 +3916,7 @@
                                 <w>eum</w>
                                 <w>procreauerat</w>
                                 <pc>,</pc>
-                                <w>congruis</w>
+                                <w>con<lb/>gruis</w>
                                 <w>praemiis</w>
                                 <w>afficere</w>
                                 <w>non</w>
@@ -3938,7 +3924,7 @@
                                 <pc>.</pc>
                                 <w>Cuius</w>
                                 <w>miserationis</w>
-                                <w>dilectionisque</w>
+                                <w>dilectionis<lb/>que</w>
                                 <w>certa</w>
                                 <w>indicia</w>
                                 <w>in</w>
@@ -3951,7 +3937,7 @@
                                 <w>cum</w>
                                 <w>multis</w>
                                 <w>ante</w>
-                                <w>diebus</w>
+                                <lb/><w>diebus</w>
                                 <w>aduentare</w>
                                 <w>praesentiret</w>
                                 <pc>,</pc>
@@ -3959,7 +3945,7 @@
                                 <w>tamen</w>
                                 <w>expectauit</w>
                                 <pc>.</pc>
-                                <w>Languoris</w>
+                                <lb/><w>Languoris</w>
                                 <w>dolores</w>
                                 <w>mira</w>
                                 <w>patientia</w>
@@ -3967,7 +3953,7 @@
                                 <pc>.</pc>
                                 <w>Delicta</w>
                                 <pc>,</pc>
-                                <w>quae</w>
+                                <lb/><w>quae</w>
                                 <w>uel</w>
                                 <w>aetatis</w>
                                 <w>uel</w>
@@ -3976,13 +3962,13 @@
                                 <w>pro</w>
                                 <w>fragilitate</w>
                                 <w>humana</w>
-                                <w>contraxerat</w>
+                                <pb n="9r"/><lb/><w>contraxerat</w>
                                 <pc>,</pc>
                                 <w>pia</w>
                                 <w>confessione</w>
                                 <w>saepius</w>
                                 <w>diligentiusque</w>
-                                <w>purgauit</w>
+                                <w>purga<lb/>uit</w>
                                 <pc>,</pc>
                                 <w>et</w>
                                 <w>munitus</w>
@@ -3992,26 +3978,25 @@
                                 <w>quod</w>
                                 <w>summa</w>
                                 <w>cum</w>
-                                <w>deuotione</w>
+                                <w>deuo<lb/>tione</w>
                                 <w>acceperat</w>
                                 <pc>,</pc>
                                 <w>diuinam</w>
                                 <w>uoluntatem</w>
                                 <w>accinctus</w>
-                                <w>praestolabatur</w>
+                                <w>praestola<lb/>batur</w>
                                 <pc>.</pc>
                         </p>
                         <p n="p18">
                                 <sic resp="#viaf6913774">
-                                        <w>Iam</w>
-                                        <expan resp="#viaf6913774"><w>enim</w></expan>
+                                        <w>Iamque</w>
                                 </sic>
                                 <w>uicinus</w>
                                 <w>morti</w>
                                 <w>domesticos</w>
                                 <w>ac</w>
                                 <w>familiares</w>
-                                <w>accersiri</w>
+                                <lb/><w>accersiri</w>
                                 <w>iubet</w>
                                 <pc>,</pc>
                                 <w>quibus</w>
