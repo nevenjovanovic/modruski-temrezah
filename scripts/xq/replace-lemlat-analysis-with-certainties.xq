@@ -9,7 +9,7 @@ declare function local:transform-certs($word, $pos, $puno, $malo) {
 let $pos := 1
 let $puno := 100
 let $malo := 0
-let $word := "aduersati"
+let $word := "annona"
 let $node := db:open("def-lemlat","defensio-LEMLAT-TEI-manual.xml")/*:TEI/*:text/*:body/*:ab/*:w[*:orig=$word]
 let $update := local:transform-certs($word, $pos, $puno, $malo)
 return replace node $node with $update

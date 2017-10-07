@@ -8,5 +8,5 @@ declare function local:word-lemlat-occur($word){
 let $occur := db:open("modr-def-texts","nikolamodr01.croala1394999.croala-lat2w.xml")/*:TEI/*:text/*:body//*:s[*:w[local:format-word(string())=$word]]
 return element result { element s { normalize-space($occur) } , $l }
 };
-let $word := "aduersati"
+let $word := "annona"
 return local:word-lemlat-occur($word)
