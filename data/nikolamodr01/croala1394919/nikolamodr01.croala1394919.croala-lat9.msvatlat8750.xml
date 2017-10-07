@@ -4633,7 +4633,7 @@
                                 <w>mors</w>
                                 <w>ipsa</w>
                                 <w>meritam</w>
-                                <w>diuinitatem</w>
+                                <w>di<lb/>uinitatem</w>
                                 <w>non</w>
                                 <w>denegauit</w>
                                 <pc>.</pc>
@@ -4643,7 +4643,7 @@
                                 <w>quod</w>
                                 <w>eius</w>
                                 <w>casu</w>
-                                <w>ingemiscere</w>
+                                <w>inge<lb/>miscere</w>
                                 <w>habeamus</w>
                                 <pc>,</pc>
                                 <w>quoniam</w>
@@ -4652,7 +4652,7 @@
                                 <w>annis</w>
                                 <w>maximam</w>
                                 <w>aetatem</w>
-                                <w>compleuit</w>
+                                <w>comple<lb/>uit</w>
                                 <pc>;</pc>
                                 <w>nec</w>
                                 <w>sibi</w>
@@ -4664,18 +4664,18 @@
                                 <w>qui</w>
                                 <pc>,</pc>
                                 <w>quaecumque</w>
-                                <w>unius</w>
+                                <w>unius</w><lb/>
                                 <w>hominis</w>
                                 <w>fortuna</w>
                                 <w>capere</w>
                                 <w>potuit</w>
                                 <pc>,</pc>
-                                <w>abunde</w>
+                                <sic resp="#viaf6913774"><w>habunde</w></sic>
                                 <w>consecutus</w>
                                 <w>est</w>
                                 <pc>.</pc>
                                 <w>Nobis</w>
-                                <w>forsan</w>
+                                <lb/><w>forsan</w>
                                 <w>amplius</w>
                                 <w>uiuere</w>
                                 <w>poterat</w>
@@ -4684,7 +4684,7 @@
                                 <w>nimirum</w>
                                 <w>magno</w>
                                 <w>et</w>
-                                <w>ornamento</w>
+                                <w>orna<lb/>mento</w>
                                 <w>et</w>
                                 <w>utilitati</w>
                                 <pc>.</pc>
@@ -4694,15 +4694,15 @@
                                 <w>amicorum</w>
                                 <w>officium</w>
                                 <w>sua</w>
-                                <w>commoda</w>
+                                <w>commo<lb/>da</w>
                                 <w>ex</w>
                                 <w>amici</w>
-                                <w>spectare</w>
+                                <sic resp="#viaf6913774"><w>expectare</w></sic>
                                 <w>incommodis</w>
                                 <pc>.</pc>
                                 <w>Quicquid</w>
                                 <w>superuixisset</w>
-                                <pc>,</pc>
+                                <pc>,</pc><lb/>
                                 <w>doloribus</w>
                                 <w>superuixisset</w>
                                 <w>et</w>
@@ -4711,14 +4711,14 @@
                                 <w>quibus</w>
                                 <w>quoniam</w>
                                 <w>eum</w>
-                                <w>diuina</w>
+                                <w>diui<lb/>na</w>
                                 <w>clementia</w>
                                 <w>misericorditer</w>
                                 <w>subduxit</w>
                                 <pc>,</pc>
                                 <w>gratias</w>
                                 <w>illi</w>
-                                <w>agamus</w>
+                                <w>agamus</w><lb/>
                                 <w>atque</w>
                                 <w>dicamus</w>
                                 <w>Dominus</w>
@@ -4728,7 +4728,7 @@
                                 <w>abstulit</w>
                                 <pc>;</pc>
                                 <w>sicut</w>
-                                <w>domino</w>
+                                <w>domino</w><lb/>
                                 <w>placuit</w>
                                 <pc>,</pc>
                                 <w>ita</w>
@@ -4741,8 +4741,11 @@
                                 <w>benedictum</w>
                                 <pc>.</pc>
                                 <w>Amen</w>
-                                <pc>.</pc>
+                                <pc>.</pc><lb/>
                         </p>
+                        <closer>
+                                <sic resp="#viaf6913774"><w>Finis</w></sic>
+                        </closer>
                 </body>
         </text>
 </TEI>
