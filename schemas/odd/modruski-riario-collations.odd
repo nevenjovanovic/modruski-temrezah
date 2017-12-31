@@ -205,7 +205,7 @@
             </classSpec>
             <!--Checking module core-->
             <moduleRef key="core"
-                       include="p term sic date abbr expan ref head pb lb author editor respStmt resp title bibl"/>
+                       include="p term sic unclear date abbr expan ref head pb lb author editor respStmt resp title bibl"/>
             <elementSpec ident="p" mode="change">
                <attList>
                   <attDef ident="ana" mode="delete"/>
@@ -223,6 +223,13 @@
             </elementSpec>
             <elementSpec ident="sic" mode="change">
                <desc>A mistake in the printed edition, marked as such by the editor of the scholarly edition.</desc>
+               <attList>
+                  <attDef ident="ana" mode="delete"/>
+                  <attDef ident="resp" usage="req" mode="change"/>
+               </attList>
+            </elementSpec>
+            <elementSpec ident="unclear" mode="change">
+               <desc>Unclear in the printed edition, marked as such by the editor of the scholarly edition.</desc>
                <attList>
                   <attDef ident="ana" mode="delete"/>
                   <attDef ident="resp" usage="req" mode="change"/>

@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2017-07-24T19:04:09Z. .
+Schema generated from ODD source 2017-12-30T20:26:31Z. .
 TEI Edition: Version 3.0.0. Last updated on
 	29th March 2016, revision 89ba24e
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.0.0/
@@ -844,6 +844,7 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    <define name="model.pPart.transcriptional">
       <choice>
          <ref name="sic"/>
+         <ref name="unclear"/>
          <ref name="supplied"/>
          <ref name="surplus"/>
       </choice>
@@ -851,18 +852,23 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    <define name="model.pPart.transcriptional_alternation">
       <choice>
          <ref name="sic"/>
+         <ref name="unclear"/>
          <ref name="supplied"/>
          <ref name="surplus"/>
       </choice>
    </define>
    <define name="model.pPart.transcriptional_sequence">
       <ref name="sic"/>
+      <ref name="unclear"/>
       <ref name="supplied"/>
       <ref name="surplus"/>
    </define>
    <define name="model.pPart.transcriptional_sequenceOptional">
       <optional>
          <ref name="sic"/>
+      </optional>
+      <optional>
+         <ref name="unclear"/>
       </optional>
       <optional>
          <ref name="supplied"/>
@@ -876,6 +882,9 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
          <ref name="sic"/>
       </zeroOrMore>
       <zeroOrMore>
+         <ref name="unclear"/>
+      </zeroOrMore>
+      <zeroOrMore>
          <ref name="supplied"/>
       </zeroOrMore>
       <zeroOrMore>
@@ -885,6 +894,9 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
    <define name="model.pPart.transcriptional_sequenceRepeatable">
       <oneOrMore>
          <ref name="sic"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="unclear"/>
       </oneOrMore>
       <oneOrMore>
          <ref name="supplied"/>
@@ -1551,6 +1563,59 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
                </oneOrMore>
             </list>
          </attribute>
+         <empty/>
+      </element>
+   </define>
+   <define name="unclear">
+      <element name="unclear">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">A mistake in the printed edition, marked as such by the editor of the scholarly edition. [11.3.3.1. Damage, Illegibility, and Supplied Text 3.4.3. Additions, Deletions, and Omissions]</a:documentation>
+         <ref name="macro.paraContent"/>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.attribute.n"/>
+         <ref name="att.global.attribute.xmllang"/>
+         <ref name="att.global.attribute.xmlbase"/>
+         <ref name="att.global.attribute.xmlspace"/>
+         <ref name="att.global.rendition.attribute.rend"/>
+         <ref name="att.global.rendition.attribute.style"/>
+         <ref name="att.global.rendition.attribute.rendition"/>
+         <ref name="att.global.facs.attribute.facs"/>
+         <ref name="att.global.change.attribute.change"/>
+         <ref name="att.editLike.attributes"/>
+         <attribute name="resp">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(responsible party) indicates the agency responsible for the intervention or interpretation, for example an editor or transcriber.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+         <optional>
+            <attribute name="reason">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates why the material is hard to transcribe.</a:documentation>
+               <list>
+                  <oneOrMore>
+                     <data type="token">
+                        <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
+                     </data>
+                  </oneOrMore>
+               </list>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="hand">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Where the difficulty in transcription arises from action (partial deletion, etc.) assignable to an identifiable hand, signifies the hand responsible for the action.</a:documentation>
+               <data type="anyURI"/>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="agent">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Where the difficulty in transcription arises from damage, categorizes the cause of the damage, if it can be identified.
+Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
+               <data type="token">
+                  <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
+               </data>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>
