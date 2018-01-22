@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc xml:id="modr-n-oratio-riar">
       <titleStmt>
-        <title>Oratio in funere Petri Riarii, versio electronica</title>
+        <title>Oratio in funere Petri Riarii, verba cum lemmatibus, versio electronica</title>
         <author ref="nikolamodr01">
           <persName xml:lang="hr">Nikola Modruški</persName>
           <date>c. 1427-1480</date>
