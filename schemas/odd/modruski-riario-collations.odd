@@ -229,7 +229,7 @@
                </attList>
             </elementSpec>
             <elementSpec ident="unclear" mode="change">
-               <desc>Unclear in the printed edition, marked as such by the editor of the scholarly edition.</desc>
+               <desc>Unclear in the source, marked as such by the editor of the scholarly edition.</desc>
                <attList>
                   <attDef ident="ana" mode="delete"/>
                   <attDef ident="resp" usage="req" mode="change"/>
