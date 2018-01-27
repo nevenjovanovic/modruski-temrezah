@@ -1,0 +1,6 @@
+Corpus corporum
+
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=insomnium%20oraculum&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+Guibertus Tornacensis, Vita S. Eleutherii, PL 65, 0076C
+Non est insomnium vel somnium phantasticum quod vidisti sed magis describendum oraculo vel verius limpidissimae visioni

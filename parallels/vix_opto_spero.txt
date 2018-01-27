@@ -1,0 +1,7 @@
+Corpus corporum
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=vix%20opto%20spero&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+1	Cicero, Epistolae ad Atticum, 11, 19, 1; 7 (auctor 106BC–43BC)
+	Est autem unum quod mihi sit optandum si quid agi de pace possit quod nulla equidem habeo in spe sed quia tu leviter interdum significas cogis me sperare quod optandum vix est
+2	Cicero, Epistolae ad Familiares, 4, 1, 2; 15 (auctor 106BC–43BC)
+	Itaque mihi venire in mentem nihil potest non modo quod sperem sed vix iam quod audeam optare

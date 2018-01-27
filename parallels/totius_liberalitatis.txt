@@ -1,0 +1,16 @@
+totius liberalitatis
+in: Corpus corporum
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=totius%20liberalitatis&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=&suchenin=alle
+
+Hericus Antissiodorensis, Miracula S. Germani, 124, 1259B
+	Ibi ab Hucberto, abbate famosissimo, excepti quam familiariter, tanti fatigationem itineris plena viri benevolentia, ingenti religiosorum affectu, larga denique totius liberalitatis indulgentia relevarunt.
+
+5	Ioannes Fiscamnensis, Epistola ad Leonem IX, 143, 0799A (auctor 1028-1079)
+	Interest etiam tuae famae, vir totius liberalitatis et gloriae, larga manu nostra perdita restaurare, quia ecce, ut iussisti, paschali termino adest noster nuntius, cum litteris, et certa cautione omissorum, quae ego non mei causa solummodo repeto, sed eorum quorum devotioni condoleo, qui haec sanctae Trinitati delegaverant sub meae fidei testimonio.
+
+6	Ioannes Saresberiensis, Epistolae, 199, 0071C (auctor c.1120–1180)
+	Sed quid est quod liberalitatis et munificentiae vestrae titulos membratim exsequor, cum illorum numerus et immensitas sic totum animum impleant ut effluant, et totius mentis capacitatem exsuperent?
+
+10	Rabanus Maurus, De vita B. Mariae Magdalenae et Marthae, 112, 1490B (auctor 780-856)
+	Sororis quoque eius sanctissimae Marthae devotionem ininvestigabilem erga sancti Salvatoris obsequia, et suas ipsorum necessitates, et animum totius liberalitatis et benignitatis gratia plenum, frequentissime memorabant apostoli, publice populis praedicantes, quam familiares, quam gratiosae, quam acceptabiles fuerint Filio Dei, prae cunctis mulieribus, hae duae devotae sorores; quam intimo amore eum dilexerint, quam dulciter a Deo dilectae fuerint, quam benigne earum hospitia frequentaverit, quam affectuose sibi suisque ad omnia necessaria de suis facultatibus ministraverint; quam confidenter ei a fratre suo mandaverint: Ecce quem amas infirmatur; quam amabiliter ipse fratris earum obitum suis revelans apostolis: Lazarus, ait, amicus noster dormit; quam misericorditer, flentes eas videns, fleverit; et cum lacrymantibus lacrymatus sit: ita ut Iudaei dicerent: Ecce quomodo amabat eum, adstipulante in hoc ipsum discipulo quem prae caeteris diligebat Iesus: Diligebat Dominus Iesus Martham, et sororem eius Mariam et Lazarum (Ioan. XIII, 23, XXI, 7, 20, XI, 5) . At hanc quoque domum amicorum Christi, Lazari videlicet, Mariae et Marthae, domum orationis (Marc. XI, 1) , fieri statuerunt apostoli; in qua Dei omnipotentis, et Virginis Matris Filium, frequentissime deambulasse, sedisse, recubuisse, dormiisse, pernoctasse, orasse et multa miracula fecisse, recolebant; quamque sua sancta inhabitatione, mansione et perendinatione, Salvator ipse sanctificaverat et dedicaverat.
+

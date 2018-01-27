@@ -1,0 +1,6 @@
+Corpus corporum
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=segnis%20contendo&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+	Curtius Rufus, Historiae Alexandri Magni, 4, 1, 3; 3 (auctor fl.c.50)
+	Onchas deinde pervenit ubi excepere eum Graecorum quattuor milia non segnius tamen ad Euphraten contendit id demum credens fore ipsius quod celeritate praecipere potuisset
+

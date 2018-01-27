@@ -1,0 +1,28 @@
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=puerilis%20virilis&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+puerilis - virilis, Corpus corporum
+
+4	Bernardus Claraevallensis, In Purificatione B. Mariae, PL 183, 0372A (auctor 1090-1153)
+	Sit inquam in proposito perseverandi animus virilis sit in continentia castitas virginalis sit in conscientia simplicitas et humilitas puerilis
+5	Berno Augiae Divitis, Musica, PL 142, 1101C (auctor 978-1048)
+	Et tunc consonantiae fiunt quando altrinsecus virilis ac puerilis vox pariter sonuerit vel potius eo cantandi genere quod consuete dicitur organizare
+6	Cicero, Epistolae ad Atticum, 14, 21, 3; 15 (auctor 106BC–43BC)
+	Acta enim illa res est animo virili consilio puerili
+	
+8	Cornelius Celsus, De medicina - Ed. Daremberg, 3, 27, 1; 28 (auctor c.25BC—c.50)
+	Si quando quis in eam prolapsus est tum oleo leniter diuque in lectulo perfricari manibus puerilibus potius quam virilibus debet
+
+10	Cosmas Pragensis, Chronica Bohemorum, PL 166, 0123A (auctor 1045-1125)
+	Quos adhuc positos annis in puerilibus sed studiis pollere virilibus pater valde miratur Cernens egregium decus et par nobile fratrum Nec minus angebant matrem sua gaudia laetam de tanto provectu filiorum et magnificae gloriae statu
+
+14	Francesco Petrarca, De vita solitaria, 2, 14; 62 (auctor 1304-1374)
+	Vide in quam virilem sententiam puerile dictum trahi potest
+15	Francesco Petrarca, Epistole extravagantes, 62; 14 (auctor 1304-1374)
+	Cui si frons atque puerilis sit animus certe mores ingenui atque actus viriles sunt
+
+34	Incertus 214, Gesta Innocentii III, PL 214, LVIIB
+	Quo audito familiares regis qui erant complices cancellarii coeperunt valde timere feceruntque pro se pariter et pro illo intercessorias litteras sub nomine regio summo pontifici praesentari qui regi rescripsit hoc modo Utinam puerilibus annis virilem animum Dominus inspiraret et aetati adhuc tenerae illam sensus infunderet gravitatem per quam inter fas et nefas discerneres inter fidem et perfidiam iudicares nec fideles damnares pro perfidis nec perfidos pro fidelibus exaltares
+
+40	Molza Francesco Maria, Varia, 1, 10; 1 (auctor 1489-1544)
+	Magne puer curas puerili in corde viriles Qui geris atque annos qui venis ante tuos Dum studia exercens durae laudanda Minervae Casuras nullo tempore quaeris opes
+
