@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2018-01-29T11:37:04Z. .
+Schema generated from ODD source 2018-01-30T12:58:45Z. .
 TEI Edition: Version 3.0.0. Last updated on
 	29th March 2016, revision 89ba24e
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.0.0/
@@ -1653,6 +1653,7 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
          <ref name="att.global.rendition.attribute.rend"/>
          <ref name="att.global.rendition.attribute.style"/>
          <ref name="att.global.rendition.attribute.rendition"/>
+         <ref name="att.global.analytic.attribute.ana"/>
          <ref name="att.global.facs.attribute.facs"/>
          <ref name="att.global.change.attribute.change"/>
          <ref name="att.source.attributes"/>
