@@ -1,0 +1,8 @@
+Corpus corporum
+
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=gloria%20satis%20vivo&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+4	Cicero, Orationes 2, Marc., 8; 4 (auctor 106BC–43BC)
+	Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi Satis diu vel naturae vixi vel gloriae
+5	Cicero, Orationes 2, Phil., 15; 22 (auctor 106BC–43BC)
+	Mihi fere satis est quod vixi vel ad aetatem vel ad gloriam huc si quid accesserit non tam mihi quam vobis reique publicae accesserit

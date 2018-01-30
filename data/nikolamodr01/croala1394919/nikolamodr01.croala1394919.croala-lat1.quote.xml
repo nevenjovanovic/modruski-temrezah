@@ -311,10 +311,10 @@ prijepis --> nimia indulgentia et
                 partim illustri, partim nobili, omnes honesto loco natos: praelatos, milites,
                 doctores, oratores, poetas, aut alicui alii <!-- 10; pb BLC5a27 -->honestae arti
                 deditos; nullis tantorum sumptibus, nullis grauabatur impensis. Hospitem enim sese
-                omnium honestorum uirorum esse dicebat, quod <quote>ipsa ueritate erat uerius</quote>. Nam si quis
+                omnium honestorum uirorum esse dicebat, quod <quote xml:id="p5.quote1">ipsa ueritate erat uerius</quote>. Nam si quis
                 diligentius rem ipsam consideret, comperiet procul dubio
-                <!-- proculdubio BLC5a27 --> omnes cardinalium domos nihil aliud esse quam honesta
-                hospitia, in quae proborum uirorum liberis uel necessitatis uel bonorum morum gratia
+                <!-- proculdubio BLC5a27 --> <quote xml:id="p5.quote2">omnes cardinalium domos nihil aliud esse quam honesta
+                hospitia</quote>, in quae proborum uirorum liberis uel necessitatis uel bonorum morum gratia
                 diuersari licet. </p>
             <p n="p6"> Accipiebat praeterea munera, non auaritiae, sed honoris comparandaeque
                 <!-- comparandęq- BLC5a27; comparandique izd --> beneuolentiae
@@ -457,7 +457,7 @@ prij --> lacrimis suffusum oculos et
                 officio
                 decessit,<!-- discessit BLC5a27, BL17814, BL27527, ja; offico decessit BL18645; decessit izd -->
                 semperque ut datus a domino Tobiae angelus <!-- cf... --> lateri haesit, aduersa
-                procurauit, accersiuit prospera, pia sedulitate fouit, coluit, ueneratus est, ut
+                procurauit, accersiuit prospera, <quote xml:id="p15.quote1">pia sedulitate</quote> fouit, coluit, ueneratus est, ut
                 nemini mirum uideri debeat si aut uiuentem tantum dilexit, aut nunc mortui desiderio
                 <!-- desyderio BLC5a27; desiderio BL18645 --> adeo moueatur. </p>
             <p n="p16">
@@ -534,11 +534,11 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
                     quicquid supererat, merito mihi suspectum metuendumque fuisset. Proinde
                     <!-- Proinde BL17814, BL27527; Proind- BLC5a27; Prouide BL18645, plannck -->
                     licet <quote n="quote1" xml:id="quote5">cupiam dissolui et esse cum Christo, uror
-                        tamen sola uestrarum rerum cura</quote>. Cognosco enim me tenuem uobis
-                    mercedem pro meritis exhibuisse
+                        tamen sola uestrarum rerum cura</quote>. Cognosco enim me <quote xml:id="p18.quote5a">tenuem uobis
+                    mercedem</quote> pro meritis exhibuisse
                     <!-- exhibuisse BL17814, BL27527; exipuisse BL18645 -->, tametsi <quote xml:id="q2.quote5b">nunquam mihi
                     uoluntas defuerit, sed facultas</quote>. Et nisi tanta temporis angustia prohibitus
-                    fuissem, nullus uestrum meae gratitudinis uices doleret. Meritum, quod potui,
+                    fuissem, nullus uestrum <quote xml:id="p18.quote5c">meae gratitudinis uices doleret</quote>. Meritum, quod potui,
                     moriens uobis persolui. Supplicaui <!-- Supplicauit BL17814 --> summo pontifici
                     ut beneficia, quae in me contulerat, sua clementia inter uos partiatur, ut et
                     uos meritorum uestrorum et me non praestiti officii minus
@@ -553,11 +553,11 @@ uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. -->
                     quoniam <quote n="quote2" xml:id="quote6">puluis et umbra sumus</quote> et <quote n="quote3" xml:id="quote6a">non hic,
                     sed alibi permanentes habemus mansiones; ubi nihil corruptibile, nihil caducum
                     esse potest, sed omnia incorruptibilia, omnia sempiterna.</quote> Proinde date operam
-                    probitati, et uirtuti totis uiribus incumbite. Colite pietatem et
+                    probitati, et <quote xml:id="p18.quote6b">uirtuti totis uiribus incumbite</quote>. Colite pietatem et
                     <!-- et BLC5a27, BL17814, BL27527; et om. plannck; , BL18645 -->integritati
                     nihil anteponite, scientes unicuique uestrum <quote xml:id="p18.quote8">propositam esse a domino laborum
                     suorum mercedem</quote>; quae etiam si nulla esset, hoc tamen<!-- 19; pb BLC5a27 -->
-                    ipsum pie <!-- pię BLC5a27; pie BL18645, BL17814 -->et sancte uixisse maxima
+                    ipsum <quote xml:id="p18.quote8a">pie <!-- pię BLC5a27; pie BL18645, BL17814 -->et sancte uixisse</quote> maxima
                     uiro bono merces esse debet, quippe cuius beneficio homines a brutis
                     secernuntur, et nomen suum sempiternae
                     <!-- sempiterne BL18645, BL17814, BL27527 --> consecrant

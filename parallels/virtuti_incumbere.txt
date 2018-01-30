@@ -1,0 +1,15 @@
+Corpus corporum
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=virtus%20incumbo&table=&level2_name=&from_year=&to_year=600&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+'virtus incumbo' - lemmatised search in All Authors to Year 600, in Chronological Order, Showing 1 to 24 of 24 hit
+
+19	Arnobius iunior, Commentarii in Psalmos, PL 53, 0492C (auctor fl.460)
+	His incumbentes studiis in Deo faciamus virtutem et ipse ad nihilum rediget tribulantes nos qui regnat in saecula saeculorum
+20	Leo I, Sermones, PL 54, 0288B (auctor 440-461)
+	IV Omnium virtutum exercitio incumbendum hoc tempore
+21	Iulianus Pomerius, De vita contemplativa, PL 59, 0429C (auctor 430-490)
+	Duo autem media vacationem videlicet ab omnibus occupationibus mundi et divinarum studium litterarum etiam hic possunt habere pontifices sed illi qui se ab omnibus implicamentis negotiorum saecularium removentes non torpent otio sed insistunt perfectionis suae negotio et ab stultitia sapientiae saecularis aversi verbo Dei infatigabiliter vacant sapientes veraciter fiunt coelestia sapiunt terrena despiciunt contradicentes sanae doctrinae redarguunt obedientes instituunt sanctis virtutibus quibus in dies singulos fiant Deo propinquiores incumbunt et tam suis quam omnium qui per eos erudiuntur profectibus clari hic quidem velut gustum quemdam contemplativae vitae quo ad eam ferventius provocentur accipiunt sed ibi iam in aeternum felices effecti de eius perfectione gaudebunt
+22	Gregorius Turonensis, De miraculis S. Martini, PL 71, 0943C (auctor c.538–594)
+	Qui iugi oratione et ieiunio incumbens pedes quos intortos exhibuerat reddita subito sanitate retulit in usum consuetum directos et ita Sancti virtute quodammodo reformatus est ut qui aliorum manibus deportabatur propriis firmatus vestigiis praesentibus nobis consurgeret sospes
+23	Gregorius Turonensis, De miraculis S. Martini, PL 71, 0977A (auctor c.538–594)
+	Post haec basilicam beati confessoris expetiit atque Al ad quam per quatuor annos orationi incumbens visitatus virtute divina patefactis luminibus lucem videre promeruit

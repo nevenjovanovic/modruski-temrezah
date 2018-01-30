@@ -1,0 +1,19 @@
+Corpus corporum
+
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=tenuis%20merces&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+8	Cervarius Tubero Ludovicus, Commentarii de temporibus suis, 11, p150; 3 (auctor 1458-1527)
+	Quamquam ferunt illum Florentino astu alieni abstinentiam in paruis praestruxisse nec tenui mercede ab honesto recessisse ut et cupiditati suae non sine operae precio satisfaceret et iuditia de se hominum haud negligere interdum uideretur
+
+19	Iohannes Cassianus, Conlationes [CSEL], III, 24, 13, 1; 2 (auctor c.360–435)
+	erat inquit in ciuitate quadam peritissimus tonsor qui denariis ternis unumquemque detondens tenuem uilemque mercedem sui operis adquirendo ex hac eadem quantitate necessaria uictui cotidie conparabat centumque denarios expleta omni corporis cura marsuppio suo diebus singulis inferebat
+
+31	Phocas, Vita Vergilii, vita; 3 (auctor fl.c.420)
+	huic genitor figulus Maro nomine cultor agelli ut referunt alii tenui mercede locatus sed plures figulum
+32	Quintus Aurelius Symmachus, Epistulae, p1, p3, 43, 2; 8 (auctor c.340-c.402)
+	Nunquam in mercedem linguae ornamenta corrupit ac fortunis tenuis opulentiam fide quaestum laude mutauit
+33	Quintus Aurelius Symmachus, Epistulae, p25, p34, 68, 2; 4 (auctor c.340-c.402)
+	Res autem qua de agitur eiusmodi est ante paucissimos menses ille a parente mea horrea in Aquileiensi sita et clarissimae feminae propter longinquitatem itineris incognita tenui mercede conduxit atque his ita abusus est ut paruo licet tempore iisdem locis labem consulto intulisse dicatur
+
+Symmachus, Epistolae, PL 18, 0243A
+	Ante paucissimos menses ille a parente mea horrea Aquileiensia et CF propter longinquitatem itineris incognita tenui mercede conduxit atque his ita abusus est ut parvo licet tempore iisdem locis labem consulto intulisse dicatur

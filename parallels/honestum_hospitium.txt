@@ -1,0 +1,16 @@
+Corpus corporum
+
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=honestus%20hospitium&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+5	Coelestinus II, Epistola et privilegia, PL 179, 0794A
+	Ideoque pro honestate et religione vestra dignum duximus ut in Romana urbe vobis ecclesiam concedamus in qua et Domino serviatis et cum pro negotiis Ecclesiae vestrae ad curiam veneritis honestum hospitium habeatis
+
+9	Guntherus Cisterciensis, Historia captae a Latinis Constantinopoleos, PL 212, 0247A (auctor c.1150–c.1220)
+	Cuius etiam ministerio interim ei apud quamdam eiusdem urbis ecclesiam honestum satis et commodum suae professioni conveniens praeparavit hospitium
+
+18	Odo de Soliaco, Synodicae constitutiones, PL 212, 0059A (auctor 1150-1208)
+	Praecipitur in eundo et redeundo a synodo honeste ambulent presbyteri et honesta quaerant hospitia ut in eis circumspecte se habeant ne status clericorum vertatur in contemptum et opprobrium populo
+
+21	Radulfus Ardens, Homiliae, PL 155, 1851B (auctor -c.1200)
+	Magnum quippe hospitem imo Deum et Dominum nostrum Iesum Christum fratres charissimi hodie suscepturi hospitium purum et honestum ei praeparemus
+
