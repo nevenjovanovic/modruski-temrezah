@@ -205,7 +205,7 @@
             </classSpec>
             <!--Checking module core-->
             <moduleRef key="core"
-                       include="p term sic unclear date add abbr expan orig ref head pb lb author editor respStmt resp title bibl"/>
+                       include="p term sic unclear date add abbr expan num orig ref head pb lb author editor respStmt resp title bibl"/>
             <elementSpec ident="p" mode="change">
                <attList>
                   <attDef ident="ana" mode="delete"/>
@@ -268,6 +268,12 @@
                <attList>
                   <attDef ident="ana" mode="delete"/>
                   <attDef ident="resp" usage="req" mode="change"/>
+               </attList>
+            </elementSpec>
+            <elementSpec ident="num" mode="change">
+               <desc>contains a number, written in any form.</desc>
+               <attList>
+                  <attDef ident="ana" mode="delete"/>
                </attList>
             </elementSpec>
             <elementSpec ident="ref" mode="change">
