@@ -119,10 +119,10 @@
       </revisionDesc>
    </teiHeader>
    <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1:" xml:lang="lat" type="prosa-oratio">
-      <body n="body">
+      <body n="body1">
 
 <!-- 2 -->
-            <head n="head">Oratio in funere <ref n="ref1">reuerendissimi domini <abbr n="abbr">D.</abbr> Petri cardinalis sancti Sixti</ref>
+            <head n="head1">Oratio in funere <ref n="ref1">reuerendissimi domini <abbr n="abbr1">D.</abbr> Petri cardinalis sancti Sixti</ref>
             habita a <ref n="ref2">reuerendo patre domino Nicolao episcopo Modrusiensi</ref>. </head>
             <p n="p1"> Cum in omni funebri celebratione duo praecipue dicendi genera a maioribus nostris
             usurpari soleant, amplissimi patres, alterum quo tristes amicorum animos merore
@@ -137,11 +137,11 @@
             amplissimi, praestantissimum collegam uestrum, cuius suauissimam consuetudinem,
             comitatem, benignitatem, liberalitatemque quotidie experiebamini, cuius ingenii
             dexteritatem et incredibilem consilii prudentiam in dies magis admirabamini. Amisistis
-            <ref n="ref">summi pontificis, patris uestri piissimi</ref>, singulare solacium et sacrae eius senectutis
+            <ref n="ref1">summi pontificis, patris uestri piissimi</ref>, singulare solacium et sacrae eius senectutis
             optatissimum baculum, participem secretorum, laborum socium, peregrinationis comitem,
             leuamen curarum, et per quem totius orbis principibus fidissima responsa et reddere
             consueuerat et accipere. Absit uero inuidia et liuor edax saltem parcat cineribus.
-               <corr n="corr">Extinctus</corr> iacet optimarum artium deditissimus amator; interiit omnium
+               <corr n="corr1">Extinctus</corr> iacet optimarum artium deditissimus amator; interiit omnium
             studiosorum praecipuus fautor, cultor bonorum, curiae splendor, ornamentum ciuitatis, et
             huius urbis diligentissimus restaurator. Corruit praeclarum magnanimitatis exemplar,
             cecidit munificentiae, gratitudinis, et totius liberalitatis alumnus. Cuius iactura cum
@@ -155,24 +155,24 @@
             praesertim cum ea culpa libentius ego carere uellem quam illam a uobis deprecari si mihi
             impositum onus detractare licuisset; agam tamen ut potero, et minus temeritatis quam
             ingratitudinis notam subire uerebor. </p>
-            <p n="p2"> Dicturus igitur de laudibus <ref n="ref1">reuerendissimi domini <abbr n="abbr">D.</abbr> Petri cardinalis
+            <p n="p2"> Dicturus igitur de laudibus <ref n="ref1">reuerendissimi domini <abbr n="abbr1">D.</abbr> Petri cardinalis
             sancti Sixti</ref>, cuius miserandum funus hodierna die celebratur, eas laudes, quas uel a
             parentibus uel a patria ipsius colligere poteram, hoc loco praetermittendas putaui; non
             quod illas aut obscuras aut tenues fore dixerim, quoniam et honestissimis
-            nobilissimisque ciuitatis suae parentibus est ortus, et <ref n="ref2">celeberrimo uetustoque <persName n="persName">Ligurorum</persName>
-            oppido <placeName n="placeName">
-                     <corr n="corr">Saona</corr>
+            nobilissimisque ciuitatis suae parentibus est ortus, et <ref n="ref2">celeberrimo uetustoque <persName n="persName1">Ligurorum</persName>
+            oppido <placeName n="placeName1">
+                     <corr n="corr1">Saona</corr>
                   </placeName>
                </ref>, uerum quod ipse illis tanto decori ac ornamento fuerit ut
             toto in orbe extremisque terrarum finibus amplissimis laudibus summaque gloria et
             celebrantur nunc et omnibus futuris seculis non desinent celebrari. Quae quidem tametsi
             satis grandis eius gloria sit qui maioribus suis tam insignia uirtutis ornamenta dederit
             potius quam ab illis acceperit, habeo tamen et alias immortales ac propemodum diuinas
-            animi ipsius laudes (ut <quote xml:id="p2.quote1">fortunae corporisque quaelibet ingentia bona tanquam aliena</quote>
-        <note target="#p2.quote1">Cf. <cit>
-            <bibl>Cic. Tusc. 5, 30, 85</bibl>
-            <quote>tria genera bonorum, maxuma animi, secunda corporis, externa tertia, ut Peripatetici nec multo veteres Academici secus</quote>
-          </cit>; <bibl>Valla, De voluptate sive de vero bono 1, 16, 1</bibl> <quote>ipsa testatur consensio communis que vulgato sermone appellat bona animi, bona corporis, bona fortune</quote>.</note>
+            animi ipsius laudes (ut <quote n="quote1" xml:id="p2.quote1">fortunae corporisque quaelibet ingentia bona tanquam aliena</quote>
+        <note n="note1" target="#p2.quote1">Cf. <cit n="cit1">
+            <bibl n="bibl1">Cic. Tusc. 5, 30, 85</bibl>
+            <quote n="quote1">tria genera bonorum, maxuma animi, secunda corporis, externa tertia, ut Peripatetici nec multo veteres Academici secus</quote>
+          </cit>; <bibl n="bibl1">Valla, De voluptate sive de vero bono 1, 16, 1</bibl> <quote n="quote1">ipsa testatur consensio communis que vulgato sermone appellat bona animi, bona corporis, bona fortune</quote>.</note>
             relinquam): pietatem, magnitudinem animi, munificentiam, prudentiam, modestiam, atque
             iustitiam; quae quales in eo fuerint, breuiter explicare conabor. </p>
             <p n="p3"> Qua igitur pietate primum erga deum fuerit quamque magnificus cultor ipsius, si
@@ -197,12 +197,12 @@
             melius iugum <persName n="persName2">Christi</persName> posset. Sed cum pueri constantiam nullis blanditiis, nullis
             persuasionibus, nullis denique minis euincere posset, diuinum, ut erat, in eo aliquod
             munus arbitratus, hortantibus fratribus <ref n="ref3">diui</ref> eum <ref n="ref4">
-                  <persName n="persName">Francisci</persName>
+                  <persName n="persName1">Francisci</persName>
                </ref> sacris
             <corr n="corr3">initiauit</corr>, seruatisque pro more religionis rite caerimoniis uestem <persName n="persName3">Christi</persName>
-               induit. Qua assumpta ita omnia <quote xml:id="p3.quote1">tyrocinii rudimenta</quote>
-        <note>Cf. <bibl>Justin 9, 1, 8</bibl>
-          <quote>tirocinii rudimenta deponeret</quote>
+               induit. Qua assumpta ita omnia <quote n="quote1" xml:id="p3.quote1">tyrocinii rudimenta</quote>
+        <note n="note1">Cf. <bibl n="bibl1">Justin 9, 1, 8</bibl>
+          <quote n="quote1">tirocinii rudimenta deponeret</quote>
         </note> libens promptusque et perdiscebat et
             exsequebatur ut nemo dubitaret et prudentiam illi et uires ante aetatem non nisi
             diuinitus subministrari. Quas ob res omnibus carus, omnibus dilectus esse coepit,
@@ -211,15 +211,15 @@
             ingenium per bonas artes excoleretur. Itaque <ref n="ref5">docto cuidam grammatico</ref> Latinis eum
             litteris <placeName n="placeName2">Vicheriae</placeName> imbuendum tradidit, quibus mira celeritate perceptis mox <placeName n="placeName3">Ticinium</placeName>,
             deinde <placeName n="placeName4">
-                  <corr n="corr">Patauium</corr>
+                  <corr n="corr1">Patauium</corr>
                </placeName>, subinde <placeName n="placeName5">Venetias</placeName>, <placeName n="placeName6">Bononiam</placeName>, <placeName n="placeName7">Perusium</placeName>, <placeName n="placeName8">Senam</placeName>, <placeName n="placeName9">Ferariam</placeName>que misit ut,
             quaecumque in tam celeberrimis <placeName n="placeName10">Italiae</placeName> 
                <corr n="corr4">gymnasiis</corr> aut liberalium artium aut
             sacrarum litterarum dogmata florerent, ipse uelut operosa apis undique colligeret et in
             sacram pectoris sui cellulam diligenter reconderet. Quod quidem intra breues annos adeo
-            consecutus est ut credibile non sit uirum <quote xml:id="p3.quote2">ad agendum magis quam ad philosophandum</quote>
-        <note target="#p3.quote2">Cf. <bibl>Platonis Symposium, tr. Ficinus (c. 1460)</bibl>
-          <quote>perinde ac tu nunc, qui quodlibet aliud agendum censes potius quam philosophandum</quote>.</note> natum
+            consecutus est ut credibile non sit uirum <quote n="quote2" xml:id="p3.quote2">ad agendum magis quam ad philosophandum</quote>
+        <note n="note2" target="#p3.quote2">Cf. <bibl n="bibl1">Platonis Symposium, tr. Ficinus (c. 1460)</bibl>
+          <quote n="quote1">perinde ac tu nunc, qui quodlibet aliud agendum censes potius quam philosophandum</quote>.</note> natum
             tantam omnium scientiarum notitiam adeo breuiter percipere potuisse. Habeo hic testes
             complures, familiares eius, <corr n="corr5">uiros</corr> quidem doctissimos, quibuscum inter
             cenandum de uariis disciplinarum studiis frequenter disserere consueuerat adeo acute
@@ -235,8 +235,8 @@
             heri aut nudiustercius memoriae mandasse existimares. Perfectis igitur quam celerrime
             omnium bonarum artium studiis, rediit sollicitus ad magistrum, munus, cui caelitus
             destinatus erat, optime impleturus. Inerat enim menti eius praesaga quaedam futurorum
-            diuinitas complurimaque, antequam contigissent, <quote xml:id="p3.quote3">per quietem discebat</quote>
-        <note target="#p3.quote3">Cf. <bibl>Justin. Hist. Phil. 12, 10</bibl> (etiam <bibl>Suet.</bibl> <bibl>Min. Fel.</bibl> <bibl>Solin.</bibl> etc).</note>, ita ut insomnia
+            diuinitas complurimaque, antequam contigissent, <quote n="quote3" xml:id="p3.quote3">per quietem discebat</quote>
+        <note n="note3" target="#p3.quote3">Cf. <bibl n="bibl1">Justin. Hist. Phil. 12, 10</bibl> (etiam <bibl n="bibl2">Suet.</bibl> <bibl n="bibl3">Min. Fel.</bibl> <bibl n="bibl4">Solin.</bibl> etc).</note>, ita ut insomnia
             ipsius non uisa solum, sed certa uiderentur oracula. Quibus uarie sollicitatus coepit
             auunculum suum hortari, coepit importunius compellere <placeName n="placeName11">Romam</placeName> peteret atque in ea urbe
             uersari uellet, in qua a maximo omnium rectore deo futurus summus pontifex erat
@@ -245,34 +245,34 @@
             praelatos et ex aliis ordinibus uiros praestantes a quibus magna cum attestatione audiui
             singula haec, quae gessit, multis ante annis ab ipso praedicta fuisse. Itaque
             repugnantem magistrum et se tanto fastigio indignum reclamantem urgere non destitit
-            donec multis et signis et prodigiis euictum <sic n="sic">propulit</sic> 
+            donec multis et signis et prodigiis euictum <sic n="sic1">propulit</sic> 
                <placeName n="placeName12">Romam</placeName> proficisci, in qua
             constitutus minime conquieuit antequam demandatum ab altissimi prouidentia munus
             uiriliter absolueret et magistrum suum per uaria bonorum incrementa ad summum
             apostolatus culmen conscendisse uideret, pro quibus laboribus et pro tam diligenti
-            nauata opera eadem ipsa diuina prouidentia, quae semper <quote xml:id="p3.quote4">infirma mundi eligere consueuit
+            nauata opera eadem ipsa diuina prouidentia, quae semper <quote n="quote4" xml:id="p3.quote4">infirma mundi eligere consueuit
                ut fortia quaeque confundat</quote>
-        <note target="#p3.quote4">Cf. <bibl>I Cor 1, 27</bibl> <quote>infirma mundi elegit Deus ut confundat fortia</quote>.</note>, cardinalis eum dignitatis splendore uoluit illustrare
+        <note n="note4" target="#p3.quote4">Cf. <bibl n="bibl1">I Cor 1, 27</bibl> <quote n="quote1">infirma mundi elegit Deus ut confundat fortia</quote>.</note>, cardinalis eum dignitatis splendore uoluit illustrare
             omnibusque mundi principibus ostendere quo ministro et ex quam humili loco accepto
                <corr n="corr8">uoluerit</corr>
                <!-- uoluerint --> in sui uicarii assumptione uti, ut discerent
             uniuersi ueram certamque esse illam <persName n="persName4">
-                  <corr n="corr">Nabuchdonosoris</corr>
+                  <corr n="corr1">Nabuchdonosoris</corr>
                </persName> confessionem in quam et
-            regno et sensui restitutus supplex prorupit dicens <quote xml:id="quote1">in manu solius omnipotentis dei esse
+            regno et sensui restitutus supplex prorupit dicens <quote n="quote5" xml:id="quote1">in manu solius omnipotentis dei esse
             omnia regna terrarum atque illa quibus ipse uoluerit tradi nec esse alium quemquam qui
-            eius possit obsistere uoluntati aut dicere illi <q n="q" xml:id="q1">quare sic fecisti</q>
-        </quote>.<note n="note" type="fons" target="#quote1">
-                  <add n="add" resp="NJ">Cf.
-               <bibl n="bibl">Daniel 3, 31-33</bibl>.</add>
+            eius possit obsistere uoluntati aut dicere illi <q n="q1" xml:id="q1">quare sic fecisti</q>
+        </quote>.<note n="note5" type="fons" target="#quote1">
+                  <add n="add1" resp="NJ">Cf.
+               <bibl n="bibl1">Daniel 3, 31-33</bibl>.</add>
                </note>
             </p>
          <p n="p4">
-            <persName n="persName">Petrus</persName> igitur per hunc modum <quote n="quote1" xml:id="p4quote1">in principatu constitutus qui solet uiros
+            <persName n="persName1">Petrus</persName> igitur per hunc modum <quote n="quote1" xml:id="p4quote1">in principatu constitutus qui solet uiros
                ostendere</quote>
-        <note n="note" type="fons" target="#p4quote1">
-                  <add n="add" resp="NJ">Cf. principatus virum ostendit
-                     <bibl n="bibl">Arist. Ethica ad Nicomachum E3, 1330, a 1-2</bibl>.</add>
+        <note n="note1" type="fons" target="#p4quote1">
+                  <add n="add1" resp="NJ">Cf. principatus virum ostendit
+                     <bibl n="bibl1">Arist. Ethica ad Nicomachum E3, 1330, a 1-2</bibl>.</add>
                </note>, talem sese exhibuit qualem uix optare poteramus, non sperare.
             Assumpsit enim cum sublimi magistratu sublimes animos et spiritus tanti imperii
             maiestate dignos, simulque cum eis magnanimitatem, clementiam, munificentiam, et
@@ -285,11 +285,11 @@
             fastibus digna. Turpe enim et indecorum
             <!-- inde eorum BL18645; inde -lb- cor- (corum) BLC5a27 --> merito ducebat in hoc totius
             orbis capite, in hac prima <ref n="ref1">
-               <corr n="corr">Christianae</corr> religionis</ref> sede, ad quam adorandam
+               <corr n="corr1">Christianae</corr> religionis</ref> sede, ad quam adorandam
             imperatores, reges, et cuncti ferme principes terrarum uentitare solent, non talem esse
             suppellectilem, non talia <corr n="corr1">exstare</corr>
             <!-- extare BLC5a27; ortare? izd -->
-            <sic n="sic">palacia</sic>, quibus eos summus pontifex et suscipere honorifice posset et
+            <sic n="sic1">palacia</sic>, quibus eos summus pontifex et suscipere honorifice posset et
             pro sua ipsorumque dignitate splendide honorare. Vnde et in hos usus omnia illa se
             comparare affirmabat, nec sibi, sed summis pontificibus, quicquid praeparabat,
             componere. Affluebant quotidie opes et ab omnibus ferme <ref n="ref2">Christianis
@@ -313,15 +313,15 @@ izd; p-agendo BLC5a27 --> strenuus, secretorum
             uidebatur, nec ullius rei facilius quam inimicitiarum obliuiscebatur. Floccipendebat
             <!-- flocc. etc. prvi prijepis --> aemulos <!-- 9; pb BLC5a27 -->quoscumque et nullam in
             rem pronior quam in supplicium ueniam uidebatur, tantumque ab omni ulciscendi ardore
-            aberat ut inimicis suis benefacere gauderet. <quote xml:id="p4.quote2">Nihil in se fictum, nihil subdolum aut
+            aberat ut inimicis suis benefacere gauderet. <quote n="quote2" xml:id="p4.quote2">Nihil in se fictum, nihil subdolum aut
                simulatum esse</quote>
-        <note target="#p4.quote2">Cf. <bibl>Cic. de am. 25, 95</bibl>, <bibl>Plin. paneg. 66, 5</bibl>
-        </note> uolebat, nec quicquam magis detestabatur quam mentitam probitatem. <quote xml:id="p4.quote3">Mali
-            quippe et iniqui hominis esse dicebat meliorem se <corr n="corr5">foris</corr>
+        <note n="note2" target="#p4.quote2">Cf. <bibl n="bibl1">Cic. de am. 25, 95</bibl>, <bibl n="bibl2">Plin. paneg. 66, 5</bibl>
+        </note> uolebat, nec quicquam magis detestabatur quam mentitam probitatem. <quote n="quote3" xml:id="p4.quote3">Mali
+            quippe et iniqui hominis esse dicebat meliorem se <corr n="corr1">foris</corr>
                   <!-- foris BLC5a27; fortis izd --> ostendere quam gerere domi</quote>
-        <note target="#p4.quote3">Cf. <bibl>Thomas a Kempis, im. 1, 19, 1</bibl>: <quote>Vita boni Religiosi omnibus virtutibus pollere debet, ut sit talis interius qualis ab hominibus videtur exterius. Et multo plus debet esse intus, quam quod cernitur foris</quote>.</note>, proborum autem uirorum
-            esse <quote xml:id="p4.quote4">non simulatione, sed integritate uiros superare</quote>.
-            <note target="#p4.quote4">Cf. <bibl>Aur. Vict. caes. 42, 4</bibl>: <quote>Quae res satis edocuit non modo domi, verum militiae quoque dicendi copiam praestare; qua demum vel ardua proclivius eo conficiuntur, si modestia atque integritate superet.</quote>
+        <note n="note3" target="#p4.quote3">Cf. <bibl n="bibl1">Thomas a Kempis, im. 1, 19, 1</bibl>: <quote n="quote1">Vita boni Religiosi omnibus virtutibus pollere debet, ut sit talis interius qualis ab hominibus videtur exterius. Et multo plus debet esse intus, quam quod cernitur foris</quote>.</note>, proborum autem uirorum
+            esse <quote n="quote4" xml:id="p4.quote4">non simulatione, sed integritate uiros superare</quote>.
+            <note n="note4" target="#p4.quote4">Cf. <bibl n="bibl1">Aur. Vict. caes. 42, 4</bibl>: <quote n="quote1">Quae res satis edocuit non modo domi, verum militiae quoque dicendi copiam praestare; qua demum vel ardua proclivius eo conficiuntur, si modestia atque integritate superet.</quote>
         </note>
       </p>
             <p n="p5">
@@ -333,12 +333,12 @@ cum quosdam familiarium merito
 obiurgasset, deinde uestimentis et magistratu donauit. Et cum
 aliquando a magistro domus suae, in cuius diligentissima fidissimaque
 cura merito conquiescebat, liberius argueretur quod <!-- q-d izd, BLC5a27; qui prvi
-prijepis --> nimia <corr n="corr">indulgentia
+prijepis --> nimia <corr n="corr1">indulgentia
       et</corr> 
                <!-- indulgenti et a izd; indulge-tia et BLC5a27 -->largitate domesticos faceret
-insolentiores, <sic n="sic">placenda</sic>
+insolentiores, <sic n="sic1">placenda</sic>
                <!-- place(n)da izd --> uoce respondit:
-<q n="q">Tuum est familiares meos pro neglecto officio corrigere, meum autem
+<q n="q1">Tuum est familiares meos pro neglecto officio corrigere, meum autem
    pro <!-- pro om. izd; p- BLC5a27 -->illorum in me amore congruis praemiis afficere; id faciendo
 uterque nostrum suo munere optime functus erit.</q> 
    O praeclaram uocem, o
@@ -350,14 +350,14 @@ infortunatissimos quibus tam crudeli fato erepta est.
 Quingentos ferme pascebat familiares, partim illustri, partim nobili, omnes honesto loco natos: praelatos, milites, doctores, oratores, poetas, aut alicui alii
    <!-- 10; pb BLC5a27 -->honestae arti deditos; nullis tantorum sumptibus, nullis grauabatur
 impensis. Hospitem enim sese omnium honestorum uirorum esse dicebat,
-quod <quote xml:id="p5quote1">ipsa ueritate erat uerius</quote>.
-            <note n="note" type="fons" target="#p5quote1">
-               <add n="add" resp="NJ">Cf. <bibl n="bibl">Sen. ep. 66, 8</bibl>: <quote>nihil
+quod <quote n="quote1" xml:id="p5quote1">ipsa ueritate erat uerius</quote>.
+            <note n="note1" type="fons" target="#p5quote1">
+               <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Sen. ep. 66, 8</bibl>: <quote n="quote1">nihil
                      invenies rectius recto, non magis quam verius vero, quam temperato
                      temperatius.</quote>
-                  <bibl>Sen. nat. 2, 34, 2</bibl> Phrasi utetur e. g. Ficinus in versione Plotini a.
-                  1492 primum impressa: <quote>Nihil enim potest ueritate uerius inueniri.</quote>
-                  <bibl>Plot. Enn. 5, 5</bibl>.</add>
+                  <bibl n="bibl2">Sen. nat. 2, 34, 2</bibl> Phrasi utetur e. g. Ficinus in versione Plotini a.
+                  1492 primum impressa: <quote n="quote2">Nihil enim potest ueritate uerius inueniri.</quote>
+                  <bibl n="bibl3">Plot. Enn. 5, 5</bibl>.</add>
             </note> Nam si quis diligentius rem ipsam
 consideret, comperiet procul dubio <!-- proculdubio BLC5a27 --> omnes cardinalium domos nihil aliud
 esse quam honesta hospitia, in quae proborum uirorum liberis uel
@@ -380,15 +380,15 @@ prij --> lacrimis suffusum
                <!-- et BLC5a27; te izd --> cum multa indignatione deum optimum maximumque testem
 citare atque, cum nemo cogeret minimeque ea re opus esset, dirissima
 quaeque in se caputque suum impetrantem si ullas pecunias aut ulla
-<ref n="ref">Symoniacae perfidiae</ref> praemia abs quoquam <!-- quoque?; quoq- BLC5a27 --> eorum accepisset qui nuper in
+<ref n="ref1">Symoniacae perfidiae</ref> praemia abs quoquam <!-- quoque?; quoq- BLC5a27 --> eorum accepisset qui nuper in
 hunc sacrosanctum senatum apostolicum lecti noscuntur, seque ab
 inuidis atque malignis impie ac <corr n="corr2">flagitiose</corr> 
                <!-- flagiciose BLC5a27 --> eius criminis insimulari
-               <quote xml:id="quote7.1">
-          <corr n="corr3">persancte</corr> 
+               <quote n="quote1" xml:id="quote7.1">
+          <corr n="corr1">persancte</corr> 
                <!-- p-sancte BLC5a27 --> iurabat</quote>
-        <note target="#quote7.1">
-          <bibl>Suet. Tit. 10</bibl>
+        <note n="note1" target="#quote7.1">
+          <bibl n="bibl1">Suet. Tit. 10</bibl>
         </note>. Angi eum uehementer et summis animi
 cruciatibus torqueri uideres quod sibi, ut dicebat, per 
 detrahentium liuorem non liceret in uiros praestantes ac bene meritos
@@ -398,31 +398,31 @@ officiosum esse.
 Vbi nunc sunt rubiginosa illa <sic n="sic1">maliuolorum</sic> pectora,  ubi sunt dirissimo
    <!-- 11; pb BLC5a27 -->felle manantia praecordia,  ubi rabidorum canum pestiferi
 dentes, qui
-inexpiabili temeritate ausi sunt os suum in caelo ponere et <ref n="ref">uicarii
-<persName n="persName">Christi</persName>
+inexpiabili temeritate ausi sunt os suum in caelo ponere et <ref n="ref1">uicarii
+<persName n="persName1">Christi</persName>
                </ref> 
                <sic n="sic2">fratremque</sic> eius tam excellentissimorum patrum factum
 damnare <!-- da-pnare BLC5a27 -->
 atque illos praestantissimos uiros, qui prius a domino electi sunt a
 quo sunt omnium regnorum potestates, quam a summo pontifice declarati,
-perditissima audacia lacerare!  Caue, caue tibi, lingua dolosa, ne <quote xml:id="quote2" n="q1a">deus
+perditissima audacia lacerare!  Caue, caue tibi, lingua dolosa, ne <quote xml:id="quote2" n="quote1">deus
 destruat te in finem, euellet te, et emigret te de tabernaculo tuo, et
 radicem tuam de terra uiuentium.</quote>
         <note n="note1" type="fons" target="#quote2">
-                  <add n="add" resp="NJ">Cf. <bibl n="bibl">Ps 52, 5
-(51, 7)</bibl>: <quote n="quote">sed Deus destruet te in sempiternum terrebit et euellet te de tabernaculo et eradicabit te de terra uiuentium semper</quote>
+                  <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Ps 52, 5
+(51, 7)</bibl>: <quote n="quote1">sed Deus destruet te in sempiternum terrebit et euellet te de tabernaculo et eradicabit te de terra uiuentium semper</quote>
                      <!-- cf. https://books.google.hr/books?id=d3OZ42UOjwMC&pg=PA106 versio antiqua: deus
 destruet te in finem, euellat te, et emigret te de tabernaculo suo, et
 radicem tuam de terra uiuentium -->
                   </add>
-               </note> Sed haec illi uiderunt qui <quote xml:id="quote3" n="q2a">fecerunt
+               </note> Sed haec illi uiderunt qui <quote xml:id="quote3" n="quote2">fecerunt
 linguam suam nouaculam acutam</quote>,<note n="note2" type="fons" place="end" target="#quote3">
-                  <add n="add" resp="NJ">Cf. <bibl n="bibl">Ps 52, 2
-(51, 4)</bibl>: <quote n="quote">insidias cogitat lingua tua quasi nouacula acuta faciens dolum</quote>
+                  <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Ps 52, 2
+(51, 4)</bibl>: <quote n="quote1">insidias cogitat lingua tua quasi nouacula acuta faciens dolum</quote>
                   </add> 
                </note> et sedentes aduersus fratrem suum tota
 die concinnabant dolos.  Sed haec illi uiderunt; nos interea reliquas
-<persName n="persName">Petri</persName> uirtutes, non quibus debemus, sed quibus possumus, laudibus
+<persName n="persName1">Petri</persName> uirtutes, non quibus debemus, sed quibus possumus, laudibus
 persequamur <!-- p-sequamur BLC5a27 -->. Itaque, ut propositus ordo postulat, nunc ipsius
 prudentiam contemplemur, quamuis eius excellentia iam per ea, quae
 narrauimus, magna ex parte potuit esse manifesta.  Quamobrem tantum eam
@@ -445,13 +445,13 @@ amplioribus honoribus exciperet et <expan n="expan1">prosequeretur</expan>,<!-- 
 acceptandis adeo prudens temperamentum inibat ut, cum omnium communis
 esset amicus, singuli tamen sibi eum uendicasse putabant.  Vnde sua
 illi negotia credebant, et rerum omnium summam fidei ipsius ultro
-committebant.  Fallebat neminem, et <quote xml:id="p10.quote1">communem rem gerendo singulorum
+committebant.  Fallebat neminem, et <quote n="quote1" xml:id="p10.quote1">communem rem gerendo singulorum
    tamen uidebatur aduocatus</quote>
-        <note target="#p10.quote1">Cf. <bibl>Cic. de fin. 3, 64</bibl>: <quote>ut enim leges omnium salutem singulorum saluti anteponunt, sic vir bonus et sapiens et legibus parens et civilis officii non ignarus utilitati omnium plus quam unius alicuius aut suae consulit.</quote>
+        <note n="note1" target="#p10.quote1">Cf. <bibl n="bibl1">Cic. de fin. 3, 64</bibl>: <quote n="quote1">ut enim leges omnium salutem singulorum saluti anteponunt, sic vir bonus et sapiens et legibus parens et civilis officii non ignarus utilitati omnium plus quam unius alicuius aut suae consulit.</quote>
         </note>. Secedebat bis terque per diem in cubiculum
 aut in aliquem secretiorem locum in quo ad multam horam deambulando
 summas <ref n="ref1">reipublicae christianae</ref> rationes tacitus secum computabat; totas
-enim animi uires, postquam a legatione redierat, in pacem <placeName n="placeName">Italiae</placeName> et
+enim animi uires, postquam a legatione redierat, in pacem <placeName n="placeName1">Italiae</placeName> et
 <ref n="ref2">perfidi hostis Christiani</ref> 
                <expan n="expan2">exitum</expan>
                <!-- exitum; exitium BLC5a27 --> intenderat, id unum moliebatur, id
@@ -466,13 +466,13 @@ curis natus uidebatur; haec erat praecipua eius uoluptas, a qua nullis
 aliis oblectamentis poterat diuelli, huius delectabatur gustu, huius
 solius escis pascebatur. Omnium saluti die noctuque inseruiebat, et
 tamen a nonnullis negligentiae <!-- [b]accusabatur; bacusabat- BLC5a27 -->
-          <corr n="corr">accusabatur</corr>, quem tanquam superbum
+          <corr n="corr1">accusabatur</corr>, quem tanquam superbum
 difficilemque ingrati criminabantur cum tamen et mitissimus esset et
 facillimus.  Nouit hoc tantus domesticorum eius numerus, norunt amici
 et alii omnes qui eius familiaritate usi fuerunt, quibus semper, cum
 per publicas licuisset curas, placidum sese exhibebat, affabilem,
-comem, benignum, ut <quote xml:id="p11.quote1">socium crederes, non dominum</quote>
-               <note target="#p11.quote1">Cf. <bibl>Prop. 2, 34, 15-16</bibl>: <quote>te dominum vitae, te corporis esse licebit, te socium admitto rebus, amice, meis</quote>
+comem, benignum, ut <quote n="quote1" xml:id="p11.quote1">socium crederes, non dominum</quote>
+               <note n="note1" target="#p11.quote1">Cf. <bibl n="bibl1">Prop. 2, 34, 15-16</bibl>: <quote n="quote1">te dominum vitae, te corporis esse licebit, te socium admitto rebus, amice, meis</quote>
         </note>.
             </p>
             <p n="p12">
@@ -480,7 +480,7 @@ comem, benignum, ut <quote xml:id="p11.quote1">socium crederes, non dominum</quo
 Tanta uero animi moderatione erat ut irasceretur perraro, iratus autem
 extemplo animum ad tranquillitatem reuocaret.  De nullo obloquebatur,
 detrahebat <!-- 13, pb BLC5a27 -->nemini, et, nisi familiarium suorum, aliorum uitae minime erat
-curiosus. Maximum eius <sic n="sic">conuitium</sic> putabatur si quem, quod tamen
+curiosus. Maximum eius <sic n="sic1">conuitium</sic> putabatur si quem, quod tamen
 parcissime fiebat, per iocum aliquo urbanitatis sale respersisset.
 </p>
             <p n="p13">
@@ -488,17 +488,17 @@ Cibi uinique moderatissimi, somnolentiae nullius, <corr n="corr1">immo</corr> ue
    qui multis quotidie<!-- quottidie; quotidie BLC5a27 --> horis auroram solitus esset
    praeoccupare, quod totum tempus usque ad solis exortum <corr n="corr2">grauioribus</corr>
                <!-- grauioribus BLC5a27; grouioribus izd --> reipublicae cogitationibus impendere consueuerat; quae tales menti eius assidue obuersabantur, quales mortalium animis uix illabi posse putares. In cognatos ac necessarios nequaquam prodigus, <corr n="corr3">immo</corr> 
-               <!-- ymo BLC5a27 --> uero maxime parcus, excepto <ref n="ref1">hoc piissimo fratre comite <persName n="persName">Hieronymo</persName>
-               </ref>; quem <expan n="expan">quoniam</expan>
-               <!-- q-m izd, BLC5a27 --> ab <ref n="ref2">inclito duce <placeName n="placeName">Mediolani</placeName>
+               <!-- ymo BLC5a27 --> uero maxime parcus, excepto <ref n="ref1">hoc piissimo fratre comite <persName n="persName1">Hieronymo</persName>
+               </ref>; quem <expan n="expan1">quoniam</expan>
+               <!-- q-m izd, BLC5a27 --> ab <ref n="ref2">inclito duce <placeName n="placeName1">Mediolani</placeName>
                </ref> 
                <corr n="corr4">connubio</corr> 
-               <!-- connubio BLC5a27 --> filiae dignatum cernebat, uoluit fraterna munificentia illustrare.  Qua in re tale temperamentum adhibuit ut id cum ingenti honore ac laude sedis apostolicae contingeret.  Vrbem enim <placeName n="placeName">Imolam</placeName>, quae iam praefecti eius culpa ad alios deuenerat, quadraginta<!-- xl izd; quadraginta BLC5a27 --> milibus <!-- millibus BLC5a27 --> ducatorum de propriis facultatibus redemptam imperio<!-- Imperio izd; imperio BLC5a27 --> ecclesiae restituit.  Cuius exaugendi tanto flagrabat studio ut ne minimam quidem eius particulam deperire pateretur.  Vnde urbem illam magis ecclesiae quam fratris gratia uoluit uendicare.
+               <!-- connubio BLC5a27 --> filiae dignatum cernebat, uoluit fraterna munificentia illustrare.  Qua in re tale temperamentum adhibuit ut id cum ingenti honore ac laude sedis apostolicae contingeret.  Vrbem enim <placeName n="placeName1">Imolam</placeName>, quae iam praefecti eius culpa ad alios deuenerat, quadraginta<!-- xl izd; quadraginta BLC5a27 --> milibus <!-- millibus BLC5a27 --> ducatorum de propriis facultatibus redemptam imperio<!-- Imperio izd; imperio BLC5a27 --> ecclesiae restituit.  Cuius exaugendi tanto flagrabat studio ut ne minimam quidem eius particulam deperire pateretur.  Vnde urbem illam magis ecclesiae quam fratris gratia uoluit uendicare.
 </p>
             <p n="p14">
 Porro iustitiam ipsius ex illo spectare licet quod in tanta rerum
 potestate constitutus nemini uim attulit, nullum uiolenter
-oppressit. Vnde et <ref n="ref">uicario illi <placeName n="placeName">Imolae</placeName>
+oppressit. Vnde et <ref n="ref1">uicario illi <placeName n="placeName1">Imolae</placeName>
                </ref>, quamuis de ecclesia male
 merito, non solum uictum, sed nihil<!-- nihil izd; nichil BLC5a27 ;  --> prioribus
    minores fortunas dari curauit.  Quattuordecim<!-- xiiij izd; Quatuordecim BLC5a27 --> enim
@@ -508,12 +508,12 @@ merito, non solum uictum, sed nihil<!-- nihil izd; nichil BLC5a27 ;  --> priorib
    quinque<!-- v izd; quinq- BLC5a27 --> milia ducatorum quotannis capere poterit, neque
 <placeName n="placeName2">Imolam</placeName> nisi eo uolente redimere uoluit.  Magistratus hortabatur ius
 suum absque ullo respectu cuique administrare. Et licet nonnumquam
-domesticorum amicorumque euictus precibus aut litteris aut <sic n="sic">nunciis</sic>
+domesticorum amicorumque euictus precibus aut litteris aut <sic n="sic1">nunciis</sic>
                <!-- nuntijs izd; nu-ciis BLC5a27; nunciis BL27527 --> multos iudicibus commendaret, id tamen <corr n="corr2">citra</corr>
-               <!-- citra BLC5a27, BL27527; circa izd --> cuiusque <!-- cuiusquam BL27527 --> iniuriam fieri uolebat. Vnde et cum a gubernatore urbis aliquando interrogaretur quidnam de illis, qui iniustam causam fouentes tamen ipsius nomine commendabantur, <q n="q1">Illud</q> inquit <q n="q2">ut iustitiam mearum precum gratia minime <corr n="corr">uioles</corr>,<!-- uioles BLC5a27; uiolet izd --> nec secus feceris etiam si te <ref n="ref">germanus meus <persName n="persName">Hieronymus</persName>
+               <!-- citra BLC5a27, BL27527; circa izd --> cuiusque <!-- cuiusquam BL27527 --> iniuriam fieri uolebat. Vnde et cum a gubernatore urbis aliquando interrogaretur quidnam de illis, qui iniustam causam fouentes tamen ipsius nomine commendabantur, <q n="q1">Illud</q> inquit <q n="q2">ut iustitiam mearum precum gratia minime <corr n="corr1">uioles</corr>,<!-- uioles BLC5a27; uiolet izd --> nec secus feceris etiam si te <ref n="ref1">germanus meus <persName n="persName1">Hieronymus</persName>
                   </ref>
-                  <!-- Hieronymus BLC5a27; Hironimus izd --> nomine meo aliud precabitur.</q>  Hoc ipsum et senatori urbis interrogatus respondit, hoc gubernatoribus, hoc praefectis, hoc omnibus legationis suae iudicibus saepe mandabat. Dicebat enim se amicis operam suam rogantibus negare non posse, sed illius causa non nisi <quote xml:id="p14.quote1">iustum honestumque</quote>
-        <note target="#p14.quote1">Cf. <bibl>Sen. ep. 95, 63</bibl>: <quote>Iustum autem honestumque decretorum nostrorum continet ratio</quote>.</note> fieri permaxime uelle. Hinc et rescripta non nisi sanctissima faciebat, <corr n="corr3">atque</corr>,<!-- atq- BLC5a27; adque izd --> ne cui ministrorum peccandi daretur occasio, omnium decretorum suorum, similiter et litterarum, exemplaria apud notarios <corr n="corr4">exstare</corr> 
+                  <!-- Hieronymus BLC5a27; Hironimus izd --> nomine meo aliud precabitur.</q>  Hoc ipsum et senatori urbis interrogatus respondit, hoc gubernatoribus, hoc praefectis, hoc omnibus legationis suae iudicibus saepe mandabat. Dicebat enim se amicis operam suam rogantibus negare non posse, sed illius causa non nisi <quote n="quote1" xml:id="p14.quote1">iustum honestumque</quote>
+        <note n="note1" target="#p14.quote1">Cf. <bibl n="bibl1">Sen. ep. 95, 63</bibl>: <quote n="quote1">Iustum autem honestumque decretorum nostrorum continet ratio</quote>.</note> fieri permaxime uelle. Hinc et rescripta non nisi sanctissima faciebat, <corr n="corr3">atque</corr>,<!-- atq- BLC5a27; adque izd --> ne cui ministrorum peccandi daretur occasio, omnium decretorum suorum, similiter et litterarum, exemplaria apud notarios <corr n="corr4">exstare</corr> 
                <!-- extare BLC5a27 --> iusserat. Huius praeclarissimae uirtutis nec moriens obliuisci potuit; nam cum hortaretur ab amicis testamentum condere, <q n="q3">Nihil</q>,<!-- nichil BLC5a27; nihil izd --> inquit, <q n="q4">meum habeo, omnia sunt ecclesiae.  Supplicabitis tamen meo nomine summo pontifici ut aes alienum, cuius maiorem partem pro redimendis ecclesiae rebus contraxi, pro sua benignitate dissoluat.</q> 
             </p>
             <p n="p15">
@@ -530,7 +530,7 @@ summi pontificis nostri a prima eius familiaritatis die usque ad
 ultimum uitae exitum; nullos pro eo recusauit subire labores, nulla
 pericula deuitauit; laborantem, aegrotantem, peregrinantem nunquam
 deseruit, nunquam ab officio decessit,<!-- discessit BLC5a27, BL17814, BL27527, ja; offico decessit BL18645; decessit izd --> semperque ut datus a domino
-<persName n="persName">Tobiae</persName> angelus <!-- cf... --> lateri haesit, aduersa procurauit, accersiuit prospera,
+<persName n="persName1">Tobiae</persName> angelus <!-- cf... --> lateri haesit, aduersa procurauit, accersiuit prospera,
 pia sedulitate fouit, coluit, ueneratus est, ut nemini mirum uideri
 debeat si aut uiuentem tantum dilexit, aut nunc mortui <corr n="corr3">desiderio</corr> 
                <!-- desyderio BLC5a27; desiderio BL18645 --> adeo
@@ -540,11 +540,11 @@ moueatur.
           <!-- p BLC5a27 -->
 Finem dicendi faciam si prius illud summum eius pietatis munus
 paucis explicauero. Compositis rebus suis totam mentem ad illud
-conuerterat ut dicere cum psalmista libere posset: <quote n="q" xml:id="quote4">Domine, dilexi
+conuerterat ut dicere cum psalmista libere posset: <quote n="quote1" xml:id="quote4">Domine, dilexi
    decorem domus tuae et gloriam habitationis tuae.</quote>
-               <note n="note" type="fons" place="end" target="#quote4">
-                  <add n="add" resp="NJ">Cf. <bibl n="bibl">Ps 26, 8
-(25, 8)</bibl>: <quote n="quote">Domine dilexi habitaculum domus tuae et locum tabernaculi gloriae tuae</quote>.</add> 
+               <note n="note1" type="fons" place="end" target="#quote4">
+                  <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Ps 26, 8
+(25, 8)</bibl>: <quote n="quote1">Domine dilexi habitaculum domus tuae et locum tabernaculi gloriae tuae</quote>.</add> 
                </note>
             </p>
             <p n="p17">
@@ -587,9 +587,9 @@ his proximis diebus adiecturus erat praestantissimis omnium scientiarum
 libris egregie refertam.  Sed dei uoluntate nobis tam repente ademptus
 est, non quod tam piis operibus non delectaretur deus, uerum (quod
 ualde pertimesco) ut eum calamitatibus, quibus forsan in nostra crimina
-               <corr n="corr10">desaeuire</corr> decreuit, immeritum subtraheret, et pro <quote xml:id="p17.quote1">adimpleto bene
+               <corr n="corr10">desaeuire</corr> decreuit, immeritum subtraheret, et pro <quote n="quote1" xml:id="p17.quote1">adimpleto bene
                   ministerio</quote>
-        <note target="#p17.quote1">Cf. <bibl>Aug. ep. 142</bibl>: <quote>ministerium vestrum sinceriter adimplete</quote>
+        <note n="note1" target="#p17.quote1">Cf. <bibl n="bibl1">Aug. ep. 142</bibl>: <quote n="quote1">ministerium vestrum sinceriter adimplete</quote>
         </note>
         <!-- misterio BL18645 -->, cuius <corr n="corr11">gratia</corr>
                <!-- gracia BL18645; gratia BL27527; gra- BL17814 --> eum procreauerat, congruis praemiis afficere
@@ -611,45 +611,45 @@ praesto exsistentibus in nullos prorupit <corr n="corr1">fletus</corr>, <corr n=
 accusauit, nec se in medio iuuentutis flore ex tanto imperio et ex
 talibus operibus<!-- opib- BLC5a27, BL17814, BL27527; opibus ja; operib- BL18645 --> subtrahi uel leuiter indoluit;
 quin magno constantique pectore <q n="q1">Sentio,</q> inquit, <q n="q2">filii
-   fratresque mei, <quote xml:id="q2.quote1a">manum domini super me<!-- 18, pb BLC5a27 --> aggrauari</quote>
-   <note target="#q2.quote1a">Cf. <bibl>1 Samuel 5.6</bibl>
-            <quote>Aggravata est autem manus Domini super Azotios</quote>.</note>; <corr n="corr1">uolens</corr>
+   fratresque mei, <quote n="quote1" xml:id="q2.quote1a">manum domini super me<!-- 18, pb BLC5a27 --> aggrauari</quote>
+   <note n="note1" target="#q2.quote1a">Cf. <bibl n="bibl1">1 Samuel 5.6</bibl>
+            <quote n="quote1">Aggravata est autem manus Domini super Azotios</quote>.</note>; <corr n="corr1">uolens</corr>
                   <!--
-uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. --> lubensque <quote xml:id="q2.quote1b">eius praesto sum uoluntati</quote>
-          <note target="#q2.quote1b">Cf. <bibl>S. Bernard, De annuntiatione domini sermo II, 3</bibl>: 
-      <quote>Ecce ancilla Domini: praesto sum ejus voluntati</quote>.</note>, eo
-   quidem libentior quo <quote xml:id="p18.quote3">me et famae et gloriae meae satis uixisse scio</quote>
-          <note target="#p18.quote3">Cf. <bibl>Cic. pro Marc. 25</bibl>: <quote> Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi: "Satis diu vel naturae vixi vel gloriae.''</quote>
+uole-s BL17814; nole-s BLC5a27, BL18645; nolens BL27527, izd, prvi pr. --> lubensque <quote n="quote2" xml:id="q2.quote1b">eius praesto sum uoluntati</quote>
+          <note n="note2" target="#q2.quote1b">Cf. <bibl n="bibl1">S. Bernard, De annuntiatione domini sermo II, 3</bibl>: 
+      <quote n="quote1">Ecce ancilla Domini: praesto sum ejus voluntati</quote>.</note>, eo
+   quidem libentior quo <quote n="quote3" xml:id="p18.quote3">me et famae et gloriae meae satis uixisse scio</quote>
+          <note n="note3" target="#p18.quote3">Cf. <bibl n="bibl1">Cic. pro Marc. 25</bibl>: <quote n="quote1"> Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi: "Satis diu vel naturae vixi vel gloriae.''</quote>
           </note>. <corr n="corr2">Cepi</corr>
                   <!-- Cepi BL17814, BL27527, BL18645 -->
 enim illum ex hac mortalitate fructum quem maximum mea fortuna capere
 potuit. Maius restabat nihil,<!-- nichil BLC5a27; nichil 1; nihil BL18645, BL17814, BL27527 izd --> quicquid
 supererat, merito mihi suspectum metuendumque
 fuisset. <corr n="corr3">Proinde</corr>
-                  <!-- Proinde BL17814, BL27527; Proind- BLC5a27; Prouide BL18645, plannck --> licet <quote n="q3a" xml:id="quote5">cupiam dissolui et esse cum Christo, uror
-   tamen sola uestrarum rerum cura</quote>.<note n="note1" type="fons" place="end" target="#quote5">
-                     <add n="add" resp="NJ">Cf. <bibl n="bibl">Philip. 1, 23--24</bibl> 
-                        <quote n="quote">coartor
+                  <!-- Proinde BL17814, BL27527; Proind- BLC5a27; Prouide BL18645, plannck --> licet <quote n="quote4" xml:id="quote5">cupiam dissolui et esse cum Christo, uror
+   tamen sola uestrarum rerum cura</quote>.<note n="note4" type="fons" place="end" target="#quote5">
+                     <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Philip. 1, 23--24</bibl> 
+                        <quote n="quote1">coartor
 autem e duobus desiderium habens dissolui et cum Christo esse multo
 magis melius permanere autem in carne magis necessarium est propter
 uos</quote>.</add>
                   </note> Cognosco enim me tenuem uobis mercedem pro meritis
-   exhibuisse <!-- exhibuisse BL17814, BL27527; exipuisse BL18645 -->, tametsi <quote xml:id="q2.quote5b">nunquam mihi uoluntas defuerit, sed facultas</quote>
-          <note target="#q2.quote5b">
-      Cf. <bibl>Guerricus Igniacensis, Sermones per annum, PL (auctor 1075-1157)</bibl>
-      <quote>Cum deest facultas, sufficit ad emendum bona voluntas, qua plerumque sunt ditiores, qui rebus sunt pauperiores.</quote>
-      <bibl>Innocentius III, Sermones communes, PL (auctor -1216)</bibl>
-      <quote>» Mox enim audivit: « Hodie mecum eris in paradiso (Luc. XXIII) . » Nullus ergo desperet, quia sufficit voluntas, ubi deest facultas.</quote>
+   exhibuisse <!-- exhibuisse BL17814, BL27527; exipuisse BL18645 -->, tametsi <quote n="quote5" xml:id="q2.quote5b">nunquam mihi uoluntas defuerit, sed facultas</quote>
+          <note n="note5" target="#q2.quote5b">
+      Cf. <bibl n="bibl1">Guerricus Igniacensis, Sermones per annum, PL (auctor 1075-1157)</bibl>
+      <quote n="quote1">Cum deest facultas, sufficit ad emendum bona voluntas, qua plerumque sunt ditiores, qui rebus sunt pauperiores.</quote>
+      <bibl n="bibl2">Innocentius III, Sermones communes, PL (auctor -1216)</bibl>
+      <quote n="quote2">» Mox enim audivit: « Hodie mecum eris in paradiso (Luc. XXIII) . » Nullus ergo desperet, quia sufficit voluntas, ubi deest facultas.</quote>
    </note>. Et
 nisi tanta temporis angustia prohibitus fuissem, nullus uestrum meae
 gratitudinis uices doleret. Meritum, quod potui, moriens uobis
 persolui. Supplicaui <!-- Supplicauit BL17814 --> summo pontifici ut beneficia, quae in me
 contulerat, sua clementia inter uos partiatur, ut et uos meritorum
 uestrorum et me non praestiti officii minus <corr n="corr4">paeniteat</corr>.<!-- peniteat BLC5a27, BL17814, BL27527, pe-iteat BL18645; consecutio? --> Ad haec compellit
-me et uehementius urget mea erga uos <quote xml:id="p18.quote7">incredibilis caritas</quote>
-   <note target="#p18.quote7">
-      Cf. <bibl>S. Bern. Sermones Super cantica canticorum 79, 6</bibl>: 
-      <quote>Incredibilis caritas, si non sermo, quem locuta est ipsa, fecisset fidem.</quote>
+me et uehementius urget mea erga uos <quote n="quote6" xml:id="p18.quote7">incredibilis caritas</quote>
+   <note n="note6" target="#p18.quote7">
+      Cf. <bibl n="bibl1">S. Bern. Sermones Super cantica canticorum 79, 6</bibl>: 
+      <quote n="quote1">Incredibilis caritas, si non sermo, quem locuta est ipsa, fecisset fidem.</quote>
    </note>ut uos
 horter atque obtester ne huius mundi illecebris atque lenociniis
 animum uestrum inducatis, neue in luxu ac <corr n="corr5">inanibus</corr>
@@ -658,21 +658,21 @@ animum uestrum inducatis, neue in luxu ac <corr n="corr5">inanibus</corr>
                   <!-- diuiciis BLC5a27, BL17814, BL27527; diuitijs BL18645 --> spem ullam ponatis; quae quam <corr n="corr7">fluxae</corr> 
                   <!-- fluxe BLC5a27; fluxe BL18645, BL27527 --> quamque fallaces
 sint, ego unus uobis maximo possum esse documento. Credite quoniam
-<quote n="q4a" xml:id="quote6">puluis et umbra sumus</quote>
-          <note n="note2" type="fons" place="end" target="#quote6">
-                     <add n="add" resp="NJ">
-                        <bibl n="bibl">Hor. C. 4, 7, 16</bibl>
+<quote n="quote7" xml:id="quote6">puluis et umbra sumus</quote>
+          <note n="note7" type="fons" place="end" target="#quote6">
+                     <add n="add1" resp="NJ">
+                        <bibl n="bibl1">Hor. C. 4, 7, 16</bibl>
                      </add>
-                  </note> et <quote xml:id="quote6a">non hic, sed
+                  </note> et <quote n="quote8" xml:id="quote6a">non hic, sed
 alibi permanentes habemus mansiones; ubi nihil corruptibile, nihil
 caducum esse potest, sed omnia incorruptibilia, omnia
 sempiterna.</quote>
-          <note target="#quote6a">Cf. Io 14, 2-3  <quote>2 in domo Patris mei mansiones multae sunt si quo minus dixissem vobis quia vado parare vobis locum
+          <note n="note8" target="#quote6a">Cf. Io 14, 2-3  <quote n="quote1">2 in domo Patris mei mansiones multae sunt si quo minus dixissem vobis quia vado parare vobis locum
    3 et si abiero et praeparavero vobis locum iterum venio et accipiam vos ad me ipsum ut ubi sum ego et vos sitis</quote>
 </note> Proinde date operam probitati, et uirtuti totis uiribus
-incumbite.  Colite pietatem et <!-- et BLC5a27, BL17814, BL27527; et om. plannck; , BL18645 -->integritati nihil anteponite, scientes unicuique uestrum <quote xml:id="p18.quote8">propositam esse a domino laborum suorum mercedem</quote>
-   <note target="#p18.quote8">
-      Cf. <bibl>Sap. 10, 17</bibl>: <quote>reddidit iustis mercedem laborum suorum</quote>.
+incumbite.  Colite pietatem et <!-- et BLC5a27, BL17814, BL27527; et om. plannck; , BL18645 -->integritati nihil anteponite, scientes unicuique uestrum <quote n="quote9" xml:id="p18.quote8">propositam esse a domino laborum suorum mercedem</quote>
+   <note n="note9" target="#p18.quote8">
+      Cf. <bibl n="bibl1">Sap. 10, 17</bibl>: <quote n="quote1">reddidit iustis mercedem laborum suorum</quote>.
    </note>; quae etiam si nulla esset, hoc tamen<!-- 19; pb BLC5a27 -->
    ipsum <corr n="corr8">pie</corr> 
                   <!-- pię BLC5a27; pie BL18645, BL17814 -->et sancte uixisse maxima uiro bono merces esse debet, quippe
@@ -682,42 +682,42 @@ incumbite.  Colite pietatem et <!-- et BLC5a27, BL17814, BL27527; et om. plannck
             </p>
             <p n="p19">
           <!-- p BLC5a27 -->
-               <q n="q">Reliquum est quod uos <quote xml:id="quote19.6">per uiscera <corr n="corr1">misericordiae</corr> saluatoris nostri</quote>
-          <note n="note" type="fons" place="end" target="#quote19.6">
-                  <add n="add" resp="NJ">Cf. <bibl n="bibl">Lk 1, 78</bibl>: <quote n="quote">per viscera misericordiae Dei nostri in quibus visitavit nos oriens ex alto.</quote>
+               <q n="q1">Reliquum est quod uos <quote n="quote1" xml:id="quote19.6">per uiscera <corr n="corr1">misericordiae</corr> saluatoris nostri</quote>
+          <note n="note1" type="fons" place="end" target="#quote19.6">
+                  <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Lk 1, 78</bibl>: <quote n="quote1">per viscera misericordiae Dei nostri in quibus visitavit nos oriens ex alto.</quote>
                   </add>
                </note>
 supplex deprecor ut mihi, quaecumque in uos deliqui, condonare
 dignemini. Minus quippe meae iuuentutis potens fui, et nonnunquam
-partim oculos, partim aures uestras in multis offendi. <add n="add" resp="inc">Sed eorum tanto
+partim oculos, partim aures uestras in multis offendi. <add n="add1" resp="inc">Sed eorum tanto
    facilius me a domino misericordiarum <!-- misericordiam BLC5a27, BL17814, BL27527 --> consecuturum confido quanto uos
    modestius uiuentes pro me dominum deprecabimini.</add>
-                  <note n="note" place="end" type="crit">
-                     <add n="add" resp="NJ">Sed eorum... deprecabimini: deest in editione S. Plannck.</add>
+                  <note n="note2" place="end" type="crit">
+                     <add n="add1" resp="NJ">Sed eorum... deprecabimini: deest in editione S. Plannck.</add>
                   </note>
-                  <!-- Sed... deprecabimini BLC5a27, BL17814; om. plannck, BL18645 --> Ego quoque, si quis mortuis <!-- mortuus BL27527 --> erit sensus, idem pro uobis me spondeo facturum. Viuite <!-- Uite BL18645; Viuite BL27527 --> mei memores et, quam caduca sit huius mundi <corr n="corr2">felicitas</corr> 
+                  <!-- Sed... deprecabimini BLC5a27, BL17814; om. plannck, BL18645 --> Ego quoque, si quis mortuis <!-- mortuus BL27527 --> erit sensus, idem pro uobis me spondeo facturum. Viuite <!-- Uite BL18645; Viuite BL27527 --> mei memores et, quam caduca sit huius mundi <corr n="corr1">felicitas</corr> 
                   <!-- felicitas BL18645, BL17814, BL27527 -->, uel meo exemplo discite.</q>
             </p>
             <p n="p20">
           <!-- nema plannck, nema BLC5a27 -->
-               His atque aliis huiusmodi plerisque summa cum religione sanctissime monitos singulos flentes eiulantesque <corr n="corr">deosculatus</corr>
+               His atque aliis huiusmodi plerisque summa cum religione sanctissime monitos singulos flentes eiulantesque <corr n="corr1">deosculatus</corr>
                <!-- deosculatus BL18645, BL17814; deosculatos BL27527 --> dimisit. Se autem in lectulo componens, intentis iugiter in caelum oculis, misericordiam peccatorum suorum supplex a domino precabatur. Cumque iam nox intempesta medium cursum peregisset, conuersus ad Viterbiensem praesulem <q n="q1">
-          <quote xml:id="p20.quote1">Ecce,</quote>
+          <quote n="quote1" xml:id="p20.quote1">Ecce,</quote>
         </q> inquit, <q n="q2">
-          <quote xml:id="p20.quote1a">appropinquat iam <!-- iam om. BL27527 --> hora</quote>;<note target="#p20.quote1">Cf. <bibl>Mt 26, 45</bibl>: <quote>ecce appropinquavit hora</quote>
-          </note> affer mihi<!-- michi 1, BLC5a27; mihi BL18645, BL17814, BL27527 --> <corr n="corr">sacrae</corr> unctionis oleum.</q>  Quod confestim cubiculo illatum nudato ac sublato, ut poterat, capite, religiose ueneratus est, deinde exhibitis manibus ac pedibus rite perunctus; quo facto <q n="q3">Proferte,</q> inquit <q n="q4">sacros codices, et aliquid de diuinis <corr n="corr">mysteriis</corr> meam domino animam commendantes recitate.</q> Quibus mox prolatis usque in lucem partim psalmi decantati sunt, partim lecta euangelia, semperque intentus auribus atque oculis in ea quae legebantur, etiam<!-- 20 --> deficiente spiritu, perstitit, donec lector dominicae passionis ad
-illum locum peruenit ubi scriptura inquit <quote n="q5" xml:id="quote7">et inclinato capite emisit
+          <quote n="quote1" xml:id="p20.quote1a">appropinquat iam <!-- iam om. BL27527 --> hora</quote>;<note n="note1" target="#p20.quote1">Cf. <bibl n="bibl1">Mt 26, 45</bibl>: <quote n="quote1">ecce appropinquavit hora</quote>
+          </note> affer mihi<!-- michi 1, BLC5a27; mihi BL18645, BL17814, BL27527 --> <corr n="corr1">sacrae</corr> unctionis oleum.</q>  Quod confestim cubiculo illatum nudato ac sublato, ut poterat, capite, religiose ueneratus est, deinde exhibitis manibus ac pedibus rite perunctus; quo facto <q n="q3">Proferte,</q> inquit <q n="q4">sacros codices, et aliquid de diuinis <corr n="corr1">mysteriis</corr> meam domino animam commendantes recitate.</q> Quibus mox prolatis usque in lucem partim psalmi decantati sunt, partim lecta euangelia, semperque intentus auribus atque oculis in ea quae legebantur, etiam<!-- 20 --> deficiente spiritu, perstitit, donec lector dominicae passionis ad
+illum locum peruenit ubi scriptura inquit <quote n="quote1" xml:id="quote7">et inclinato capite emisit
    spiritum.</quote>
-               <note n="note" type="fons" place="end" target="#quote7">
-                  <add n="add" resp="NJ">Cf. <bibl n="bibl">Io 19, 30</bibl>: <quote n="quote">et inclinato capite tradidit spiritum.</quote>
+               <note n="note1" type="fons" place="end" target="#quote7">
+                  <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Io 19, 30</bibl>: <quote n="quote1">et inclinato capite tradidit spiritum.</quote>
                   </add>
                </note>
             </p>
             <p n="p21">
 Ad hanc uocem illa dilecta deo anima ueluti certo accepto signo ad
 dominum suum confestim euolauit.<!-- BLC5a27, BL18645; tantum plannck; nema BL17814, BL27527 -->
-          <note n="note" place="end" type="crit">
-                  <add n="add" resp="NJ">Ad hanc... euolauit: deest in editione M. Cerdonis.</add>
+          <note n="note1" place="end" type="crit">
+                  <add n="add1" resp="NJ">Ad hanc... euolauit: deest in editione M. Cerdonis.</add>
                </note>
             </p>
             <p n="p22">
@@ -727,28 +727,28 @@ ingemiscere habeamus, quoniam in paucis annis maximam aetatem
 compleuit; nec sibi nec gloriae suae parum uixit qui, quaecumque unius
 hominis fortuna capere potuit, abunde consecutus est. Nobis forsan
 amplius uiuere poterat, et nimirum magno et ornamento et utilitati. Sed non
-est amicorum officium <quote xml:id="quote22.1">sua commoda ex amici spectare
-   <corr n="corr">incommodis</corr>
+est amicorum officium <quote n="quote1" xml:id="quote22.1">sua commoda ex amici spectare
+   <corr n="corr1">incommodis</corr>
         </quote>
-        <note n="note" type="fons" place="end" target="#quote22.1">
-      <add n="add" resp="NJ">Cf. <bibl n="bibl">Ter. Andr. 627-628</bibl>: <quote n="quote">ex incommodis
+        <note n="note1" type="fons" place="end" target="#quote22.1">
+      <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Ter. Andr. 627-628</bibl>: <quote n="quote1">ex incommodis
          alterius sua ut comparent commoda?</quote>
       </add>
    </note>.  Quicquid superuixisset, doloribus superuixisset et
 laboribus; quibus quoniam eum diuina clementia misericorditer
-subduxit, gratias illi agamus atque dicamus <quote n="q" xml:id="quote8">Dominus dedit, dominus
+subduxit, gratias illi agamus atque dicamus <quote n="quote2" xml:id="quote8">Dominus dedit, dominus
 abstulit; sicut domino placuit, ita factum est; sit nomen domini
 benedictum.</quote>
-               <note n="note" type="fons" place="end" target="#quote8">
-                  <add n="add" resp="NJ">Cf. <bibl n="bibl1">Iob 1, 21</bibl>: <quote n="quote1">Dominus dedit Dominus abstulit sit
-nomen Domini benedictum</quote>; <bibl n="bibl2">Noua Vulgata, <abbr n="abbr">ibid</abbr>
+               <note n="note2" type="fons" place="end" target="#quote8">
+                  <add n="add1" resp="NJ">Cf. <bibl n="bibl1">Iob 1, 21</bibl>: <quote n="quote1">Dominus dedit Dominus abstulit sit
+nomen Domini benedictum</quote>; <bibl n="bibl2">Noua Vulgata, <abbr n="abbr1">ibid</abbr>
                      </bibl>: <quote n="quote2">Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est:
 sit nomen Domini benedictum.</quote>
                   </add> 
                </note> Amen.
 </p>
-            <closer n="closer">
-               <add n="add" resp="inc">ET SIC EST FINIS.</add> 
+            <closer n="closer1">
+               <add n="add1" resp="inc">ET SIC EST FINIS.</add> 
                <!-- BL17814; nema BLC5a27, nema BL18645; Laus deo.  Impressum Padue die penultima / Augusti. 1482. Per Matheum Cerdonis. BL27527 -->
             </closer>
          

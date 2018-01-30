@@ -94,8 +94,8 @@
       </revisionDesc>
    </teiHeader>
    <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1p:" xml:lang="lat" type="prosa-oratio">
-        <body n="body">
-            <head n="head">Oratio in funere reuerendissimi domini D. Petri cardinalis sancti Sixti
+        <body n="body1">
+            <head n="head1">Oratio in funere reuerendissimi domini D. Petri cardinalis sancti Sixti
                 habita a reuerendo patre domino Nicolao episcopo Modrusiensi. </head>
             <p n="p1"> Cum in omni funebri celebratione duo praecipue dicendi genera a maioribus
                 nostris usurpari soleant, amplissimi patres, alterum quo tristes amicorum animos
@@ -466,7 +466,7 @@
                 clementia misericorditer subduxit, gratias illi agamus atque dicamus Dominus dedit,
                 dominus abstulit; sicut domino placuit, ita factum est; sit nomen domini benedictum.
                 Amen. </p>
-            <closer n="closer"> ET SIC EST FINIS. </closer>
+            <closer n="closer1"> ET SIC EST FINIS. </closer>
         </body>
    </text>
 </TEI>
