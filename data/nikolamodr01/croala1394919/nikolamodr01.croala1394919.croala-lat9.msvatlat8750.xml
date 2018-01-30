@@ -1069,7 +1069,7 @@
                                 <w>tam</w>
                                 <w>cele<lb/>berrimis</w>
                                 <w>Italiae</w>
-                                <sic resp="#viaf6913774"><w>ginnasiis</w></sic>
+                                <w><orig>ginnasiis</orig></w>
                                 <w>aut</w>
                                 <w>liberalium</w>
                                 <w>artium</w>
@@ -1309,7 +1309,7 @@
                                 <w>futurus</w>
                                 <lb/><w>summus</w>
                                 <w>pontifex</w>
-                                <sic resp="#viaf6913774"><w>designatus</w><w>erat</w></sic>
+                                <sic resp="#viaf6913774"><w>designatus</w> <w>erat</w></sic>
                                 <pc>;</pc>
                                 <w>ubi</w>
                                 <w>et</w>
@@ -1465,7 +1465,7 @@
                                 <w>certamque</w>
                                 <w>esse</w>
                                 <lb/><w>illam</w>
-                                <sic resp="#viaf6913774"><w>Nabuchodonosor</w></sic>
+                                <w><orig>Nabuchodonosor</orig></w>
                                 <w>confessionem</w>
                                 <w>in</w>
                                 <w>quam</w>
@@ -1500,7 +1500,7 @@
                                 <w>eius</w>
                                 <w>possit</w>
                                 <w>obsistere</w>
-                                <sic resp="#viaf6913774"><w>uolunptati</w></sic>
+                                <w><orig>uolunptati</orig></w>
                                 <w>aut</w>
                                 <lb/><w>dicere</w>
                                 <w>illi</w>
@@ -1599,7 +1599,7 @@
                                 <w>et</w>
                                 <lb/><w>suppellex</w>
                                 <w>imperialibus</w>
-                                <sic resp="#viaf6913774"><w>fascibus</w></sic>
+                                <w><orig>fascibus</orig></w>
                                 <w>digna</w>
                                 <pc>.</pc>
                                 <w>Turpe</w>
@@ -2343,9 +2343,9 @@
                                 <w>sunt</w>
                                 <lb/><w>rubiginosa</w>
                                 <w>illa</w>
-                                <sic resp="#viaf6913774">
-                                        <w>maliuolorum</w>
-                                </sic>
+                                <w><orig>
+                                        maliuolorum
+                                </orig></w>
                                 <w>pectora</w>
                                 <pc>,</pc>
                                 <w>ubi</w>
@@ -2533,9 +2533,9 @@
                                 <w>unius</w>
                                 <w>erga</w>
                                 <lb/><w>eum</w>
-                                <sic resp="#viaf6913774">
-                                        <w>beniuolentiam</w>
-                                </sic>
+                                <w><orig>
+                                        beniuolentiam
+                                </orig></w>
                                 <w>consideres</w>
                                 <pc>,</pc>
                                 <w>credas</w>
@@ -2812,7 +2812,7 @@
                                 <w>mitissimus</w>
                                 <w>esset</w>
                                 <w>et</w>
-                                <sic resp="#viaf6913774"><w>facilli<lb/>ssimus</w></sic>
+                                <w><sic resp="#viaf6913774">facilli<lb/>ssimus</sic></w>
                                 <pc>.</pc>
                                 <w>Nouit</w>
                                 <w>hoc</w>
@@ -3227,9 +3227,9 @@
                                 <w>te</w>
                                 <w>germa<lb/>nus</w>
                                 <w>meus</w>
-                                <sic resp="#viaf6913774">
-                                        <w>Hieronimus</w>
-                                </sic>
+                                <w><orig>
+                                        Hieronimus
+                                </orig></w>
                                 <w>nomine</w>
                                 <w>meo</w>
                                 <w>aliud</w>
@@ -3594,7 +3594,7 @@
                                 <pc>;</pc>
                                 <w>praedia</w>
                                 <w>occupata</w>
-                                <sic resp="#viaf6913774"><w>uendicata</w></sic>
+                                <w><orig>uendicata</orig></w>
                                 <pc>,</pc>
                                 <w>bo<lb/>na</w>
                                 <w>priorum</w>
@@ -3706,9 +3706,9 @@
                                 <w>Testatur</w>
                                 <w>Papie</w>
                                 <w>Maioli</w>
-                                <sic resp="#viaf6913774">
-                                        <w>phanum</w>
-                                </sic>
+                                <w><orig>
+                                        phanum
+                                </orig></w>
                                 <w>in</w>
                                 <w>quo</w>
                                 <w>ne</w>
@@ -3756,9 +3756,9 @@
                                 <w>ac</w>
                                 <w>uestimentorum</w>
                                 <w>copia</w>
-                                <sic resp="#viaf6913774">
-                                        <w>habundat</w>
-                                </sic>
+                                <w><orig>
+                                        habundat
+                                </orig></w>
                                 <lb/><w>ut</w>
                                 <w>aliae</w>
                                 <w>ecclesiae</w>
@@ -3777,9 +3777,9 @@
                                 <pc>.</pc>
                                 <w>Huius</w>
                                 <w>eiusdem</w>
-                                <sic resp="#viaf6913774">
-                                        <w>phani</w>
-                                </sic>
+                                <w><orig>
+                                        phani
+                                </orig></w>
                                 <w>distracta</w>
                                 <w>praedia</w>
                                 <w>multis</w>
@@ -4036,7 +4036,7 @@
                                 <lb/><sic resp="#viaf6913774"><w>opibus</w></sic>
                                 <w>subtrahi</w>
                                 <w>uel</w>
-                                <sic resp="#viaf6913774"><w>ueliter</w></sic>
+                                <w><sic resp="#viaf6913774">ueliter</sic></w>
                                 <w>indoluit</w>
                                 <pc>;</pc>
                                 <w>quin</w>
@@ -4135,7 +4135,7 @@
                                 <sic resp="#viaf6913774"><w>mihi</w>
                                         <w>nunquam</w>
                                 </sic>
-                                <sic resp="#viaf6913774"><w>uolunptas</w></sic>
+                                <w><orig><w>uolunptas</w></orig></w>
                                 <lb/><w>defuerit</w>
                                 <pc>,</pc>
                                 <w>sed</w>
@@ -4294,7 +4294,7 @@
                                 <w>Colite</w>
                                 <w>pietatem</w>
                                 <pc>,</pc>
-                                <sic resp="#viaf6913774"><w>et</w></sic>
+                                <w><sic resp="#viaf6913774">et</sic></w>
                                 <w>integritati</w>
                                 <w>nihil</w>
                                 <w>anteponite</w>
@@ -4540,9 +4540,9 @@
                                 <w>aliquid</w>
                                 <w>de</w>
                                 <w>diui<lb/>nis</w>
-                                <sic resp="#viaf6913774">
-                                        <w>misteriis</w>
-                                </sic>
+                                <w><orig>
+                                        misteriis
+                                </orig></w>
                                 <w>meam</w>
                                 <w>domino</w>
                                 <w>animam</w>
@@ -4670,7 +4670,7 @@
                                 <w>capere</w>
                                 <w>potuit</w>
                                 <pc>,</pc>
-                                <sic resp="#viaf6913774"><w>habunde</w></sic>
+                                <w><orig>habunde</orig></w>
                                 <w>consecutus</w>
                                 <w>est</w>
                                 <pc>.</pc>
@@ -4697,7 +4697,7 @@
                                 <w>commo<lb/>da</w>
                                 <w>ex</w>
                                 <w>amici</w>
-                                <sic resp="#viaf6913774"><w>expectare</w></sic>
+                                <w><orig resp="#viaf6913774">expectare</orig></w>
                                 <w>incommodis</w>
                                 <pc>.</pc>
                                 <w>Quicquid</w>
@@ -4744,7 +4744,7 @@
                                 <pc>.</pc><lb/>
                         </p>
                         <closer>
-                                <sic resp="#viaf6913774"><w>Finis</w></sic>
+                                <add resp="scriba"><w>Finis</w></add>
                         </closer>
                 </body>
         </text>
