@@ -1,0 +1,25 @@
+http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff=praesagus%20divinitas&table=&level2_name=&from_year=&to_year=&mode=SPH_MATCH_EXTENDED2&lang=0&corpus=all&verses=&lemmatised=1&suchenin=alle
+
+'praesagus divinitas' - lemmatised search in All Authors, Showing 1 to 11 of 11 hits
+1	Eugyppius Africae, Vita Sancti Severini [CSEL], p2, 30, 1; 2 (auctor c.455-533)
+	quos seruufc dei diuinitatis instinctu commonitus praesaga mente praestruxit ut omnem paupertatis suae sufficientiam intra muros concluderent quatenus inimicorum feralis excursio nihil humanitatis inueniens statim fame compulsa immania crudelitatis coepta desereret
+2	Eugyppius Africae, Vita Sancti Severini, PL 62, 1190C (auctor c.465-c.533)
+	Quos servus Dei divinitatis instinctu commonitus praesaga mente praestruxit ut omnem paupertatis suae sufficientiam intra muros concluderent quatenus inimicorum feralis incursic nihil humanitatis inveniens statim fame compulsa immania crudelitatis coepta desereret
+3	Eulogius Toletanus, Memorialis sanctorum, PL 115, 0750A (auctor 799-859)
+	Qui cum vellent bonum nuntium Asianis praedicare prohibiti sunt a Spiritu sancto Act XVI et qui pridem annuntiare Evangelium omni creaturae praeceperat Marc XVI sciens in Asia nullum existere dignum percipiendi evangelicam veritatem praesaga divinitatis auctoritate discipulos ab eorum salute inhibuit
+4	Eulogius Toletanus, Memorialis sanctorum, PL 115, 0774B (auctor 799-859)
+	Verum quia sanctorum numerum praesaga divinitas adhuc disponebat augeri talium professione ideo postmodum quorumdam mentes multiplici ardore inflammans plures prioribus ad illud destinavit certamen
+5	Hincmarus Rhemensis, De una et non trina deitate, PL 125, 0572A (auctor 806-882)
+	Nam si haec una atque eadem ipsa est multiplex praesaga sapientia Patris et Filii et Spiritus sancti quae est una virtus sive una forma magnitudinis aequalitatis eius sive una maiestas sive una claritas quae in hanc unitam deitatem plenitudinis secundum Scripturae regulam in hoc loco collecta reperiuntur nunquid sic in eadem deitate Trinitatis potest adversus Scripturas referri ut tres sapientias aut tres virtutes aut tres imagines aut tres substantias aut tres claritates aut tres plenitudines divinitatis vel caetera huiusmodi pluraliter Ariomanitarum more dicamus
+6	Iulius Firmicus Maternus, Mathesis, II, 30; 25 (auctor fl.337)
+	Itaque purus castus esto et si te ab omnibus nefariis actibus separasti qui animum pessumdare consuerunt et si te rectum uiuendi uotum ab omni scelerum liberauit inuidia et si te purgatum et memorem diuini seminis geris adgredere hoc opus et posteriores hos libros memoriae trade ut integram tibi scientiam diuinitas tradat et ad animum tuum latente praesaga maiestate accedat ut ueram diuinitatis scientiam consecutus in definiendis fatis hominum et in explicando uitae cursu non tantum lectionibus sed propriis mentis iudiciis instruaris ut plus tibi diuinitate animi quam lectionum magisterio conferatur
+7	Iulius Firmicus Maternus, Mathesis, VIII, 26; 64 (auctor fl.337)
+	In Ofiucho qui nati fuerint erunt audaces enthei praesago diuinitatis instinctu futura noscentes
+8	Iulius Firmicus Maternus, Mathesis, 1a, XXVI; 63 (auctor fl.337)
+	In Ofiucho qui nati fuerint erunt audaces enthei praesago divinitatis instinctu futura noscentes
+9	Iulius Firmicus Maternus, Mathesis, 2, XXX; 24 (auctor fl.337)
+	Itaque purus castus esto et si te ab omnibus nefariis actibus separasti qui animum pessumdare consuerunt et si te rectum vivendi votum ab omni scelerum liberavit invidia et si te purgatum et memorem divini seminis geris adgredere hoc opus et posteriores hos libros memoriae trade ut integram tibi scientiam divinitas tradat et ad animum tuum latente praesaga maiestate accedat ut veram divinitatis scientiam consecutus in definiendis fatis hominum et in explicando vitae cursu non tantum lectionibus sed propriis mentis iudiciis instruaris ut plus tibi divinitate animi quam lectionum magisterio conferatur
+10	Modrussiensis Nicolaus, Oratio in funere Petri Riarii, p1; 28 (auctor c. 1427-1480)
+	Inerat enim menti eius praesaga quaedam futurorum diuinitas complurimaque antequam contigissent per quietem discebat ita ut insomnia ipsius non uisa solum sed certa uiderentur oracula
+11	Vigilius Tapsensis, De Trinitate, PL 62, 0244C (auctor -c.490)
+	Nam si haec una atque eadem ipsa est multiplex praesaga sapientia Patris et Filii et Spiritus sancti quae est una virtus sive una forma magnitudinis sive una maiestas sive una claritas quae in hanc unitam deitatem plenitudinis secundum Scripturae regulam in hoc loco collecta reperiuntur nunquid sic in eadem deitate Trinitatis potest adversus Scripturas referri ut tres sapientias aut tres virtutes aut tres imagines aut tres substantias aut claritates aut tres plenitudines divinitatis vel caetera huiuscemodi pluraliter Ariomanitarum more dicamus
