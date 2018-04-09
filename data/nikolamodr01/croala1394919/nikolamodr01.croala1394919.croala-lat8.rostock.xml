@@ -4411,14 +4411,12 @@
                                 <pc n="pc56">.</pc>
                         </p>
                         <p n="p18">
-                                <sic n="sic1" resp="#viaf6913774">
-                                        <w n="w1">Iam</w>
+                                <w n="w1">Iam</w>
+                                <add resp="scriba">
                                         <w n="w2">
-            <expan n="expan1" resp="#viaf6913774">
-            enim
-          </expan>
-          </w>
-                                </sic>
+                                                <expan n="expan1" resp="#viaf6913774"> enim </expan>
+                                        </w>
+                                </add>
                                 <w n="w1">uicinus</w>
                                 <w n="w2">morti</w>
                                 <w n="w3">do<lb n="lb1"/>mesticos</w>
