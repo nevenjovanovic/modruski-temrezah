@@ -2541,11 +2541,10 @@
                                 <w n="w99">sedentes</w>
                                 <w n="w100">aduersus</w>
                                 <w n="w101">fratrem</w>
-                                
                                 <w n="w102">suum</w>
                                 <w n="w103">tota</w>
                                 <w n="w104">die</w>
-                                <w n="w105">concinnabant</w>
+                                <w n="w105">concin<lb/>nabant</w>
                                 <w n="w106">dolos</w>
                                 <pc n="pc17">.</pc>
                                 <w n="w107">Sed</w>
@@ -2561,7 +2560,7 @@
                                 <w n="w115">uirtutes</w>
                                 <pc n="pc19">,</pc>
                                 <w n="w116">non</w>
-                                <w n="w117">quibus</w>
+                                <lb/><w n="w117">quibus</w>
                                 <w n="w118">debemus</w>
                                 <pc n="pc20">,</pc>
                                 <w n="w119">sed</w>
@@ -2576,7 +2575,7 @@
                                 <pc n="pc23">,</pc>
                                 <w n="w125">ut</w>
                                 <w n="w126">propositus</w>
-                                <w n="w127">ordo</w>
+                                <w n="w127">or<lb/>do</w>
                                 <w n="w128">postulat</w>
                                 <pc n="pc24">,</pc>
                                 <w n="w129">nunc</w>
@@ -2592,7 +2591,7 @@
                                 <w n="w138">ea</w>
                                 <pc n="pc26">,</pc>
                                 
-                                <w n="w139">quae</w>
+                                <lb/><w n="w139">quae</w>
                                 <w n="w140">narrauimus</w>
                                 <pc n="pc27">,</pc>
                                 <w n="w141">magna</w>
@@ -2605,12 +2604,8 @@
                                 <w n="w147">Quamobrem</w>
                                 <w n="w148">tantum</w>
                                 <w n="w149">eam</w>
-                                <w n="w150">
-          <sic n="sic1" resp="#viaf6913774" ana="error">
-                                        patrem
-                                </sic>
-        </w>
-                                <w n="w151">attingam</w>
+                                <w n="w150">partem</w>
+                                <lb/><w n="w151">attingam</w>
                                 <w n="w152">qua</w>
                                 <w n="w153">ita</w>
                                 <w n="w154">sese</w>
@@ -2625,7 +2620,7 @@
                                 <w n="w162">erga</w>
                                 <w n="w163">eum</w>
                                 
-                                <w n="w164">
+                                <lb/><w n="w164">
           <orig n="orig1">
                                         beniuolentiam
                                 </orig>
@@ -2644,7 +2639,7 @@
                                 <w n="w2">quippe</w>
                                 <w n="w3">amicitiae</w>
                                 <w n="w4">ita</w>
-                                <w n="w5">habet</w>
+                                <lb/><w n="w5">habet</w>
                                 <w n="w6">ut</w>
                                 <w n="w7">amicos</w>
                                 <w n="w8">inimicorum</w>
@@ -2659,7 +2654,7 @@
                                 <w n="w15">consecutus</w>
                                 <w n="w16">est</w>
                                 <w n="w17">ut</w>
-                                <w n="w18">aeque</w>
+                                <lb/><w n="w18">aeque</w>
                                 <w n="w19">carus</w>
                                 <w n="w20">omnibus</w>
                                 <w n="w21">haberetur</w>
@@ -2677,7 +2672,7 @@
                                 <pc n="pc3">,</pc>
                                 <w n="w31">et</w>
                                 
-                                <w n="w32">adeptam</w>
+                                <lb/><w n="w32">adeptam</w>
                                 <w n="w33">studiis</w>
                                 <w n="w34">omnibus</w>
                                 <w n="w35">non</w>
@@ -2687,25 +2682,21 @@
                                 <pc n="pc4">.</pc>
                         </p>
                         <p n="p10">
-                                
-                                <pc n="pc1" unit="para" force="strong" pre="true">¶</pc>
                                 <w n="w1">Ostendit</w>
                                 <w n="w2">id</w>
                                 <w n="w3">nouissima</w>
-                                <w n="w4">haec</w>
+                                <lb/><w n="w4">haec</w>
                                 <w n="w5">ipsius</w>
                                 <w n="w6">legatio</w>
                                 <w n="w7">in</w>
                                 <w n="w8">qua</w>
-                                
-                                
-                                <w n="w9">omnes</w>
+                                <w n="w9"><sic resp="#viaf6913774">habes</sic></w>
                                 <w n="w10">Italiae</w>
                                 <w n="w11">populi</w>
                                 <w n="w12">singulique</w>
                                 <w n="w13">ipsorum</w>
                                 <w n="w14">principes</w>
-                                <w n="w15">summis</w>
+                                <w n="w15">sum<lb/>mis</w>
                                 <w n="w16">decertarunt</w>
                                 <w n="w17">studiis</w>
                                 <w n="w18">quisnam</w>
@@ -2714,7 +2705,7 @@
                                 <w n="w21">honoribus</w>
                                 <w n="w22">exciperet</w>
                                 <w n="w23">et</w>
-                                <w n="w24">prosequeretur</w>
+                                <w n="w24">proseque<lb/>retur</w>
                                 <pc n="pc2">,</pc>
                                 <w n="w25">illeque</w>
                                 <w n="w26">se</w>
@@ -2727,7 +2718,7 @@
                                 <w n="w33">ornamenta</w>
                                 <w n="w34">contulisset</w>
                                 <pc n="pc3">.</pc>
-                                <w n="w35">In</w>
+                                <lb/><w n="w35">In</w>
                                 <w n="w36">quibus</w>
                                 <w n="w37">acceptandis</w>
                                 <w n="w38">adeo</w>
@@ -2741,7 +2732,7 @@
                                 <w n="w44">omnium</w>
                                 <w n="w45">communis</w>
                                 <w n="w46">esset</w>
-                                <w n="w47">amicus</w>
+                                <lb/><w n="w47">amicus</w>
                                 <pc n="pc5">,</pc>
                                 <w n="w48">singuli</w>
                                 <w n="w49">tamen</w>
@@ -2754,7 +2745,7 @@
                                 <w n="w55">sua</w>
                                 <w n="w56">illi</w>
                                 <w n="w57">negotia</w>
-                                <w n="w58">credebant</w>
+                                <w n="w58">cre<lb/>debant</w>
                                 <pc n="pc7">,</pc>
                                 <w n="w59">et</w>
                                 
@@ -2770,7 +2761,7 @@
                                 <w n="w67">Fallebat</w>
                                 <w n="w68">neminem</w>
                                 <pc n="pc9">,</pc>
-                                <w n="w69">et</w>
+                                <lb/><w n="w69">et</w>
                                 <w n="w70">communem</w>
                                 <w n="w71">rem</w>
                                 <w n="w72">gerendo</w>
@@ -2783,7 +2774,7 @@
                                 <w n="w77">Secedebat</w>
                                 <w n="w78">bis</w>
                                 <w n="w79">terque</w>
-                                <w n="w80">per</w>
+                                <lb/><w n="w80">per</w>
                                 <w n="w81">diem</w>
                                 <w n="w82">in</w>
                                 
@@ -2799,7 +2790,7 @@
                                 
                                 <w n="w92">multam</w>
                                 <w n="w93">horam</w>
-                                <w n="w94">deambulando</w>
+                                <lb/><w n="w94">deambulando</w>
                                 <w n="w95">summas</w>
                                 <w n="w96">reipublicae</w>
                                 <w n="w97">christianae</w>
@@ -2809,7 +2800,7 @@
                                 <w n="w100">secum</w>
                                 <w n="w101">computabat</w>
                                 <pc n="pc11">;</pc>
-                                <w n="w102">totas</w>
+                                <w n="w102">to<lb/>tas</w>
                                 <w n="w103">enim</w>
                                 <w n="w104">animi</w>
                                 <w n="w105">uires</w>
@@ -2825,7 +2816,7 @@
                                 <w n="w112">Italiae</w>
                                 <w n="w113">et</w>
                                 <w n="w114">perfidi</w>
-                                <w n="w115">hostis</w>
+                                <w n="w115">ho<lb/>stis</w>
                                 <w n="w116">Christiani</w>
                                 <w n="w117">exitum</w>
                                 <w n="w118">intenderat</w>
@@ -2841,17 +2832,13 @@
                                 <w n="w124">illuc</w>
                                 <w n="w125">omnia</w>
                                 <w n="w126">sua</w>
-                                <w n="w127">studia</w>
+                                <lb/><w n="w127">studia</w>
                                 <w n="w128">conuerterat</w>
                                 <pc n="pc17">,</pc>
                                 <w n="w129">fecissetque</w>
                                 <w n="w130">uotis</w>
                                 <w n="w131">satis</w>
-                                <w n="w132">
-          <sic n="sic1" resp="#viaf6913774" ana="error">
-                                        in
-                                </sic>
-        </w>
+                                <w n="w132">ni</w>
                                 <w n="w133">eum</w>
                                 <w n="w134">nobis</w>
                                 <w n="w135">haec</w>
@@ -2860,13 +2847,12 @@
                                 <w n="w138">crudelis</w>
                                 
                                 <w n="w139">mors</w>
-                                <w n="w140">tam</w>
+                                <lb/><w n="w140">tam</w>
                                 <w n="w141">repente</w>
                                 <w n="w142">praeripuisset</w>
                                 <pc n="pc18">.</pc>
                         </p>
                         <p n="p11">
-                                <pc n="pc1" unit="para" force="strong" pre="true">¶</pc>
                                 <w n="w1">Vincebat</w>
                                 <w n="w2">ingenio</w>
                                 
@@ -2876,7 +2862,7 @@
                                 <w n="w5">et</w>
                                 <w n="w6">tantum</w>
                                 <w n="w7">grauioribus</w>
-                                <w n="w8">reipublicae</w>
+                                <lb/><w n="w8">reipublicae</w>
                                 <w n="w9">curis</w>
                                 <w n="w10">natus</w>
                                 
@@ -2892,7 +2878,7 @@
                                 <w n="w18">qua</w>
                                 <w n="w19">nullis</w>
                                 
-                                <w n="w20">aliis</w>
+                                <lb/><w n="w20">aliis</w>
                                 <w n="w21">oblectamentis</w>
                                 <w n="w22">poterat</w>
                                 <w n="w23">diuelli</w>
@@ -2904,7 +2890,7 @@
                                 <w n="w27">huius</w>
                                 <w n="w28">solius</w>
                                 <w n="w29">escis</w>
-                                <w n="w30">pascebatur</w>
+                                <lb/><w n="w30">pascebatur</w>
                                 <pc n="pc7">.</pc>
                                 <w n="w31">Omnium</w>
                                 
@@ -2918,7 +2904,7 @@
                                 
                                 <w n="w38">a</w>
                                 <w n="w39">nonnullis</w>
-                                <w n="w40">negligentiae</w>
+                                <w n="w40">negligen<lb/>tiae</w>
                                 <w n="w41">accusabatur</w>
                                 <pc n="pc9">,</pc>
                                 <w n="w42">quem</w>
@@ -2931,7 +2917,7 @@
                                 <w n="w48">cum</w>
                                 <w n="w49">tamen</w>
                                 <w n="w50">et</w>
-                                <w n="w51">mitissimus</w>
+                                <lb/><w n="w51">mitissimus</w>
                                 <w n="w52">esset</w>
                                 <w n="w53">et</w>
                                 <w n="w54">facillimus</w>
@@ -2944,7 +2930,7 @@
                                 <w n="w60">numerus</w>
                                 <pc n="pc11">,</pc>
                                 <w n="w61">norunt</w>
-                                <w n="w62">amici</w>
+                                <lb/><w n="w62">amici</w>
                                 <w n="w63">et</w>
                                 <w n="w64">alii</w>
                                 <w n="w65">omnes</w>
@@ -2961,7 +2947,7 @@
                                 <w n="w73">cum</w>
                                 <w n="w74">per</w>
                                 <w n="w75">publicas</w>
-                                <w n="w76">licuisset</w>
+                                <w n="w76">li<lb/>cuisset</w>
                                 <w n="w77">curas</w>
                                 <pc n="pc14">,</pc>
                                 
@@ -2978,14 +2964,13 @@
                                 
                                 <w n="w84">ut</w>
                                 <w n="w85">socium</w>
-                                <w n="w86">crederes</w>
+                                <lb/><w n="w86">crederes</w>
                                 <pc n="pc19">,</pc>
                                 <w n="w87">non</w>
                                 <w n="w88">dominum</w>
                                 <pc n="pc20">.</pc>
                         </p>
                         <p n="p12">
-                                <pc n="pc1" unit="para" force="strong" pre="true">¶</pc>
                                 <w n="w1">Tanta</w>
                                 <w n="w2">uero</w>
                                 <w n="w3">animi</w>
@@ -3014,7 +2999,7 @@
                                 <w n="w18">obloquebatur</w>
                                 <pc n="pc4">,</pc>
                                 <w n="w19">detrahebat</w>
-                                <w n="w20">nemini</w>
+                                <lb/><w n="w20">nemini</w>
                                 <pc n="pc5">,</pc>
                                 <w n="w21">et</w>
                                 <pc n="pc6">,</pc>
@@ -3032,9 +3017,9 @@
                                 <w n="w30">Maximum</w>
                                 
                                 <w n="w31">eius</w>
-                                <w n="w32">
+                                <lb/><w n="w32">
           <orig n="orig1">
-                                        conuitium
+                                        conuicium
                                 </orig>
         </w>
                                 <w n="w33">putabatur</w>
@@ -3052,11 +3037,10 @@
                                 <w n="w42">aliquo</w>
                                 <w n="w43">urbanitatis</w>
                                 <w n="w44">sale</w>
-                                <w n="w45">respersisset</w>
+                                <lb/><w n="w45">respersisset</w>
                                 <pc n="pc11">.</pc>
                         </p>
                         <p n="p13">
-                                <pc n="pc1" unit="para" force="strong" pre="true">¶</pc>
                                 <w n="w1">Cibi</w>
                                 
                                 <w n="w2">uinique</w>
@@ -3067,7 +3051,7 @@
                                 <pc n="pc3">,</pc>
                                 <w n="w6">immo</w>
                                 <w n="w7">uero</w>
-                                <w n="w8">peruigil</w>
+                                <w n="w8">per<lb/>uigil</w>
                                 <pc n="pc4">,</pc>
                                 <w n="w9">et</w>
                                 <w n="w10">qui</w>
@@ -3080,7 +3064,7 @@
                                 <w n="w17">praeoccupare</w>
                                 <pc n="pc5">,</pc>
                                 <w n="w18">quod</w>
-                                <w n="w19">totum</w>
+                                <lb/><w n="w19">totum</w>
                                 <w n="w20">tempus</w>
                                 <w n="w21">usque</w>
                                 <w n="w22">ad</w>
@@ -3090,7 +3074,7 @@
                                 <w n="w26">reipublicae</w>
                                 <w n="w27">cogitationibus</w>
                                 <w n="w28">impendere</w>
-                                <w n="w29">consueuerat</w>
+                                <lb/><w n="w29">consueuerat</w>
                                 <pc n="pc6">;</pc>
                                 <w n="w30">quae</w>
                                 <w n="w31">tales</w>
@@ -3100,7 +3084,7 @@
                                 <w n="w35">obuersabantur</w>
                                 <pc n="pc7">,</pc>
                                 <w n="w36">quales</w>
-                                <w n="w37">mortalium</w>
+                                <pb/><lb/><w n="w37">mortalium</w>
                                 <w n="w38">animis</w>
                                 <w n="w39">uix</w>
                                 <w n="w40">illabi</w>
@@ -3112,7 +3096,7 @@
                                 <w n="w45">ac</w>
                                 <w n="w46">necessarios</w>
                                 <w n="w47">nequaquam</w>
-                                <w n="w48">prodigus</w>
+                                <lb/><w n="w48">prodigus</w>
                                 <pc n="pc9">,</pc>
                                 
                                 <w n="w49">immo</w>
@@ -3128,7 +3112,7 @@
                                 <w n="w57">comite</w>
                                 <w n="w58">Hieronymo</w>
                                 <pc n="pc11">;</pc>
-                                <w n="w59">quem</w>
+                                <lb/><w n="w59">quem</w>
                                 <w n="w60">quoniam</w>
                                 <w n="w61">ab</w>
                                 <w n="w62">inclito</w>
@@ -3139,7 +3123,7 @@
                                 <w n="w67">dignatum</w>
                                 <w n="w68">cernebat</w>
                                 <pc n="pc12">,</pc>
-                                <w n="w69">uoluit</w>
+                                <lb/><w n="w69">uoluit</w>
                                 <w n="w70">fraterna</w>
                                 <w n="w71">munificentia</w>
                                 <w n="w72">illustrare</w>
@@ -3150,7 +3134,7 @@
                                 <w n="w76">tale</w>
                                 <w n="w77">temperamentum</w>
                                 <w n="w78">adhibuit</w>
-                                <w n="w79">ut</w>
+                                <lb/><w n="w79">ut</w>
                                 <w n="w80">id</w>
                                 <w n="w81">cum</w>
                                 <w n="w82">ingenti</w>
@@ -3163,7 +3147,7 @@
                                 <pc n="pc14">.</pc>
                                 <w n="w89">Vrbem</w>
                                 <w n="w90">enim</w>
-                                <w n="w91">Imolam</w>
+                                <w n="w91">Imo<lb/>lam</w>
                                 <pc n="pc15">,</pc>
                                 <w n="w92">quae</w>
                                 <w n="w93">iam</w>
@@ -3176,7 +3160,7 @@
                                 <pc n="pc16">,</pc>
                                 <w n="w100">quadraginta</w>
                                 <w n="w101">milibus</w>
-                                <w n="w102">ducatorum</w>
+                                <w n="w102">du<lb/>catorum</w>
                                 <w n="w103">de</w>
                                 <w n="w104">propriis</w>
                                 <w n="w105">facultatibus</w>
@@ -3187,22 +3171,18 @@
                                 <w n="w109">restituit</w>
                                 <pc n="pc17">.</pc>
                                 <w n="w110">Cuius</w>
-                                <w n="w111">exaugendi</w>
+                                <w n="w111">exau<lb/>gendi</w>
                                 <w n="w112">tanto</w>
                                 <w n="w113">flagrabat</w>
                                 <w n="w114">studio</w>
                                 <w n="w115">ut</w>
                                 <w n="w116">ne</w>
-                                <w n="w117">
-          <sic n="sic1" resp="#viaf6913774">
-                                        nimiam
-                                </sic>
-        </w>
+                                <w n="w117">minimam</w>
                                 <w n="w118">quidem</w>
                                 <w n="w119">eius</w>
                                 <w n="w120">particulam</w>
                                 <w n="w121">deperire</w>
-                                <w n="w122">pateretur</w>
+                                <lb/><w n="w122">pateretur</w>
                                 <pc n="pc18">.</pc>
                                 <w n="w123">
           <sic n="sic1" resp="#viaf6913774">
@@ -3221,10 +3201,7 @@
                                 <w n="w132">uendicare</w>
                                 <pc n="pc19">.</pc>
                         </p>
-                        <p n="p14">
-                                
-                                <pc n="pc1" unit="para" force="strong" pre="true">¶</pc>
-                                <w n="w1">Porro</w>
+                        <p n="p14"><lb/><w n="w1">Porro</w>
                                 <w n="w2">iustitiam</w>
                                 <w n="w3">ipsius</w>
                                 <w n="w4">ex</w>
