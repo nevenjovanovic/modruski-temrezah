@@ -80,4 +80,9 @@
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje prema rukopisu Clm 461, Bayerische Staatsbibliothek, München.</ti:description>
   </ti:edition>
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat13.msmarclat4667">
+    <ti:label xml:lang="lat">Oratio in funere Petri Riarii (e ms. Marc. lat. 4667), versio
+      electronica</ti:label>
+    <ti:description xml:lang="hrv">Izdanje prema rukopisu Marc. lat. XIII 180 (4667), Venecija.</ti:description>
+  </ti:edition>
 </ti:work>
