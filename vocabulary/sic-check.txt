@@ -1,0 +1,47 @@
+System ID: /home/neven/Repos/modruski-temrezah/data/nikolamodr01/croala1394999/nikolamodr01.croala1394999.croala-lat1.xml
+Description: relictari
+XPath location: /TEI[1]/text[1]/body[1]/p[8]/sic[1]
+Start location: 137:933
+End location: 137:953
+
+System ID: /home/neven/Repos/modruski-temrezah/data/nikolamodr01/croala1394999/nikolamodr01.croala1394999.croala-lat1.xml
+Description: ingnorantiae
+XPath location: /TEI[1]/text[1]/body[1]/p[13]/sic[1]
+Start location: 154:1153
+End location: 154:1176
+
+System ID: /home/neven/Repos/modruski-temrezah/data/nikolamodr01/croala1394999/nikolamodr01.croala1394999.croala-lat1.xml
+Description: excussise
+XPath location: /TEI[1]/text[1]/body[1]/p[14]/sic[1]
+Start location: 158:1974
+End location: 158:1994
+
+System ID: /home/neven/Repos/modruski-temrezah/data/nikolamodr01/croala1394999/nikolamodr01.croala1394999.croala-lat1.xml
+Description: inuriam
+XPath location: /TEI[1]/text[1]/body[1]/p[14]/sic[2]
+Start location: 158:3035
+End location: 158:3053
+
+System ID: /home/neven/Repos/modruski-temrezah/data/nikolamodr01/croala1394999/nikolamodr01.croala1394999.croala-lat1.xml
+Description: iugeat
+XPath location: /TEI[1]/text[1]/body[1]/p[15]/sic[1]
+Start location: 161:3427
+End location: 161:3444
+
+System ID: /home/neven/Repos/modruski-temrezah/data/nikolamodr01/croala1394999/nikolamodr01.croala1394999.croala-lat1.xml
+Description: pontficia
+XPath location: /TEI[1]/text[1]/body[1]/p[16]/sic[1]
+Start location: 168:735
+End location: 168:755
+
+System ID: /home/neven/Repos/modruski-temrezah/data/nikolamodr01/croala1394999/nikolamodr01.croala1394999.croala-lat1.xml
+Description: ponteficiis
+XPath location: /TEI[1]/text[1]/body[1]/p[18]/sic[1]
+Start location: 184:559
+End location: 184:581
+
+System ID: /home/neven/Repos/modruski-temrezah/data/nikolamodr01/croala1394999/nikolamodr01.croala1394999.croala-lat1.xml
+Description: inuvidia
+XPath location: /TEI[1]/text[1]/body[1]/p[18]/sic[2]
+Start location: 184:1356
+End location: 184:1375
