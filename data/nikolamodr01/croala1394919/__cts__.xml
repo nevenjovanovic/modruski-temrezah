@@ -39,48 +39,49 @@
     <ti:description xml:lang="hrv">Izdanje teksta s retoričkom analizom.</ti:description>
   </ti:edition>
   
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat3.plannck">
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat3.ed-plannck">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (ed. Plannck 1481), versio
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje S. Plannck, Rim 1481.</ti:description>
   </ti:edition>
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat4.vulterris">
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat4.ed-vulterris">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (ed. de Vulterris c. 1474),
       versio electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje Rim: In domo Antonii et Raphaelis de Vulterris, c. 1474.</ti:description>
   </ti:edition>
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat5.cerdonis">
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat5.ed-cerdonis">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (ed. M. Cerdonis 1482), versio
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje M. Cerdonis, Padova 1482.</ti:description>
   </ti:edition>
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat6.guldinbeck">
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat6.ed-guldinbeck">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (ed. Guldinbeck 1482), versio
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje B. Guldinbeck, Rim 1482.</ti:description>
   </ti:edition>
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat7.gensberg">
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat7.ed-gensberg">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (ed. Gensberg c. 1474), versio
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje J. Gensberg, Rim c. 1474.</ti:description>
   </ti:edition>
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat8.rostock">
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat8.ed-rostock">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (ed. Rostock 1476), versio
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje Rostock: Fratres Domus Viridis Horti, c.
       1476.</ti:description>
   </ti:edition>
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat9.msvatlat8750">
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat9.ms-vatlat8750">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (e ms. Vat. Lat. 8750), versio
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje prema rukopisu Vat. Lat. 8750.</ti:description>
   </ti:edition>
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat10.clm461">
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat10.ms-clm461">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (e ms. CLM 461), versio
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje prema rukopisu Clm 461, Bayerische Staatsbibliothek, München.</ti:description>
   </ti:edition>
-  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat13.msmarclat4667">
+  <!-- dodaj 11, 12 -->
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat13.ms-marclat4667">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (e ms. Marc. lat. 4667), versio
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje prema rukopisu Marc. lat. XIII 180 (4667), Venecija.</ti:description>
