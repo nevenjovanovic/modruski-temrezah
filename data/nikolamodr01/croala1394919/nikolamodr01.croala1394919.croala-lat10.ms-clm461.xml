@@ -651,15 +651,11 @@
                                 <w n="w51">et</w>
                                 <w n="w52">celeberrimo</w>
                                 <w n="w53">uetustoque</w>
-                                <w n="w54">
-          <sic n="sic1" resp="#viaf6913774">
-                                        Ligurum
-                                </sic>
-        </w>
+                                <w n="w54">Ligurum</w>
                                 <w n="w55">oppido</w>
                                 <lb n="lb6"/>
         <w n="w56">
-          <expan n="expan1" resp="#viaf6913774">Soana</expan>
+          <sic resp="#viaf6913774">Soana</sic>
         </w>
                                 <pc n="pc8">,</pc>
                                 <w n="w57">uerum</w>

@@ -641,9 +641,11 @@
                                 <w n="w51">et</w>
                                 <w n="w52">celeberrimo</w>
                                 <w n="w53">uetustoque</w>
-                                <w n="w54">Ligurorum</w>
+                                <w n="w54"><sic>Ligurorum</sic></w>
                                 <w n="w55">oppido</w>
-                                <w n="w56">Saona</w>
+                                <w n="w56"><sic>Soana</sic>
+                                <corr resp="lector">Saona</corr>
+                                </w>
                                 <pc n="pc9">,</pc>
                                 <w n="w57">uerum</w>
                                 <w n="w58">quod</w>

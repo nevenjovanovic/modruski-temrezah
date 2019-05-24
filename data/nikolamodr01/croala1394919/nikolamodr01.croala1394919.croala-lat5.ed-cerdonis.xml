@@ -429,7 +429,6 @@
                                 <w n="w227">tum</w>
                                 <w n="w228">mihi</w>
                                 <w n="w229">praecipue</w>
-                                <!-- dovde 28/5 -->
                                 <pb n="pb1"/>
                                 <lb n="lb11"/>
                                 <w n="w230">atque</w>
@@ -621,7 +620,7 @@
                                 <w n="w39">aut</w>
                                 <w n="w40">tenues</w>
                                 <w n="w41">fore</w>
-                                <w n="w42">dixerim</w>
+                                <w n="w42"><sic>duxerim</sic></w>
                                 <pc n="pc7">,</pc>
                                 <w n="w43">quoniam</w>
                                 <w n="w44">et</w>
@@ -814,10 +813,10 @@
                                 <w n="w49">religionis</w>
                                 <w n="w50">feruescere</w>
                                 <pc n="pc10">.</pc>
-                                <sic n="sic1" resp="#viaf6913774">
-                                        <w n="w1">Clare</w>
-                                        <w n="w2">sciebat</w>
-                                </sic>
+                                
+                                <w n="w1"><sic n="sic1" resp="#viaf6913774">Clare</sic></w>
+                                <w n="w2"><sic n="sic2" resp="#viaf6913774">sciebat</sic></w>
+                                
                                 <w n="w51">autem</w>
                                 <w n="w52">iam</w>
                                 <w n="w53">tunc</w>
