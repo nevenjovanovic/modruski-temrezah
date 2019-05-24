@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
-                <fileDesc xml:id="modr-n-oratio-riar">
+                <fileDesc xml:id="nikolamodr01.croala1394919.croala-lat6.ed-guldinbeck">
                         <titleStmt>
                                 <title>Oratio in funere Petri Riarii (ed. Guldinbeck 1482), versio
                                         electronica</title>
@@ -119,7 +119,7 @@
                                 Označeni krajevi redaka. Segmentirano u riječi. </change>
                 </revisionDesc>
         </teiHeader>
-        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat6.guldinbeck:" xml:lang="lat" type="prosa-oratio">
+        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat6.ed-guldinbeck:" xml:lang="lat" type="prosa-oratio">
                 <body n="body1">
                         <pb n="pb1"/>
                         <head n="head1">

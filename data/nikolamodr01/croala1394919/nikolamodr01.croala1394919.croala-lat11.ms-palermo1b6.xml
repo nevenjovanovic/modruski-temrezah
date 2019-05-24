@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
-                <fileDesc xml:id="nikolamodr01.croala1394919.croala-lat11.palermoms1b6">
+                <fileDesc xml:id="nikolamodr01.croala1394919.croala-lat11.ms-palermo1b6">
                         <titleStmt>
                                 <title>Oratio in funere Petri Riarii (e ms. Palermo I b 6), versio
                                         electronica</title>
@@ -108,7 +108,7 @@
                                 riječi. </change>
                 </revisionDesc>
         </teiHeader>
-        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat11.palermoms1b6" xml:lang="lat" type="prosa-oratio">
+        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat11.ms-palermo1b6:" xml:lang="lat" type="prosa-oratio">
                 <body n="body1">
                         <pb n="pb1"/>
                         <head n="head1">

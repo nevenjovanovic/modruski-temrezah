@@ -80,7 +80,16 @@
       electronica</ti:label>
     <ti:description xml:lang="hrv">Izdanje prema rukopisu Clm 461, Bayerische Staatsbibliothek, München.</ti:description>
   </ti:edition>
-  <!-- dodaj 11, 12 -->
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat11.ms-palermo1b6">
+    <ti:label xml:lang="lat">Oratio in funere Petri Riarii (e ms. Palermo I b 6), versio
+      electronica</ti:label>
+    <ti:description xml:lang="hrv">Izdanje prema rukopisu I b 6, Palermo.</ti:description>
+  </ti:edition>
+  <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat12.ms-olomoucmi159">
+    <ti:label xml:lang="lat">Oratio in funere Petri Riarii (e ms. Olomouc, M I 159), versio
+      electronica</ti:label>
+    <ti:description xml:lang="hrv">Izdanje prema rukopisu Olomouc, Vědecká knihovna v Olomouci Textus varii; Historia Bohemica sign. M I 159.</ti:description>
+  </ti:edition>
   <ti:edition workUrn="urn:cts:croala:nikolamodr01.croala1394919" urn="urn:cts:croala:nikolamodr01.croala1394919.croala-lat13.ms-marclat4667">
     <ti:label xml:lang="lat">Oratio in funere Petri Riarii (e ms. Marc. lat. 4667), versio
       electronica</ti:label>

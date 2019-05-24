@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
-                <fileDesc xml:id="modr-n-oratio-riar">
+                <fileDesc xml:id="nikolamodr01.croala1394919.croala-lat3.ed-plannck">
                         <titleStmt>
                                 <title>Oratio in funere Petri Riarii (ed. Plannck 1481), versio
                                         electronica</title>
@@ -119,7 +119,7 @@
                                 <date>2012-02-15</date> Novo, unificirano zaglavlje. </change>
                 </revisionDesc>
         </teiHeader>
-        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat3.plannck:" xml:lang="lat" type="prosa-oratio">
+        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat3.ed-plannck:" xml:lang="lat" type="prosa-oratio">
                 <body n="body1">
                         <head n="head1">
                                 <pb n="pb1"/>
