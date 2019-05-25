@@ -949,8 +949,9 @@
         <w n="w159">ageret</w>
         <w n="w160">uel</w>
         <w n="w161">maturiorem</w>
-        
-        <lb/><w n="w162"><sic resp="#viaf6913774"><expan resp="#viaf6913774">domini</expan></sic></w>
+        <lb/><w n="w162">
+            <sic><expan resp="#viaf6913774">domini</expan></sic>
+        </w>
         <w n="w163">praestolaretur</w>
         <w n="w164">aetatem</w>
         <pc n="pc25">,</pc>

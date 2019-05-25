@@ -2204,11 +2204,11 @@
                                 <w n="w66">argueretur</w>
                                 <w n="w67">quod</w>
                                 <w n="w68">nimia</w>
-                                <sic n="sic1" resp="#viaf6913774">
-                                        <w n="w1">indulgenti</w>
-                                        <w n="w2">et</w>
-                                        <w n="w3">a</w>
-                                </sic>
+                                
+                                        <w n="w1"><sic>indulgenti</sic></w>
+                                        <w n="w2"><sic>et</sic></w>
+                                        <w n="w3"><sic>a</sic></w>
+                                
                                 <w n="w69">largitate</w>
                                 <w n="w70">domesticos</w>
                                 <lb n="lb5"/>
@@ -3549,10 +3549,10 @@
                                 <w n="w112">illis</w>
                                 <pc n="pc15">,</pc>
                                 <w n="w113">qui</w>
-                                <sic n="sic1" resp="#viaf6913774">
-                                        <w n="w1">in</w>
-                                        <w n="w2">iu<lb n="lb1"/>stam</w>
-                                </sic>
+                                
+                                        <w n="w1"><sic resp="#viaf6913774">in</sic></w>
+                                        <w n="w2"><sic resp="#viaf6913774">iu<lb n="lb1"/>stam</sic></w>
+                                
                                 <w n="w114">causam</w>
                                 <w n="w115">fouentes</w>
                                 <w n="w116">tamen</w>

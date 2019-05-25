@@ -2208,9 +2208,10 @@
                                 <w n="w66">argueretur</w>
                                 <w n="w67">quod</w>
                                 <w n="w68">ni<lb n="lb1"/>mia</w>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">indulgenti</w> <w n="w2">et </w> <w n="w3">a</w>
-        </sic>
+                                        <w n="w1"><sic resp="#viaf6913774">indulgenti</sic></w> 
+                                        <w n="w2"><sic resp="#viaf6913774">et</sic> </w> 
+                                        <w n="w3"><sic resp="#viaf6913774">a</sic></w>
+        
                                 <w n="w69">largitate</w>
                                 <w n="w70">domesticos</w>
                                 <w n="w71">faceret</w>
@@ -2842,9 +2843,8 @@
                                 <w n="w9">minime</w>
                                 <w n="w10">dili<lb n="lb1"/>gamus</w>
                                 <pc n="pc1">;</pc>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">hic</w>
-        </sic>
+                                <w n="w1"><sic resp="#viaf6913774">hic</sic></w>
+        
                                 <w n="w11">tamen</w>
                                 <w n="w12">sua</w>
                                 <w n="w13">prudentia</w>
@@ -3525,13 +3525,12 @@
                                 <w n="w94">commendaret</w>
                                 <pc n="pc12">,</pc>
                                 <w n="w95">id</w>
-                                <w n="w96">tamen</w>                                
-                                <sic n="sic1" resp="#viaf6913774">
-                                        <w n="w1">circa</w>
-                                        <abbr n="abbr1">al<am n="am1">.</am>
-          </abbr>
-                                        <w n="w2">citra</w>
-                                </sic>
+                                <w n="w96">tamen</w>    
+                                        <w n="w1"><sic resp="#viaf6913774">circa</sic></w>
+                                        <w><abbr n="abbr1">al<am n="am1">.</am>
+          </abbr></w>
+                                        <w n="w2"><sic resp="#viaf6913774">citra</sic></w>
+                                
                                 <lb n="lb7"/>
         <w n="w97">cuiusque</w>
                                 <w n="w98">iniuriam</w>
@@ -3639,9 +3638,9 @@
                                 <pc n="pc22">.</pc>
                                 <w n="w180">Hinc</w>
                                 <lb n="lb13"/>
-        <sic n="sic2" resp="#viaf6913774">
-          <w n="w1">et</w>
-        </sic>
+        
+                <w n="w1"><sic resp="#viaf6913774">et</sic></w>
+        
                                 <w n="w181">rescripta</w>
                                 <w n="w182">non</w>
                                 <w n="w183">nisi</w>
@@ -3761,9 +3760,9 @@
                                 <w n="w20">amicos</w>
                                 <pc n="pc4">,</pc>
                                 <w n="w21">qualem</w>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">se</w>
-        </sic>
+                                
+                                        <w n="w1"><sic resp="#viaf6913774">se</sic></w>
+        
                                 <w n="w22">erga</w>
                                 <w n="w23">parentes</w>
                                 <pc n="pc5">,</pc>
@@ -3991,9 +3990,9 @@
                                 <pc n="pc2">;</pc>
                                 <w n="w12">praedia</w>
                                 <w n="w13">occupata</w>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">a</w>
-        </sic>
+                                
+                                        <w n="w1"><sic resp="#viaf6913774">a</sic></w>
+        
                                 <w n="w14">uendicare</w>
                                 <pc n="pc3">,</pc>
                                 <w n="w15">bona</w>

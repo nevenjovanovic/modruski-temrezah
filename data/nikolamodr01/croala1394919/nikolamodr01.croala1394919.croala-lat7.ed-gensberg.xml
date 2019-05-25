@@ -974,13 +974,10 @@
                                 <w n="w159">ageret</w>
                                 <w n="w160">uel</w>
                                 <w n="w161">maturiorem</w>
-                                <sic n="sic1" resp="#viaf6913774">
-                                        <w n="w1">
-            <expan n="expan1" resp="#viaf6913774">
-                                                domini
-                                        </expan>
+                                <w n="w1">
+            <sic><expan n="expan1" resp="#viaf6913774">domini</expan></sic>
           </w>
-                                </sic>
+                                
                                 <w n="w162">praestolare<lb n="lb1"/>tur</w>
                                 <w n="w163">aetatem</w>
                                 <pc n="pc27">,</pc>
@@ -4741,9 +4738,9 @@
                                 <w n="w258">Colite</w>
                                 <w n="w259">pietatem</w>
                                 <pc n="pc44">,</pc>
-                                <sic n="sic1" resp="#viaf6913774">
-                                        <w n="w1">et</w>
-                                </sic>
+                                
+                                        <w n="w1"><sic>et</sic></w>
+                                
                                 <w n="w260">integritati</w>
                                 <w n="w261">nihil</w>
                                 <w n="w262">anteponite</w>

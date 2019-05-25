@@ -1743,10 +1743,10 @@
                                 <w n="w83">Turpe</w>
                                 <w n="w84">enim</w>
                                 <w n="w85">et</w>
-                                <sic n="sic1" resp="#viaf6913774">
-                                        <w n="w1">inde</w>
-                                        <w n="w2">eorum</w>
-                                </sic>
+                                
+                                        <w n="w1"><sic>inde</sic></w>
+                                        <w n="w2"><sic>eorum</sic></w>
+                                
                                 <w n="w86">merito</w>
                                 <w n="w87">ducebat</w>
                                 <w n="w88">in</w>

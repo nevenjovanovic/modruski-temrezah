@@ -1003,10 +1003,8 @@
                                 <w n="w160">uel</w>
                                 <w n="w161">maturiorem</w>
                                 <w n="w162">
-          <expan n="expan1" resp="#viaf6913774">
-                                        domini
-                                </expan>
-        </w>
+                                        <sic><expan n="expan1" resp="#viaf6913774">domini</expan></sic>
+                                </w>
                                 <w n="w163">praestolaretur</w>
                                 <w n="w164">aetatem</w>
                                 <pc n="pc25">,</pc>
@@ -1466,17 +1464,17 @@
                                 <w n="w522">a</w>
                                 <w n="w523">maximo</w>
                                 <w n="w524">omnium</w>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">deo</w>
-                                        <w n="w2">rectore</w>
-        </sic>
+                                
+          <w n="w1"><sic>deo</sic></w>
+                                        <w n="w2"><sic>rectore</sic></w>
+        
                                 <w n="w525">futurus</w>
                                 <lb n="lb43"/>
         <w n="w526">summus</w>
                                 <w n="w527">pontifex</w>
-                                <sic n="sic2" resp="#viaf6913774">
-          <w n="w1">designatus</w> <w n="w2">erat</w>
-        </sic>
+                                
+          <w n="w1"><sic>designatus</sic></w> <w n="w2"><sic>erat</sic></w>
+        
                                 <pc n="pc75">;</pc>
                                 <w n="w528">ubi</w>
                                 <w n="w529">et</w>
@@ -1589,11 +1587,11 @@
                                 <w n="w615">incrementa</w>
                                 <w n="w616">ad</w>
                                 <w n="w617">summum</w>
-                                <sic n="sic3" resp="#viaf6913774">
-          <w n="w1">culmen</w>
+                                
+          <w n="w1"><sic>culmen</sic></w>
           <lb n="lb1"/>
-          <w n="w2">apostolatus</w>
-        </sic>
+          <w n="w2"><sic>apostolatus</sic></w>
+        
                                 
                                 <w n="w618">conscendisse</w>
                                 <w n="w619">uideret</w>
@@ -1922,10 +1920,10 @@
                                 <pc n="pc25">,</pc>
                                 <w n="w152">quicquid</w>
                                 <lb n="lb12"/>
-        <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">componeret</w>
-                                <w n="w2">praeparabat</w>
-        </sic>
+        
+          <w n="w1"><sic>componeret</sic></w>
+                                <w n="w2"><sic>praeparabat</sic></w>
+        
                                 <pc n="pc26">.</pc>
                                 <w n="w153">Affluebant</w>
                                 <w n="w154">quotidie</w>
@@ -3383,11 +3381,11 @@
         </w>
                                 <pc n="pc11">,</pc>
                                 <w n="w69">uoluit</w>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">frater</w>
+                                
+          <w n="w1"><sic>frater</sic></w>
                                         <lb n="lb1"/>
-          <w n="w2">ita</w>
-        </sic>
+          <w n="w2"><sic>ita</sic></w>
+        
                                 <w n="w70">munificentia</w>
                                 <w n="w71">illustrare</w>
                                 <pc n="pc12">.</pc>
@@ -3481,9 +3479,9 @@
                                 <w n="w9">in</w>
                                 <w n="w10">tanta</w>
                                 <w n="w11">rerum</w>
-                                <sic n="sic1" resp="#viaf6913774" ana="error">
-          <w n="w1">rerum</w>
-        </sic>
+                                
+                                        <w n="w1"><sic resp="#viaf6913774" ana="error">rerum</sic></w>
+        
                                 <w n="w12">potestate</w>
                                 <w n="w13">constitutus</w>
                                 <w n="w14">nemini</w>
@@ -3608,11 +3606,11 @@
                                 <w n="w110">quidnam</w>
                                 <w n="w111">de</w>
                                 <w n="w112">illis</w>
-                                <sic n="sic2" resp="#viaf6913774">
-                                        <w n="w1">fieri</w>
+                                
+                                        <w n="w1"><sic>fieri</sic></w>
                                         <lb n="lb1"/>
-          <w n="w2">uellet</w>
-                                </sic>
+          <w n="w2"><sic>uellet</sic></w>
+                                
                                 <pc n="pc14">,</pc>
                                 <w n="w113">qui</w>
                                 <w n="w114">iniustam</w>
@@ -3658,10 +3656,10 @@
         <w n="w145">et</w>
                                 <w n="w146">senatori</w>
                                 <w n="w147">urbis</w>
-                                <sic n="sic3" resp="#viaf6913774">
-          <w n="w1">respondit</w>
-                                        <w n="w2">interrogatus</w>
-                                </sic>
+                                
+          <w n="w1"><sic>respondit</sic></w>
+                                        <w n="w2"><sic>interrogatus</sic></w>
+                                
                                 <pc n="pc17">,</pc>
                                 <w n="w148">hoc</w>
                                 <w n="w149">gubernatoribus</w>
@@ -4263,10 +4261,10 @@
                                 <w n="w156">solebant</w>
                                 <pc n="pc29">,</pc>
                                 <w n="w157">ab</w>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">una</w>
-                                        <w n="w2">hac</w>
-                                </sic>
+                                
+          <w n="w1"><sic>una</sic></w>
+                                        <w n="w2"><sic>hac</sic></w>
+                                
                                 <lb n="lb18"/>
         <w n="w158">omnes</w>
                                 <w n="w159">accipiant</w>
@@ -4316,9 +4314,9 @@
         <w n="w192">eius</w>
                                 <w n="w193">testari</w>
                                 <w n="w194">potuisset</w>
-                                <sic n="sic2" resp="#viaf6913774">
-                                        <w n="w1">et</w>
-                                </sic>
+                                
+                                        <w n="w1"><sic>et</sic></w>
+                                
                                 <w n="w195">si</w>
                                 <w n="w196">tantum</w>
                                 <w n="w197">quatuor</w>
@@ -4688,10 +4686,10 @@
                                 <w n="w121">exhibuisse</w>
                                 <pc n="pc19">,</pc>
                                 <w n="w122">tametsi</w>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">mihi</w>
-                                        <w n="w2">nunquam</w>
-                                </sic>
+                                
+          <w n="w1"><sic>mihi</sic></w>
+                                        <w n="w2"><sic>nunquam</sic></w>
+                                
                                 <w n="w123">
           <orig n="orig1">
             uolunptas
@@ -4794,9 +4792,9 @@
                                 <w n="w199">in</w>
                                 <w n="w200">luxu</w>
                                 <w n="w201">ac</w>
-                                <sic n="sic2" resp="#viaf6913774">
-          <w n="w1">in</w> <w n="w2">anibus</w>
-        </sic>
+                                
+          <w n="w1"><sic>in</sic></w> <w n="w2"><sic>anibus</sic></w>
+        
                                 <w n="w202">eius</w>
                                 <lb n="lb17"/>
         <w n="w203">diuitiis</w>
@@ -4887,9 +4885,9 @@
           <w n="w1">esse</w>
         </supplied>
                                 <w n="w266">a</w>
-                                <sic n="sic3" resp="#viaf6913774">
-          <w n="w1">deo</w>
-        </sic>
+                                
+          <w n="w1"><sic>deo</sic></w>
+        
                                 <w n="w267">laborum</w>
                                 <w n="w268">suorum</w>
                                 <w n="w269">mercedem</w>
@@ -5138,10 +5136,10 @@
                                 <w n="w74">quo</w>
                                 <lb n="lb8"/>
         <w n="w75">facto</w>
-                                <sic n="sic1" resp="#viaf6913774">
-          <w n="w1">inquit</w>
-                                        <w n="w2">Proferte</w>
-                                </sic>
+                                
+          <w n="w1"><sic>inquit</sic></w>
+                                        <w n="w2"><sic>Proferte</sic></w>
+                                
                                 <w n="w76">sacros</w>
                                 <w n="w77">codices</w>
                                 <pc n="pc15">,</pc>
