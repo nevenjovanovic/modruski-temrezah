@@ -1,0 +1,160 @@
+%-*-coding:utf-8;-*-
+%&LaTeX
+\documentclass[a5paper,twoside]{article}
+\usepackage{polyglossia,fontspec}
+\setmainlanguage{latin}
+\setotherlanguage{croatian}
+
+\defaultfontfeatures{Ligatures=TeX}
+
+\usepackage{indentfirst,titling,enumitem}
+
+% prilagodba dimenzija stranice
+\usepackage[a5paper,pdftex]{geometry}%a4paper,pdftex
+%\usepackage[a4paper,pdftex]{geometry}
+\geometry{scale=1,paperwidth=161mm,paperheight=230mm,
+bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
+\parindent=7mm
+
+\usepackage[small,center,rm]{titlesec}
+\titlespacing{\section}{0pt}{11mm}{7mm}
+
+% titling
+\pretitle{\begin{center}\vskip 5mm}
+\posttitle{\par\end{center}}
+\preauthor{}
+\postauthor{}
+\predate{}
+\postdate{}
+
+% slova
+\setmainfont{Old Standard TT}
+\setsansfont{Old Standard TT}
+
+% makro za regum gesta
+\newcommand{\kratica}{\emph{Regum gesta}}%
+
+% reference bold
+\newcommand{\refb}[1]{\textbf{\ref{#1}}}
+
+\renewcommand{\labelenumi}{\Alph{enumi}}
+
+%tekuće glave
+%tekuće glave
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{} % clearall
+\fancyhead[RO,LE]{\thepage}
+\fancyhead[EC]{\MakeUppercase{Nikola Modruški: Djela u službi Pape Siksta IV.}}
+\fancyhead[OC]{\MakeUppercase{Fontes lectionvm}}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\makeatletter
+\renewcommand{\@makefnmark}{\mbox{%
+\textsuperscript{\normalfont\@thefnmark\ }}}
+\makeatother
+
+\renewcommand\footnotesize{\fontsize{10}{10.5} \selectfont}
+\renewcommand\tiny{\fontsize{9}{9.5} \selectfont}
+\renewcommand\large{\fontsize{11}{11.5} \selectfont}
+\renewcommand\Large{\fontsize{12.5}{13} \selectfont}
+
+% fusnote i crta
+\renewcommand{\footnoterule}{\vspace*{-7pt}
+    \noindent\rule{2in}{0.4pt}\vspace*{6.6pt}}
+
+\setlength{\headheight}{12.6pt}
+
+% makro za naziv programa
+\newcommand{\makeup}[1]{\MakeUppercase{\emph{#1}}}
+
+
+% prilagodba quote
+% prilagođavamo citat propozicijama
+\renewenvironment{quote}
+               {\list{}{\rightmargin 0mm
+                \leftmargin 7mm
+                \itemindent 0em}%
+                \item\relax}
+               {\endlist}
+
+\newenvironment{opisi}{%
+\let\olditem\item% 
+\renewcommand\item[2][]{\olditem ##1 ##2 \itemsep 3pt}%
+\begin{description}}{\end{description}%
+}
+
+
+%siročići i udovice
+% \widowpenalty=10000
+% \clubpenalty=10000
+
+\begin{document}
+%%tth:\begin{html}<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">\end{html}
+
+\hyphenation{his-to-ri-o-graf-ske po-li-tič-ko po-li-tič-ko-his-to-ri-o-graf-ske}
+\hyphenation{quae-sti-o-nes quin-qua-gin-ta quo-que DXXXVIII Zuo-ni-me-ro}
+\hyphenation{quad-ra-ta quo-mo-do Schwand-tne-ro-vi cro-a-tiae I-su-krs-ta}
+\hyphenation{Pas-qua-li-go XVIII U-di-sla-va in-tel-le-xis-set kra-ljev-stvo}
+\hyphenation{in-ua-se-runt quod pes-si-mo pe-dan-tno-an-ti-kvar-ski pas-cha-les}
+\hyphenation{Pa-lu-šom MDCCXLVIII}
+
+% No extra spacing after periods
+\frenchspacing
+
+% Font sizing
+\fontsize{11}{13.2}
+\selectfont
+
+% veća čitljivost
+\linespread{1.1}
+
+%uvlaka paragrafa
+\setlength{\parindent}{7mm}
+
+% počinje na s. 5
+\setcounter{page}{169}
+
+\title{\Large{\MakeUppercase{Fontes lectionvm}}}
+
+\date{}%Datum ove verzije: \today}
+
+\maketitle 
+
+%\texttt{Završna verzija, uredniku na čitanje.}
+\thispagestyle{empty}
+% [ova stranica namjerno prazna]
+
+
+\section*{1.\thinspace LIBRI IMPRESSI}
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[V] -- Romae, in domo Antonii et Raphaelis de Vulterris (anno 1474).
+\item[Ge] -- Romae, typis excussit Johannes Gensberg (anno 1474).
+\item[R] -- Rostochii, excusserunt fratres Domus Horti Viridis ad S. Michaelem, anno 1476.
+\item[C] -- Paduae, excussit Matthaeus Cerdonis, 30 Aug. 1482.
+\item[P] -- Romae, excussit S. Plannck, 1482.
+\item[Gd] -- Romae, excussit Bartholomaeus Guldinbeck (qui ibi officinam habuit librariam annis 1484–1488).
+\end{description}
+
+\section*{2.\thinspace CODICES}
+
+\bigskip
+
+\begin{description}[noitemsep,itemsep=3pt,labelsep=5pt,font=\rmfamily]
+\item[va] -- Codex Vaticanus: Bibliotheca apostolica Vaticana \emph{Vat.~lat.\ 8750}.
+\item[m] -- Codex Monacensis: Bibliotheca Bavarica \emph{CLM 461}.
+\item[pa] -- Codex Panormitanus: Panormi, Biblioteca centrale della Regione siciliana, \emph{I.B.6,} ff. 32r-54r.
+\item[o] -- Codex Olomoucensis, sub fine saec. XV; Olomoucii, Vědecká knihovna; Textus varii; Historia Bohemica \emph{sign. M I 159}, ff. 170r–174v.
+\item[ve] -- Codex Venetus, \emph{Marc.~Lat.\ cl.~XIII, 180 (4667).}
+\item[co] -- Codex Corsinianus: cart. misc., saeculi XV; Romae, Accademia Nazionale dei Lincei, Biblioteca dell'Accademia dei Lincei e Corsiniana, fondo principale, \emph{Corsin. 583 (45 C 18),} ff. 123v-125v.
+\end{description}
+
+
+\clearpage
+\thispagestyle{empty}
+\hfill
+\clearpage
+
+
+\end{document}
