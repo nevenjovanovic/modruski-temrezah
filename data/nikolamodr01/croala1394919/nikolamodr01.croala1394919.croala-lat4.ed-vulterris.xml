@@ -2216,11 +2216,7 @@
         <w n="w73">faceret</w>
         <w n="w74">insolentiores</w>
         <pc n="pc11">,</pc>
-        <w n="w75">
-          <sic n="sic1" resp="#viaf6913774" ana="error">
-          placenda
-        </sic>
-        </w>
+        <w n="w75">placida</w>
         <w n="w76">uoce</w>
         <w n="w77">respondit</w>
         <pc n="pc12">:</pc>
@@ -2244,7 +2240,6 @@
         <w n="w92">amore</w>
         <w n="w93">congruis</w>
         <w n="w94">praemiis</w>
-        <!-- dovde kolacionirano 21. 5. -->
         <pb n="pb1"/>
         <lb n="lb11"/>
         <w n="w95">afficere</w>
@@ -2257,7 +2252,7 @@
         <w n="w101">munere</w>
         <lb n="lb12"/>
         <w n="w102">optime</w>
-        <w n="w103">fructus</w>
+        <w n="w103"><expan>functus</expan></w>
         <w n="w104">erit</w>
         <pc n="pc15">.</pc>
         <w n="w105">O</w>
