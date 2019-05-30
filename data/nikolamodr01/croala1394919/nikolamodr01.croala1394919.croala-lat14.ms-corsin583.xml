@@ -3207,58 +3207,62 @@
         <w n="w75">re</w>
         <w n="w76">tale</w>
         <w n="w77">temperamentum</w>
-        <w n="w78">adhibuit</w>
+        <lb/><w n="w78">adhibuit</w>
+        <pc>:</pc>
         <w n="w79">ut</w>
         <w n="w80">id</w>
         <w n="w81">cum</w>
         
         <w n="w82">ingenti</w>
         <w n="w83">honore</w>
+        <pc>,</pc>
         <w n="w84">ac</w>
         <w n="w85">laude</w>
         <w n="w86">sedis</w>
         <w n="w87">apostolicę</w>
-        <w n="w88">contingeret</w>
+        <lb/><w n="w88">contingeret</w>
         <pc n="pc14">.</pc>
         
         <w n="w89">Vrbem</w>
         <w n="w90">enim</w>
         <w n="w91">Imolam</w>
-        <pc n="pc15">,</pc>
+        <pc n="pc15">:</pc>
         <w n="w92">quę</w>
         <w n="w93">iam</w>
         <w n="w94">pręfecti</w>
         <w n="w95">eius</w>
         <w n="w96">culpa</w>
         
-        <w n="w97">ad</w>
+        <lb/><w n="w97">ad</w>
         <w n="w98">alios</w>
         <w n="w99">deuenerat</w>
-        <pc n="pc16">,</pc>
+        <pc n="pc16">:</pc>
         <w n="w100">quadraginta</w>
-        <w n="w101">millibus</w>
+        <w n="w101"><orig>milibus</orig></w>
         <w n="w102">ducatorum</w>
         
         <w n="w103">de</w>
         <w n="w104">propriis</w>
-        <w n="w105">facultatibus</w>
+        <w n="w105">fa<lb/>cultatibus</w>
         <w n="w106">redemptam</w>
+        <pc>:</pc>
         <w n="w107">imperio</w>
-        <w n="w108">ecclesię</w>
+        <w n="w108"><orig><expan>ęcclesię</expan></orig></w>
         <w n="w109">restituit</w>
         <pc n="pc17">.</pc>
         <w n="w110">Cuius</w>
         <w n="w111">exaugendi</w>
-        <w n="w112">tanto</w>
+        <lb/><w n="w112">tanto</w>
         <w n="w113">flagrabat</w>
         <w n="w114">studio</w>
+        <pc>:</pc>
         <w n="w115">ut</w>
         <w n="w116">ne</w>
         <w n="w117">minimam</w>
         <w n="w118">quidem</w>
         <w n="w119">eius</w>
         <w n="w120">particulam</w>
-        <w n="w121">deperire</w>
+        <lb/><w n="w121">deperire</w>
         
         <w n="w122">pateretur</w>
         <pc n="pc18">.</pc>
@@ -3266,12 +3270,13 @@
         <w n="w124">urbem</w>
         <w n="w125">illam</w>
         <w n="w126">magis</w>
-        <w n="w127">ecclesię</w>
+        <w n="w127"><orig><expan>ęcclesię</expan></orig></w>
+        <pc>:</pc>
         <w n="w128">quam</w>
         <w n="w129">fratris</w>
         <w n="w130">gratia</w>
-        <w n="w131">uoluit</w>
-        <w n="w132">uendicare</w>
+        <lb/><w n="w131">uoluit</w>
+        <w n="w132"><orig>uendicare</orig></w>
         <pc n="pc19">.</pc>
       </p>
       <p n="p14">
@@ -3283,19 +3288,20 @@
         <w n="w4">ex</w>
         <w n="w5">illo</w>
         <w n="w6">spectare</w>
-        <w n="w7">licet</w>
+        <w n="w7">li<lb/>cet</w>
+        <pc>:</pc>
         <w n="w8">quod</w>
         <w n="w9">in</w>
         <w n="w10">tanta</w>
         <w n="w11">rerum</w>
         <w n="w12">potestate</w>
         <w n="w13">constitutus</w>
-        
+        <pc>:</pc>
         <w n="w14">nemini</w>
         <w n="w15">uim</w>
         <w n="w16">attulit</w>
-        <pc n="pc2">,</pc>
-        <w n="w17">nullum</w>
+        <pc n="pc2">:</pc>
+        <lb/><w n="w17">nullum</w>
         <w n="w18">uiolenter</w>
         <w n="w19">oppressit</w>
         <pc n="pc3">.</pc>
@@ -3304,44 +3310,44 @@
         <w n="w21">et</w>
         <w n="w22">uicario</w>
         <w n="w23">illi</w>
-        <w n="w24">Imolę</w>
-        <pc n="pc4">,</pc>
+        <w n="w24"><orig>Imolę</orig></w>
+        <pc n="pc4">(</pc>
         <w n="w25">quamuis</w>
-        <w n="w26">de</w>
-        <w n="w27">ecclesia</w>
+        <lb/><w n="w26">de</w>
+        <w n="w27"><orig><expan>ęcclesia</expan></orig></w>
         <w n="w28">male</w>
         
         <w n="w29">merito</w>
-        <pc n="pc5">,</pc>
+        <pc n="pc5">)</pc>
         <w n="w30">non</w>
         <w n="w31">solum</w>
         <w n="w32">uictum</w>
-        <pc n="pc6">,</pc>
+        <pc n="pc6">:</pc>
         <w n="w33">sed</w>
         <w n="w34">nihil</w>
         <w n="w35">prioribus</w>
-        <w n="w36">minores</w>
+        <lb/><w n="w36">minores</w>
         <w n="w37">fortunas</w>
         <w n="w38">dari</w>
         <w n="w39">curauit</w>
         <pc n="pc7">.</pc>
-        <w n="w40">Quattuordecim</w>
+        <w n="w40"><orig>Quatuordecim</orig></w>
         <w n="w41">enim</w>
         <w n="w42">milia</w>
-        <w n="w43">ducatorum</w>
+        <lb/><w n="w43">ducatorum</w>
         <w n="w44">accepit</w>
-        <pc n="pc8">,</pc>
+        <pc n="pc8">:</pc>
         <w n="w45"><expan resp="#viaf6913774">et</expan></w>
         <w n="w46">opulentissimum</w>
         <w n="w47">oppidum</w>
         <w n="w48">Bosti</w>
-        <pc n="pc9">,</pc>
+        <pc n="pc9">:</pc>
         <w n="w49">ex</w>
         <w n="w50">quo</w>
         <w n="w51">et</w>
-        <w n="w52">aliis</w>
+        <lb/><w n="w52">aliis</w>
         <w n="w53">a</w>
-        <w n="w54">duce</w>
+        <w n="w54"><orig>Duce</orig></w>
         <w n="w55">adiectis</w>
         <w n="w56">prediis</w>
         <w n="w57">plus</w>
@@ -3350,16 +3356,18 @@
         <w n="w59">quinque</w>
         <w n="w60">milia</w>
         <w n="w61">ducatorum</w>
-        <w n="w62">quotannis</w>
+        <lb/><w n="w62">quotannis</w>
         <w n="w63">capere</w>
         <w n="w64">poterit</w>
-        <pc n="pc10">,</pc>
-        <w n="w65">neque</w>
+        <pc n="pc10">.</pc>
+        <w n="w65">Neque</w>
         <w n="w66">Imolam</w>
+        <pc>:</pc>
         <w n="w67">nisi</w>
         <w n="w68">eo</w>
         <w n="w69">uolente</w>
-        <w n="w70">redimere</w>
+        <pc>:</pc>
+        <w n="w70">re<lb/>dimere</w>
         <w n="w71">uoluit</w>
         <pc n="pc11">.</pc>
         
@@ -3369,35 +3377,38 @@
         <w n="w75">suum</w>
         <w n="w76">absque</w>
         <w n="w77">ullo</w>
-        <w n="w78">respectu</w>
+        <lb/><w n="w78">respectu</w>
         
         <w n="w79">cuique</w>
         <w n="w80">administrare</w>
         <pc n="pc12">.</pc>
         <w n="w81">Et</w>
         <w n="w82">licet</w>
-        <w n="w83">nonnumquam</w>
+        <w><sic>nonni</sic></w>
+        <w><sic><expan>quam</expan></sic></w>
         <w n="w84">domesticorum</w>
         
-        <w n="w85">amicorumque</w>
+        <lb/><w n="w85">amicorumque</w>
         <w n="w86">euictus</w>
         <w n="w87">precibus</w>
+        <pc>,</pc>
         <w n="w88">aut</w>
         <w n="w89">litteris</w>
+        <pc>,</pc>
         <w n="w90">aut</w>
         <w n="w91">nuntiis</w>
         
         <w n="w92">multos</w>
-        <w n="w93">iudicibus</w>
+        <lb/><w n="w93">iudicibus</w>
         <w n="w94">commendaret</w>
-        <pc n="pc13">,</pc>
+        <pc n="pc13">:</pc>
         <w n="w95">id</w>
         <w n="w96">tamen</w>
         <w n="w97">citra</w>
         <w n="w98">cuiusque</w>
         <w n="w99">iniuriam</w>
         <w n="w100">fieri</w>
-        <w n="w101">uolebat</w>
+        <lb/><w n="w101">uolebat</w>
         <pc n="pc14">.</pc>
         <w n="w102">Vnde</w>
         <w n="w103">et</w>
@@ -3407,7 +3418,8 @@
         <w n="w107">urbis</w>
         
         <w n="w108">aliquando</w>
-        <w n="w109">interrogaretur</w>
+        <w n="w109">interroga<lb/>retur</w>
+        <pc>:</pc>
         <w n="w110">quidnam</w>
         <w n="w111">de</w>
         <w n="w112">illis</w>
@@ -3417,29 +3429,31 @@
         
         <w n="w115">causam</w>
         <w n="w116">fouentes</w>
-        <w n="w117">tamen</w>
+        <pc>:</pc>
+        <lb/><w n="w117">tamen</w>
         <w n="w118">ipsius</w>
         <w n="w119">nomine</w>
         <w n="w120">commendabantur</w>
-        <pc n="pc16">,</pc>
+        <pc n="pc16">.</pc>
         <w n="w121">Illud</w>
         
         <w n="w122">inquit</w>
+        <pc>:</pc>
         <w n="w123">ut</w>
         <w n="w124">iustitiam</w>
         <w n="w125">mearum</w>
-        <w n="w126">precum</w>
+        <lb/><w n="w126">precum</w>
         <w n="w127">gratia</w>
         <w n="w128">minime</w>
         <w n="w129">uioles</w>
-        
+        <pc>:</pc>
         <w n="w130">nec</w>
         <w n="w131">secus</w>
         <w n="w132">feceris</w>
         <w n="w133">etiam</w>
         <w n="w134">si</w>
         <w n="w135">te</w>
-        <w n="w136">germanus</w>
+        <lb/><w n="w136">germanus</w>
         <w n="w137">meus</w>
         <w n="w138">Hieronymus</w>
         <w n="w139">nomine</w>
@@ -3447,7 +3461,7 @@
         <w n="w141">aliud</w>
         <w n="w142">precabitur</w>
         <pc n="pc17">.</pc>
-        <w n="w143">Hoc</w>
+        <lb/><w n="w143">Hoc</w>
         <w n="w144">ipsum</w>
         <w n="w145">et</w>
         
@@ -3455,19 +3469,19 @@
         <w n="w147">urbis</w>
         <w n="w148">interrogatus</w>
         <w n="w149">respondit</w>
-        <pc n="pc18">,</pc>
-        <w n="w150">hoc</w>
-        <w n="w151">gubernatoribus</w>
-        <pc n="pc19">,</pc>
+        <pc n="pc18">.</pc>
+        <w n="w150">Hoc</w>
+        <w n="w151">guber<lb/>natoribus</w>
+        <pc n="pc19">:</pc>
         <w n="w152">hoc</w>
-        <w n="w153">pręfectis</w>
-        <pc n="pc20">,</pc>
+        <w n="w153"><expan>pręfectis</expan></w>
+        <pc n="pc20">:</pc>
         <w n="w154">hoc</w>
         <w n="w155">omnibus</w>
         <w n="w156">legationis</w>
         <w n="w157">suę</w>
         <w n="w158">iudicibus</w>
-        <w n="w159">sępe</w>
+        <lb/><w n="w159">sępe</w>
         <w n="w160">mandabat</w>
         <pc n="pc21">.</pc>
         <w n="w161">Dicebat</w>
@@ -3477,10 +3491,10 @@
         <w n="w165">operam</w>
         <w n="w166">suam</w>
         <w n="w167">rogantibus</w>
-        <w n="w168">negare</w>
+        <lb/><w n="w168">negare</w>
         <w n="w169">non</w>
         <w n="w170">posse</w>
-        <pc n="pc22">,</pc>
+        <pc n="pc22">:</pc>
         <w n="w171">sed</w>
         <w n="w172">illius</w>
         <w n="w173">causa</w>
@@ -3489,7 +3503,7 @@
         <w n="w175">nisi</w>
         <w n="w176">iustum</w>
         <w n="w177">honestumque</w>
-        <w n="w178">fieri</w>
+        <lb/><w n="w178">fieri</w>
         <w n="w179">permaxime</w>
         <w n="w180">uelle</w>
         <pc n="pc23">.</pc>
@@ -3500,9 +3514,9 @@
         <w n="w184">non</w>
         <w n="w185">nisi</w>
         <w n="w186">sanctissima</w>
-        <w n="w187">faciebat</w>
-        <pc n="pc24">,</pc>
-        <w n="w188">atque</w>
+        <lb/><w n="w187">faciebat</w>
+        <pc n="pc24">.</pc>
+        <w n="w188">Atque</w>
         <w n="w189">ne</w>
         <w n="w190">cui</w>
         
@@ -3510,20 +3524,20 @@
         <w n="w192">peccandi</w>
         <w n="w193">daretur</w>
         <w n="w194">occasio</w>
-        <pc n="pc25">,</pc>
-        <w n="w195">omnium</w>
+        <pc n="pc25">:</pc>
+        <lb/><w n="w195">omnium</w>
         <w n="w196">decretorum</w>
         
         
         <w n="w197">suorum</w>
-        <pc n="pc26">,</pc>
+        <pc n="pc26">:</pc>
         <w n="w198">similiter</w>
         <w n="w199">et</w>
         <w n="w200">litterarum</w>
-        <pc n="pc27">,</pc>
         <w n="w201">exemplaria</w>
+        <pc>:</pc>
         <w n="w202">apud</w>
-        <w n="w203">notarios</w>
+        <lb/><w n="w203">notarios</w>
         <w n="w204">extare</w>
         <w n="w205">iusserat</w>
         <pc n="pc28">.</pc>
@@ -3531,31 +3545,29 @@
         <w n="w207">pręclarissimę</w>
         <w n="w208">uirtutis</w>
         
-        <w n="w209">nec</w>
+        <lb/><w n="w209">nec</w>
         <w n="w210">moriens</w>
         <w n="w211">obliuisci</w>
         <w n="w212">potuit</w>
-        <pc n="pc29">;</pc>
-        <w n="w213">nam</w>
+        <pc n="pc29">.</pc>
+        <w n="w213">Nam</w>
         <w n="w214">cum</w>
         <w n="w215">hortaretur</w>
         
         <w n="w216">ab</w>
-        <w n="w217">amicis</w>
+        <lb/><w n="w217">amicis</w>
         <w n="w218">testamentum</w>
         <w n="w219">condere</w>
-        <pc n="pc30">,</pc>
-        <w n="w220">Nihil</w>
-        <pc n="pc31">,</pc>
+        <pc n="pc30">:</pc>
+        <w n="w220"><orig>nihil</orig></w>
         <w n="w221">inquit</w>
-        <pc n="pc32">,</pc>
         <w n="w222">meum</w>
         <w n="w223">habeo</w>
-        <pc n="pc33">,</pc>
+        <pc n="pc33">:</pc>
         
         <w n="w224">omnia</w>
         <w n="w225">sunt</w>
-        <w n="w226">ecclesię</w>
+        <lb/><w n="w226"><orig><expan>ęcclesię</expan></orig></w>
         <pc n="pc34">.</pc>
         <w n="w227">Supplicabitis</w>
         <w n="w228">tamen</w>
@@ -3564,20 +3576,21 @@
         
         <w n="w231">summo</w>
         <w n="w232">pontifici</w>
+        <pc>:</pc>
         <w n="w233">ut</w>
         <w n="w234">ęs</w>
-        <w n="w235">alienum</w>
-        <pc n="pc35">,</pc>
+        <lb/><w n="w235">alienum</w>
+        <pc n="pc35">:</pc>
         <w n="w236">cuius</w>
         <w n="w237">maiorem</w>
         <w n="w238">partem</w>
         
         <w n="w239">pro</w>
         <w n="w240">redimendis</w>
-        <w n="w241">ecclesię</w>
+        <w n="w241"><orig><expan>ęcclesię</expan></orig></w>
         <w n="w242">rebus</w>
-        <w n="w243">contraxi</w>
-        <pc n="pc36">,</pc>
+        <lb/><w n="w243">contraxi</w>
+        <pc n="pc36">:</pc>
         <w n="w244">pro</w>
         <w n="w245">sua</w>
         <w n="w246">benignitate</w>
@@ -3590,7 +3603,7 @@
         <w n="w3">loco</w>
         <w n="w4">potissimas</w>
         
-        <w n="w5">eius</w>
+        <pb/><lb/><w n="w5">eius</w><!-- dovde 30/5 -->
         <w n="w6">prętermittere</w>
         <w n="w7">laudes</w>
         <pc n="pc1">,</pc>
