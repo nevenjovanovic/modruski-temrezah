@@ -1,0 +1,42 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[quiet]{polyglossia}
+\setdefaultlanguage{croatian}
+\setotherlanguage[variant=ancient]{greek}
+
+\defaultfontfeatures{Ligatures=TeX}
+
+\usepackage{tikz}
+\setmainfont{Old Standard TT}
+\setsansfont{Old Standard TT}
+\begin{document}
+
+\begin{tikzpicture}
+	\node {}[sibling distance=5.5cm] {
+	child {
+	node {V}[sibling distance=1cm]
+		child { node {Gd}}
+		child { node {P}
+			 child {
+				node{m}
+				}
+			}
+			}
+	child {}[sibling distance=3cm] {
+	child { node {C} }
+	child {	node {Ge}[sibling distance=1cm]
+	child { node {va} }
+	child {	node {o} }
+	}
+	child {}[sibling distance=1cm] { 
+		child { node {co}}
+		child { node {R}}
+		child { node {ve}}
+		child { node {pa}}
+	}
+	}
+	
+	
+			}	
+	;
+\end{tikzpicture}
+\end{document}
