@@ -1,7 +1,9 @@
 \documentclass[a5paper,twoside]{article}
-\usepackage{polyglossia,fontspec}
+\usepackage{polyglossia}
 \setmainlanguage{latin}
 \setotherlanguage{croatian}
+\setotherlanguage{greek}
+\newfontfamily\greekfont[Script=Greek]{Gentium}
 
 \defaultfontfeatures{Ligatures=TeX}
 
@@ -10,7 +12,18 @@
 bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
 \parindent=7mm
 
+\setmainfont{Times New Roman}
+%\setsansfont{Old Standard TT}
+%veličina fusnota, marginalija, glavnog teksta
+\renewcommand\footnotesize{\fontsize{10}{10.5} \selectfont}
+\renewcommand\tiny{\fontsize{9}{9.5} \selectfont}
+\renewcommand\large{\fontsize{11}{11.5} \selectfont}
+\renewcommand\normalsize{\fontsize{11}{13.2} \selectfont}
+
+
 \usepackage[series={A,B,C},noeledsec,nofamiliar,noledgroup]{reledmac}
+%\Xnotefontsize[A,B,C]{\normalsize}
+
 \Xarrangement[A]{paragraph}
 \Xnotenumfont[A]{\bfseries}
 \Xparindent[A]
@@ -20,7 +33,7 @@ bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
 \Xnotenumfont[B]{\bfseries}
 \Xparindent[B]
 
-\Xarrangement[C]{paragraph}
+\Xarrangement[C]{normal}
 \Xnotenumfont[C]{\bfseries}
 \Xparindent[C]
 \Xlemmafont[C]{\bfseries}
@@ -36,13 +49,13 @@ bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
 %\Xmaxhnotes[A,B]{0.75\textheight}
 %}
 %\Xbeforenotes[A,B]{2em plus 1em minus 1em}
-\Xbeforenotes[B]{2.2em plus 1em minus 1em}
-\Xbeforenotes[A]{2.2em plus 1em minus 1em}
-\Xbeforenotes[C]{2.2em plus 1em minus 1em}
+\Xbeforenotes[B,A,C]{2.2em plus 1em minus 1em}
+%\Xbeforenotes[A]{2.2em plus 1em minus 1em}
+%\Xbeforenotes[C]{2.2em plus 1em minus 1em}
 
 \Xafterrule[A,B,C]{1em}
-\Xnolemmaseparator[B,C]
-\Xinplaceoflemmaseparator[B,C]{1em}
+\Xnolemmaseparator[B]
+\Xinplaceoflemmaseparator[B]{1em}
 
 \Xendinplaceoflemmaseparator[B]{1em}
 %\Xendlemmaseparator
@@ -53,23 +66,21 @@ bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
 {A}{critical}%
 }
 
+
+
 % sidenotes za brojeve paragrafa
-\sidenotemargin{left}
-\renewcommand{\ledlsnotefontsetup}{\normalsize}% left
-\renewcommand{\ledrsnotefontsetup}{\normalsize}% right
-\renewcommand{\ledlsnotewidth}{0.5\marginparwidth}
-\renewcommand{\ledlsnotesep}{0.25pt}
-\leftnoteupfalse
-\rightnoteupfalse
+%\sidenotemargin{left}
+%\renewcommand{\ledlsnotefontsetup}{\normalsize}% left
+%\renewcommand{\ledrsnotefontsetup}{\normalsize}% right
+%\renewcommand{\ledlsnotewidth}{0.5\marginparwidth}
+%\renewcommand{\ledlsnotesep}{0.25pt}
+%\leftnoteupfalse
+%\rightnoteupfalse
+
 
 %\setsidenotesep{ $|$ }
 
-\setmainfont{Times New Roman}
-%\setsansfont{Old Standard TT}
-%veličina fusnota, marginalija, glavnog teksta
-\renewcommand\footnotesize{\fontsize{10}{10.5} \selectfont}
-\renewcommand\tiny{\fontsize{9}{9.5} \selectfont}
-\renewcommand\large{\fontsize{11}{11.5} \selectfont}
+
 
 % fusnote i crta
 %\setlength{\skip\footins}{1.5\baselineskip}% plus0.5\baselineskip minus0.5\baselineskip}
@@ -99,12 +110,15 @@ bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
 
 
 \begin{document}
+
+% lijeva strana?
+%\setgoalfraction{0.85}
 % No extra spacing after periods
 \frenchspacing
 
 % Font sizing
-\fontsize{11}{13.2}
-\selectfont
+%\fontsize{11}{13.2}
+%\selectfont
 
 % veća čitljivost
 \linespread{1.1}
@@ -113,9 +127,9 @@ bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
 \thispagestyle{empty}
 
 %broji retke na svakoj stranici iznova
-%\lineation{page}
+\lineation*{page}
 %broji retke u svakom odlomku
-\lineation*{pstart}
+%\lineation*{pstart}
 \linenummargin*{outer}
 
 \begin{pages}
@@ -141,16 +155,9 @@ EPISCOPO \\
 
 }
 
-\pend%\vspace*{\baselineskip}
-
-%\bigskip
-
-%\vspace*{\fill}
-\numberlinefalse
-\pstart
-
 \pend
-\numberlinetrue
+\vspace*{\baselineskip}
+
 \numberpstarttrue
 
 \setcounter{pstart}{1}
@@ -203,15 +210,23 @@ Petrus igitur per hunc modum \edtext{in principatu constitutus, qui solet uiros 
 \edtext{minime ad ea cor apponebat}{\Bfootnote{\textit{Ps 61, 11} diuitiae si affluant, nolite cor apponere; \textit{quem locum citauerat Nicolaus etiam libro De consolatione 2, 15, 24}}}, neque \edtext{illis}{\Afootnote{ullo \textit{C}}} auaro \edtext{deuincebatur}{\Afootnote{euincebatur \textit{ve}}} affectu. Hinc est quod nec sciebat numerum nec omnino quid haberet aut quid impenderet nosse \edtext{uolebat}{\Afootnote{ualebat \textit{Gd P}}}; nullas a ministris impensarum exigebat rationes, nulla \edtext{computa}{\Afootnote{comput \textit{P}}} exigere uolebat. Iactura rerum ea dumtaxat mouebatur quae negligentia contigisset, culpam magis dolens quam \edtext{damnum}{\Afootnote{dampnum \textit{V C Gd m}}}. 
 \pend
 \pstart
-A suscepto semel negotio nullo metu absterreri potuerat, nullo periculo depelli. \edtext{Verax in sermone}{\Bendnote{\textit{Boeth. De disciplina scholarium, 64, 1235B:} in universa morum honestate oportet ut polleat praeclarius, ut sit utique in sermone verax, in iudicio iustus, in consilio providus, et in commisso fidelis, constans in vultu, pius in affatu, virtutibus insignitus, bonitateque laudabilis existat; \textit{Acta S. Sebastiani, 17, 1021C:} Erat enim vir totius prudentiae, in sermone verax, in iudicio iustus, in consilio providus, in commisso fidelis, in interventu strenuus, in bonitate conspicuus, in universa morum honestate praeclarus}}, in \edtext{facto}{\Afootnote{faco \textit{P}}} fidelis, in proposito constans, in peragendo strenuus, secretorum tenacissimus, et promissorum firmissimus \edtext{obseruator}{\Afootnote{osservator \textit{ve}}}. Insignia \edtext{haec}{\Afootnote{hic \textit{P m}}} sunt magnanimitatis eius testimonia.  Sed illud mea sententia uincit uniuersa quod nullis mouebatur iniuriis, nullis offensis laedi posse uidebatur, nec \edtext{ullius}{\Afootnote{uillius \textit{P}}} rei facilius quam inimicitiarum obliuiscebatur. Floccipendebat aemulos quoscumque et nullam in rem pronior quam in supplicium ueniam uidebatur, tantumque ab omni ulciscendi ardore aberat ut inimicis suis benefacere gauderet. Nihil in se fictum, nihil subdolum aut simulatum esse uolebat, nec quicquam magis detestabatur quam mentitam probitatem. Mali quippe et iniqui hominis esse dicebat meliorem se \edtext{foris}{\Afootnote{fori \textit{Ge C;} fortis \textit{V P m}}} ostendere quam gerere domi, proborum autem uirorum esse non simulatione, sed integritate uiros superare. Sane munificentiae liberalitatisque eius largitatem quis est qui ignoret, nisi qui illa uti uel \edtext{noluerit}{\Afootnote{uoluerit \textit{o}}} uel nescierit? Ea ipse ita flagrabat ut illos etiam, quibus iustis de causis aliquando irascebatur, muneribus tamen ornare non cessaret. Non semel neque solus interfui cum quosdam familiarium merito obiurgasset, deinde uestimentis et magistratu donauit. Et cum aliquando a magistro domus suae, in cuius diligentissima fidissimaque cura merito conquiescebat, liberius argueretur quod nimia \edtext{indulgentia et}{\Afootnote{indulgenti et a \textit{P m}}} largitate domesticos faceret insolentiores, \edtext{placida}{\Afootnote{placenda \textit{P m}}} uoce respondit: ``Tuum est familiares meos pro neglecto officio \edtext{corrigere}{\Afootnote{corriger \textit{Gd}}}, meum autem \edtext{pro}{\Afootnote{\textit{om. P m}}} illorum in me amore congruis praemiis afficere; id faciendo uterque nostrum suo munere optime functus erit.'' O praeclaram uocem, o sententiam summo principe dignam; nec impunitatem erratorum laudauit, nec liberalitatem suam ullis male merentium factis occludi passus est. Felices quibus illa perfrui licuit, et nunc omnium infortunatissimos quibus tam crudeli fato \edtext{erepta}{\Afootnote{arrepta \textit{C}}} est! Quingentos ferme pascebat familiares, partim illustri, partim nobili, omnes honesto loco natos; praelatos, milites, doctores, oratores, poetas, aut alicui alii honestae arti deditos; nullis tantorum sumptibus, nullis grauabatur impensis. Hospitem enim \edtext{sese}{\Afootnote{se se \textit{co}}} \edtext{omnium}{\Afootnote{\textit{om. va}}} honestorum uirorum esse dicebat; quod ipsa 
+A suscepto semel negotio nullo metu absterreri potuerat, nullo periculo depelli. \edtext{Verax in sermone}{\Bendnote{\textit{Boeth. De disciplina scholarium, 64, 1235B:} in universa morum honestate oportet ut polleat praeclarius, ut sit utique in sermone verax, in iudicio iustus, in consilio providus, et in commisso fidelis, constans in vultu, pius in affatu, virtutibus insignitus, bonitateque laudabilis existat; \textit{Acta S. Sebastiani, 17, 1021C:} Erat enim vir totius prudentiae, in sermone verax, in iudicio iustus, in consilio providus, in commisso fidelis, in interventu strenuus, in bonitate conspicuus, in universa morum honestate praeclarus}}, in \edtext{facto}{\Afootnote{faco \textit{P}}} fidelis, in proposito constans, in peragendo strenuus, secretorum tenacissimus, et promissorum firmissimus \edtext{obseruator}{\Afootnote{osservator \textit{ve}}}. Insignia \edtext{haec}{\Afootnote{hic \textit{P m}}} sunt magnanimitatis eius testimonia.  Sed illud mea sententia uincit uniuersa quod nullis mouebatur iniuriis, nullis offensis laedi posse uidebatur, nec \edtext{ullius}{\Afootnote{uillius \textit{P}}} rei facilius quam inimicitiarum obliuiscebatur. Floccipendebat aemulos quoscumque et nullam in rem pronior quam in supplicium ueniam uidebatur, tantumque ab omni ulciscendi ardore aberat ut inimicis suis benefacere gauderet. 
+\pend
+\pstart
+Nihil in se fictum, nihil subdolum aut simulatum esse uolebat, nec quicquam magis detestabatur quam mentitam probitatem. Mali quippe et iniqui hominis esse dicebat meliorem se \edtext{foris}{\Afootnote{fori \textit{Ge C;} fortis \textit{V P m}}} ostendere quam gerere domi, proborum autem uirorum esse non simulatione, sed integritate uiros superare. Sane munificentiae liberalitatisque eius largitatem quis est qui ignoret, nisi qui illa uti uel \edtext{noluerit}{\Afootnote{uoluerit \textit{o}}} uel nescierit? Ea ipse ita flagrabat ut illos etiam, quibus iustis de causis aliquando irascebatur, muneribus tamen ornare non cessaret. Non semel neque solus interfui cum quosdam familiarium merito obiurgasset, deinde uestimentis et magistratu donauit. Et cum aliquando a magistro domus suae, in cuius diligentissima fidissimaque cura merito conquiescebat, liberius argueretur quod nimia \edtext{indulgentia et}{\Afootnote{indulgenti et a \textit{P m}}} largitate domesticos faceret insolentiores, \edtext{placida}{\Afootnote{placenda \textit{P m}}} uoce respondit: ``Tuum est familiares meos pro neglecto officio \edtext{corrigere}{\Afootnote{corriger \textit{Gd}}}, meum autem \edtext{pro}{\Afootnote{\textit{om. P m}}} illorum in me amore congruis praemiis afficere; id faciendo uterque nostrum suo munere optime functus erit.'' O praeclaram uocem, o sententiam summo principe dignam; nec impunitatem erratorum laudauit, nec liberalitatem suam ullis male merentium factis occludi passus est. Felices quibus illa perfrui licuit, et nunc omnium infortunatissimos quibus tam crudeli fato \edtext{erepta}{\Afootnote{arrepta \textit{C}}} est! 
+\pend
+\pstart
+Quingentos ferme pascebat familiares, partim illustri, partim nobili, omnes honesto loco natos; praelatos, milites, doctores, oratores, poetas, aut alicui alii honestae arti deditos; nullis tantorum sumptibus, nullis grauabatur impensis. Hospitem enim \edtext{sese}{\Afootnote{se se \textit{co}}} \edtext{omnium}{\Afootnote{\textit{om. va}}} honestorum uirorum esse dicebat; quod ipsa 
 \edtext{ueritate erat uerius}{\Bendnote{\textit{Cf. Sen. ep. 66, 8:} nihil invenies rectius recto, non magis quam verius vero, quam temperato temperatius; \textit{Sen. nat. 2, 34, 2:} In quo mihi falli uidentur. Quare? Quia uero uerius nihil est; \textit{Ficinus in versione Plotini (a. 1492 primum impressa), Plot. Enn. 5, 5:} Nihil enim potest ueritate uerius inueniri.}}. 
 Nam si quis diligentius rem ipsam consideret, comperiet proculdubio omnes cardinalium domos nihil aliud esse quam 
 \edtext{honesta hospitia}{\Bendnote{\textit{Coelestinus II (m. 1144), Epistola et privilegia, 179, 0794A:} Ideoque pro honestate et religione vestra dignum duximus ut in Romana urbe vobis ecclesiam concedamus, in qua et Domino serviatis, et, cum pro negotiis Ecclesiae vestrae ad curiam veneritis, honestum hospitium habeatis; \textit{Willelmus Malmesburiensis (c. 1095 – c. 1143), De gestis pontificum Anglorum, 179, 1506C:} Nec vero alicubi in Anglia diu fovere hospitium putabat honestum; \textit{Caffarus (c. 1080-c. 1166), Annales Ianuenses, 3:} tunc enim ipsum dominum Ihesum Christum collegerunt, quando uice eius palatia et hospitia honestissima atque inmensa stipendia domino apostolico suisque episcopis et cardinalibus sufficienter cum amore magno et tripudio impenderunt; \textit{Guillelmus Tyrensis (c. 1130–1186), Historia rerum gestarum in partibus transmarinis, 201, 0804A:} suis autem principibus singulis singula, honesta multum in urbe, non tamen longe a se, hospitia praeparari\dots\ Sed et suis nihilominus, non longe ab eodem palatio, honesta simul et commoda fecit hospitia praeparari; \textit{Odo de Soliaco (1150-1208), Synodicae constitutiones, 212, 0059A:} Praecipitur in eundo et redeundo a synodo honeste ambulent presbyteri, et honesta quaerant hospitia;  \textit{Aeneas Silvius Piccolomini (1405-1464), De duobus amantibus historia, 1, 1:} Plena illi semper est domus honestis hospitibus}}, 
 in quae proborum uirorum \edtext{liberis}{\Afootnote{liberi \textit{va}}} uel necessitatis uel bonorum morum gratia diuersari licet. 
 \pend
+
 \pstart
 Accipiebat praeterea munera, non auaritiae, sed honoris \edtext{comparandaeque}{\Afootnote{comperandique \textit{Gd;} comparandique \textit{P m}}} \edtext{beniuolentiae}{\Afootnote{beneuolentię \textit{co;} beniuolencie \textit{C}}} gratia; quibus tamen in acceptandis ea lege utebatur ut multo ampliora rependeret quam acciperet. Testes sunt omnes qui hac \edtext{officiorum uicissitudine}{\Bendnote{\textit{Hilarius Pictaviensis, Tractatus super psalmos, 9, 0869D:} ut mare et terra et coelum Deum non tam voce, quam officiorum suorum vicissitudine atque observatione laudant; \textit{Symmach. ep. 1, 8a, 18, 5:} ut exemplo diligentiae tuae in officiorum vicissitudinem provocemur; \textit{Ioannes Saresberiensis (c. 1120-1180), Metalogicus, 199, 0827C:} nullum charitati, aut vicissitudini officiorum relinquit locum}} cum eo decertare uoluerunt. Complures in hoc coetu astare non dubito qui me uera praedicare nouerunt et qui post acceptos ab eo non paruos honores multa insuper dona tulerunt.
 \pend
+
 \pstart
 Vidi illum \edtext{quodam}{\Afootnote{quondam \textit{co}}} uesperi non sine graui stomacho 
 \edtext{lacrimis \edtext{suffusum}{\Afootnote{suffusos \textit{C}}} \edtext{oculos}{\Afootnote{\textit{om. ve}}}}{\Bendnote{\textit{Verg. A. 1, 223:} illum talis iactantem pectore curas / tristior et lacrimis oculos suffusa nitentis / adloquitur Venus; \textit{Sedul. Carmen de incarnatione, 19, 0775B:} illa pavens oculos suffusa nitentes, / Suspirans, imoque trahens a pectore vocem, Virgo refert; \textit{Ps.-Hegesippus, Historiae libri 5, p2, 8:} Cuius accepto indicio suffusus oculos lacrimis et quantum erat in eo uirtutis ingemescens ait; \textit{Abbo Floriacensis (c. 945–1004), Vita S. Eadmundi, 139, 0507C:} Quibus fatebaris oculos suffusus lacrymis quod eam iunior didicisses a quodam sene decrepito; \textit{Petrus Damianus (1007-1072), Apologeticum de contemptu saeculi, 145, 0273C:} Actionum quippe saecularium fumo suffusi oculos redeunt; \textit{Guibertus S. Mariae de Novigento (c. 1055–1124), De vita sua, 156, 0847C:} turbulenta et aestuans, et oculos moerore suffusa; \textit{Thomas Cantuariensis (c. 1118–1170), Epistolae, 190, 0711B:} Auditis siquidem ille quae in litteris continebantur, lacrymis suffusus oculos, post singultus et multas de moribus et conversatione Censorini nostri querimonias\dots}} \edtext{et}{\Afootnote{te \textit{Gd P m} }} 
@@ -275,7 +290,7 @@ quod summa cum \edtext{deuotione}{\Afootnote{douotione \textit{P}}} acceperat, d
 \edtext{\edtext{uolens}{\Afootnote{nolens \textit{V Gd P m pa}}} \edtext{lubensque}{\Afootnote{libensque \textit{R}}}}{\Bendnote{\textit{Sen. ep. 4, 37, 2; 5:} Ab illis, qui manus harenae locant et edunt ac bibunt, quae per sanguinem reddant, cavetur, ut ista vel inviti patiantur; a te, ut volens libensque patiaris; 
 \textit{Augustinus Hipponensis (354-430), De mendacio, 40, 0510:} sed volens libensque mentiatur; 
 \textit{Faccino Galeazzo Pontico (fl.c.1450), Libellus, 1, 53; 3:} Qui si forte suum venire praedem Ad me noluerit volens libensque, Secum dicite mente ut ipse volvat; 
-\textit{Desiderius Erasmus, Adagia (1508), Chiliades, 2, 1478; 1:} Βοῦς ἐφ' ἑαυτῷ κονιεῖται, id est Bos adversus se ipsum pulverem movet (sive festinat), ubi quis ad suum ipsius malum volens lubensque ducitur.}}  
+\textit{Desiderius Erasmus, Adagia (1508), Chiliades, 2, 1478; 1:} \textgreek{Βοῦς ἐφ' ἑαυτῷ κονιεῖται}, id est Bos adversus se ipsum pulverem movet (sive festinat), ubi quis ad suum ipsius malum volens lubensque ducitur.}}  
 eius praesto \edtext{sum}{\Afootnote{\textit{om. o}}} uoluntati, \edtext{eo}{\Afootnote{Ego \textit{co}}} quidem \edtext{libentior}{\Afootnote{liberior \textit{va}}} quo me \edtext{et famae et gloriae meae satis uixisse scio}{\Bfootnote{\textit{Cf. Cic. pro Marc. 25:}  Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi: ``Satis diu vel naturae vixi vel gloriae.''}}.  Cepi enim illum ex hac mortalitate fructum quem maximum mea fortuna capere potuit.  Maius restabat nihil; quicquid supererat, merito mihi suspectum metuendumque fuisset.  \edtext{Proinde}{\Afootnote{Prouide \textit{P}}} licet \edtext{cupiam dissolui et esse cum Christo, uror tamen sola uestrarum \edtext{rerum cura}{\Afootnote{cura rerum \textit{o}}}}{\lemma{cupiam dissolui\dots\ rerum cura}\Bfootnote{\textit{Cf. Philip. 1, 23–24:} coartor autem e duobus desiderium habens dissolui et cum Christo esse multo magis melius permanere autem in carne magis necessarium est propter uos}}.  Cognosco enim me tenuem uobis \edtext{mercedem}{\Afootnote{\textit{om. va}}} pro meritis \edtext{exhibuisse}{\Afootnote{exipuisse \textit{Gd P}}}, tametsi \edtext{\edtext{nunquam mihi uoluntas}{\Afootnote{mihi nunquam uolunptas \textit{va}}} defuerit, sed facultas}{\Bendnote{\textit{Guerricus Ig\-ni\-a\-censis (1075-1157), Sermones per annum:} Cum deest facultas, sufficit ad emendum bona voluntas, qua plerumque sunt ditiores, qui rebus sunt pauperiores; \textit{Innocentius III (m. 1216), Sermones communes:} Mox enim audivit: ``Hodie mecum eris in paradiso (Luc. XXIII).'' Nullus ergo desperet, quia sufficit voluntas, ubi deest facultas.}}.  Et, nisi tanta temporis angustia prohibitus fuissem, nullus uestrum meae gratitudinis uices doleret.  Meritum, quod potui, moriens uobis persolui.  \edtext{Supplicaui}{\Afootnote{Supplicat \textit{o}}} summo pontifici ut beneficia, quae in me contulerat, sua clementia inter uos partiatur, ut et uos meritorum uestrorum et me non praestiti officii \edtext{minus}{\Afootnote{munus \textit{m}}} paeniteat.  Ad haec compellit me et uehementius urget mea erga uos incredibilis caritas ut uos horter atque obtester ne huius mundi illecebris atque lenociniis animum uestrum inducatis neue in luxu ac \edtext{inanibus}{\Afootnote{manibus \textit{Gd P;} in anibus \textit{va}}} eius diuitiis spem \edtext{ullam}{\Afootnote{aliam \textit{o}}} ponatis; quae \edtext{quam fluxae quamque fallaces}{\Afootnote{quamquam\dots\ quamquam\dots\ \textit{ve}}} sint, ego unus uobis maximo possum esse documento.  Credite quoniam \edtext{puluis et umbra sumus}{\Bfootnote{\textit{Hor. c. 4, 7, 16}}} et non hic, sed \edtext{alibi permanentes habemus mansiones}{\lemma{alibi\dots\ mansiones}\Bfootnote{\textit{Cf. Io 14, 2:} in domo Patris mei mansiones multae sunt}}, ubi nihil corruptibile, nihil caducum esse potest, sed omnia incorruptibilia, omnia sempiterna.  Proinde date operam probitati et uirtuti totis uiribus incumbite.  Colite pietatem, \edtext{integritati}{\Afootnote{et integritati \textit{Ge R C Gd va o ve pa co}}} nihil anteponite scientes unicuique uestrum \edtext{propositam \edtext{esse a Domino}{\Afootnote{a Deo \textit{va}}} laborum suorum mercedem}{\lemma{propositam\dots\ mercedem}\Bfootnote{\textit{Cf. Sap. 10, 17:} reddidit iustis mercedem laborum suorum}}; quae etiam si nulla esset, hoc tamen ipsum 
 \edtext{pie et sancte uixisse}{\Bendnote{\textit{Cic. De natura deorum (44 a. Chr. n), 1, 46, 56; 28:} pie sancteque colimus naturam excellentem atque praestantem; 
 \textit{Augustinus Hipponensis Incertus, Ad fratres in eremo commorantes, 40, 1279:} Non enim ad eremum venimus, ut murmuremus; sed ut mundanis omnibus conculcatis, in eremo pie, sancte et iuste vivere valeamus; 
@@ -370,23 +385,13 @@ MODRUŠKI
 }
 
 \pend\vspace*{\baselineskip}
-\numberlinefalse
-\pstart
 
-\pend
-%\bigskip
-
-%\vspace*{1cm}
-
-
-\numberlinetrue
 \numberpstarttrue
 
 \setcounter{pstart}{1}
 
-
 \pstart
-Pri svakoj su pogrebnoj svečanosti naši stari posezali prvenstveno za jednim od dvije vrste govora, \edtext{preuzvišeni oci}{\Cfootnote{Autor fingira govor održan na dan Riarijeva pogreba (odlomak 3), 18. siječnja 1474, pred Kardinalskim kolegijem, koji će kasnije nazvati ``presvetim apostolskim senatom,'' (odlomak 9), u rimskoj crkvi Svetih dvanaest apostola (basilica dei SS. Dodici Apostoli, ``sveto apostolsko zdanje'', odlomak 17), gdje se kardinalov grob i danas nalazi; Riario je živio u palači uz crkvu (danas Palazzo Colonna).}}: ili za onim koji može tužne duše prijatelja osloboditi žalosti – njima je prijateljev život bio predrag, pa im ni smrt nikako nije mogla biti ugodna – ili za onim koji će posljednju počast prijatelju uveličati opsežnom pohvalom njegovih dostignuća te obilja i sjaja njegovih vrlina; ali meni je ona prva vrsta utjehe ostala tako potpuno i konačno nedostupna da ču sam morati tražiti pomoć prije no što bih je ikome mogao ili pružiti ili obećati.  Pa čak i da nisam izgubio pristup takvoj utjesi, svejedno nikad ne bih mogao pronaći riječi ili argumente kojima bi čak i općepriznati prvaci govorništva mogli imalo olakšati ovaj težak gubitak za vaš presveti zbor, ovu opću tugu čitave kurije.
+Pri svakoj su pogrebnoj svečanosti naši stari posezali prvenstveno za jednim od dvije vrste govora, \edtext{preuzvišeni oci}{\Cfootnote{Autor fingira govor održan na dan Riarijeva pogreba (odlomak \pstartref{pogreb}), 18. siječnja 1474, pred Kardinalskim kolegijem, koji će kasnije nazvati ``presvetim apostolskim senatom,'' (odlomak \pstartref{senat}), u rimskoj crkvi Svetih dvanaest apostola (basilica dei SS. Dodici Apostoli, ``sveto apostolsko zdanje'', odlomak \pstartref{zdanje}), gdje se kardinalov grob i danas nalazi; Riario je živio u palači uz crkvu (danas Palazzo Colonna).}}: ili za onim koji može tužne duše prijatelja osloboditi žalosti – njima je prijateljev život bio predrag, pa im ni smrt nikako nije mogla biti ugodna – ili za onim koji će posljednju počast prijatelju uveličati opsežnom pohvalom njegovih dostignuća te obilja i sjaja njegovih vrlina; ali meni je ona prva vrsta utjehe ostala tako potpuno i konačno nedostupna da ču sam morati tražiti pomoć prije no što bih je ikome mogao ili pružiti ili obećati.  Pa čak i da nisam izgubio pristup takvoj utjesi, svejedno nikad ne bih mogao pronaći riječi ili argumente kojima bi čak i općepriznati prvaci govorništva mogli imalo olakšati ovaj težak gubitak za vaš presveti zbor, ovu opću tugu čitave kurije.
 
 \pend
 \pstart
@@ -394,7 +399,7 @@ Izgubili ste naime, presveti oci, najistaknutijeg svojeg sudruga, čije ste milo
 
 \pend
 \pstart
-U namjeri, dakle, da govorim o slavi veleštovanoga monsinjora Petra, kardinala Sv. Siksta, čiji se tužan pogreb održava danas, smatrao sam da moguće pohvale njegovih roditelja ili domovine na ovome mjestu valja zaobići; \edtext{ne zato što bih ih smatrao nepoznatima ili neznatnima}{\Cfootnote{Pietro Riario i Siksto IV. potječu iz savonske obitelji trgovaca koja je neplemenitost svoga statusa nadoknađivala ističući vezu s pijemontskim plemenitašima Della Rovere iz Torina (Princely Ambiguity, s. 112, bilj. 118).}} – roditelji su mu  pripadali najčasnijim i najplemenitijim stanovnicima rodnoga grada, preslavnoga i drevnog ligurskog naselja Savone – nego zato što je on sam bio njima na takvu diku i ures da ga po čitavom zemaljskom krugu, do krajnjih granica svijeta, obilnim pohvalama i neizmjernom slavom uzdižu sada, a neće to prestati činiti u sve buduće vrijeme.  I mada je dovoljno veličanstvena slava onoga koji je svojim precima uzorite urese vrline dao umjesto da ih od njih primi, ipak znam i druge besmrtne i gotovo božanske odlike njegova duha (da i ne spominjem dobra zadobivena srećom ili tjelesnim sposobnostima; ma kako ona bila silna, ipak su u stanovitoj mjeri tuđa): pobožnost, veličanstvenost duha, darežljivost, razboritost, skromnost i pravednost.  Kakve su one bile u pokojniku, pokušat ću kratko izložiti.
+U namjeri, dakle, da govorim o slavi veleštovanoga monsinjora Petra, kardinala Sv. Siksta, čiji se tužan pogreb\edlabel{pogreb} održava danas, smatrao sam da moguće pohvale njegovih roditelja ili domovine na ovome mjestu valja zaobići; \edtext{ne zato što bih ih smatrao nepoznatima ili neznatnima}{\Cfootnote{Pietro Riario i Siksto IV. potječu iz savonske obitelji trgovaca koja je neplemenitost svoga statusa nadoknađivala ističući vezu s pijemontskim plemenitašima Della Rovere iz Torina (Princely Ambiguity, s. 112, bilj. 118).}} – roditelji su mu  pripadali najčasnijim i najplemenitijim stanovnicima rodnoga grada, preslavnoga i drevnog ligurskog naselja Savone – nego zato što je on sam bio njima na takvu diku i ures da ga po čitavom zemaljskom krugu, do krajnjih granica svijeta, obilnim pohvalama i neizmjernom slavom uzdižu sada, a neće to prestati činiti u sve buduće vrijeme.  I mada je dovoljno veličanstvena slava onoga koji je svojim precima uzorite urese vrline dao umjesto da ih od njih primi, ipak znam i druge besmrtne i gotovo božanske odlike njegova duha (da i ne spominjem dobra zadobivena srećom ili tjelesnim sposobnostima; ma kako ona bila silna, ipak su u stanovitoj mjeri tuđa): pobožnost, veličanstvenost duha, darežljivost, razboritost, skromnost i pravednost.  Kakve su one bile u pokojniku, pokušat ću kratko izložiti.
 \pend
 \pstart
 Dakle, prvo, koliko je bio odan Bogu i koliko bi bio veličanstven njegov štovatelj da je poživio, jasno je pokazao već na samom pragu života.  \edtext{Dvanaest godina star}{\Cfootnote{Pietro Riario rođen je u Savoni, 29. ili 30. travnja 1445, kao sin Paola Riarija (umro 1457.) i Paolove treće supruge Biance Della Rovere; Paolo je s Biancom imao još tri sina (Girolama, Domenica, Bartolomea) i tri kćeri (Violantu, Isabellu, Petrucciu), Massimo Giansante, Pietro Riario, DBI 87 (2016).}}, dok je obitelji koja je ostala bez oca upravljao s tolikom razboritošću da ni majka, najizvrsnija među matronama, ni braća mu nisu mogli osjetiti nedostatak roditelja, počelo je njegovo Bogu posvećeno srce kipjeti žarom vjere.  Već tada se pročulo ime \edtext{pobožnoga i učenog magistra Franje, njegova sugrađanina i ujaka, a sada svetoga oca pape Siksta, koji je u to doba u Sieni svojoj braći tumačio Sveto pismo}{\lemma{pobožnoga\dots\ Sveto pismo}\Cfootnote{Franjevac Francesco Della Rovere  (21. srpnja 1414. – 12. kolovoza 1484), kasniji papa Siksto IV. (od 9. kolovoza 1471. do smrti) predavao je filozofiju na studiju u Perugiji 1450.–1461, pri čemu je 1457. kao predavač gostovao na generalnom studiju u Sieni.}}.  Ovoga je najboljeg učitelja kršćanskoga vojevanja sebi odabrao najbolji budući učenik, mada još dječak po dobi, ali već muževna razbora; Franji ga je doveo izvjesni bogobojazni starac, namoljen silnim molbama, bez majčina znanja; po božjem je migu, mislim, budući usrdni pomagač apostolata poslan budućem suverenu apostolske stolice.  Kad ga je Franjo ugledao već odjevena u ruho duhovnika, koje je mladić na put uzeo kako bi lakše osvojio naklonost svoga učitelja, usrdno ga je bodrio da se vrati k svojima i brine se za majku i braću, kako je već bio počeo, pa da barem kod kuće čeka zreliju dob, kako bi mogao bolje snositi Kristov jaram.  No kad dječakovu postojanost nije uspio uzdrmati ni ljubaznošću, ni nagovorom, pa čak ni prijetnjama, prosudivši da mu je božanstvo namijenilo neki zadatak (kao što je i bilo), na poticaj braće uveo ga je u pravila svetoga Franje i izvevši obrede kako je propisano zaodjeo ga Kristovom odjećom.  Primivši je, dječak je sve novačke kušnje prihvaćao i provodio tako rado i spremno da su svi bili sigurni kako su mu razumnost i snage, mimo njegove dobi, poslane isključivo s nebesa.  Zbog toga je svakome postao drag, svatko ga je zavolio, a osobito sam njegov ujak; čudesno se radujući njegovoj Bogom nadahnutoj naravi, prigrlio ga je pobožnim i svetim oduševljenjem.  Zato se odlučio pobrinuti da izvanredan talent bude dalje razvijen lijepim umijećima.  Predao je dječaka u Vogheru, izvjesnom učenom gramatičaru, kako bi kod njega usvojio latinsku pismenost; savladavši je čudesnom brzinom, dječak je potom poslan u Ticino, pa u Padovu, onda u Veneciju, Bolognu, Perugiu, Sienu i Ferraru, da bi, poput marljive pčele, prikupio sve nauke slobodnih umijeća ili svetih knjiga koji su se u tim najslavnijim učilištima Italije mogli naći, i da bi ih usrdno pohranio u svetu komoricu svoga srca.  U nekoliko kratkih godina sve je to ostvario, i to tako da se jedva dade vjerovati kako je netko rođen više za djelovanje negoli za filozofiranje toliko brzo uspio steći toliko poznavanje svih znanosti.  Imam ovdje za svjedoke više njegovih prijatelja, i to iznimno učenih ljudi, s kojima je objedujući često znao razgovarati o različitim dostignućima znanosti i umjetnosti, tako oštroumno, tako spremno i istančano, na zadanu temu, da biste rekli kako se danju i noću bavi isključivo proučavanjem teoloških i filozofskih knjiga.  Čvrsto mu je ostajalo u pamćenju sve što je čuo od učitelja, još od najranije dobi.  Osim toga, odlikovao se zapanjujućom oštrinom uma, prodornošću kojom je lako dopirao do najzamršenijih tajni prirode, a jednom svladavši početna načela bio je u stanju rješavati najteže filozofske ili teološke probleme, na opće divljenje.  Brojne stihove i mnoge gramatičke tekstove, koje je nekoć, kao dječak, naučio napamet, recitirao je tako točno da bi mislio da ih je zapamtio jučer ili prekjučer.
@@ -410,15 +415,21 @@ Tako se i Petar, na ovaj način postavljen na vlast, koja uvijek pokazuje kakvi 
   
 \pend
 \pstart
-Od jednom preuzetog posla nikakav ga strah nije mogao odvratiti, nikakva ga pogibelj nije mogla otjerati.  Bijaše istinoljubiv u govoru, na djelu vjeran, u odlukama postojan, u provedbi neumoran, odani čuvar tajni i nepokolebljiv ispunjavatelj obećanja. Značajna su to svjedočanstva veličine njegove duše.  No, po mome mišljenju, sve ostalo nadmašuje činjenica da ga nisu mogle potresti nikakve nepravde, da ga nisu mogle povrijediti nikakve zloće, da ništa nije zaboravljao lakše od neprijateljstava.  Bio je savršeno ravnodušan prema svim takmacima, ni na što nije bio spremniji nego na praštanje pokajnicima; od opojnosti osvete bio je toliko daleko da se radovao čineći dobro svojim neprijateljima.  Nije htio da u njemu bude išta lažno, išta prijetvorno ili neiskreno, i ništa mu nije bilo odbojnije od hinjenog poštenja.  Govorio je da se samo zli i nepravedni boljima pokazuju vani no što se ponašaju kod kuće, a valjani ljudi ne nadvisuju druge pretvaranjem, već moralnošću.  Ta zaista, ima li ikoga tko ne bi znao za opseg njegove darežljivosti i širokogrudnosti – osim onih koji se njima nisu htjeli, ili nisu znali okoristiti?  Tim je žarom gorio toliko da čak i one na koje bi se katkad iz opravdanih razloga srdio ne bi prestao obasipati darovima.  Nisam jednom, niti jedini, bio svjedokom kada bi pojedine ukućane po zasluzi izgrdio, a potom ih obdario odjećom i službama. A kad ga je jednom upravitelj njegova doma, čija mu je usrdna i vjerna skrb jamčila povjerenje i mir, % vidi u Gattiju može li se identificirati 
-slobodnijim riječima prekorio što prekomjernom popustljivošću i darežljivošću potiče drskost osoblja, Petar je spokojnim glasom odvratio: ``Tvoje je ispravljati moje ukućane kad zanemare svoj posao, a moje je dodjeljivati im nagrade primjerene ljubavi koju osjećaju za mene; postupajmo i dalje tako, pa će svaki od nas svoju službu vršiti na najbolji mogući način.''  O, krasne li riječi, o, misli dostojne najvećih vladara; nije pohvalio nekažnjavanje grešnika, a nije ni dozvolio da njegovu darežljivost zaustavi bilo kakav čin prijestupnika.  Sretnih li onih kojima je bilo dano da u toj darežljivosti uživaju, najnesretnijih pak sada među ljudima, jer im je surovim obratom sudbine oduzeta!  Uzdržavao je gotovo petsto ukućana, dijelom gospode, dijelom plemića, svih časna porijekla: prelati, vojnici, učenjaci, govornici, pjesnici ili poklonici nekog drugog časnog umijeća; nisu ga opterećivali troškovi tolikih ljudi ni izdaci. Govorio je o sebi da je domaćin svim časnim ljudima, i to bijaše od same istine istinitije.  Jer, ako tko pažljivije promisli o stvari, bez sumnje će naći da nijedan kardinalski dom nije drugo nego častan gostinjac, gdje djeca valjanih ljudi smiju odsjedati bilo zbog srodstva bilo zbog karaktera.
+Od jednom preuzetog posla nikakav ga strah nije mogao odvratiti, nikakva ga pogibelj nije mogla otjerati.  Bijaše istinoljubiv u govoru, na djelu vjeran, u odlukama postojan, u provedbi neumoran, odani čuvar tajni i nepokolebljiv ispunjavatelj obećanja. Značajna su to svjedočanstva veličine njegove duše.  No, po mome mišljenju, sve ostalo nadmašuje činjenica da ga nisu mogle potresti nikakve nepravde, da ga nisu mogle povrijediti nikakve zloće, da ništa nije zaboravljao lakše od neprijateljstava.  Bio je savršeno ravnodušan prema svim takmacima, ni na što nije bio spremniji nego na praštanje pokajnicima; od opojnosti osvete bio je toliko daleko da se radovao čineći dobro svojim neprijateljima.  
+\pend
+\pstart
+Nije htio da u njemu bude išta lažno, išta prijetvorno ili neiskreno, i ništa mu nije bilo odbojnije od hinjenog poštenja.  Govorio je da se samo zli i nepravedni boljima pokazuju vani no što se ponašaju kod kuće, a valjani ljudi ne nadvisuju druge pretvaranjem, već moralnošću.  Ta zaista, ima li ikoga tko ne bi znao za opseg njegove darežljivosti i širokogrudnosti – osim onih koji se njima nisu htjeli, ili nisu znali okoristiti?  Tim je žarom gorio toliko da čak i one na koje bi se katkad iz opravdanih razloga srdio ne bi prestao obasipati darovima.  Nisam jednom, niti jedini, bio svjedokom kada bi pojedine ukućane po zasluzi izgrdio, a potom ih obdario odjećom i službama. A kad ga je jednom upravitelj njegova doma, čija mu je usrdna i vjerna skrb jamčila povjerenje i mir, % vidi u Gattiju može li se identificirati 
+slobodnijim riječima prekorio što prekomjernom popustljivošću i darežljivošću potiče drskost osoblja, Petar je spokojnim glasom odvratio: ``Tvoje je ispravljati moje ukućane kad zanemare svoj posao, a moje je dodjeljivati im nagrade primjerene ljubavi koju osjećaju za mene; postupajmo i dalje tako, pa će svaki od nas svoju službu vršiti na najbolji mogući način.''  O, krasne li riječi, o, misli dostojne najvećih vladara; nije pohvalio nekažnjavanje grešnika, a nije ni dozvolio da njegovu darežljivost zaustavi bilo kakav čin prijestupnika.  Sretnih li onih kojima je bilo dano da u toj darežljivosti uživaju, najnesretnijih pak sada među ljudima, jer im je surovim obratom sudbine oduzeta!  
+\pend
+\pstart
+Uzdržavao je gotovo petsto ukućana, dijelom gospode, dijelom plemića, svih časna porijekla: prelati, vojnici, učenjaci, govornici, pjesnici ili poklonici nekog drugog časnog umijeća; nisu ga opterećivali troškovi tolikih ljudi ni izdaci. Govorio je o sebi da je domaćin svim časnim ljudima, i to bijaše od same istine istinitije.  Jer, ako tko pažljivije promisli o stvari, bez sumnje će naći da nijedan kardinalski dom nije drugo nego častan gostinjac, gdje djeca valjanih ljudi smiju odsjedati bilo zbog srodstva bilo zbog karaktera.
 
 \pend
 \pstart
 Primao je, osim toga, darove, ne iz pohlepe, nego kao znak časti i da bi osigurao naklonost; primajući, vodio se pravilom da uzvraća mnogo obilnije no što bi primao.  Svjedoci su svi koji su se s njim poželjeli natjecati u ovoj izmjeni usluga.  Ne sumnjam da među članovima ovoga skupa ima njih više koji znaju da govorim istinu, koji su, primivši od njega nemale časti, ponijeli povrh toga i mnoge darove.
 \pend
 \pstart
-Vidio sam ga kako neke večeri, ne bez ozbiljnog gnjeva, očiju punih suza i ogorčeno zaziva za svjedoka najboljeg i svemogućeg Boga, i kako je bio spreman, mada to nitko nije tražio niti je bilo potrebno, da se na nj i njegovu glavu sruči najveća nesreća ako je ijedan novčić ili ikakvu nagradu za grijeh simonije primio od bilo koga tko je nedavno, kako znamo, bio biran u ovaj presveti apostolski senat; presvetom se prisegom zaklinjao da ga za takav zločin zavidnici i zlobnici bezbožno i grešno optužuju.  Vidjeli biste da silno pati i da ga muče strašne duševne boli zato što, kako je govorio, zbog zlobe opadača ne smije biti uljudan prema izvrsnim i zaslužnim ljudima.
+Vidio sam ga kako neke večeri, ne bez ozbiljnog gnjeva, očiju punih suza i ogorčeno zaziva za svjedoka najboljeg i svemogućeg Boga, i kako je bio spreman, mada to nitko nije tražio niti je bilo potrebno, da se na nj i njegovu glavu sruči najveća nesreća ako je ijedan novčić ili ikakvu nagradu za grijeh simonije primio od bilo koga tko je nedavno, kako znamo, bio biran u ovaj presveti apostolski senat;\edlabel{senat} presvetom se prisegom zaklinjao da ga za takav zločin zavidnici i zlobnici bezbožno i grešno optužuju.  Vidjeli biste da silno pati i da ga muče strašne duševne boli zato što, kako je govorio, zbog zlobe opadača ne smije biti uljudan prema izvrsnim i zaslužnim ljudima.
 \pend
 \pstart
 Gdje su sada ta rđava srca zlonamjernička?  Gdje su utrobe što šikljaju najgroznijom žuči?  Gdje su bijesnih pasa kužni zubi?  U neoprostivom su se bezumlju usudili glavu svoju dići u nebo i osuđivati čin Kristova namjesnika i njegove braće, preuzvišenih otaca; one neusporedive ljude koji su prije bili odabrani po Gospodinu, od kojeg su sve vlasti, nego što ih je proglasio Sveti otac, usudili su se napadati samoubilačkom drskošću!  Pazi se, pazi, jeziče lažljivi, da te Bog ne uništi napokon, da te ne iščupa i protjera te iz tvog šatora, i korijen tvoj iz zemlje živih! Ali na to će paziti oni koji su od svoga jezika učinili britvu nabrušenu, i sjedeći nasuprot brata svoga cijeli dan slagali obmane. Ali na to će oni paziti; mi, međutim, pohvalimo ostale Petrove vrline, ne hvalom kojom bi trebalo, već onom za koju smo sposobni.  
@@ -448,7 +459,7 @@ Prisiljen sam na ovom mjestu izostaviti još veće Petrove hvale, kako pritiješ
 
 \pend
 \pstart
-Govor ću okončati ako prethodno ukratko izložim onaj vrhunac Petrove pobožnosti. Uredivši svoje poslove sav je duh posvetio tome da uzmogne, skupa s psalmistom, slobodno reći: ``O, Gospodine, ljubim sjaj doma tvoga i slavu prebivališta tvoga.'' Sukladno tome, neprestano je crkve povjerene njegovoj skrbi podizao ako bi pale, a ako bi bile nagrđene, uljepšavao ih; vraćao bi oduzete posjede; imanja rasuta nemarom ranijih upravitelja iskupljivao bi vlastitim sredstvima; kupovao bi ruho, knjige, sveto suđe i sve ostalo namijenjeno sjaju bogoštovlja, trudeći se da nabavi najbolje što postoji.  Tu njegovu darežljivost potvrđuje u ovome gradu Rimu \edtext{crkva svetoga Grgura}{\Cfootnote{Pietro Riario bio je i opat rimske crkve i samostana San Gregorio al Celio (Princely Ambiguity, s. 118, bilj. 142).}}, prihodima krasno obdarena, dogradnjama iznimno sjajno usavršena; potvrđuje to \edtext{u Trevisu veća bazilika}{\Cfootnote{od rujna 1471. do travnja 1473. Riario je bio biskup Trevisa (Princely Ambiguity, s. 118, bilj. 143; 1473. Riarija je na biskupskoj stolici naslijedio Lorenzo Zane, od kojeg je Riario preuzeo splitsku biskupiju); crkva koja se spominje možda je Santa Fosca in Santa Maria Maggiore, poznatija kao Santa Maria Maggiore ili Madonna Grande; njezina je obnova počela 1473.}}, nemalim davanjima nadarena i sjajno uljepšana u bogoštovlju. Potvrđuje to \edtext{u Milanu samostan sv. Ambrozija}{\Cfootnote{od 1472.-1473. Riario je u komendi imao benediktinski samostan Sant' Ambrogio u Milanu  (Princely Ambiguity, s. 118, bilj. 144).}}; kad ga je Petar preuzeo, bio je ostao bez svih uresa, a opremio ga je tako divnim namještajem da crkva, koja je ranije bila među manje poznatima u onome gradu, sada sjajem i svakovrsnom spremom sve nadmašuje.  Potvrđuje to \edtext{Maiolov hram u Paviji}{\Cfootnote{u studenom 1471. Riario je bio prior klinijevskog samostana S.~Maiolo u Paviji (Princely Ambiguity, s. 118, bilj. 145).}}, u kojemu nije zatekao ni jedan komad liturgijskog posuđa, ni jednu jedinu knjigu, tako da su svaki put, kad je trebalo vršiti službu božju, morali sve posuđivati iz drugih svetišta; sad hram obiluje takvim blagom svake vrste, a osobito knjigama, kaležima i ruhom, da sve druge crkve ono što su nekad morale davati sada od njega jedinog primaju.  Izgubljene posjede istoga tog hrama, uz mnogo truda, ali uz još više troška, sve je povratio, te u roku od dvije godine priložio više od deset tisuća dukata za uvećanje njegove imovine.  Pa i \edtext{ovo sveto apostolsko zdanje}{\Cfootnote{rimska bazilika SS. Dodici Apostoli, u kojoj je Riario sahranjen.}} moglo bi posvjedočiti o Petrovoj darežljivosti, da je poživio još samo četiri mjeseca. Jer već je bio odlučio sljedećeg ljeta opremiti ovu crkvu i građevinama i prihodima, tako da može za pedesetoricu braće osiguravati stalan prikladan smještaj i nužnu prehranu.  Povrh toga spremao se predstojećih dana dodati još i knjižnicu, na divan način ispunjenu najboljim knjigama sa svih znanstvenih područja.  No božjom nam je voljom tako nenadano bio oduzet, ne zato što se Bog ne bi radovao njegovim pobožnim djelima, nego (čega se silno bojim) da bude, kao nedužan, izuzet od nedaća kojima je možda On odlučio išibati naše grijehe, te da za dobro obavljenu službu, u koju ga je svrhu On stvorio, neodložno primi dolične nagrade.  
+Govor ću okončati ako prethodno ukratko izložim onaj vrhunac Petrove pobožnosti. Uredivši svoje poslove sav je duh posvetio tome da uzmogne, skupa s psalmistom, slobodno reći: ``O, Gospodine, ljubim sjaj doma tvoga i slavu prebivališta tvoga.'' Sukladno tome, neprestano je crkve povjerene njegovoj skrbi podizao ako bi pale, a ako bi bile nagrđene, uljepšavao ih; vraćao bi oduzete posjede; imanja rasuta nemarom ranijih upravitelja iskupljivao bi vlastitim sredstvima; kupovao bi ruho, knjige, sveto suđe i sve ostalo namijenjeno sjaju bogoštovlja, trudeći se da nabavi najbolje što postoji.  Tu njegovu darežljivost potvrđuje u ovome gradu Rimu \edtext{crkva svetoga Grgura}{\Cfootnote{Pietro Riario bio je i opat rimske crkve i samostana San Gregorio al Celio (Princely Ambiguity, s. 118, bilj. 142).}}, prihodima krasno obdarena, dogradnjama iznimno sjajno usavršena; potvrđuje to \edtext{u Trevisu veća bazilika}{\Cfootnote{od rujna 1471. do travnja 1473. Riario je bio biskup Trevisa (Princely Ambiguity, s. 118, bilj. 143; 1473. Riarija je na biskupskoj stolici naslijedio Lorenzo Zane, od kojeg je Riario preuzeo splitsku biskupiju); crkva koja se spominje možda je Santa Fosca in Santa Maria Maggiore, poznatija kao Santa Maria Maggiore ili Madonna Grande; njezina je obnova počela 1473.}}, nemalim davanjima nadarena i sjajno uljepšana u bogoštovlju. Potvrđuje to \edtext{u Milanu samostan sv. Ambrozija}{\Cfootnote{od 1472.-1473. Riario je u komendi imao benediktinski samostan Sant' Ambrogio u Milanu  (Princely Ambiguity, s. 118, bilj. 144).}}; kad ga je Petar preuzeo, bio je ostao bez svih uresa, a opremio ga je tako divnim namještajem da crkva, koja je ranije bila među manje poznatima u onome gradu, sada sjajem i svakovrsnom spremom sve nadmašuje.  Potvrđuje to \edtext{Maiolov hram u Paviji}{\Cfootnote{u studenom 1471. Riario je bio prior klinijevskog samostana S.~Maiolo u Paviji (Princely Ambiguity, s. 118, bilj. 145).}}, u kojemu nije zatekao ni jedan komad liturgijskog posuđa, ni jednu jedinu knjigu, tako da su svaki put, kad je trebalo vršiti službu božju, morali sve posuđivati iz drugih svetišta; sad hram obiluje takvim blagom svake vrste, a osobito knjigama, kaležima i ruhom, da sve druge crkve ono što su nekad morale davati sada od njega jedinog primaju.  Izgubljene posjede istoga tog hrama, uz mnogo truda, ali uz još više troška, sve je povratio, te u roku od dvije godine priložio više od deset tisuća dukata za uvećanje njegove imovine.  Pa i \edtext{ovo sveto apostolsko zdanje}{\Cfootnote{rimska bazilika SS. Dodici Apostoli, u kojoj je Riario sahranjen.}}\edlabel{zdanje} moglo bi posvjedočiti o Petrovoj darežljivosti, da je poživio još samo četiri mjeseca. Jer već je bio odlučio sljedećeg ljeta opremiti ovu crkvu i građevinama i prihodima, tako da može za pedesetoricu braće osiguravati stalan prikladan smještaj i nužnu prehranu.  Povrh toga spremao se predstojećih dana dodati još i knjižnicu, na divan način ispunjenu najboljim knjigama sa svih znanstvenih područja.  No božjom nam je voljom tako nenadano bio oduzet, ne zato što se Bog ne bi radovao njegovim pobožnim djelima, nego (čega se silno bojim) da bude, kao nedužan, izuzet od nedaća kojima je možda On odlučio išibati naše grijehe, te da za dobro obavljenu službu, u koju ga je svrhu On stvorio, neodložno primi dolične nagrade.  
 \pend
 \pstart
 Pouzdane naznake te samilosti i ljubavi vidjeli smo \edtext{pri samoj Petrovoj smrti}{\Cfootnote{Pietro Riario umro je u Rimu, 5. siječnja 1474.}}; iako je već pred mnogo dana osjetio da se približava, ipak ju je neustrašivo očekivao.  Boli i nemoć podnio je čudesnom strpljivošću.  Od prijestupa koje je, grijehom dobi ili vremena, počinio iz razloga ljudske krhkosti, očistio se višekratno i usrdno skrušenom ispovješću; opremljen nebeskom popudbinom, koju je primio najpobožnije, pripravan se stavio na raspolaganje božjoj volji.  I već blizu smrti dao je pozvati ukućane i prijatelje. Kad su se našli uza nj, nije udario u plač, nije stenjao od žala za svjetovnim žudnjama, nije optuživao Boga ni sudbinu, nije ni najmanje požalio što mora u samome cvijetu mladosti napustiti takvu vlast i takvo bogatstvo. Dapače, junački je i nepokolebljivo rekao: ``Osjećam, sinovi moji i braćo moja, kako se nada mnom diže ruka Gospodnja; željno i rado stajem na raspolaganje njegovoj volji, tim radije jer znam da sam dovoljno poživio i za svoju slavu i za svoj ponos.  Ovaj mi je smrtan život dao najveći plod što ga je moja sudbina mogla primiti. Ništa veće nije ostalo, i sve bi mi ostalo s pravom budilo sumnje i strahove.  Međutim, mada mi je želja otići i s Kristom biti, ipak me žeže jedina briga za vaše stanje. Svjestan sam da sam vam dao slabu naknadu za vaše zasluge, mada nikad nije nedostajalo spremnosti, samo mogućnosti.  A da me nije spriječila silna kratkoća mog vijeka, nitko se među vama ne bi mogao požaliti na moju zahvalnost.  Zasluženo sam vam, koliko sam mogao, na samrti platio. Svetoga sam oca ponizno zamolio da nadarbine koje je meni dodijelio milosrdno razdijeli među vama, tako da vi manje žalite zbog svojih zasluga, a ja zbog neizvršene dužnosti.  Osim toga me obvezuje i žestoko tjera moja neizreciva ljubav prema vama da vas potaknem i obavežem da svoj duh ne sputavate mamcima i zavodljivostima ovoga svijeta, da nikakve nade ne polažete u raskoš i isprazna svjetovna bogatstva; koliko su ona prolazna i varljiva, ja vam sam mogu poslužiti kao najbolji dokaz.  Vjerujte da smo prah i sjena, da nemamo stalna boravišta ovdje, već drugdje, tamo gdje ništa ne može biti kvarljivo, ništa prolazno, već je sve nepokvarljivo, sve je vječno.  Stoga se trudite da budete valjani i uz vrlinu svim snagama prionite. Štujte pobožnost, od poštenja nemajte važnijega, znajući da je svakome od vas Gospodin odredio nadnicu za trud; čak i kad je ne bi bilo, ipak je valjanome čovjeku nužno najveća naknada sama činjenica da je proživio pobožno i sveto, jer se tome zahvaljujući ljudi dijele od zvijeri i svoje ime vječnoj posvećuju besmrtnosti. 
