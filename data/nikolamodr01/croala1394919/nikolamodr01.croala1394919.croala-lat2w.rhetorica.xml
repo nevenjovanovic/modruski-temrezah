@@ -132,6 +132,7 @@
       </head>
       <p n="p1">
         <s n="s1">
+			<phr n="phr1" ana="#MERISMUS">
           <w ana="c--------" n="w1">Cum</w>
           <w ana="r--------" n="w2">in</w>
           <w ana="a-s---fb-" n="w3">omni</w>
@@ -159,6 +160,7 @@
           <w ana="v3pisa---" n="w23">leuarent</w>
           <pc n="pc3">,</pc>
           <w ana="p-p---md-" n="w24">quibus</w>
+          <phr n="phr2" ana="#ANTITHESIS">
           <w ana="c--------" n="w25">cum</w>
           <w ana="n-s---mg-" n="w26">amici</w>
           <w ana="n-s---fn-" n="w27">uita</w>
@@ -171,6 +173,7 @@
           <w ana="v--pna---" n="w33">esse</w>
           <w ana="d--------" n="w34">non</w>
           <w ana="v3sria---" n="w35">potuit</w>
+          </phr>
           <pc n="pc5">,</pc>
           <w ana="a-s---na-" n="w36">alterum</w>
           <w ana="p-s---nb-" n="w37">quo</w>
@@ -191,6 +194,7 @@
           <w ana="n-p---fb-" n="w52">laudibus</w>
           <w ana="v3pisa---" n="w53">exornarent</w>
           <pc n="pc6">,</pc>
+          </phr>
           <w ana="p-s---na-" n="w54">illud</w>
           <w ana="p-s---mn-" n="w55">ego</w>
           <w ana="a-s---nac" n="w56">prius</w>
@@ -5241,6 +5245,7 @@
         <interp n="interp28" xml:id="PARALLELISMUS-POLYPTOTON">Figura parallelismus cum polyptoto</interp>
         <interp n="interp29" xml:id="SYNONYMIA">Figura synonymia (idem repetitur aliis verbis)</interp>
         <interp n="interp30" xml:id="SYNONYMIA-PARALLELISMUS">Figura synonymia cum parallelismo ordinis verborum</interp>
+        <interp n="interp31" xml:id="MERISMUS">Figura merismus sive distributio, diaeresis, qua in inventione totum in partes dividitur</interp>
       </interpGrp>
     </back>
   </text>
