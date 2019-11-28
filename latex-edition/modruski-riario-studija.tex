@@ -1,0 +1,273 @@
+%-*-coding:utf-8;-*-
+%&LaTeX
+\documentclass[a5paper,twoside]{article}
+\usepackage{polyglossia}
+\setmainlanguage{croatian}
+\setotherlanguage{latin}
+
+\defaultfontfeatures{Ligatures=TeX}
+
+\usepackage{indentfirst,titling,enumitem}
+
+% prilagodba dimenzija stranice
+\usepackage[a5paper,pdftex]{geometry}%a4paper,pdftex
+%\usepackage[a4paper,pdftex]{geometry}
+\geometry{scale=1,paperwidth=161mm,paperheight=230mm,
+bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
+\parindent=7mm
+
+%\usepackage[small,center,rm]{titlesec}
+%\titlespacing{\section}{0pt}{11mm}{7mm}
+
+\usepackage[medium,center,rm]{titlesec}
+\titlelabel{\thesection.\enspace}
+\titlelabel{\thesubsection.\enspace}
+% \chapter, \subsection...: no additional code
+\titleformat{\section}
+  {\normalfont\large\bfseries\uppercase}
+  {\thesection.\enspace}{0em}{}
+\titlespacing{\section}
+  {7mm}{3.5ex plus .1ex minus .2ex}{1.5ex minus .1ex}
+\titleformat{\subsection}
+{\normalfont\large\bfseries}
+{\thesubsection.\enspace}{0em}{}
+\titlespacing{\subsection}
+  {7mm}{3.5ex plus .1ex minus .2ex}{1.5ex minus .1ex}
+
+
+% titling
+\pretitle{\begin{center}\vskip 5mm}
+\posttitle{\par\end{center}}
+\preauthor{}
+\postauthor{}
+\predate{}
+\postdate{}
+
+% slova
+\setmainfont{Times New Roman}
+%\setsansfont{Old Standard TT}
+
+% makro za regum gesta
+\newcommand{\kratica}{\emph{Regum gesta}}%
+
+% reference bold
+\newcommand{\refb}[1]{\textbf{\ref{#1}}}
+
+\renewcommand{\labelenumi}{\Alph{enumi}}
+
+%tekuće glave
+%tekuće glave
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{} % clearall
+\fancyhead[RO,LE]{\thepage}
+\fancyhead[EC]{\MakeUppercase{Nikola Modruški: Djela u službi pape Siksta IV.}}
+\fancyhead[OC]{\MakeUppercase{Govor za Pietra Riarija (1474)}}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\makeatletter
+\renewcommand{\@makefnmark}{\mbox{%
+\textsuperscript{\normalfont\@thefnmark\ }}}
+\makeatother
+
+\renewcommand\footnotesize{\fontsize{10}{10.5} \selectfont}
+\renewcommand\tiny{\fontsize{9}{9.5} \selectfont}
+\renewcommand\large{\fontsize{11}{11.5} \selectfont}
+\renewcommand\Large{\fontsize{12.5}{13} \selectfont}
+
+% fusnote i crta
+\renewcommand{\footnoterule}{\vspace*{-7pt}
+    \noindent\rule{2in}{0.4pt}\vspace*{6.6pt}}
+
+\setlength{\headheight}{12.6pt}
+
+% makro za naziv programa
+\newcommand{\makeup}[1]{\MakeUppercase{\emph{#1}}}
+
+
+% prilagodba quote
+% prilagođavamo citat propozicijama
+\renewenvironment{quote}
+               {\list{}{\rightmargin 0mm
+                \leftmargin 7mm
+                \itemindent 0em}%
+                \item\relax}
+               {\endlist}
+
+\newenvironment{opisi}{%
+\let\olditem\item% 
+\renewcommand\item[2][]{\olditem ##1 ##2 \itemsep 3pt}%
+\begin{description}}{\end{description}%
+}
+
+
+%siročići i udovice
+% \widowpenalty=10000
+% \clubpenalty=10000
+
+\begin{document}
+%%tth:\begin{html}<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">\end{html}
+
+\hyphenation{his-to-ri-o-graf-ske po-li-tič-ko po-li-tič-ko-his-to-ri-o-graf-ske}
+\hyphenation{quae-sti-o-nes quin-qua-gin-ta quo-que DXXXVIII Zuo-ni-me-ro}
+\hyphenation{quad-ra-ta quo-mo-do Schwand-tne-ro-vi cro-a-tiae I-su-krs-ta}
+\hyphenation{Pas-qua-li-go XVIII U-di-sla-va in-tel-le-xis-set kra-ljev-stvo}
+\hyphenation{in-ua-se-runt quod pes-si-mo pe-dan-tno-an-ti-kvar-ski pas-cha-les}
+\hyphenation{Pa-lu-šom MDCCXLVIII}
+
+% No extra spacing after periods
+\frenchspacing
+
+% Font sizing
+\fontsize{11}{13.2}
+\selectfont
+
+% veća čitljivost
+\linespread{1.1}
+
+%uvlaka paragrafa
+\setlength{\parindent}{7mm}
+
+% počinje na s. 5
+\setcounter{page}{169}
+
+\title{\Large{\MakeUppercase{Govor za Pietra Riarija (1474)}}}
+
+\date{}%Datum ove verzije: \today}
+
+\maketitle 
+
+%\texttt{Završna verzija, uredniku na čitanje.}
+\thispagestyle{empty}
+% [ova stranica namjerno prazna]
+
+\section{Uvodne napomene}
+
+Latinski nadgrobni govor modruškog biskupa Nikole za kardinala Pietra Riarija (preminulog 5. siječnja, sahranjenog 18. siječnja 1474. u Rimu) igrom je slučaja prva poznata nam tiskana knjiga nekog hrvatskog autora, svojevrstan latinski pandan devet godina kasnije tiskanog glagoljskog \textit{Misala po zakonu Rimskoga dvora.}
+
+Autograf djela nije sačuvan. Priređujući kritičko izdanje i prvi hrvatski prijevod Nikolina govora,\footnote{Znanstveno je izdanje, kako ga je priredio autor ove studije, dostupno od 2009.\ u digitalnoj zbirci \textit{\textlatin{Croatiae auctores Latini}}; prema tom izdanju govor je nedavno preveden na engleski: Brendan Cook i Jennifer Mara DeSilva, »Princely Ambiguity: A Translation of Nikolaus of Modruš’ Funeral Oration for Cardinal Pietro Riario: Oratio in funere Petri Cardinalis Sancti Sixti (1474)«, \textit{Royal Studies Journal,} 5 (2018), 2, str.~92–128.} željeli smo uspostaviti najbolji mogući tekst, omogućiti uvid u tekstualne inačice trinaest svjedoka predaje, te djelo učiniti jezično i stvarno što razumljivijim današnjim čitaocima.
+
+Boljem razumijevanju namijenjen je i ovaj uvod. Predstavit ćemo najprije povijesni kontekst u kojem su se pojavljivala izdanja govora za Riarija, potom tematsku strukturu, žanrovsku pripadnost i stilska obilježja samog djela, da bismo na koncu prikazali svjedoke predaje teksta, njihov međusobni odnos, i načela ovog izdanja. 
+
+\section{Povijesni kontekst}
+
+\section{Tematska i retorička struktura govora}
+
+Nikolin govor za Riarija ima jasnu i jednostavnu strukturu (\textit{\textlatin{dispositio}} antičke retorike): uvod, glavni dio i završetak. Strukturu ovdje dodatno tematski raščlanjujemo navodeći brojeve odlomaka u kritičkom izdanju (uz siglu MR) i dodatno citirajući početke i krajeve pojedinih cjelina. Napomene u zagradama standardni su retorički termini za pojedini dio govora ili pojedine ključne riječi.
+
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[1. MR 1–2 Uvod \textlatin{(exordium, prooimion)}] – \textlatin{Cum in omni funebri celebratione\dots\ quam ingratitudinis notam subire uerebor.}
+\item[2. MR 3–22 Pripovjedni dio (narratio)] Riarijev život, vrline, smrt: \textlatin{Dicturus igitur de laudibus reuerendissimi domini\dots\ ad dominum suum confestim euolauit.}
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[2.1. MR 3] Domovina i rod: \textlatin{eas laudes, quas uel a parentibus uel a patria\dots\ omnibus futuris seculis non desinent celebrari.}
+\item[2.2. MR 3] Vrline: \textlatin{Quae quidem tametsi satis grandis eius gloria sit\dots\ quae quales in eo fuerint, breuiter explicare conabor.}
+\item[2.3. MR 4–5] Dječaštvo: \textlatin{Qua igitur pietate primum erga deum\dots\ aut dicere illi quare sic fecisti.}
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[2.3.1. MR 4] Dječaštvo – stupanje u franjevački red i pobožnost \textlatin{(pietas): Qua igitur pietate primum erga deum\dots\ seruatisque pro more religionis rite caerimoniis uestem Christi induit.}
+\item[2.3.2. MR 4] Dječaštvo – školovanje i mudrost \textlatin{(prudentia): Qua assumpta ita omnia tyrocinii rudimenta libens promptusque\dots\ ita memoriter recitabat ut ea illum heri aut nudiustertius memoriae mandasse existimares.}
+\item[2.3.3. MR 5] Dječaštvo – dolazak u Rim i proročka moć \textlatin{(divinitas): Perfectis igitur quam celerrime omnium bonarum artium studiis\dots\ aut dicere illi quare sic fecisti.}
+\end{description}
+\item[2.4. MR 6–11] Kardinalska čast – dužnosti kardinala \textlatin{(officia): Petrus igitur per hunc modum in principatu constitutus\dots\ in uiros praestantes ac bene meritos officiosum esse.}
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[2.4.1. MR 6] Dužnosti — darežljivost \textlatin{(munificentia): Turpe enim et indecorum merito ducebat\dots\ culpam magis dolens quam damnum.}
+\item[2.4.2. MR 7] Dužnosti – ustrajnost \textlatin{(perseverantia): A suscepto semel negotio nullo metu\dots\ magnanimitatis eius testimonia.}
+\item[2.4.3. MR 7] Dužnosti – milostivost \textlatin{(clementia): Sed illud mea sententia uincit uniuersa\dots\ ut inimicis suis benefacere gauderet.}
+\item[2.4.4. MR 8] Dužnosti – iskrenost \textlatin{(sinceritas): Nihil in se fictum, nihil subdolum\dots\ sed integritate uiros superare.}
+\item[2.4.5. MR 8–9] Dužnosti – kardinalski dvor \textlatin{(familia)} i darežljivost \textlatin{(munificentia et liberalitas): Sane munificentiae liberalitatisque eius\dots\ bonorum morum gratia diuersari licet.}
+\item[2.4.6. MR 10] Dužnosti – primanje darova: \textlatin{Accipiebat praeterea munera, non auaritiae\dots\ multa insuper dona tulerunt.}
+\item[2.4.7. MR 11] Dužnosti – optužbe za simoniju: \textlatin{Vidi illum quodam uesperi non sine graui stomacho\dots\ in uiros praestantes ac bene meritos officiosum esse.}
+\end{description}
+\item[2.5. MR 12] Patetični ekskurs protiv zavidnika: \textlatin{Vbi nunc sunt rubiginosa illa maliuolorum pectora\dots\ tota die concinnabant dolos.}
+\item[2.6. MR 12–13] Povratak na glavnu temu (hipostrofa): \textlatin{Sed haec illi uiderunt\dots\ magna ex parte potuit esse manifesta.}
+\item[2.7. MR 13–14] Mudrost (prudentia) na dužnosti: \textlatin{Quamobrem tantum eam partem attingam\dots\ ut socium crederes, non dominum.}
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[2.7.1. MR 13–14] Mudrost u politici (diplomatska misiji u Italiji, prihvaćanje »uresa«, zalaganje za mir u Italiji): \textlatin{Ostendit id nouissima haec ipsius legatio\dots\ ni eum nobis haec dira atque crudelis mors tam repente praeripuisset.}
+\item[2.7.2. MR 14] Zauzetost za opće dobro \textlatin{(omnium salus): Vincebat ingenio humana consilia\dots\ ut socium crederes, non dominum.}
+\end{description}
+\item[2.8. MR 15–16] Umjerenost \textlatin{(moderatio): Tanta uero animi moderatione erat\dots\ urbem illam magis ecclesiae quam fratris gratia uoluit uendicare.}
+\item[2.9. MR 17] Pravičnost \textlatin{(iustitia): Porro iustitiam ipsius ex illo spectare licet\dots\ pro sua benignitate dissoluat.}
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[2.9.1. MR 17] Pravičnost pri povratu grada Imole: \textlatin{Porro iustitiam ipsius ex illo spectare licet\dots\ neque Imolam nisi eo uolente redimere uoluit.}
+\item[2.9.2. MR 17] Pravičnost u ophođenju s dužnosnicima: \textlatin{Magistratus hortabatur ius suum absque ullo respectu\dots\ non nisi iustum honestumque fieri permaxime uelle.}
+\item[2.9.3. MR 17] Pravičnost u izdavanju isprava: \textlatin{Hinc et rescripta non nisi sanctissima\dots\ apud notarios exstare iusserat.}
+\item[2.9.4. MR 17] Pravičnost u sastavljanju oporuke: \textlatin{Huius praeclarissimae uirtutis nec moriens\dots\ pro sua benignitate dissoluat.}
+\end{description}
+\item[2.10. MR 18] Izostavljanje \textlatin{(praetermissio): Cogor hoc loco potissimas eius praetermittere\dots\ felicem meritorum ipsius copiam pauca dicendo uitiare.}
+\item[2.11. MR 18–19] Pobožnost kao posljednja spomenuta i posebna vrlina \textlatin{(pietas): Illud unum dicam, cunctis, qui eius consuetudinem nouerunt\dots\ omnium scientiarum libris egregie refertam.}
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[2.11.1. MR 18] Pobožnost prema papi: \textlatin{Illud unum dicam, cunctis, qui eius consuetudinem nouerunt\dots\ nunc mortui desiderio adeo moueatur.}
+\item[2.11.2. MR 19] Pobožnost pri obnavljanju i opremanju crkava i samostana: \textlatin{Finem dicendi faciam si prius illud summum eius pietatis munus\dots\ omnium scientiarum libris egregie refertam.}
+\end{description}
+\item[2.12. MR 19–22] Smrt: \textlatin{Sed dei uoluntate nobis tam repente ademptus est\dots\  ad dominum suum confestim euolauit.}
+\begin{description}[nolistsep,itemsep=3pt,font=\rmfamily]
+\item[2.12.1. MR 20] Neustrašivost i strpljivost u bolesti \textlatin{(patientia): Cuius miserationis dilectionisque certa indicia\dots\ dolores mira patientia pertulit.}
+\item[2.12.2. MR 20] Ispovijest i pokajanje: \textlatin{Delicta, quae uel aetatis uel fortunae\dots\ diuinam uoluntatem accinctus praestolabatur.}
+\item[2.12.3. MR 20–21] Govor pred smrt \textlatin{(novissima verba): Iamque uicinus morti\dots\ uel meo exemplo discite.}
+\item[2.12.4. MR 22] Opis smrtnog časa: \textlatin{His atque aliis huiusmodi plerisque summa cum religione\dots\ ad dominum suum confestim euolauit.}
+\end{description}
+\end{description}
+\item[3. MR 23 Završetak (peroratio)] pohvala i utjeha: \textlatin{O felix atque iterum felix\dots\ sit nomen domini benedictum. Amen.}
+\end{description}
+
+Ključ za razumijevanje strukture daje sam govornik. Već u sredini prve rečenice (MR 1) kao svrhu govora sugerira veličanje dostignuća i vrlina pokojnog prijatelja.
+
+\begin{quote}
+\begin{latin}
+quo extremum amici munus rebus ab eo bene gestis uirtutumque ipsius copia ac splendore amplissimis laudibus exornarent
+\end{latin}
+
+posljednju počast prijatelju uveličati opsežnom pohvalom njegovih dostignuća te obilja i sjaja njegovih vrlina
+\end{quote}
+
+U posljednjim rečenicama MR 3, pak, govornik najavljuje kojih će točno šest duhovnih vrlina preminulog kardinala biti predmet hvale.
+
+\begin{quote}
+\begin{latin}
+habeo tamen et alias immortales ac propemodum diuinas animi ipsius laudes (ut fortunae corporisque quaelibet ingentia bona tamquam aliena relinquam): pietatem, magnitudinem animi, munificentiam, prudentiam, modestiam, atque iustitiam; quae quales in eo fuerint, breuiter explicare conabor.
+\end{latin}
+
+ipak znam i druge besmrtne i gotovo božanske odlike njegova duha (da i ne spominjem dobra zadobivena srećom ili tjelesnim sposobnostima; ma kako ona bila silna, ipak su u stanovitoj mjeri tuđa): pobožnost, veličanstvenost duha, darežljivost, razboritost, skromnost i pravednost.  Kakve su one bile u pokojniku, pokušat ću kratko izložiti.
+\end{quote}
+
+Kao što se vidi iz pregleda strukture, upravo su vrline Riariju omogućile da uspješno izvršava dužnosti kardinala.
+
+Pritom Nikola pripovjedni dio govora organizira po još jednom načelu: kronološki, od Riarijeva porijekla (MR 3) do smrtnog časa (MR 22). Govor tako ima dvije usporedne okosnice, životopis i vrline. Njihovo vješto isprepletanje vjerojatno je bio jedan od razloga uspjeha djela.
+
+\section{Žanrovska pripadnost}
+
+\section{Stil}
+
+\section{Predaja teksta}
+
+\section{Načela ovog izdanja}
+
+
+
+
+
+
+
+
+\end{document}
+\section*{1.\thinspace LIBRI IMPRESSI}
+
+
+\section*{2.\thinspace CODICES}
+
+\bigskip
+
+\begin{description}[noitemsep,itemsep=3pt,labelsep=5pt,font=\rmfamily] 
+\item[ve] -- Codex Venetus, \emph{Marc.~Lat.\ cl.~XIV, 180 (4667),} saec.~XV, ff.~9r–19v.
+\item[va] -- Codex Vaticanus: Bibliotheca apostolica Vaticana \emph{Vat.~lat.\ 8750;} saec.\ XV exeunte – XVI ineunte; ff.~205r–212v; e \textit{Ge} descriptus esse uidetur.
+\item[pa] -- Codex Panormitanus: Panormi, Biblioteca centrale della Regione siciliana, \emph{I.B.6,} c.~1474–1480; ff.~32r–54r.
+\item[co] -- Codex Corsinianus: cart.~misc., saec.~XV; Romae, Accademia Nazionale dei Lincei, Biblioteca dell'Accademia dei Lincei e Corsiniana, fondo principale, \emph{Corsin. 583 (45 C 18),} ff.~117r–123r.
+\item[m\hphantom{i}] -- Codex Monacensis: Bibliotheca Bauarica \emph{CLM 461}, ab Hartmanno Schedelio scriptus, saec.~XV; ff.~129r–138r; descriptio \textit{P} uidetur esse.
+\item[o\hphantom{o}] -- Codex Olomoucensis, sub fine saec. XV; Olomoucii, Vědecká knihovna; Textus uarii; Historia Bohemica \emph{sign. M I 159}, ff.~170r–174v; e \textit{Ge} descriptus esse uidetur.
+\end{description}
+
+
+\clearpage
+\thispagestyle{empty}
+\hfill
+\clearpage
