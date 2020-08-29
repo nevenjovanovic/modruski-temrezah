@@ -1,0 +1,125 @@
+\documentclass[a5paper,twoside]{article}
+\usepackage{polyglossia,fontspec}
+\setmainlanguage{latin}
+\setotherlanguage{croatian}
+
+\defaultfontfeatures{Ligatures=TeX}
+
+\usepackage[a5paper,pdftex]{geometry}
+\geometry{scale=1,paperwidth=161mm,paperheight=230mm,
+bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
+\parindent=7mm
+
+\usepackage[series={A,B,C},noeledsec,nofamiliar,noledgroup]{reledmac}
+\Xarrangement[A]{paragraph}
+\Xnotenumfont[A]{\bfseries}
+\Xparindent[A]
+%\Xafterrule[A]{5pt}
+
+\Xarrangement[B]{paragraph}
+\Xnotenumfont[B]{\bfseries}
+\Xparindent[B]
+
+\Xarrangement[C]{paragraph}
+\Xnotenumfont[C]{\bfseries}
+\Xparindent[C]
+\Xlemmafont[C]{\bfseries}
+
+\Xendlemmafont{\bfseries}
+
+\Xendbeforepagenumber{p. }
+\Xendafterpagenumber{, }
+\Xendlineprefixsingle{l. }
+\Xbeforenotes[B]{2.2em plus 1em minus 1em}
+\Xbeforenotes[A]{2.2em plus 1em minus 1em}
+\Xbeforenotes[C]{2.2em plus 1em minus 1em}
+
+\Xafterrule[A,B,C]{1em}
+\Xnolemmaseparator[B,C]
+\Xinplaceoflemmaseparator[B,C]{1em}
+
+\Xendinplaceoflemmaseparator[B]{1em}
+%\Xendlemmaseparator
+
+\fnpos{%
+{C}{critical},
+{B}{critical},
+{A}{critical}%
+}
+
+% sidenotes za brojeve paragrafa
+\sidenotemargin{left}
+\renewcommand{\ledlsnotefontsetup}{\normalsize}% left
+\renewcommand{\ledrsnotefontsetup}{\normalsize}% right
+\renewcommand{\ledlsnotewidth}{0.5\marginparwidth}
+\renewcommand{\ledlsnotesep}{0.25pt}
+\leftnoteupfalse
+\rightnoteupfalse
+
+%\setsidenotesep{ $|$ }
+
+\setmainfont{Times New Roman}
+
+%veličina fusnota, marginalija, glavnog teksta
+\renewcommand\footnotesize{\fontsize{10}{10.5} \selectfont}
+\renewcommand\tiny{\fontsize{9}{9.5} \selectfont}
+\renewcommand\large{\fontsize{11}{11.5} \selectfont}
+
+
+\usepackage{reledpar}
+%makni R iz broja retka na desnoj strani
+\setRlineflag{}
+
+
+\begin{document}
+% No extra spacing after periods
+\lineation*{pstart}
+\linenummargin*{outer}
+
+\begin{pages}
+
+\begin{Leftside}
+
+\beginnumbering
+\numberlinetrue
+\numberpstarttrue
+
+\setcounter{pstart}{1}
+
+\pstart
+A suscepto semel negotio nullo metu absterreri potuerat, nullo periculo depelli. \edtext{Verax in sermone}{\Bendnote{\textit{Boeth. De disciplina scholarium, 64, 1235B:} in universa morum honestate oportet ut polleat praeclarius, ut sit utique in sermone verax, in iudicio iustus, in consilio providus, et in commisso fidelis, constans in vultu, pius in affatu, virtutibus insignitus, bonitateque laudabilis existat; \textit{Acta S. Sebastiani, 17, 1021C:} Erat enim vir totius prudentiae, in sermone verax, in iudicio iustus, in consilio providus, in commisso fidelis, in interventu strenuus, in bonitate conspicuus, in universa morum honestate praeclarus}}, in \edtext{facto}{\Afootnote{faco \textit{P}}} fidelis, in proposito constans, in peragendo strenuus, secretorum tenacissimus, et promissorum firmissimus \edtext{obseruator}{\Afootnote{osservator \textit{ve}}}. Insignia \edtext{haec}{\Afootnote{hic \textit{P m}}} sunt magnanimitatis eius testimonia.  Sed illud mea sententia uincit uniuersa quod nullis mouebatur iniuriis, nullis offensis laedi posse uidebatur, nec \edtext{ullius}{\Afootnote{uillius \textit{P}}} rei facilius quam inimicitiarum obliuiscebatur. Floccipendebat aemulos quoscumque et nullam in rem pronior quam in supplicium ueniam uidebatur, tantumque ab omni ulciscendi ardore aberat ut inimicis suis benefacere gauderet. Nihil in se fictum, nihil subdolum aut simulatum esse uolebat, nec quicquam magis detestabatur quam mentitam probitatem. Mali quippe et iniqui hominis esse dicebat meliorem se \edtext{foris}{\Afootnote{fori \textit{Ge C;} fortis \textit{V P m}}} ostendere quam gerere domi, proborum autem uirorum esse non simulatione, sed integritate uiros superare. Sane munificentiae liberalitatisque eius largitatem quis est qui ignoret, nisi qui illa uti uel \edtext{noluerit}{\Afootnote{uoluerit \textit{o}}} uel nescierit? Ea ipse ita flagrabat ut illos etiam, quibus iustis de causis aliquando irascebatur, muneribus tamen ornare non cessaret. Non semel neque solus interfui cum quosdam familiarium merito obiurgasset, deinde uestimentis et magistratu donauit. Et cum aliquando a magistro domus suae, in cuius diligentissima fidissimaque cura merito conquiescebat, liberius argueretur quod nimia \edtext{indulgentia et}{\Afootnote{indulgenti et a \textit{P m}}} largitate domesticos faceret insolentiores, \edtext{placida}{\Afootnote{placenda \textit{P m}}} uoce respondit: ``Tuum est familiares meos pro neglecto officio \edtext{corrigere}{\Afootnote{corriger \textit{Gd}}}, meum autem \edtext{pro}{\Afootnote{\textit{om. P m}}} illorum in me amore congruis praemiis afficere; id faciendo uterque nostrum suo munere optime functus erit.'' O praeclaram uocem, o sententiam summo principe dignam; nec impunitatem erratorum laudauit, nec liberalitatem suam ullis male merentium factis occludi passus est. Felices quibus illa perfrui licuit, et nunc omnium infortunatissimos quibus tam crudeli fato \edtext{erepta}{\Afootnote{arrepta \textit{C}}} est! Quingentos ferme pascebat familiares, partim illustri, partim nobili, omnes honesto loco natos; praelatos, milites, doctores, oratores, poetas, aut alicui alii honestae arti deditos; nullis tantorum sumptibus, nullis grauabatur impensis. Hospitem enim \edtext{sese}{\Afootnote{se se \textit{co}}} \edtext{omnium}{\Afootnote{\textit{om. va}}} honestorum uirorum esse dicebat; quod ipsa 
+\edtext{ueritate erat uerius}{\Bendnote{\textit{Cf. Sen. ep. 66, 8:} nihil invenies rectius recto, non magis quam verius vero, quam temperato temperatius; \textit{Sen. nat. 2, 34, 2:} In quo mihi falli uidentur. Quare? Quia uero uerius nihil est; \textit{Ficinus in versione Plotini (a. 1492 primum impressa), Plot. Enn. 5, 5:} Nihil enim potest ueritate uerius inueniri.}}. 
+Nam si quis diligentius rem ipsam consideret, comperiet proculdubio omnes cardinalium domos nihil aliud esse quam 
+\edtext{honesta hospitia}{\Bendnote{\textit{Coelestinus II (m. 1144), Epistola et privilegia, 179, 0794A:} Ideoque pro honestate et religione vestra dignum duximus ut in Romana urbe vobis ecclesiam concedamus, in qua et Domino serviatis, et, cum pro negotiis Ecclesiae vestrae ad curiam veneritis, honestum hospitium habeatis; \textit{Willelmus Malmesburiensis (c. 1095 – c. 1143), De gestis pontificum Anglorum, 179, 1506C:} Nec vero alicubi in Anglia diu fovere hospitium putabat honestum; \textit{Caffarus (c. 1080-c. 1166), Annales Ianuenses, 3:} tunc enim ipsum dominum Ihesum Christum collegerunt, quando uice eius palatia et hospitia honestissima atque inmensa stipendia domino apostolico suisque episcopis et cardinalibus sufficienter cum amore magno et tripudio impenderunt; \textit{Guillelmus Tyrensis (c. 1130–1186), Historia rerum gestarum in partibus transmarinis, 201, 0804A:} suis autem principibus singulis singula, honesta multum in urbe, non tamen longe a se, hospitia praeparari\dots\ Sed et suis nihilominus, non longe ab eodem palatio, honesta simul et commoda fecit hospitia praeparari; \textit{Odo de Soliaco (1150-1208), Synodicae constitutiones, 212, 0059A:} Praecipitur in eundo et redeundo a synodo honeste ambulent presbyteri, et honesta quaerant hospitia;  \textit{Aeneas Silvius Piccolomini (1405-1464), De duobus amantibus historia, 1, 1:} Plena illi semper est domus honestis hospitibus}}, 
+in quae proborum uirorum \edtext{liberis}{\Afootnote{liberi \textit{va}}} uel necessitatis uel bonorum morum gratia diuersari licet. 
+\pend
+
+\pstart
+Accipiebat praeterea munera, non auaritiae, sed honoris \edtext{comparandaeque}{\Afootnote{comperandique \textit{Gd;} comparandique \textit{P m}}} \edtext{beniuolentiae}{\Afootnote{beneuolentię \textit{co;} beniuolencie \textit{C}}} gratia; quibus tamen in acceptandis ea lege utebatur ut multo ampliora rependeret quam acciperet. Testes sunt omnes qui hac \edtext{officiorum uicissitudine}{\Bendnote{\textit{Hilarius Pictaviensis, Tractatus super psalmos, 9, 0869D:} ut mare et terra et coelum Deum non tam voce, quam officiorum suorum vicissitudine atque observatione laudant; \textit{Symmach. ep. 1, 8a, 18, 5:} ut exemplo diligentiae tuae in officiorum vicissitudinem provocemur; \textit{Ioannes Saresberiensis (c. 1120-1180), Metalogicus, 199, 0827C:} nullum charitati, aut vicissitudini officiorum relinquit locum}} cum eo decertare uoluerunt. Complures in hoc coetu astare non dubito qui me uera praedicare nouerunt et qui post acceptos ab eo non paruos honores multa insuper dona tulerunt.
+\pend
+\endnumbering
+
+\end{Leftside}
+\begin{Rightside}
+\begin{croatian}
+\beginnumbering
+
+\pstart
+Od jednom preuzetog posla nikakav ga strah nije mogao odvratiti, nikakva ga pogibelj nije mogla otjerati.  Bijaše istinoljubiv u govoru, na djelu vjeran, u odlukama postojan, u provedbi neumoran, odani čuvar tajni i nepokolebljiv ispunjavatelj obećanja. Značajna su to svjedočanstva veličine njegove duše.  No, po mome mišljenju, sve ostalo nadmašuje činjenica da ga nisu mogle potresti nikakve nepravde, da ga nisu mogle povrijediti nikakve zloće, da ništa nije zaboravljao lakše od neprijateljstava.  Bio je savršeno ravnodušan prema svim takmacima, ni na što nije bio spremniji nego na praštanje pokajnicima; od opojnosti osvete bio je toliko daleko da se radovao čineći dobro svojim neprijateljima.  Nije htio da u njemu bude išta lažno, išta prijetvorno ili neiskreno, i ništa mu nije bilo odbojnije od hinjenog poštenja.  Govorio je da se samo zli i nepravedni boljima pokazuju vani no što se ponašaju kod kuće, a valjani ljudi ne nadvisuju druge pretvaranjem, već moralnošću.  Ta zaista, ima li ikoga tko ne bi znao za opseg njegove darežljivosti i širokogrudnosti – osim onih koji se njima nisu htjeli, ili nisu znali okoristiti?  Tim je žarom gorio toliko da čak i one na koje bi se katkad iz opravdanih razloga srdio ne bi prestao obasipati darovima.  Nisam jednom, niti jedini, bio svjedokom kada bi pojedine ukućane po zasluzi izgrdio, a potom ih obdario odjećom i službama. A kad ga je jednom upravitelj njegova doma, čija mu je usrdna i vjerna skrb jamčila povjerenje i mir, % vidi u Gattiju može li se identificirati 
+slobodnijim riječima prekorio što prekomjernom popustljivošću i darežljivošću potiče drskost osoblja, Petar je spokojnim glasom odvratio: ``Tvoje je ispravljati moje ukućane kad zanemare svoj posao, a moje je dodjeljivati im nagrade primjerene ljubavi koju osjećaju za mene; postupajmo i dalje tako, pa će svaki od nas svoju službu vršiti na najbolji mogući način.''  O, krasne li riječi, o, misli dostojne najvećih vladara; nije pohvalio nekažnjavanje grešnika, a nije ni dozvolio da njegovu darežljivost zaustavi bilo kakav čin prijestupnika.  Sretnih li onih kojima je bilo dano da u toj darežljivosti uživaju, najnesretnijih pak sada među ljudima, jer im je surovim obratom sudbine oduzeta!  Uzdržavao je gotovo petsto ukućana, dijelom gospode, dijelom plemića, svih časna porijekla: prelati, vojnici, učenjaci, govornici, pjesnici ili poklonici nekog drugog časnog umijeća; nisu ga opterećivali troškovi tolikih ljudi ni izdaci. Govorio je o sebi da je domaćin svim časnim ljudima, i to bijaše od same istine istinitije.  Jer, ako tko pažljivije promisli o stvari, bez sumnje će naći da nijedan kardinalski dom nije drugo nego častan gostinjac, gdje djeca valjanih ljudi smiju odsjedati bilo zbog srodstva bilo zbog karaktera.
+
+\pend
+\pstart
+Primao je, osim toga, darove, ne iz pohlepe, nego kao znak časti i da bi osigurao naklonost; primajući, vodio se pravilom da uzvraća mnogo obilnije no što bi primao.  Svjedoci su svi koji su se s njim poželjeli natjecati u ovoj izmjeni usluga.  Ne sumnjam da među članovima ovoga skupa ima njih više koji znaju da govorim istinu, koji su, primivši od njega nemale časti, ponijeli povrh toga i mnoge darove.
+\pend
+
+\endnumbering
+\end{croatian}
+\end{Rightside}
+
+\end{pages}
+\Pages
+
+
+
+\end{document}

@@ -1,0 +1,256 @@
+\documentclass[a5paper,twoside]{article}
+\usepackage{polyglossia}
+\setmainlanguage{croatian}
+
+\defaultfontfeatures{Ligatures=TeX}
+
+\usepackage[a5paper,pdftex]{geometry}
+\geometry{scale=1,paperwidth=161mm,paperheight=230mm,
+bindingoffset=0in,top=27mm,inner=21mm,outer=26mm,width=117mm,height=180mm}%
+\parindent=7mm
+
+\usepackage[series={C},noeledsec,nofamiliar,noledgroup]{reledmac}
+%\Xnotefontsize[A,B,C]{\normalsize}
+
+%\Xarrangement[A]{paragraph}
+%\Xnotenumfont[A]{\bfseries}
+%\Xparindent[A]
+%\Xafterrule[A]{5pt}
+
+%\Xarrangement[B]{paragraph}
+%\Xnotenumfont[B]{\bfseries}
+%\Xparindent[B]
+
+\Xarrangement[C]{normal}
+\Xnotenumfont[C]{\bfseries}
+\Xparindent[C]
+\Xlemmafont[C]{\bfseries}
+
+\Xendlemmafont{\bfseries}
+
+\Xendbeforepagenumber{p. }
+\Xendafterpagenumber{, }
+\Xendlineprefixsingle{l. }
+%\Xmaxhnotes[⟨s⟩]{⟨l⟩}
+%\AtBeginDocument{
+%\Xmaxhnotes[A]{0.2\textheight}
+%\Xmaxhnotes[A,B]{0.75\textheight}
+%}
+%\Xbeforenotes[A,B]{2em plus 1em minus 1em}
+%\Xbeforenotes[B]{2.2em plus 1em minus 1em}
+%\Xbeforenotes[A]{2.2em plus 1em minus 1em}
+\Xbeforenotes[C]{2.2em plus 1em minus 1em}
+
+\Xafterrule[C]{1em}
+%\Xafterrule[A,B,C]{1em}
+%\Xnolemmaseparator[B]
+%\Xinplaceoflemmaseparator[B]{1em}
+
+%\Xendinplaceoflemmaseparator[B]{1em}
+%\Xendlemmaseparator
+
+\fnpos{%
+{C}{critical}%,
+%{B}{critical},
+%{A}{critical}%
+}
+
+
+
+% sidenotes za brojeve paragrafa
+%\sidenotemargin{left}
+%\renewcommand{\ledlsnotefontsetup}{\normalsize}% left
+%\renewcommand{\ledrsnotefontsetup}{\normalsize}% right
+%\renewcommand{\ledlsnotewidth}{0.5\marginparwidth}
+%\renewcommand{\ledlsnotesep}{0.25pt}
+%\leftnoteupfalse
+%\rightnoteupfalse
+
+
+%\setsidenotesep{ $|$ }
+
+\setmainfont{Times New Roman}
+%\setsansfont{Old Standard TT}
+%veličina fusnota, marginalija, glavnog teksta
+\renewcommand\footnotesize{\fontsize{10}{11} \selectfont}
+\renewcommand\tiny{\fontsize{9}{9.5} \selectfont}
+\renewcommand\large{\fontsize{11}{11.5} \selectfont}
+\renewcommand\normalsize{\fontsize{11}{13.2} \selectfont}
+
+% fusnote i crta
+%\setlength{\skip\footins}{1.5\baselineskip}% plus0.5\baselineskip minus0.5\baselineskip}
+%\setlength{\footnotesep}{1.2\baselineskip}%{12pt plus2pt minus2pt}
+%\renewcommand{\footnoterule}{\vspace*{-7pt}
+%    \noindent\rule{2in}{0.4pt}\vspace*{6.6pt}}
+
+%\usepackage{reledpar}
+%makni R iz broja retka na desnoj strani
+%\setRlineflag{}
+
+%tekuće glave
+%fancyhdr prigovara, hoće više mjesta za glavu, pa mu daj:
+\setlength{\headheight}{12.4pt}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead[\thepage]{}
+\chead[\MakeUppercase{Nikola Modruški: Djela u službi Pape Siksta IV.}]{\MakeUppercase{Oratio in fvnere Petri Cardinalis S. Sixti}}
+%]{}%\small\MakeUppercase{Djela dalmatinskih i hrvatskih kraljeva}}
+%\chead[\small{Colloquia Maruliana XVIII (2009.)}]{\small{Regum Delmatię atque Croatię gesta}}
+\rhead[]{\thepage}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+\renewcommand{\headrulewidth}{0.4pt}
+
+
+
+\begin{document}
+
+%\Xmaxhnotes{.35\textheight}
+
+% lijeva strana?
+%\setgoalfraction{0.85}
+% No extra spacing after periods
+\frenchspacing
+
+% Font sizing
+%\fontsize{11}{13.2}
+%\selectfont
+
+% veća čitljivost
+\linespread{1.1}
+
+% prva stranica bez zaglavlja
+\thispagestyle{empty}
+
+%broji retke na svakoj stranici iznova
+\lineation{page}
+%\lineation*{page}
+%broji retke u svakom odlomku
+%\lineation*{pstart}
+\linenummargin{outer}
+%\linenummargin*{outer}
+
+%\begin{pages}
+
+\beginnumbering
+\pstart
+
+%\vspace*{1cm}
+
+{\centering
+% ovdje prijevod
+\noindent GOVOR NA POGREBU PREPOŠTOVANOGA MONSINJORA\\
+PETRA RIARIJA, KARDINALA SV.\ SIKSTA;\\
+ODRŽAO GA JE VELEČASNI OTAC\\
+G.~NIKOLA BISKUP\\
+MODRUŠKI
+
+}
+
+\pend\vspace*{\baselineskip}
+%\numberlinefalse
+%\pstart
+
+%\pend
+%\bigskip
+
+%\vspace*{1cm}
+
+
+%\numberlinetrue
+\numberpstarttrue
+
+\setcounter{pstart}{1}
+
+
+\pstart
+Pri svakoj su pogrebnoj svečanosti naši stari posezali prvenstveno za jednim od dvije vrste govora, \edtext{preuzvišeni oci}{\Cfootnote{Autor fingira govor održan na dan Riarijeva pogreba (odlomak \pstartref{pogreb}), 18. siječnja 1474, pred Kardinalskim kolegijem, koji će kasnije nazvati ``presvetim apostolskim senatom,'' (odlomak \pstartref{senat}), u rimskoj crkvi Svetih dvanaest apostola (basilica dei SS. Dodici Apostoli, ``sveto apostolsko zdanje'', odlomak \pstartref{zdanje}), gdje se kardinalov grob i danas nalazi; Riario je živio u palači uz crkvu (danas Palazzo Colonna).}}: ili za onim koji može tužne duše prijatelja osloboditi žalosti – njima je prijateljev život bio predrag, pa im ni smrt nikako nije mogla biti ugodna – ili za onim koji će posljednju počast prijatelju uveličati opsežnom pohvalom njegovih dostignuća te obilja i sjaja njegovih vrlina; ali meni je ona prva vrsta utjehe ostala tako potpuno i konačno nedostupna da ču sam morati tražiti pomoć prije no što bih je ikome mogao ili pružiti ili obećati.  Pa čak i da nisam izgubio pristup takvoj utjesi, svejedno nikad ne bih mogao pronaći riječi ili argumente kojima bi čak i općepriznati prvaci govorništva mogli imalo olakšati ovaj težak gubitak za vaš presveti zbor, ovu opću tugu čitave kurije.
+\pend
+\pstart
+Izgubili ste naime, presveti oci, najistaknutijeg svojeg sudruga, čije ste milo društvo, ljubaznost, dobrohotnost, darežljivost svakodnevno ćutjeli, čijoj ste se okretnosti uma, nevjerojatnoj mudrosti razbora iz dana u dan sve više morali diviti.  Izgubili ste jedinstvenu utjehu prvosvećeniku, vašemu svetom ocu, i priželjkivan oslonac njegove pobožne starosti; dionika u tajnama, pomoćnika u naporima, druga na putovanjima, pomoć u brigama; onoga po kome je Papa vladarima svega svijeta redovno slao i primao najvjerodostojnije odgovore.  Ne bilo ovdje zavisti, i zajedljiva ljubomora neka barem pepeo poštedi! Zgasnut leži najodaniji ljubitelj lijepih umijeća; preminuo je osobiti pokrovitelj svih znanstvenika, štovatelj valjanih, kurije sjaj, ures države, i najneumorniji obnovitelj ovog grada. Pao je divan uzor velikodušnosti, nestalo je poklonika širokogrudnosti, ljubaznosti i svekolike darežljivosti.  Taj gubitak mora oplakivati svatko, a osobito \edtext{ja i ovi moji beskrajno nesretni sudruzi}{\Cfootnote{referencija na prisutnost članova kardinalova kućanstva na pogrebu. Riarijevih je ukućana, kako ćemo kasnije saznati, bilo čak pet stotina (u tadašnjem Rimu, koji je imao manje od 50.000 stanovnika, to je jedan posto populacije; Princely Ambiguity, s. 102). Formulacija otkriva da je i Nikola bio jedan od članova kardinalova kućanstva (Giovanni Mercati, ``Notizie varie sopra Niccolò Modrussiense'' [1924-1925], u Opere minori, IV, Città del Vaticano: Biblioteca Apostolica Vaticana, 1937, s. 229, bilj. 2.).}}, kojima je okrutna i nesmiljena smrt odnijela najdobrodušnijeg gospodara, pokopala dobročinitelja, oduzela zaštitu, osirotjela nas, nemilosrdnica, oduzevši nam jedinoga i najpobožnijeg oca.  Nemojte stoga, nemojte očekivati, oci odličnici, da učinim da posve nestanu tuga i jad u kojima ste, kako vidim, vi, a bit ćemo neizbježno do konca života i ja sam, i čitavo ovo nesretno kućanstvo.  Nego radije, u skladu sa svojom milostivošću, oprostit ćete mojoj boli ako, pritisnut njezinim ljutim ranama, ne budem u stanju održati pravilan red izlaganja, ni naći mjeru svojih riječi, osobito kad bih mnogo radije bio izbjegao tu krivnju nego da se moram pred vama ispričavati zbog one da mi je bilo dozvoljeno otkloniti nametnuti teret; pa ipak, učinit ću što mogu, zazirući manje od osude zbog nepromišljenosti nego od one zbog nezahvalnosti.
+\pend
+\pstart
+U namjeri, dakle, da govorim o slavi veleštovanoga monsinjora Petra, kardinala Sv. Siksta, čiji se tužan pogreb\edlabel{pogreb} održava danas, smatrao sam da moguće pohvale njegovih roditelja ili domovine na ovome mjestu valja zaobići; \edtext{ne zato što bih ih smatrao nepoznatima ili neznatnima}{\Cfootnote{Pietro Riario i Siksto IV. potječu iz savonske obitelji trgovaca koja je neplemenitost svoga statusa nadoknađivala ističući vezu s pijemontskim plemenitašima Della Rovere iz Torina (Princely Ambiguity, s. 112, bilj. 118).}} – roditelji su mu  pripadali najčasnijim i najplemenitijim stanovnicima rodnoga grada, preslavnoga i drevnog ligurskog naselja Savone – nego zato što je on sam bio njima na takvu diku i ures da ga po čitavom zemaljskom krugu, do krajnjih granica svijeta, obilnim pohvalama i neizmjernom slavom uzdižu sada, a neće to prestati činiti u sve buduće vrijeme.  I mada je dovoljno veličanstvena slava onoga koji je svojim precima uzorite urese vrline dao umjesto da ih od njih primi, ipak znam i druge besmrtne i gotovo božanske odlike njegova duha (da i ne spominjem dobra zadobivena srećom ili tjelesnim sposobnostima; ma kako ona bila silna, ipak su u stanovitoj mjeri tuđa): pobožnost, veličanstvenost duha, darežljivost, razboritost, skromnost i pravednost.  Kakve su one bile u pokojniku, pokušat ću kratko izložiti.
+\pend
+\pstart
+Dakle, prvo, koliko je bio odan Bogu i koliko bi bio veličanstven njegov štovatelj da je poživio, jasno je pokazao već na samom pragu života.  \edtext{Dvanaest godina star}{\Cfootnote{Pietro Riario rođen je u Savoni, 29. ili 30. travnja 1445, kao sin Paola Riarija (umro 1457.) i Paolove treće supruge Biance Della Rovere; Paolo je s Biancom imao još tri sina (Girolama, Domenica, Bartolomea) i tri kćeri (Violantu, Isabellu, Petrucciu), Massimo Giansante, Pietro Riario, DBI 87 (2016).}}, dok je obitelji koja je ostala bez oca upravljao s tolikom razboritošću da ni majka, najizvrsnija među matronama, ni braća mu nisu mogli osjetiti nedostatak roditelja, počelo je njegovo Bogu posvećeno srce kipjeti žarom vjere.  Već tada se pročulo ime \edtext{pobožnoga i učenog magistra Franje, njegova sugrađanina i ujaka, a sada svetoga oca pape Siksta, koji je u to doba u Sieni svojoj braći tumačio Sveto pismo}{\lemma{pobožnoga\dots\ Sveto pismo}\Cfootnote{Franjevac Francesco Della Rovere  (21. srpnja 1414. – 12. kolovoza 1484), kasniji papa Siksto IV. (od 9. kolovoza 1471. do smrti) predavao je filozofiju na studiju u Perugiji 1450.–1461, pri čemu je 1457. kao predavač gostovao na generalnom studiju u Sieni.}}.  Ovoga je najboljeg učitelja kršćanskoga vojevanja sebi odabrao najbolji budući učenik, mada još dječak po dobi, ali već muževna razbora; Franji ga je doveo izvjesni bogobojazni starac, namoljen silnim molbama, bez majčina znanja; po božjem je migu, mislim, budući usrdni pomagač apostolata poslan budućem suverenu apostolske stolice.  Kad ga je Franjo ugledao već odjevena u ruho duhovnika, koje je mladić na put uzeo kako bi lakše osvojio naklonost svoga učitelja, usrdno ga je bodrio da se vrati k svojima i brine se za majku i braću, kako je već bio počeo, pa da barem kod kuće čeka zreliju dob, kako bi mogao bolje snositi Kristov jaram.  No kad dječakovu postojanost nije uspio uzdrmati ni ljubaznošću, ni nagovorom, pa čak ni prijetnjama, prosudivši da mu je božanstvo namijenilo neki zadatak (kao što je i bilo), na poticaj braće uveo ga je u pravila svetoga Franje i izvevši obrede kako je propisano zaodjeo ga Kristovom odjećom.  Primivši je, dječak je sve novačke kušnje prihvaćao i provodio tako rado i spremno da su svi bili sigurni kako su mu razumnost i snage, mimo njegove dobi, poslane isključivo s nebesa.  Zbog toga je svakome postao drag, svatko ga je zavolio, a osobito sam njegov ujak; čudesno se radujući njegovoj Bogom nadahnutoj naravi, prigrlio ga je pobožnim i svetim oduševljenjem.  Zato se odlučio pobrinuti da izvanredan talent bude dalje razvijen lijepim umijećima.  Predao je dječaka u Vogheru, izvjesnom učenom gramatičaru, kako bi kod njega usvojio latinsku pismenost; savladavši je čudesnom brzinom, dječak je potom poslan u Ticino, pa u Padovu, onda u Veneciju, Bolognu, Perugiu, Sienu i Ferraru, da bi, poput marljive pčele, prikupio sve nauke slobodnih umijeća ili svetih knjiga koji su se u tim najslavnijim učilištima Italije mogli naći, i da bi ih usrdno pohranio u svetu komoricu svoga srca.  U nekoliko kratkih godina sve je to ostvario, i to tako da se jedva dade vjerovati kako je netko rođen više za djelovanje negoli za filozofiranje toliko brzo uspio steći toliko poznavanje svih znanosti.  Imam ovdje za svjedoke više njegovih prijatelja, i to iznimno učenih ljudi, s kojima je objedujući često znao razgovarati o različitim dostignućima znanosti i umjetnosti, tako oštroumno, tako spremno i istančano, na zadanu temu, da biste rekli kako se danju i noću bavi isključivo proučavanjem teoloških i filozofskih knjiga.  Čvrsto mu je ostajalo u pamćenju sve što je čuo od učitelja, još od najranije dobi.  Osim toga, odlikovao se zapanjujućom oštrinom uma, prodornošću kojom je lako dopirao do najzamršenijih tajni prirode, a jednom svladavši početna načela bio je u stanju rješavati najteže filozofske ili teološke probleme, na opće divljenje.  Brojne stihove i mnoge gramatičke tekstove, koje je nekoć, kao dječak, naučio napamet, recitirao je tako točno da bi mislio da ih je zapamtio jučer ili prekjučer.
+\pend
+\pstart
+Okončavši tako u najkraćem roku studij svih valjanih umijeća, vratio se, na poziv, učitelju, da tako najbolje obavi dužnost koja mu je s nebesa bila određena.  U njegovu je umu, naime, prebivala neka božanska moć koja je poznavala budućnost, i mnogo bi toga pri počinku doznavao i prije nego što bi se dogodilo, tako da njegovi snovi nisu bili samo viđenja, nego točna proročanstva.  Njima na više načina potaknut počeo je nagovarati svoga ujaka, počeo ga je čak odlučno poticati, neka ode u Rim i djeluje u gradu u kojem ga je Bog, najveći vladar sviju, odredio za budućega svetog oca papu; pritom je čudesnom pouzdanošću predskazivao da će i sam od njega primiti kardinalsku čast, i sve druge dužnosti koje je, kako smo vidjeli, obnašao.  Gledam ovdje pojedine prelate i istaknute muževe drugih staleža od kojih sam, uz tvrdu vjeru, čuo da je sve, što je ostvario, sam prije mnogo godina prorekao.  I tako nije prestajao pritiskati učitelja, mada je ovaj otklanjao nagovore i bunio se da nije dostojan tako visokog položaja, sve dok ga Petar nije uvjerio – i mnogim znacima i znamenjima – i natjerao ga da krene u Rim; kad se ondje našao, nije se smirio dok nije junački obavio zadatak koji mu je namijenila previšnja providnost, dok nije vidio svoga učitelja kako se \edtext{preko brojnih časnih stepenica}{\Cfootnote{Francesco Della Rovere, prethodno provincijal Ligurije i profesor teologije u samostanskim školama u Veneciji i Padovi, imenovan je kardinalom Sv. Petra u Okovima (S. Pietro in Vincoli) u rujnu 1467; u Rimu je Pietro Riario bio njegov tajnik, a bio je vrlo aktivan i tijekom konklava u kolovozu 1471.}} popeo do samoga vrha apostolata.  Za taj trud i za tako prilježno obavljeno djelo ista ga je ta božja providnost (koja oduvijek bira ono slabo svijeta da bi posramilo sve jako) odlučila uresiti \edtext{sjajem kardinalskog dostojanstva}{\Cfootnote{Pietro Riario kardinalom Sv. Siksta proglašen je 16. prosinca 1471; imao je dvadeset sedam godina. Uz Riarija kardinalom je proglašen i drugi papin nećak, Giuliano Della Rovere. Obojica su bili mlađi od kanonski propisane dobi za kardinalsku čast (trideset godina; Princely Ambiguity, s. 120, bilj. 153).}} te svim prvacima svijeta pokazati koga je pri odabiru svoga zamjenika uzela za pomoćnika, ma kako s niskoga mjesta potekao, da svi uvide koliko je istinita i točna Nabukodonozorova ispovijest, ona kojom je ponizno zavapio vraćen na vlast i vraćen pameti, govoreći: ``U ruci su jedinoga svemoćnoga Boga sva kraljevstva zemaljska i bivaju predana onima kojima on sam poželi, i nema nikoga tko bi mogao zaustaviti njegovu volju ili mu kazati: 'Zašto si tako učinio?' ''
+\pend
+\pstart
+Tako se i Petar, na ovaj način postavljen na vlast, koja uvijek pokazuje kakvi su ljudi, ponašao onako kako jedva da smo mogli željeti, a kamoli očekivati.  \edtext{S visokom je službom}{\Cfootnote{Od konca 1471. Riario je gomilao crkvene dužnosti; bio je apostolski administrator dijeceza Valencija i Die (od 25. rujna 1472) te Seville (od 25. lipnja 1473) i Mende (3. studenoga 1473); splitski je biskup od 28. travnja 1473; nadbiskup Firence od 20. srpnja 1473; patrijarh Carigrada od 23. studenoga 1472; usto je bio titular brojnih samostana. Sve su mu te nadarbine donosile godišnje oko 60.000 dukata. U Papinskoj je Državi obavljao dužnost ministra vanjskih poslova i tajnika za odnose s drugim državama (Princely Ambiguity, s. 111, bilj. 117).}} zadobio i visoku svijest i duh dostojan veličanstvenosti tolikih ovlasti, a s time skupa i velikodušnost, milosrđe, darežljivost i ostale vrline vladajućih koje smo prethodno spomenuli.  Usudio se u tome, na svoju veliku slavu, natjecati s kraljevima i kneževima, ništa manje energično nego da se bio rodio među njima i među njima obrazovao. O tome svjedoče građevine koje je započeo, bezbrojne veličanstveno priređene gozbe i namještaj dostojan carske profinjenosti.  Jer smatrao je sramnim i nepriličnim da se u ovoj prijestolnici cijeloga svijeta, u ovome glavnom sjedištu kršćanstva, kamo dolaze iskazati počast carevi, kraljevi i gotovo svi zemaljski vladari, ne nađe namještaja i palača koji bi omogućili Svetome ocu da vladare časno dočeka i, u skladu s njihovim i svojim dostojanstvom, sjajno počasti.  Zato je i sam Petar govorio da sve nabavlja u tu svrhu, da sve što je pripremao ne priređuje za sebe, nego za pape.  Iz dana u dan pritjecalo je bogatstvo i gotovo je svaki kršćanski vladar svojevoljno prilagao velike iznose; mada ih je sam Petar primao, u one svrhe koje smo spomenuli, pamteći ipak proročku pouku, srce mu za njih nije nipošto prianjalo, niti ga je za njih vezala strast pohlepnosti.  Zbog toga nije znao broja niti je uopće htio znati što ima ili koliko troši; nije tražio od blagajnika polaganje računa, nije htio ništa zbrajati i oduzimati.  Pogađao ga je samo onaj materijalni gubitak koji bi se dogodio zbog nemara, pri čemu ga je više boljela krivnja nego šteta.  
+
+  
+\pend
+\pstart
+Od jednom preuzetog posla nikakav ga strah nije mogao odvratiti, nikakva ga pogibelj nije mogla otjerati.  Bijaše istinoljubiv u govoru, na djelu vjeran, u odlukama postojan, u provedbi neumoran, odani čuvar tajni i nepokolebljiv ispunjavatelj obećanja. Značajna su to svjedočanstva veličine njegove duše.  No, po mome mišljenju, sve ostalo nadmašuje činjenica da ga nisu mogle potresti nikakve nepravde, da ga nisu mogle povrijediti nikakve zloće, da ništa nije zaboravljao lakše od neprijateljstava.  Bio je savršeno ravnodušan prema svim takmacima, ni na što nije bio spremniji nego na praštanje pokajnicima; od opojnosti osvete bio je toliko daleko da se radovao čineći dobro svojim neprijateljima.  
+\pend
+\pstart
+Nije htio da u njemu bude išta lažno, išta prijetvorno ili neiskreno, i ništa mu nije bilo odbojnije od hinjenog poštenja.  Govorio je da se samo zli i nepravedni boljima pokazuju vani no što se ponašaju kod kuće, a valjani ljudi ne nadvisuju druge pretvaranjem, već moralnošću.  Ta zaista, ima li ikoga tko ne bi znao za opseg njegove darežljivosti i širokogrudnosti – osim onih koji se njima nisu htjeli, ili nisu znali okoristiti?  Tim je žarom gorio toliko da čak i one na koje bi se katkad iz opravdanih razloga srdio ne bi prestao obasipati darovima.  Nisam jednom, niti jedini, bio svjedokom kada bi pojedine ukućane po zasluzi izgrdio, a potom ih obdario odjećom i službama. A kad ga je jednom upravitelj njegova doma, čija mu je usrdna i vjerna skrb jamčila povjerenje i mir, % vidi u Gattiju može li se identificirati 
+slobodnijim riječima prekorio što prekomjernom popustljivošću i darežljivošću potiče drskost osoblja, Petar je spokojnim glasom odvratio: ``Tvoje je ispravljati moje ukućane kad zanemare svoj posao, a moje je dodjeljivati im nagrade primjerene ljubavi koju osjećaju za mene; postupajmo i dalje tako, pa će svaki od nas svoju službu vršiti na najbolji mogući način.''  O, krasne li riječi, o, misli dostojne najvećih vladara; nije pohvalio nekažnjavanje grešnika, a nije ni dozvolio da njegovu darežljivost zaustavi bilo kakav čin prijestupnika.  Sretnih li onih kojima je bilo dano da u toj darežljivosti uživaju, najnesretnijih pak sada među ljudima, jer im je surovim obratom sudbine oduzeta!  
+\pend
+\pstart
+Uzdržavao je gotovo petsto ukućana, dijelom gospode, dijelom plemića, svih časna porijekla: prelati, vojnici, učenjaci, govornici, pjesnici ili poklonici nekog drugog časnog umijeća; nisu ga opterećivali troškovi tolikih ljudi ni izdaci. Govorio je o sebi da je domaćin svim časnim ljudima, i to bijaše od same istine istinitije.  Jer, ako tko pažljivije promisli o stvari, bez sumnje će naći da nijedan kardinalski dom nije drugo nego častan gostinjac, gdje djeca valjanih ljudi smiju odsjedati bilo zbog srodstva bilo zbog karaktera.
+
+\pend
+\pstart
+Primao je, osim toga, darove, ne iz pohlepe, nego kao znak časti i da bi osigurao naklonost; primajući, vodio se pravilom da uzvraća mnogo obilnije no što bi primao.  Svjedoci su svi koji su se s njim poželjeli natjecati u ovoj izmjeni usluga.  Ne sumnjam da među članovima ovoga skupa ima njih više koji znaju da govorim istinu, koji su, primivši od njega nemale časti, ponijeli povrh toga i mnoge darove.
+\pend
+\pstart
+Vidio sam ga kako neke večeri, ne bez ozbiljnog gnjeva, očiju punih suza i ogorčeno zaziva za svjedoka najboljeg i svemogućeg Boga, i kako je bio spreman, mada to nitko nije tražio niti je bilo potrebno, da se na nj i njegovu glavu sruči najveća nesreća ako je ijedan novčić ili ikakvu nagradu za grijeh simonije primio od bilo koga tko je nedavno, kako znamo, bio biran u ovaj presveti apostolski senat;\edlabel{senat} presvetom se prisegom zaklinjao da ga za takav zločin zavidnici i zlobnici bezbožno i grešno optužuju.  Vidjeli biste da silno pati i da ga muče strašne duševne boli zato što, kako je govorio, zbog zlobe opadača ne smije biti uljudan prema izvrsnim i zaslužnim ljudima.
+\pend
+\pstart
+Gdje su sada ta rđava srca zlonamjernička?  Gdje su utrobe što šikljaju najgroznijom žuči?  Gdje su bijesnih pasa kužni zubi?  U neoprostivom su se bezumlju usudili glavu svoju dići u nebo i osuđivati čin Kristova namjesnika i njegove braće, preuzvišenih otaca; one neusporedive ljude koji su prije bili odabrani po Gospodinu, od kojeg su sve vlasti, nego što ih je proglasio Sveti otac, usudili su se napadati samoubilačkom drskošću!  Pazi se, pazi, jeziče lažljivi, da te Bog ne uništi napokon, da te ne iščupa i protjera te iz tvog šatora, i korijen tvoj iz zemlje živih! Ali na to će paziti oni koji su od svoga jezika učinili britvu nabrušenu, i sjedeći nasuprot brata svoga cijeli dan slagali obmane. Ali na to će oni paziti; mi, međutim, pohvalimo ostale Petrove vrline, ne hvalom kojom bi trebalo, već onom za koju smo sposobni.  
+\pend
+\pstart
+Stoga, kako traži predloženi red, sad ćemo razmotriti njegovu razboritost, mada se njezina iznimnost mogla velikim dijelom očitovati već po onome što smo ispričali.  Zbog toga ću se dotaknuti samo onoga dijela po kojemu se među kršćanskim vladarima ponašao tako da bi se, kad bi vidio naklonost jednoga prema Petru, moglo pomisliti da ga drugi ne vole nimalo.  Jer, zakon prijateljstva nalaže da nipošto ne ljubimo prijatelje svojih neprijatelja; no Petar je ipak svojom razboritošću uspio postići da bude svima jednako mio, da nema nikoga tko ne bi njegovo prijateljstvo svojevoljno tražio, i da ga ne bi, pošto ga stekne, svim silama njegovao i podržavao.  Pokazala je to \edtext{ova njegova posljednja misija}{\Cfootnote{Papa je Pietra 1473. imenovao poslanikom za Umbriju i čitavu Italiju; kardinal je iz Rima krenuo 6. kolovoza kako bi umirio nerede u Perugiji i Spoletu i popravio odnose s papinskim namjesnicima. U rujnu je u Firenci nastupio na svoju novu biskupsku dužnost; 12. rujna u Milanu je pregovarao s Galeazzom Sforzom o namjesništvu Imole za svoga brata Girolama; potom je u Veneciji ugovarao savez Mletačke Republike, Milana i Papinske Države protiv Osmanlija. Posjetio je još Padovu, Mantovu, Bolognu i Ferraru, te se u Rim vratio koncem listopada 1473. (Princely Ambiguity, s. 114-115, bilj. 130).}}, tijekom koje su se svi narodi Italije i svi njihovi vladari svim snagama trsili da ga prime i isprate što svečanije, a pobjednikom se smatrao onaj tko bi mu uspio odati najviše počasti.  Primajući te počasti, Petar je pokazivao razboritu umjerenost; mada je bio prijatelj svih skupa, svaki je pojedinac ipak smatrao da ga je pridobio isključivo za sebe.  Zato su mu povjeravali svoje poslove i spontano mu iskazivali najveće povjerenje po svim pitanjima.  Nikoga nije obmanjivao i, dok se zalagao za zajedničko dobro, ipak se činilo da podupire svakoga ponaosob. 
+
+\pend
+\pstart
+Dvaput ili triput dnevno povlačio bi se u sobu ili na neko osamljenije mjesto gdje bi, do kasnog sata šećući, u sebi pretresao najvažnije poslove kršćanske zajednice; jer sve je svoje duhovne snage, pošto se vratio s misije, usmjerio na ostvarenje mira u Italiji i propast \edtext{nevjernoga dušmanina kršćanstva}{\Cfootnote{Cook i Mara DeSilva (Princely Ambiguity, s. 115, bilj. 132) upozoravaju da latinska gramatička tumačenja ne dopušta tumačenje izraza \textit{hostis Christiani} na način koji smo ovdje odabrali, budući da \textit{hostis Romanus} može značiti samo ``rimski neprijatelj'', a ne i ``neprijatelj Rima''. Njihove teze, čini se, potvrđuju podaci korpusa latinskih tekstova (Corpus corporum) i autoritativnog latinskog rječnika (Thesaurus linguae Latinae). No, ne može se reći kojeg bi ``nevjernog kršćanskog neprijatelja'' u tom slučaju Nikola imao na umu. Budući da se u čitanju \textit{hostis Christiani} slažu svi svjedoci predaje, čini se da je jezični izraz ovdje na rubu latinskog standarda. Autor je izraz stvorio možda prema \textit{hostis publicus}, možda je trebalo stajati uobičajenije \textit{hostis Christiani nominis}, a možda je djelovala i analogija s nekim od narodnih jezika.}}; samo je o tome mislio, samo je na tom radio, za tim su išla sva njegova nastojanja, i uspješno bi proveo ono što je namjeravao da nam ga nije ova kruta i surova smrt tako nenadano otela.  Umom je nadvisivao ljudske sposobnosti, činilo se da je rođen isključivo za najvažniju državnu skrb; u tome je bio njegov najveći užitak, odatle ga nisu mogle odvući nikakve druge zabave; u tom je okusu uživao, tu je hranu jedinu blagovao.  Općem je spasu služio danju i noću, pa ipak su ga pojedinci optuživali za nemarnost; pa ipak su ga nezahvalnici krivili za oholost i težinu karaktera, mada je bio najpitomiji i najpristupačniji od svih ljudi.  To dobro zna toliko mnoštvo njegovih ukućana, znaju to prijatelji i svi ostali koji su mu bili bliski, prema kojima je uvijek, kad god su to dozvoljavali državni poslovi, bio blag, susretljiv, uslužan, dobrohotan – rekao bi da je drug, a ne gospodar.
+
+\pend
+\pstart
+Tako je vladao duhom da se srdio iznimno rijetko, a čim bi se rasrdio, odmah bi povratio mirnoću duha.  Nikoga nije ogovarao, nikoga vrijeđao, i nimalo ga nisu zanimali tuđi životi, osim u slučaju ukućana i prijatelja.  Najveća bi njegova grdnja bila kad bi na nečiji račun – no to je bivalo iznimno rijetko – u šali izrekao neku rafiniranu dosjetku.
+
+\pend
+\pstart
+U hrani i piću bio je iznimno umjeren, spavanju nimalo odan, dapače, uvijek budan; svakog bi dana za mnogo sati preduhitrio zoru, a čitavo bi vrijeme do izlaska sunca posvećivao najdubljim političkim promišljanjima; u njegovoj su se glavi neprestano rojile misli na kakve, rekao bi, duše smrtnika jedva da bi ikad mogle nadoći.  Na rođake i bliske nije nipošto rasipao, bio je čak krajnje štedljiv, s izuzetkom ovdje prisutnog pobožnoga brata, \edtext{grofa Jeronima}{\Cfootnote{Girolamo Riario (Savona, 27. veljače 1443. – Forlì, 14. travnja 1488), uz Pietra najmiliji nećak pape Siksta IV; počeo političku karijeru 1473, kada ga je papa 16. veljače 1473. proglasio vrhovnim zapovjednikom vojske i upraviteljem Imole; 1477. oženio Caterinu, nezakonitu kćer Galeazza Marije Sforze; 1478. organizirao je urotu Pazzijevih protiv Medicija u Firenci; od iste godine bio je gospodar Forlìja, gdje je 1488. ubijen u atentatu.}}. Kad je Petar vidio da se \edtext{slavni milanski vojvoda}{\Cfootnote{Galeazzo Maria Sforza (Fermo 1444. – Milano 1476), od 1466. naslijedio oca kao vojvoda Milana; bibliofil, glazbenik, širokogrudni mecena; ubijen u atentatu.}} udostojao njegovom bratu dati ruku svoje kćeri, bratskom ga je darežljivošću poželio sjajno opremiti.  Pritom je pokazao takvu taktičnost da se to dogodilo uz silnu čast i slavu Apostolske stolice.  Naime, grad Imolu, koji je već, \edtext{krivnjom upravitelja}{\Cfootnote{Taddeo Manfredi (1431. – malo nakon 1484), od očeve smrti 1448. proglasio se gospodarom Imole (koju je njegovom ocu prepustio Filippo Maria Visconti 1439); stvarnu vlast nad gradom izgubio je krajem 1471, otkad ondje vladaju Sforzini upravitelji. U zamjenu za Imolu od milanskoga je vojvode Manfredi dobio mjesta Bosco Marengo i Cusago.}}, bio prešao u tuđe ruke, otkupio je za četrdeset tisuća dukata vlastitih sredstava, te ga \edtext{vratio pod crkvenu upravu}{\Cfootnote{Papinom bulom od 6. studenoga 1473. Manfredijevo je namjesništvo poništeno (jer nije plaćao godišnji danak), a služba je prenesena na papina nećaka Girolama Riarija (Princely Ambiguity, s. 116, bilješka 135).}}.  Za proširenje područja te uprave toliko se žarko zalagao da nije mogao pretrpjeti propast ni najmanje njezine čestice.  Stoga je i spomenuti grad htio iskupiti više Crkve radi, nego svome bratu u korist.
+
+\pend
+\pstart
+Nadalje, Petrovu je pravednost moguće ocijeniti po tome što, našavši se na tako visokom položaju, nikome nije nanio štetu, nikoga nije silom tlačio.  Zato je i onome namjesniku Imole, mada je crkvi naškodio, osigurao ne samo sredstva za život, nego i imetak ništa manji od ranijeg.  Primio je, naime, četrnaest tisuća dukata i \edtext{bogato mjesto Bosco}{\Cfootnote{Vjerojatno današnji Bosco Marengo u jugoistočnom Piemontu (Princely Ambiguity, s. 116, bilj. 136), oko 12 kilometara daleko od Alessandrije.}}, od kojeg je, zajedno s drugim imanjima koja mu je dodijelio vojvoda, mogao ubirati više od pet tisuća dukata godišnje; usto, Petar je odlučio Imolu otkupiti isključivo uz namjesnikovu suglasnost.  Gradske je službe poticao da svakome odrede pravo koje mu pripada, bez ikakvih obzira.  I mada bi počešće, nagovoren domaćim i prijateljskim molbama, bilo pismima bilo po glasnicima veći broj osoba preporučivao sucima, ipak je želio da se s njima postupa bez nepravde za bilo koga.  Stoga, kad ga je \edtext{upravitelj Grada}{\Cfootnote{od 17. veljače 1472. do svoje smrti upravitelj grada Rima bio je, odlukom Siksta IV, papin nećak Leonardo Della Rovere (oko 1450. – 11. studenoga 1475).}} jednom prilikom pitao što će s onima koji su se zalagali za nepravednu stvar, a ipak su bili u njegovo ime preporučeni, odgovorio je: ``Učini tako da nipošto ne naškodiš pravdi radi mojih molbi, i nemoj drugačije postupiti ni ako te moj brat Jeronim bude u moje ime nešto molio.''  Isto je to odgovorio i na pitanje gradskoga vijećnika, i upraviteljima, ravnateljima, svim sucima za vrijeme svoje misije često je tako nalagao.  Govorio je, naime, da prijatelje koji traže njegovu pomoć ne može odbiti, ali posebno želi da se zbog njega postupa isključivo pravedno i časno.  Otud je izdavao samo valjane reskripte, a da neki službenik ne bi našao prigodu za grijeh, tražio je da primjerci svih njegovih odluka, kao i povelja, budu pohranjeni kod bilježnika.  Ovu divnu odliku nije mogao zaboraviti ni na samrti; naime, kad su ga prijatelji nagovarali \edtext{da sastavi oporuku}{\Cfootnote{od renesansnih se kardinala očekivalo da zatraže papinu dozvolu za sastavljanje oporuke; bez te dozvole, sva bi imovina pokojnog kardinala prešla u posjed Crkve (Princely Ambiguity, s. 117, bilj. 137). No, 1. siječnja 1474. Siksto IV. izdao je bulu \textit{Etsi universis}, koja dozvoljava članovima kurije da  slobodno raspolažu imovinom u Rimu i okolici.}}, rekao je: ``Svoje nemam ništa, sve pripada Crkvi.  Ipak ćete u moje ime zamoliti Svetoga oca da dug, koji sam napravio većim dijelom otkupljujući crkvenu imovinu, podmiri sukladno svojoj dobrohotnosti.''
+
+\pend
+\pstart
+Prisiljen sam na ovom mjestu izostaviti još veće Petrove hvale, kako pritiješnjen vremenskim škripcem, tako i nadjačan obiljem tema.  Kakav je bio prema prijateljima, kakav prema roditeljima, a osobito kakav prema samome Svetom ocu, to bih radije odgodio za neko drugo vrijeme nego da tako plodan skup njegovih zasluga nagrdim govoreći kratko. Reći ću samo jedno: prema potvrdama sviju koji su mu poznavali običaje, nije bilo toliko posvećenog sina, toliko odanog ili zauzetog za dobrobit i ugled svoga roditelj, no što je bio upravo on u odnosu prema našem Svetome ocu, od prvoga dana njihovog poznanstva pa do samoga konca života. Za nj nije odbijao nijedan napor, nije izbjegavao nikakvu pogibelj; u muci, u bolesti, na putovanju, nikad ga nije napustio, nikad nije ostavio svoju službu, uvijek njemu uz bok, poput anđela koga je Gospodin dao Tobiji; rješavao je probleme, pogodnosti promicao; pobožnom ga je prilježnošću podupirao, štovao, častio, te se nitko ne mora čuditi što je Sveti otac Petra za života toliko ljubio, ili što je sada toliko potresen njegovim gubitkom.
+
+\pend
+\pstart
+Govor ću okončati ako prethodno ukratko izložim onaj vrhunac Petrove pobožnosti. Uredivši svoje poslove sav je duh posvetio tome da uzmogne, skupa s psalmistom, slobodno reći: ``O, Gospodine, ljubim sjaj doma tvoga i slavu prebivališta tvoga.'' Sukladno tome, neprestano je crkve povjerene njegovoj skrbi podizao ako bi pale, a ako bi bile nagrđene, uljepšavao ih; vraćao bi oduzete posjede; imanja rasuta nemarom ranijih upravitelja iskupljivao bi vlastitim sredstvima; kupovao bi ruho, knjige, sveto suđe i sve ostalo namijenjeno sjaju bogoštovlja, trudeći se da nabavi najbolje što postoji.  Tu njegovu darežljivost potvrđuje u ovome gradu Rimu \edtext{crkva svetoga Grgura}{\Cfootnote{Pietro Riario bio je i opat rimske crkve i samostana San Gregorio al Celio (Princely Ambiguity, s. 118, bilj. 142).}}, prihodima krasno obdarena, dogradnjama iznimno sjajno usavršena; potvrđuje to \edtext{u Trevisu veća bazilika}{\Cfootnote{od rujna 1471. do travnja 1473. Riario je bio biskup Trevisa (Princely Ambiguity, s. 118, bilj. 143; 1473. Riarija je na biskupskoj stolici naslijedio Lorenzo Zane, od kojeg je Riario preuzeo splitsku biskupiju); crkva koja se spominje možda je Santa Fosca in Santa Maria Maggiore, poznatija kao Santa Maria Maggiore ili Madonna Grande; njezina je obnova počela 1473.}}, nemalim davanjima nadarena i sjajno uljepšana u bogoštovlju. Potvrđuje to \edtext{u Milanu samostan sv. Ambrozija}{\Cfootnote{od 1472.-1473. Riario je u komendi imao benediktinski samostan Sant' Ambrogio u Milanu  (Princely Ambiguity, s. 118, bilj. 144).}}; kad ga je Petar preuzeo, bio je ostao bez svih uresa, a opremio ga je tako divnim namještajem da crkva, koja je ranije bila među manje poznatima u onome gradu, sada sjajem i svakovrsnom spremom sve nadmašuje.  Potvrđuje to \edtext{Maiolov hram u Paviji}{\Cfootnote{u studenom 1471. Riario je bio prior klinijevskog samostana S.~Maiolo u Paviji (Princely Ambiguity, s. 118, bilj. 145).}}, u kojemu nije zatekao ni jedan komad liturgijskog posuđa, ni jednu jedinu knjigu, tako da su svaki put, kad je trebalo vršiti službu božju, morali sve posuđivati iz drugih svetišta; sad hram obiluje takvim blagom svake vrste, a osobito knjigama, kaležima i ruhom, da sve druge crkve ono što su nekad morale davati sada od njega jedinog primaju.  Izgubljene posjede istoga tog hrama, uz mnogo truda, ali uz još više troška, sve je povratio, te u roku od dvije godine priložio više od deset tisuća dukata za uvećanje njegove imovine.  Pa i \edtext{ovo sveto apostolsko zdanje}{\Cfootnote{rimska bazilika SS. Dodici Apostoli, u kojoj je Riario sahranjen.}}\edlabel{zdanje} moglo bi posvjedočiti o Petrovoj darežljivosti, da je poživio još samo četiri mjeseca. Jer već je bio odlučio sljedećeg ljeta opremiti ovu crkvu i građevinama i prihodima, tako da može za pedesetoricu braće osiguravati stalan prikladan smještaj i nužnu prehranu.  Povrh toga spremao se predstojećih dana dodati još i knjižnicu, na divan način ispunjenu najboljim knjigama sa svih znanstvenih područja.  No božjom nam je voljom tako nenadano bio oduzet, ne zato što se Bog ne bi radovao njegovim pobožnim djelima, nego (čega se silno bojim) da bude, kao nedužan, izuzet od nedaća kojima je možda On odlučio išibati naše grijehe, te da za dobro obavljenu službu, u koju ga je svrhu On stvorio, neodložno primi dolične nagrade.  
+\pend
+\pstart
+Pouzdane naznake te samilosti i ljubavi vidjeli smo \edtext{pri samoj Petrovoj smrti}{\Cfootnote{Pietro Riario umro je u Rimu, 5. siječnja 1474.}}; iako je već pred mnogo dana osjetio da se približava, ipak ju je neustrašivo očekivao.  Boli i nemoć podnio je čudesnom strpljivošću.  Od prijestupa koje je, grijehom dobi ili vremena, počinio iz razloga ljudske krhkosti, očistio se višekratno i usrdno skrušenom ispovješću; opremljen nebeskom popudbinom, koju je primio najpobožnije, pripravan se stavio na raspolaganje božjoj volji.  I već blizu smrti dao je pozvati ukućane i prijatelje. Kad su se našli uza nj, nije udario u plač, nije stenjao od žala za svjetovnim žudnjama, nije optuživao Boga ni sudbinu, nije ni najmanje požalio što mora u samome cvijetu mladosti napustiti takvu vlast i takvo bogatstvo. Dapače, junački je i nepokolebljivo rekao: ``Osjećam, sinovi moji i braćo moja, kako se nada mnom diže ruka Gospodnja; željno i rado stajem na raspolaganje njegovoj volji, tim radije jer znam da sam dovoljno poživio i za svoju slavu i za svoj ponos.  Ovaj mi je smrtan život dao najveći plod što ga je moja sudbina mogla primiti. Ništa veće nije ostalo, i sve bi mi ostalo s pravom budilo sumnje i strahove.  Međutim, mada mi je želja otići i s Kristom biti, ipak me žeže jedina briga za vaše stanje. Svjestan sam da sam vam dao slabu naknadu za vaše zasluge, mada nikad nije nedostajalo spremnosti, samo mogućnosti.  A da me nije spriječila silna kratkoća mog vijeka, nitko se među vama ne bi mogao požaliti na moju zahvalnost.  Zasluženo sam vam, koliko sam mogao, na samrti platio. Svetoga sam oca ponizno zamolio da nadarbine koje je meni dodijelio milosrdno razdijeli među vama, tako da vi manje žalite zbog svojih zasluga, a ja zbog neizvršene dužnosti.  Osim toga me obvezuje i žestoko tjera moja neizreciva ljubav prema vama da vas potaknem i obavežem da svoj duh ne sputavate mamcima i zavodljivostima ovoga svijeta, da nikakve nade ne polažete u raskoš i isprazna svjetovna bogatstva; koliko su ona prolazna i varljiva, ja vam sam mogu poslužiti kao najbolji dokaz.  Vjerujte da smo prah i sjena, da nemamo stalna boravišta ovdje, već drugdje, tamo gdje ništa ne može biti kvarljivo, ništa prolazno, već je sve nepokvarljivo, sve je vječno.  Stoga se trudite da budete valjani i uz vrlinu svim snagama prionite. Štujte pobožnost, od poštenja nemajte važnijega, znajući da je svakome od vas Gospodin odredio nadnicu za trud; čak i kad je ne bi bilo, ipak je valjanome čovjeku nužno najveća naknada sama činjenica da je proživio pobožno i sveto, jer se tome zahvaljujući ljudi dijele od zvijeri i svoje ime vječnoj posvećuju besmrtnosti. 
+\pend
+\pstart
+Ostaje da vas srcem samilosti našega spasitelja ponizno zamolim da budete tako dobri te meni oprostite štogod sam prema vama zgriješio.  Nisam, naime, dovoljno vladao svojom mladošću, i kojiput sam što vaše oči, što uši umnogome povrijedio.  Ali vjerujem da ću za to kod Gospodina naći milost, tim lakše što ćete vi, poniznije živeći, za mene Gospodina moliti.  A i ja ću, ako li mrtvima preostaje svijesti, za vas isto, tvrdo obećajem, činiti.  Živite sjećajući me se, i naučite bar iz mojeg primjera kako je krhka sreća na ovome svijetu.''  
+\pend
+\pstart
+Opomenuvši ih predanom pobožnošću ovim i daljnjim sličnim riječima, poljubivši svakoga napose, dok su plakali i jaukali, otpustio ih je.  Umirio se potom u krevetu i, očiju usrdno uperenih u nebo, od Gospodina je ponizno molio milost za svoje grijehe.  A kad je najcrnja noć već pola svog puta prevalila, okrenuvši se \edtext{biskupu Viterba}{\Cfootnote{To je bio Francesco Maria Scelloni, O.~F.~M., biskup Viterba od 31. kolovoza 1472. do 1491, kad je imenovan biskupom Terna.}}, reče: ``Evo, već se bliži čas; donesi mi ulje svetog pomazanja.''  Ono je smjesto doneseno u sobu, te mu je Petar, otkrivši i digavši glavu, koliko je mogao, pobožno odao počast. Potom je pružio ruke i noge, te je valjano pomazan. Nakon toga reče: ``Donesite svete knjige, i pročitajte nešto božjih otajstava, preporučujući moju dušu Gospodinu.''  Odmah su donesene, i sve do zore malo su pjevani psalmi, malo su čitana evanđelja; do konca je ustrajao, budno ušima i očima pazeći na štivo, čak i kad mu je daha počelo nestajati, sve dok čitač muke gospodnje nije došao do mjesta gdje Pismo kaže: ``I prignuvši glavu, preda duh.''  Na tu je riječ ta Bogom ljubljena duša, kao da je primila jasan znak, smjesta odletjela svome Gospodinu.
+\pend
+\pstart
+O, sretna li, i opet sretna onoga kome je život dao vrhunac slave, a ni smrt mu nije zanijekala zasluženu svetost! Nema zato razloga da udarimo u jauk zbog njegova udesa; u nekoliko je godina ispunio veličanstven vijek, proživio je dostojno sebe i slave svoje, on koji je u izobilju ostvario sve što može na se preuzeti sudbina jednog čovjeka.  Možda je za nas mogao živjeti i duže, i svakako bi nam bio na velik ures i korist.  Ali nije na prijateljima da traže svoj probitak nauštrb prijateljeve štete.  Da je imalo dalje poživio, poživio bi za boli i muke.  Budući da ga je od toga milosrdno spasila božja providnost, njemu zahvalimo i recimo: ``Gospodin dao, Gospodin oduzeo! Kako se Gospodinu svidjelo, tako se zgodilo; blagoslovljeno ime Gospodnje!'' Amen.
+
+
+\pend
+
+
+
+\endnumbering
+
+
+
+
+\end{document}
