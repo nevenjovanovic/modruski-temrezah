@@ -1,0 +1,29 @@
+'crudel* NEAR/2 dira*' - search in All Authors to Year 1500, in Chronological Order, Showing 1 to 14 of 14 hits      sort alphabetically
+1	Cornelius Celsus, De medicina - Ed. Daremberg, 1, pro.; 79 (auctor c.25BC—c.50)
+	Interdum enim gladiatorem in arena, vel militem in acie, vel viatorem a latronibus exceptum sic vulnerari, ut eius interior aliqua pars aperiatur, et in alio alia: ita sedem, positum, ordinem, figuram, similiaque alia cognoscere prudentem medicum, non caedem, sed sanitatem molientem; idque per misericordiam discere, quod alii dira crudelitate cognorint.
+2	Cornelius Celsus, De medicina - Ed. Marx, 1, p1, 43; 74 (auctor c.25BC—c.50)
+	Interdum enim gladiatorem in harena uel militem in acie uel uiatorem a latronibus exceptum sic uulnerari, ut eius interior aliqua pars aperiatur, et in alio alia; ita sedem, positum, ordinem, figuram, similiaque alia cognoscere prudentem medicum, non caedem sed sanitatem molientem, idque per misericordiam discere, quod alii dira crudelitate cognorint.
+3	Iulius Firmicus Maternus, Mathesis, 6, II; 15 (auctor fl.337)
+	Sed in ista parte Luna in primis cardinibus constituta cum praecedentibus dignitatis insignibus dirae crudelitatis et inmodici terroris decernit horrorem.
+4	Iulius Firmicus Maternus, Mathesis, VI, 2; 16 (auctor fl.337)
+	Sed in ista parte Luna, in primis cardinibus constituta, cum praecedentibus dignitatis insignibus dirae crudelitatis et immodici terroris decernit horrorem.
+5	Anonymus, Adnotationes super Lucanum supplementum, IV; 2053 (opus c.400?)
+	DIRAE (V) crudelis.
+6	Hilduinus Sandionysianus, Passio, 106, 0038C (auctor 775-842)
+	Nam cum impiissimus Nero, terra marique imperii sui frena laxasset, et nimiae voluptatis successu, inter caetera nequitiarum suarum cumulenta, etiam furor crudelitatis eius dira rabie in Christi famulos ebullisset, quarto decimo imperii sui anno, antequam beatus Dionysius Romam adiret, sanctos Dei apostolos, alterum per crucis tropaeum, alterum autem gladio animadversum, felici cruore perfusos et martyrii gloria dignos transmisit ad superos, seque, vivendi faciens finem obitu nefando, ut fuerat et vita, in brevi destinavit ad inferos.
+7	Eulogius Toletanus, Liber apologeticus martyrum, 115, 0866C (auctor 799-859)
+	Ut ergo passionibus Christi communicarent martyres, instinctu ferocitatis a diabolo praeses armatus, sub cuius dira crudelitate totius dignitas Cordubensis tunc graviter vexabatur, iubet corpora martyriali cruore perfusa, vestigiis inversis configi, ac deinceps fluviali abysso recondi.
+8	Paschasius Radbertus, In Lamentationes Ieremiae, 120, 1076A (auctor 785-860)
+	Porro et de officio suae religionis opprobrium ac derisio inter affligentes se, ut infertur dirae crudelitatis.
+9	Flodoardus Remensis, Historia ecclesiae Remensis, 135, 0047C (auctor 894–966)
+	Humani denique generis hostis, ostendere nequitiam non desistens suae malignitatis, urbem Remorum, surgentibus flammarum subito globis, immissione dira succendit, crudelique vastatione, iam partem fere tertiam concrematio peracta consumpserat; et quod residuum erat victrix flamma lambebat.
+10	Ordericus Vitalis, Historia ecclesiastica, 188, 0420C (auctor 1075–c.1142)
+	Fertur quod multum sanguinis fuderit, et quod tam dirae crudelitatis fortuna infectus fuerit ut nullus imminens lethum evasisset, qui ab eo, quamvis parum, vulneratus fuisset.
+11	Godefridus Admontensis, Homiliae festivales, 174, 0677A (auctor -1165)
+	Magnae quippe fortitudinis virtus erat, quod ille, qui melius et perfectius quam ullus mortalium scire possit, dolorem et amaritudinem mortis noverat, hanc eamdem amaritudinem gustare et in se ipso experiri non renuit, sed crudelem et diram mortem crucis, nostrae causa salutis imperterritus subire voluit.
+12	Thomas Aquinas, Summa Theologiae, II-II, 30, 1; 6 (auctor 1225-1274)
+	arg. 2 Praeterea, ea quae sunt crudelia seu dira videntur quendam excessum mali habere.
+13	Modrussiensis Nicolaus, Oratio in funere Petri Riarii, p1; 8 (auctor c. 1427-1480)
+	Cuius iactura cum uniuersis lugenda sit, tum mihi praecipue atque his infelicissimis conseruis meis, quibus haec crudelis et dira mors tam benignissimum abstulit dominum, interuertit benefactorem, ademit praesidium, et unico atque eodem piissimo patre nos acerba orbauit.
+14	Modrussiensis Nicolaus, Oratio in funere Petri Riarii, p1; 75 (auctor c. 1427-1480)
+	Secedebat bis terque per diem in cubiculum aut in aliquem secretiorem locum in quo ad multam horam deambulando summas reipublicae christianae rationes tacitus secum computabat; totas enim animi uires, postquam a legatione redierat, in pacem Italiae et perfidi hostis Christiani exitum intenderat, id unum moliebatur, id parabat, illuc omnia sua studia conuerterat, fecissetque uotis satis ni eum nobis haec dira atque crudelis mors tam repente praeripuisset.

@@ -1,0 +1,13 @@
+'primo NEAR/3 limine NEAR/3 vita*' - search in All Authors to Year 1500, in Chronological Order, Showing 1 to 6 of 6 hits      sort alphabetically
+1	Vergilius Maro, Aeneis, 6, 426; 1 (auctor 70BC-17BC)
+	Continuo auditae voces, vagitus et ingens, infantumque animae flentes in limine primo, quos dulcis vitae exsortes et ab ubere raptos abstulit atra dies et funere mersit acerbo; hos iuxta falso damnati crimine mortis.
+2	Seneca, Hercules Furens, 1054; 11 (auctor c.4BC–65)
+	Ite infaustum genus, o pueri, noti per iter triste laboris, non vos patriae laudis comites ulti saevos vulnere reges, non Argiva membra palaestra flectere docti fortes caestu fortesque manu, iam tamen ausi telum Scythicis leve corytis missum certa librare manu tutosque fuga figere cervos: [nondumque ferae terga iubatae] ite ad Stygios, umbrae, portus ite, innocuae, quas in primo limine vitae scelus oppressit patriusque furor, ite, iratos visite reges.
+3	Claudianus Claudius, Panegyricus de tertio consulatu Honorii Augusti, poem.7; 1 (auctor c.370-c.404)
+	Tertia Romulei sumant exordia fasces terque tuas ducat bellatrix pompa curules; festior annus eat cinctusque imitata Gabinos dives Hydaspeis augescat purpura gemmis; succedant armis trabeae, tentoria lictor ambiat et Latiae redeant ad signa secures, tuque o qui patrium curis aequalibus orbem Eoo cum fratre regis, precede secundis alitibus Phoebique novos ordire meatus, spes votumque poli, quem primo a limine vitae nutrix aula fovet, strictis quem fulgida telis inter laurigeros aluerunt castra triumphos.
+4	Beda, Vita metrica S. Cuthberti, 94, 0577A (auctor 672-735)
+	Nec iam orbis contenta sinu, trans aequora lampas Spargitur effulgens, huiusque Britannia consors Temporibus genuit fulgur venerabile nostris, Aurea qua Cuthbertus agens per sidera vitam, Scandere celsa suis docuit iam passibus Anglos Hunc virtutis honor iam primo a limine vitae, Aetheriumque decus signis comitatur apertis.
+5	Petrus Blesensis, Epistolae, 207, 0162A (auctor 1135-1212)
+	Cogitabat equidem coniugales amplexus, fructumque posteritatis de carnis operibus exspectabat; nunc autem compellitur, sicut dicit, abiurare matris officium, et a primo limine salutatis deliciis vitae et desiderabilibus huius mundi, se deplorat incurrere perpetuae sterilitatis opprobrium.
+6	Petrus Blesensis, Epistolae, 207, 0389C (auctor 1135-1212)
+	Gratias autem ago Deo, quia, sicut ex quorumdam relatione audivi, delicta iuventutis tuae, et honoris ambitiosi nundinas, a primo vitae maturioris limine salutasti, longique temporis iacturam fructuoso poenitentiae compendio redemisti.
