@@ -1238,41 +1238,84 @@ sale respersisset.
 </p>
 <p>
 Cibi uinique 
-\edtext{moderatissimi}{\Afootnote{moderatissimus \textit{ve}}}, 
+<app>
+<lem>moderatissimi</lem>
+<rdg wit="#ve">moderatissimus</rdg>
+</app>, 
 somnolentiae nullius, immo uero peruigil et qui multis quotidie horis auroram solitus esset praeoccupare; 
 quod totum tempus usque ad solis exortum 
-\edtext{grauioribus}{\Afootnote{grouioribus \textit{P}}} 
+<app>
+<lem>grauioribus</lem>
+<rdg wit="#P">grouioribus</rdg>
+</app> 
 reipublicae cogitationibus impendere consueuerat, 
 quae 
-\edtext{tales}{\Afootnote{quales \textit{m}}} 
+<app>
+<lem>tales</lem>
+<rdg wit="#m">quales</rdg>
+</app> 
 menti eius assidue obuersabantur quales mortalium animis uix illabi posse putares. 
 In cognatos 
-\edtext{ac}{\Afootnote{et \textit{m}}} 
+<app>
+<lem>ac</lem>
+<rdg wit="#m">et</rdg>
+</app> 
 necessarios nequaquam prodigus, immo uero maxime parcus, 
 excepto hoc piissimo fratre comite Hieronymo; 
 quem quoniam ab inclito duce 
-\edtext{Mediolani}{\Afootnote{Mediolanensi \textit{m}}} 
-\edtext{connubio}{\Afootnote{connubia \textit{Gd P m}}} 
+<app>
+<lem>Mediolani</lem>
+<rdg wit="#m">Mediolanensi</rdg>
+</app> 
+<app>
+<lem>connubio</lem>
+<rdg wit="#Gd #P #m">connubia</rdg>
+</app> 
 filiae dignatum 
-\edtext{cernebat}{\Afootnote{retinebat \textit{va}}}, 
+<app>
+<lem>cernebat</lem>
+<rdg wit="#va">retinebat</rdg>
+</app>, 
 uoluit 
-\edtext{fraterna}{\Afootnote{frater ita \textit{va}}} 
+<app>
+<lem>fraterna</lem>
+<rdg wit="#va">frater ita</rdg>
+</app> 
 munificentia illustrare. 
-Qua in re tale temperamentum adhibuit ut id cum ingenti honore ac laude sedis \edtext{apostolicae}{\Afootnote{appostolice \textit{C Gd}}} 
+Qua in re tale temperamentum adhibuit ut id cum ingenti honore ac laude sedis <app>
+<lem>apostolicae</lem>
+<rdg wit="#C #Gd">appostolice</rdg>
+</app> 
 contingeret. 
 Vrbem 
-\edtext{enim}{\Afootnote{\textit{om. va}}} 
+<app>
+<lem>enim</lem>
+<rdg wit="#va"></rdg>
+</app> 
 Imolam, quae iam praefecti eius culpa ad alios 
-\edtext{deuenerat}{\Afootnote{deuenetra \textit{R}}}, 
-quadraginta milibus ducatorum de propriis facultatibus redemptam \edtext{imperio}{\Afootnote{\textit{om. R}}} 
+<app>
+<lem>deuenerat</lem>
+<rdg wit="#R">deuenetra</rdg>
+</app>, 
+quadraginta milibus ducatorum de propriis facultatibus redemptam 
+<app>
+<lem>imperio</lem>
+<rdg wit="#R"></rdg>
+</app> 
 ecclesiae restituit. 
 Cuius exaugendi tanto flagrabat studio 
 ut ne 
-\edtext{minimam}{\Afootnote{nimiam \textit{Ge}}} 
+<app>
+<lem>minimam</lem>
+<rdg wit="#Ge">nimiam</rdg>
+</app> 
 quidem eius particulam deperire pateretur. 
-\edtext{Vnde}{\Afootnote{Vade \textit{Ge o}}} 
+<app>
+<lem>Vnde</lem>
+<rdg wit="#Ge #o">Vade</rdg>
+</app> 
 urbem illam magis ecclesiae quam fratris gratia uoluit 
-\edtext{uendicare}{\Afootnote{\textit{sic omnes libri et codices}}}.
+<sic>uendicare</sic>.
 </p>
 <p>
 Porro iustitiam ipsius ex illo spectare licet 
