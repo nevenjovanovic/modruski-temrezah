@@ -1033,33 +1033,94 @@ bene meritos officiosum esse.
 <p>
 Vbi nunc sunt 
 rubiginosa illa 
-\edtext{maliuolorum}{\Afootnote{\textit{sic omnes libri et codices}}} pectora, 
-         ubi sunt dirissimo felle manantia praecordia, ubi rabidorum 
-canum pestiferi dentes, 
+<sic>maliuolorum</sic> 
+pectora, 
+ubi sunt dirissimo felle manantia praecordia, 
+ubi rabidorum canum pestiferi dentes, 
 qui inexpiabili temeritate ausi sunt 
 \edtext{os suum in caelo ponere}{\lemma{os\dots\ ponere}\Bfootnote{\textit{Cf. Ps 72 (73), 9:} Posuerunt in caelum os suum, et lingua eorum transivit in terra}} 
-         et uicarii Christi fratrumque eius, 
-         tam excellentissimorum patrum, 
-         factum \edtext{damnare}{\Afootnote{dampnare \textit{pa}}}, 
-         atque illos praestantissimos uiros, 
-         qui prius a \edtext{domino}{\Afootnote{donimo \textit{R}}} electi sunt, 
-\edtext{a quo sunt omnium regnorum potestates}{\lemma{a quo\dots\ potestates}\Bfootnote{\textit{Cf. Rom 13, 1:} non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt}\Bendnote{\textit{Greg. Liber sacramentorum, 78, 0205D:} Domine sancte, Pater omnipotens, aeterne Deus: sub cuius potestatis arbitrio omnium regnorum continetur potestas; \textit{Innocentius II (m. 1143), Epistolae et privilegia, 179, 0303B:} Rex regum et Dominus dominantium, in cuius manu sunt omnium potestates et omnia iura regnorum, ex incomprehensibili supernae providentiae dispensatione, quando vult, mutat tempora et transfert regna; \textit{Coelestinus III (c. 1106–1198), Epistolae et privilegia, 206, 1090A:} ad eum vias tuas ex toto dirigere, in cuius ditione sunt omnium potestates et iura regnorum, per quem reges regnant, dominantur principes, qui regibus dat salutem et imperatores via regia incedere, quos facit feliciter imperare; \textit{Iohannes Porta de Annoniaco (fl. c. 1350), Liber de coronatione Karoli IV imperatoris, 5, 29; 16:} ex quibus prefatum negotium sive causa tamquam maxima domino pape, patri patrum, noscitur reservata, in cuius manu sunt omnes potestates et omnia iura regnorum, quia in manu eius sunt omnes fines terre, et altitudines montium ipsius sunt}}, 
-quam a summo pontifice declarati, perditissima audacia lacerare? \edtext{Caue, caue}{\Afootnote{\textit{alterum} caue \textit{om. Ge C Gd va o}}} tibi, lingua dolosa, ne 
-\edtext{Deus \edtext{destruat}{\Afootnote{destruet \textit{pa}}} te in finem, \edtext{euellet}{\Afootnote{\textit{corr. scriba ipse in} euellat \textit{ve}}} te, et emigret te de tabernaculo tuo, et radicem tuam de terra uiuentium}{\lemma{Deus\dots\ uiuentium}\Bfootnote{\textit{Cf. Ps 52, 5 (51, 7)}: sed Deus destruet te in sempiternum terrebit et euellet te de tabernaculo et eradicabit te de terra uiuentium semper \textit{(in versione antiqua:} Deus destruet te in finem, euellat te, et emigret te de tabernaculo suo, et radicem tuam de terra uiuentium)}}! 
-Sed haec illi \edtext{uiderunt}{\Afootnote{uiderint \textit{ve}}} 
-qui \edtext{fecerunt linguam suam nouaculam acutam}{\lemma{fecerunt\dots\ acutam}\Bfootnote{\textit{Cf. Ps 52, 2 (51, 4):} insidias cogitat lingua tua quasi nouacula acuta faciens dolum}} et \edtext{sedentes aduersus fratrem suum \edtext{tota}{\Afootnote{\textit{om. va}}} die concinnabant dolos}{\lemma{sedentes\dots\ concinnabant dolos}\Bfootnote{\textit{Cf. Ps 49, 19-20:} Os tuum abundavit malitia, et lingua tua concinnabat dolos. Sedens adversus fratrem tuum loquebaris}\Bendnote{\textit{Ambr. Expositio in psalmum David CXVIII, 15, 1389B:} Os tuum abundavit nequitia, et lingua tua concinnabat dolos. Sedens adversus fratrem tuum detrahebas; \textit{Arnobius iunior (fl. 460), Commentarii in Psalmos, 53, 0398D:} Sicut novacula acuta faciens dolum, tanto acumine concinnas dolos}}. Sed haec illi uiderunt; nos interea reliquas Petri uirtutes, \edtext{non quibus debemus, sed quibus possumus}{\Bendnote{\textit{Rhet. Her. 4, 4:} Non enim, cum dicimus esse exornationem (\dots) et sumimus hoc exemplum a Crasso: ``quibus possumus et debemus'' testimonium conlocamus, sed exemplum. \textit{Cic. Paradoxa stoicorum Paradoxon 5:} `Quibus et possumus et debemus.' Nos vero, siquidem animo excelso et alto et virtutibus exaggerato sumus, nec debemus nec possumus; tu posse te dicito, quoniam quidem potes, debere ne dixeris, quoniam nihil quisquam debet, nisi quod est turpe non reddere.}}, laudibus \edtext{prosequamur}{\Afootnote{p-sequamur \textit{V C P}}}.
+et uicarii Christi fratrumque eius, 
+tam excellentissimorum patrum, 
+factum 
+<app>
+<lem>damnare</lem>
+<rdg wit="#pa">dampnare</rdg>
+</app>, 
+atque illos praestantissimos uiros, 
+qui prius a 
+<app>
+<lem>domino</lem>
+<rdg wit="#R">donimo</rdg>
+</app>  
+electi sunt, 
+\edtext{a quo sunt omnium regnorum potestates}{\lemma{a quo\dots\ potestates}\Bfootnote{\textit{Cf. Rom 13, 1:} non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt}, 
+quam a summo pontifice declarati, 
+perditissima audacia lacerare? 
+<app>
+<lem>Caue,</lem>
+<rdg wit="#Ge #C #Gd #va #o"></rdg>
+</app>  
+caue tibi, lingua dolosa, ne Deus
+<app>
+<lem>destruat</lem>
+<rdg wit="#pa">destruet</rdg>
+</app>  
+te in finem, 
+<app>
+<lem>euellet</lem>
+<rdg wit="#ve1">euellet</rdg>
+<rdg wit="#ve1">euellat</rdg>
+</app>  
+te, et emigret te de tabernaculo tuo, et radicem tuam de terra uiuentium}{\lemma{Deus\dots\ uiuentium}\Bfootnote{\textit{Cf. Ps 52, 5 (51, 7)}: sed Deus destruet te in sempiternum terrebit et euellet te de tabernaculo et eradicabit te de terra uiuentium semper \textit{(in versione antiqua:} Deus destruet te in finem, euellat te, et emigret te de tabernaculo suo, et radicem tuam de terra uiuentium)}}! 
+Sed haec illi 
+<app>
+<lem>uiderunt</lem>
+<rdg wit="#ve">uiderint</rdg>
+</app>  
+qui 
+\edtext{fecerunt linguam suam nouaculam acutam}{\lemma{fecerunt\dots\ acutam}\Bfootnote{\textit{Cf. Ps 52, 2 (51, 4):} insidias cogitat lingua tua quasi nouacula acuta faciens dolum}} 
+et 
+\edtext{sedentes aduersus fratrem suum 
+<app>
+<lem>tota</lem>
+<rdg wit="#va"></rdg>
+</app>   
+die concinnabant dolos}{\lemma{sedentes\dots\ concinnabant dolos}\Bfootnote{\textit{Cf. Ps 49, 19-20:} Os tuum abundavit malitia, et lingua tua concinnabat dolos. Sedens adversus fratrem tuum loquebaris}}. 
+Sed haec illi uiderunt; 
+nos interea reliquas Petri uirtutes, 
+non quibus debemus, sed quibus possumus, laudibus 
+<app>
+<lem>prosequamur</lem>
+<rdg wit="#V #C #P">p-sequamur</rdg>
+</app>.
          </p>
 <p>
 Itaque, ut propositus ordo postulat, nunc ipsius prudentiam contemplemur, 
 quamuis eius excellentia iam per ea, quae narrauimus, 
 magna ex parte potuit esse manifesta. 
 Quamobrem tantum eam 
-\edtext{partem}{\Afootnote{patrem \textit{Ge}}} 
-\edtext{attingam}{\Afootnote{attingat \textit{C}}} qua ita 
-\edtext{sese}{\Afootnote{se se \textit{co}}} 
+<app>
+<lem>partem</lem>
+<rdg wit="#Ge">patrem</rdg>
+</app>  
+<app>
+<lem>attingam</lem>
+<rdg wit="#C">attingat</rdg>
+</app>  
+   qua ita 
+<app>
+<lem>sese</lem>
+<rdg wit="#co">se se</rdg>
+</app>  
 inter principes Christianos gessit ut, cum unius erga 
-\edtext{eum}{\Afootnote{\textit{om. R}}} 
-\edtext{beniuolentiam}{\Afootnote{\textit{sic omnes libri et codices praeter} beneuolentiam \textit{co}}} 
+<app>
+<lem>eum</lem>
+<rdg wit="#R"></rdg>
+</app>  
+<app>
+<lem><sic>beniuolentiam</sic></lem>
+<rdg wit="#co">beneuolentiam</rdg>
+</app>  
 consideres, 
 credas ab aliis minime dilectum. 
 \edtext{Lex quippe amicitiae ita habet ut amicos inimicorum minime diligamus}{\lemma{Lex\dots\ diligamus}\Bfootnote{\textit{Cf. Aug.  Sermones de Scripturis, 49, 6, 6:} Incipiunt esse de tribus amicis duo inter se inimici, quid faciat medius qui remansit? Vult, exigit, flagitat a te ut oderis cum illo quem odisse coepit, et haec verba tibi dicit: Non es amicus meus, quia es amicus inimici mei.}}; 
@@ -1068,42 +1129,209 @@ nec ullus esset qui eius amicitiam ultro non expeteret,
 et adeptam studiis omnibus non coleret atque foueret. 
 Ostendit id nouissima haec ipsius legatio, 
 in qua 
-\edtext{omnes}{\Afootnote{habes \textit{o}}} 
+<app>
+<lem>omnes</lem>
+<rdg wit="#o">habes</rdg>
+</app>  
 Italiae populi singulique ipsorum principes summis decertarunt studiis quisnam eum amplioribus honoribus exciperet et prosequeretur, 
 illeque se uicisse putabat qui plurima in eum ornamenta contulisset. 
 In quibus acceptandis 
-\edtext{adeo}{\Afootnote{a Deo \textit{R}}} 
+<app>
+<lem>adeo</lem>
+<rdg wit="#R">a Deo</rdg>
+</app>  
 prudens temperamentum inibat ut, cum omnium communis esset amicus, singuli tamen sibi eum 
-\edtext{uendicasse}{\Afootnote{\textit{sic omnes libri et codices}}} 
+<sic>uendicasse</sic>
 putabant. 
 Vnde sua illi negotia credebant et rerum omnium summam fidei ipsius ultro committebant. 
 Fallebat neminem et, communem rem gerendo, singulorum tamen uidebatur aduocatus. 
 </p>
 <p>
-Secedebat bis terque per diem in cubiculum aut in aliquem secretiorem locum, in quo ad multam horam \edtext{deambulando}{\Afootnote{deamulando \textit{pa}}} summas reipublicae Christianae rationes tacitus secum computabat; totas enim \edtext{animi}{\Afootnote{anni \textit{ve}}} uires, postquam a legatione redierat, in pacem Italiae et perfidi hostis \edtext{Christiani}{\Afootnote{Christiane \textit{pa}}} \edtext{exitum}{\Afootnote{\textit{Ge R C Gd P m va o pa;} exitium \textit{V ve co}}} intenderat; id unum \edtext{moliebatur}{\Afootnote{muliebatur \textit{V P}}}, id parabat, illuc omnia sua studia conuerterat, fecissetque uotis satis \edtext{ni}{\Afootnote{in \textit{Ge}}} eum nobis haec dira atque crudelis mors tam repente praeripuisset. Vincebat ingenio humana consilia et tantum grauioribus reipublicae curis natus \edtext{uidebatur}{\Afootnote{\textit{om. R}}}; haec erat praecipua eius 
-\edtext{uoluptas}{\Afootnote{uoluntas \textit{co}}} 
-a qua nullis aliis oblectamentis poterat diuelli; huius delectabatur gustu, huius solius escis pascebatur. Omnium saluti die noctuque inseruiebat, et tamen a nonnullis negligentiae \edtext{accusabatur}{\Afootnote{accusabantur \textit{Gd P}}}; quin tamquam \edtext{superbum \edtext{difficilemque}{\Afootnote{difficlemque \textit{V}}}} 
+Secedebat bis terque per diem in cubiculum aut in aliquem secretiorem locum, in quo ad multam horam <app>
+<lem>deambulando</lem>
+<rdg wit="#pa">deamulando</rdg>
+</app>  
+summas reipublicae Christianae rationes tacitus secum computabat; totas enim 
+<app>
+<lem>animi</lem>
+<rdg wit="#ve">anni</rdg>
+</app>
+uires, postquam a legatione redierat, in pacem Italiae et perfidi hostis 
+<app>
+<lem>Christiani</lem>
+<rdg wit="#pa">Christiane</rdg>
+</app>  
+<app>
+<lem>exitum</lem>
+<rdg wit="#V #ve #co">exitium</rdg>
+</app>  
+intenderat; id unum 
+<app>
+<lem>moliebatur</lem>
+<rdg wit="#V #P">muliebatur</rdg>
+</app>, 
+id parabat, illuc omnia sua studia conuerterat, fecissetque uotis satis 
+<app>
+<lem>ni</lem>
+<rdg wit="#Ge">in</rdg>
+</app>  
+eum nobis haec dira atque crudelis mors tam repente praeripuisset. 
+Vincebat ingenio humana consilia et tantum grauioribus reipublicae curis natus <app>
+<lem>uidebatur</lem>
+<rdg wit="#R"></rdg>
+</app>; 
+haec erat praecipua eius 
+<app>
+<lem>uoluptas</lem>
+<rdg wit="#co">uoluntas</rdg>
+</app>  
+a qua nullis aliis oblectamentis poterat diuelli; 
+huius delectabatur gustu, huius solius escis pascebatur. 
+Omnium saluti die noctuque inseruiebat, 
+et tamen a nonnullis negligentiae 
+<app>
+<lem>accusabatur</lem>
+<rdg wit="#Gd #P">accusabantur</rdg>
+</app>; 
+quin tamquam 
+superbum 
+<app>
+<lem>difficilemque</lem>
+<rdg wit="#V">difficlemque</rdg>
+</app>  
 ingrati criminabantur, 
 cum tamen et mitissimus esset et 
-\edtext{facillimus}{\Afootnote{facillissimus \textit{va}}}. 
+<app>
+<lem>facillimus</lem>
+<rdg wit="#va">facillissimus</rdg>
+</app>. 
 Nouit hoc tantus domesticorum eius numerus, 
 norunt amici et alii omnes, 
 qui eius familiaritate usi fuerunt, 
 quibus semper, 
 cum per publicas licuisset curas, 
 placidum 
-\edtext{sese}{\Afootnote{se se \textit{co}}} exhibebat, 
+<app>
+<lem>sese</lem>
+<rdg wit="#co">se se</rdg>
+</app>  
+exhibebat, 
 affabilem, comem, benignum, ut socium crederes, non dominum.
 </p>
 <p>
-         Tanta uero animi moderatione erat ut irasceretur perraro, iratus autem \edtext{extemplo}{\Afootnote{exemplo \textit{Ge C P m o}}} \edtext{animum ad tranquillitatem reuocaret}{\Bendnote{\textit{Lactant. Divin. instit. 6, 6, 0702C:} Haec perturbatum ac fluctuantem animum ad tranquillitatem suam revocat: haec mitigat, haec hominem sibi reddit; \textit{Petrus Blesensis (1135-1212), Sermones, 207, 0575C:} Puer Iesus raro irascitur; iratus vero de levi placatur}}. \edtext{De nullo obloquebatur, detrahebat nemini}{\Bendnote{\textit{Hilarius Pictaviensis, Tractatus super psalmos, 9, 0476D:} Ipsi enim qui in portis orandi victus causa sedeant, obloquuntur et detrahunt: et in eo ebrii psallunt; \textit{Cassiod. Expositio in Psalterium, 70, 0046A:} detrahentium verba mordacia, qui potestati divinae nefandis dogmatibus obloquuntur; \textit{Thomas Aquinas, Summa theologiae, II-II, 73, 2; 20:} Unde ille, per se loquendo, detrahit qui ad hoc de aliquo obloquitur, eo absente, ut eius famam denigret}}, et, nisi familiarium suorum, aliorum \edtext{uitae minime erat curiosus}{\Bendnote{\textit{Aug. de civ. Dei 41, 0306:} ut talium quoque rerum quasi peritus appareas, et placeas illicitarum artium curiosis, vel ad eas facias ipse curiosos; \textit{Isid. Synonyma de lamentatione animae peccatricis, 83, 0857B:} Noli quaerere quid quisque dicat vel faciat; devita curiositatem, omitte curas alienae vitae, omitte curam quae ad causam tuam non pertinet; \textit{Ivo Carnotensis (c. 1040–1115), Epistolae, 162, 0126D:} Tanto minus itaque iste alienae vitae curiosus inspector et suae desidiosus corrector audiendus est; \textit{Thomas Aquinas (1225-1274), Catena aurea, in Lc., 21, 8; 16:} Curiositas autem huius vitae quamvis nihil inhibitorum continere videatur, si tamen ad cultum divinum non coadiuvet, vitanda est}}. Maximum eius conuicium putabatur si quem, quod tamen parcissime fiebat, per iocum aliquo \edtext{\edtext{urbanitatis}{\Afootnote{urbanitate \textit{pa}}} sale respersisset}{\Bendnote{\textit{Cic. de or. 1, 137, 159; 22:} libandus est etiam ex omni genere urbanitatis facetiarum quidam lepos, quo tamquam sale perspergatur omnis oratio; \textit{Cic. de or. 2, 182, 231; 124:} explicare nobis totum genus hoc iocandi quale sit et unde ducatur; praesertim cum tantam vim et utilitatem salis et urbanitatis esse fateatur; \textit{Alcuinus (730-804), Epistolae, 100, 0260A:} quidquid urbanitatis sale conditum cognoscitur, vestris intellectualibus auribus favorabile; \textit{Ruricius (c. 435 - c. 510), Epistulae [CSEL], 1, 4; 1:} Recepi apices unianimitatis tuae tam gratia quam eloquentia, tam amore pariter quam lepore, tam sale quam melle respersas, in quibus nec dulcedini deesset aliquid nec sapori; \textit{Flodoardus Remensis (894–966), Historia ecclesiae Remensis, 135, 0279C:} diversa reperitur direxisse scripta, pio sale respersa, et divinis auctoritatibus referta; \textit{Petrus Cellensis (c. 1115-1183), Epistolae, 202, 0605D:} Nihil fetidum, nihil foedum, nihil emortuum vivus ille sermo tuus, nitidus, et sale sufficienter respersus continet; \textit{Francesco Petrarca (1304-1374), Epistole familiares, 1, 10; 6:} haud absimilis est seni plautino, cuius mores atque animum mordaci sale respergens, servus ille in Aulularia\dots}}.
-         </p>
+Tanta uero animi moderatione erat ut irasceretur perraro, iratus autem <app>
+<lem>extemplo</lem>
+<rdg wit="#Ge #C #P #m #o">exemplo</rdg>
+</app>   
+animum ad tranquillitatem reuocaret. 
+De nullo obloquebatur, detrahebat nemini, 
+et, nisi familiarium suorum, aliorum 
+uitae minime erat curiosus. 
+Maximum eius conuicium putabatur si quem, 
+quod tamen parcissime fiebat, 
+per iocum aliquo 
+<app>
+<lem>urbanitatis</lem>
+<rdg wit="#pa">urbanitate</rdg>
+</app>   
+sale respersisset.
+</p>
 <p>
-         Cibi uinique \edtext{moderatissimi}{\Afootnote{moderatissimus \textit{ve}}}, somnolentiae nullius, immo uero peruigil et qui multis quotidie horis auroram solitus esset praeoccupare; quod totum tempus usque ad solis exortum \edtext{grauioribus}{\Afootnote{grouioribus \textit{P}}} reipublicae cogitationibus impendere consueuerat, quae \edtext{tales}{\Afootnote{quales \textit{m}}} menti eius assidue obuersabantur quales mortalium animis uix illabi posse putares. In cognatos \edtext{ac}{\Afootnote{et \textit{m}}} necessarios nequaquam prodigus, immo uero maxime parcus, excepto hoc piissimo fratre comite Hieronymo; quem quoniam ab inclito duce \edtext{Mediolani}{\Afootnote{Mediolanensi \textit{m}}} \edtext{connubio}{\Afootnote{connubia \textit{Gd P m}}} filiae dignatum \edtext{cernebat}{\Afootnote{retinebat \textit{va}}}, uoluit \edtext{fraterna}{\Afootnote{frater ita \textit{va}}} munificentia illustrare. Qua in re tale temperamentum adhibuit ut id cum ingenti honore ac laude sedis \edtext{apostolicae}{\Afootnote{appostolice \textit{C Gd}}} contingeret. Vrbem \edtext{enim}{\Afootnote{\textit{om. va}}} Imolam, quae iam praefecti eius culpa ad alios \edtext{deuenerat}{\Afootnote{deuenetra \textit{R}}}, quadraginta milibus ducatorum de propriis facultatibus redemptam \edtext{imperio}{\Afootnote{\textit{om. R}}} ecclesiae restituit. Cuius exaugendi tanto flagrabat studio ut ne \edtext{minimam}{\Afootnote{nimiam \textit{Ge}}} quidem eius particulam deperire pateretur. \edtext{Vnde}{\Afootnote{Vade \textit{Ge o}}} urbem illam magis ecclesiae quam fratris gratia uoluit \edtext{uendicare}{\Afootnote{\textit{sic omnes libri et codices}}}.
-         </p>
+Cibi uinique 
+\edtext{moderatissimi}{\Afootnote{moderatissimus \textit{ve}}}, 
+somnolentiae nullius, immo uero peruigil et qui multis quotidie horis auroram solitus esset praeoccupare; 
+quod totum tempus usque ad solis exortum 
+\edtext{grauioribus}{\Afootnote{grouioribus \textit{P}}} 
+reipublicae cogitationibus impendere consueuerat, 
+quae 
+\edtext{tales}{\Afootnote{quales \textit{m}}} 
+menti eius assidue obuersabantur quales mortalium animis uix illabi posse putares. 
+In cognatos 
+\edtext{ac}{\Afootnote{et \textit{m}}} 
+necessarios nequaquam prodigus, immo uero maxime parcus, 
+excepto hoc piissimo fratre comite Hieronymo; 
+quem quoniam ab inclito duce 
+\edtext{Mediolani}{\Afootnote{Mediolanensi \textit{m}}} 
+\edtext{connubio}{\Afootnote{connubia \textit{Gd P m}}} 
+filiae dignatum 
+\edtext{cernebat}{\Afootnote{retinebat \textit{va}}}, 
+uoluit 
+\edtext{fraterna}{\Afootnote{frater ita \textit{va}}} 
+munificentia illustrare. 
+Qua in re tale temperamentum adhibuit ut id cum ingenti honore ac laude sedis \edtext{apostolicae}{\Afootnote{appostolice \textit{C Gd}}} 
+contingeret. 
+Vrbem 
+\edtext{enim}{\Afootnote{\textit{om. va}}} 
+Imolam, quae iam praefecti eius culpa ad alios 
+\edtext{deuenerat}{\Afootnote{deuenetra \textit{R}}}, 
+quadraginta milibus ducatorum de propriis facultatibus redemptam \edtext{imperio}{\Afootnote{\textit{om. R}}} 
+ecclesiae restituit. 
+Cuius exaugendi tanto flagrabat studio 
+ut ne 
+\edtext{minimam}{\Afootnote{nimiam \textit{Ge}}} 
+quidem eius particulam deperire pateretur. 
+\edtext{Vnde}{\Afootnote{Vade \textit{Ge o}}} 
+urbem illam magis ecclesiae quam fratris gratia uoluit 
+\edtext{uendicare}{\Afootnote{\textit{sic omnes libri et codices}}}.
+</p>
 <p>
-         Porro iustitiam ipsius ex illo spectare licet quod in tanta \edtext{rerum}{\Afootnote{rerum rerum \textit{va}}} potestate constitutus nemini uim attulit, nullum uiolenter oppressit. Vnde et uicario illi Imolae, quamuis de ecclesia male merito, non solum uictum, sed nihil prioribus minores fortunas dari curauit. Quattuordecim \edtext{enim}{\Afootnote{\textit{om. pa}}} milia ducatorum accepit \edtext{et}{\Afootnote{ec \textit{V;} hec \textit{P m}}} \edtext{opulentissimum}{\Afootnote{opulenlentissimum \textit{C}}} oppidum Bosti, ex quo et aliis a duce adiectis praediis plus quam quinque milia ducatorum quotannis capere poterit, neque Imolam nisi eo uolente redimere uoluit. Magistratus hortabatur ius suum absque ullo respectu cuique administrare. Et licet \edtext{nonnumquam}{\Afootnote{nonniquam \textit{co}}}, domesticorum amicorumque \edtext{euictus}{\Afootnote{euectus \textit{pa}}} precibus, aut litteris aut nuntiis multos iudicibus commendaret, id tamen \edtext{citra}{\Afootnote{circa \textit{V Gd P;} circa al. citra \textit{m}}} \edtext{cuiusque}{\Afootnote{cuiusq-m \textit{Gd}}} iniuriam fieri uolebat. Vnde et cum \edtext{a}{\Afootnote{o \textit{P}}} gubernatore Vrbis aliquando interrogaretur quidnam de illis \edtext{fieri uellet}{\Afootnote{\textit{om. V Gd P m ve pa co}}} qui \edtext{iniustam}{\Afootnote{in iustam \textit{P}}} causam fouentes tamen ipsius nomine commendabantur, ``Illud'' inquit ``ut iustitiam mearum precum gratia minime \edtext{uioles}{\Afootnote{uiolet \textit{P m}}}, nec secus feceris etiam si te germanus meus \edtext{Hieronymus}{\Afootnote{Hironimus \textit{P}}} nomine meo aliud precabitur''.  Hoc ipsum et senatori Vrbis \edtext{interrogatus respondit}{\Afootnote{respondit interrogatus \textit{va}}}, hoc gubernatoribus, hoc praefectis, hoc omnibus legationis suae iudicibus saepe mandabat.  Dicebat enim se amicis operam suam rogantibus negare non posse, sed illius causa non nisi iustum honestumque fieri permaxime uelle.  \edtext{Hinc}{\Afootnote{Hic \textit{C}}} et rescripta non nisi \edtext{sanctissima}{\Afootnote{sanctassima \textit{pa}}} faciebat \edtext{atque}{\Afootnote{adque \textit{P}}}, ne cui ministrorum peccandi daretur occasio, omnium decretorum suorum, similiter et litterarum, exemplaria apud notarios extare iusserat.  Huius praeclarissimae uirtutis nec moriens obliuisci potuit; nam, cum hortaretur ab amicis testamentum condere, ``Nihil'', inquit, ``meum habeo; omnia sunt ecclesiae. Supplicabitis tamen meo nomine summo pontifici ut aes alienum, cuius maiorem partem pro \edtext{redimendis}{\Afootnote{\textit{om. R}}} ecclesiae rebus contraxi, pro sua benignitate dissoluat.''
-         </p>
+Porro iustitiam ipsius ex illo spectare licet 
+quod in tanta 
+\edtext{rerum}{\Afootnote{rerum rerum \textit{va}}} 
+potestate constitutus nemini uim attulit, nullum uiolenter oppressit. 
+Vnde et uicario illi Imolae, 
+quamuis de ecclesia male merito, 
+non solum uictum, sed nihil prioribus minores fortunas dari curauit. 
+Quattuordecim 
+\edtext{enim}{\Afootnote{\textit{om. pa}}} 
+milia ducatorum accepit 
+\edtext{et}{\Afootnote{ec \textit{V;} hec \textit{P m}}} 
+\edtext{opulentissimum}{\Afootnote{opulenlentissimum \textit{C}}} 
+oppidum Bosti, 
+ex quo et aliis a duce adiectis praediis plus quam quinque milia ducatorum quotannis capere poterit, 
+neque Imolam nisi eo uolente redimere uoluit. 
+Magistratus hortabatur ius suum absque ullo respectu cuique administrare. 
+Et licet 
+\edtext{nonnumquam}{\Afootnote{nonniquam \textit{co}}}, 
+domesticorum amicorumque 
+\edtext{euictus}{\Afootnote{euectus \textit{pa}}} 
+precibus, aut litteris aut nuntiis multos iudicibus commendaret, id tamen 
+\edtext{citra}{\Afootnote{circa \textit{V Gd P;} circa al. citra \textit{m}}} 
+\edtext{cuiusque}{\Afootnote{cuiusq-m \textit{Gd}}} 
+iniuriam fieri uolebat. 
+Vnde et cum 
+\edtext{a}{\Afootnote{o \textit{P}}} 
+gubernatore Vrbis aliquando interrogaretur quidnam de illis 
+\edtext{fieri uellet}{\Afootnote{\textit{om. V Gd P m ve pa co}}} 
+qui 
+\edtext{iniustam}{\Afootnote{in iustam \textit{P}}} 
+causam fouentes tamen ipsius nomine commendabantur, 
+``Illud'' inquit ``ut iustitiam mearum precum gratia minime 
+\edtext{uioles}{\Afootnote{uiolet \textit{P m}}}, 
+nec secus feceris etiam si te germanus meus 
+\edtext{Hieronymus}{\Afootnote{Hironimus \textit{P}}} 
+nomine meo aliud precabitur''.  
+Hoc ipsum et senatori Vrbis 
+\edtext{interrogatus respondit}{\Afootnote{respondit interrogatus \textit{va}}}, 
+hoc gubernatoribus, 
+hoc praefectis, 
+hoc omnibus legationis suae iudicibus saepe mandabat.  
+Dicebat enim se amicis operam suam rogantibus negare non posse, 
+sed illius causa non nisi iustum honestumque fieri permaxime uelle.  
+\edtext{Hinc}{\Afootnote{Hic \textit{C}}} 
+et rescripta non nisi 
+\edtext{sanctissima}{\Afootnote{sanctassima \textit{pa}}} 
+faciebat 
+\edtext{atque}{\Afootnote{adque \textit{P}}}, 
+ne cui ministrorum peccandi daretur occasio, omnium decretorum suorum, similiter et litterarum, exemplaria apud notarios extare iusserat.  
+Huius praeclarissimae uirtutis nec moriens obliuisci potuit; 
+nam, cum hortaretur ab amicis testamentum condere, 
+``Nihil'', inquit, ``meum habeo; omnia sunt ecclesiae. 
+Supplicabitis tamen meo nomine summo pontifici ut aes alienum, cuius maiorem partem pro 
+\edtext{redimendis}{\Afootnote{\textit{om. R}}} 
+ecclesiae rebus contraxi, 
+pro sua benignitate dissoluat.''
+</p>
 <p>
          Cogor hoc loco potissimas eius \edtext{praetermittere}{\Afootnote{premittere \textit{m}}} laudes, \edtext{cum}{\Afootnote{\textit{om. R}}} temporis exclusus angustia, \edtext{tum}{\Afootnote{t-n \textit{Gd}}} \edtext{ipsarum}{\Afootnote{ipsa \textit{co}}} rerum multitudine superatus.  Qualem se erga amicos, \edtext{qualem}{\Afootnote{qualem se \textit{m}}} erga parentes, et praesertim qualem erga ipsum summum pontificem gesserit, malo haec \edtext{omnia}{\Afootnote{omnis \textit{P}}} in aliud tempus differre quam adeo felicem meritorum ipsius copiam pauca dicendo uitiare.  Illud unum dicam, cunctis, qui eius consuetudinem nouerunt, attestantibus, nullum fuisse tam piissimum filium, nullum adeo parenti deditum, aut cui maior et salutis et honoris genitoris sui cura fuit, quam huic uni summi pontificis nostri a prima eius familiaritatis die usque ad ultimum uitae exitum; nullos pro eo recusauit subire labores, nulla pericula deuitauit; laborantem, aegrotantem, peregrinantem nunquam deseruit, nunquam ab \edtext{officio}{\Afootnote{offico \textit{P}}} \edtext{decessit}{\Afootnote{discessit \textit{R}}}, semperque, \edtext{ut datus a domino Tobiae angelus}{\Bfootnote{\textit{Cf. Tob 5–12}}}, lateri haesit; aduersa procurauit, accersiuit prospera; pia sedulitate fouit, coluit, ueneratus est, ut nemini mirum uideri debeat si aut uiuentem tantum dilexit aut nunc mortui desiderio adeo moueatur.
          </p>
