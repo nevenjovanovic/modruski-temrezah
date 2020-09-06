@@ -1901,80 +1901,166 @@ Reliquum est quod uos
 supplex deprecor ut mihi, quaecumque in uos deliqui, condonare dignemini.  
 Minus quippe meae iuuentutis potens fui et nonnunquam partim oculos, 
 partim aures uestras in multis offendi.  
-\edtext{Sed eorum tanto facilius me a Domino 
-\edtext{misericordiam}{\Afootnote{misericordiarum \textit{V Ge ve o}}} 
-consecuturum confido quanto uos modestius uiuentes pro me 
-\edtext{Dominum}{\Afootnote{Dominum Deum immortalem \textit{R}}} deprecabimini.}{\lemma{Sed\dots\ deprecabimini}\Afootnote{\textit{totam sententiam om. P m}}}  
-Ego quoque, si quis mortuis erit sensus, idem pro uobis me spondeo facturum.  
-\edtext{
-\edtext{Viuite}{\Afootnote{Uite \textit{P m}}} 
+<app>
+<lem>Sed eorum tanto facilius me a Domino misericordiam 
+consecuturum confido quanto uos modestius uiuentes pro me Dominum deprecabimini.</lem>
+<rdg wit="#V #Ge #ve #o">Sed eorum tanto facilius me a Domino misericordiarum consecuturum confido quanto uos modestius uiuentes pro me Dominum deprecabimini.</rdg>
+<rdg wit="#R">Sed eorum tanto facilius me a Domino misericordiam 
+consecuturum confido quanto uos modestius uiuentes pro me Dominum Deum immortalem deprecabimini.</rdg>
+<rdg wit="#P #m"></rdg>
+</app>  
+Ego quoque, si quis mortuis erit sensus, idem pro uobis me spondeo facturum.
+<app>
+<lem>Viuite</lem>
+<rdg wit="#P">Uite</rdg>
+</app> 
 mei memores et, 
 quam caduca sit huius mundi felicitas, uel meo exemplo 
-\edtext{discite}{\Afootnote{addiscite \textit{C}}}.''
+<app>
+<lem>discite</lem>
+<rdg wit="#C">addiscite</rdg>
+</app>.''
          </p>
 <p>
 His atque aliis huiusmodi plerisque summa cum religione sanctissime monitos singulos 
 flentes eiulantesque 
-\edtext{deosculatus}{\Afootnote{deosculatos \textit{C}}} dimisit.  
+<app>
+<lem>deosculatus</lem>
+<rdg wit="#C">deosculatos</rdg>
+</app> 
+dimisit.  
 Se autem in lectulo componens 
 intentis iugiter in caelum oculis 
 misericordiam peccatorum suorum supplex 
-\edtext{a}{\Afootnote{\textit{om. ve}}} 
+<app>
+<lem>a</lem>
+<rdg wit="#ve"></rdg>
+</app> 
 Domino precabatur.  
-Cumque iam 
-\edtext{nox intempesta medium cursum peregisset}{\Bendnote{
-         \textit{Servius (fl. c. 400), In Vergilii Aeneide comentarii, 3, 587; 2:} nox intempesta media, hoc est nimium obscura; 
-         \textit{Philippus de Harveng (1100-1183), De institutione clericorum, 203, 0972B:} ``Et nox in suo cursu iter medium haberet (Sap. XVIII).'' Hoc intempestae noctis silentio cum somno profundius indulgetur; 
-         \textit{Laurentius Casinensis (m. 1048), Epistole exegeticae, 1; 7:} Per id autem, quod nox peregisset medium cursum metonymice dicitur, omnis mundus, exceptis quibusdam legalibus viris, ignorantiae coopertus fuisse caligine per sermonis elegantiam demonstratur; 
-         \textit{Iacobus Bonus Racusaeus (1469-1534), De vita et gestis Christi, 2.88:} Iam medios cursus nox intempesta tenebat
-         }}, 
-conuersus ad Viterbiensem praesulem ``\edtext{Ecce'', inquit, ``appropinquat \edtext{iam}{\Afootnote{\textit{om. C}}} hora}{\lemma{Ecce\dots\ hora}\Bfootnote{\textit{Cf. Mt 26, 45:} ecce appropinquavit hora}}; 
+Cumque iam nox intempesta medium cursum peregisset, 
+conuersus ad Viterbiensem praesulem ``Ecce'', inquit, ``appropinquat
+<app>
+<lem>iam</lem>
+<rdg wit="#C"></rdg>
+</app> hora}{\lemma{Ecce\dots\ hora}\Bfootnote{\textit{Cf. Mt 26, 45:} ecce appropinquavit hora}}; 
 affer mihi sacrae unctionis oleum.''  
 Quod confestim cubiculo illatum nudato ac sublato, 
 ut poterat, capite religiose ueneratus est, 
 deinde exhibitis manibus ac pedibus rite perunctus; 
 quo 
-\edtext{facto}{\Afootnote{fatto \textit{co}}} 
-\edtext{``Proferte'', inquit}{\Afootnote{inquit: ``Proferte \textit{va}}}, 
+<app>
+<lem>facto</lem>
+<rdg wit="#co">fatto</rdg>
+</app> 
+<app>
+<lem>``Proferte'', inquit</lem>
+<rdg wit="#va">inquit: ``Proferte</rdg>
+</app>, 
 ``sacros codices et aliquid de diuinis 
-\edtext{mysteriis}{\Afootnote{misteriis \textit{omnes libri et codices praeter co}}} 
+<app>
+<lem>mysteriis</lem>
+<rdg wit="#V #Ge #R #C #P #Gd #ve #va #pa #m #o">misteriis</rdg>
+</app> 
 meam Domino animam commendantes 
-\edtext{recitate}{\Afootnote{recitare \textit{C}}}.''  
+<app>
+<lem>recitate</lem>
+<rdg wit="#C">recitare</rdg>
+</app>.''  
 Quibus mox prolatis usque in lucem partim psalmi decantati sunt, partim 
-\edtext{lecta}{\Afootnote{electa \textit{o}}} 
+<app>
+<lem>lecta</lem>
+<rdg wit="#o">electa</rdg>
+</app> 
 euangelia; 
 semperque intentus auribus atque oculis in ea, 
 quae legebantur, etiam deficiente spiritu perstitit, 
 donec lector Dominicae passionis ad illum locum peruenit 
 ubi scriptura inquit ``\edtext{et inclinato 
-\edtext{capite}{\Afootnote{capito \textit{pa}}} 
+<app>
+<lem>capite</lem>
+<rdg wit="#pa">capito</rdg>
+</app> 
 emisit spiritum}{\lemma{et inclinato\dots\ spiritum}\Bfootnote{\textit{Cf. Io 19, 30:} et inclinato capite tradidit spiritum.}}''.  
-\edtext{Ad hanc uocem illa dilecta Deo anima ueluti certo accepto signo ad Dominum suum confestim euolauit}{\lemma{Ad hanc\dots\ confestim euolauit}\Afootnote{\textit{totam sententiam om. Ge C va o}}}.
+<app>
+<lem>Ad hanc uocem illa dilecta Deo anima ueluti certo accepto signo ad Dominum suum confestim euolauit.</lem>
+<rdg wit="#Ge #C #va #o"></rdg>
+</app>
 </p>
 <p>
 O felix atque iterum felix 
 cui et 
-\edtext{uita}{\Afootnote{uitae \textit{pa}}} 
+<app>
+<lem>uita</lem>
+<rdg wit="#pa">uitae</rdg>
+</app> 
 summam dedit gloriam et mors ipsa meritam diuinitatem non denegauit!  
 Non est ergo quod eius casu ingemiscere 
-\edtext{habeamus}{\Afootnote{debeamus \textit{ve}}}, 
+<app>
+<lem>habeamus</lem>
+<rdg wit="#ve">debeamus</rdg>
+</app>, 
 quoniam 
 in paucis annis maximam aetatem compleuit; 
 nec sibi nec gloriae suae parum uixit qui, quaecumque 
 unius hominis fortuna capere potuit, 
-\edtext{abunde}{\Afootnote{habunde \textit{va}}} 
+<app>
+<lem>abunde</lem>
+<rdg wit="#va">habunde</rdg>
+</app> 
 consecutus est.  
 Nobis forsan amplius 
-\edtext{uiuere}{\Afootnote{\textit{om. R ve pa co}}} 
+<app>
+<lem>uiuere</lem>
+<rdg wit="#R #ve #pa #co"></rdg>
+</app> 
 poterat, et nimirum magno 
 et ornamento et utilitati. 
 Sed non est amicorum officium 
-\edtext{sua commoda ex amici \edtext{spectare}{\Afootnote{expectare \textit{va}}} incommodis}{\lemma{sua commoda\dots\ incommodis}\Bfootnote{\textit{Cf. Ter. Andr. 627-628:} ex incommodis alterius sua ut comparent commoda?}}.  
-Quicquid superuixisset, doloribus superuixisset et laboribus; quibus quoniam eum diuina clementia misericorditer subduxit, gratias illi agamus atque dicamus: ``\edtext{Dominus dedit, Dominus abstulit; sicut Domino placuit ita factum est; sit nomen Domini benedictum}{\lemma{Dominus dedit\dots\ benedictum}\Bfootnote{\textit{Iob 1, 21 (Nova Vulgata); quem locum citavit Nicolaus etiam libro De consolatione II, 6, 7}}}.'' 
-\edtext{Amen}{\Afootnote{Amen. Laus Deo. \textit{C;} Amen. Laus Deo. I.~H.~S. \textit{m; in fine quattuor epigrammata addidit ve (quae vide in Praefatione)}}}.
+\edtext{sua commoda ex amici 
+<app>
+<lem>spectare</lem>
+<rdg wit="#va">expectare</rdg>
+</app> incommodis}{\lemma{sua commoda\dots\ incommodis}\Bfootnote{\textit{Cf. Ter. Andr. 627-628:} ex incommodis alterius sua ut comparent commoda?}}.  
+Quicquid superuixisset, doloribus superuixisset et laboribus; 
+quibus quoniam eum diuina clementia misericorditer subduxit, 
+gratias illi agamus atque dicamus: `
+`\edtext{Dominus dedit, Dominus abstulit; sicut Domino placuit ita factum est; sit nomen Domini benedictum}{\lemma{Dominus dedit\dots\ benedictum}\Bfootnote{\textit{Iob 1, 21 (Nova Vulgata); quem locum citavit Nicolaus etiam libro De consolatione II, 6, 7}}}.'' 
+<app>
+<lem>Amen.</lem>
+<rdg wit="#C">Amen. Laus Deo.</rdg><rdg wit="#m">Amen. Laus Deo. I. H. S.</rdg>
+</app>
 </p>
                                     </div>
          </div>
       </body>
+      <back>
+         <app>
+            <lem></lem>
+            <rdg wit="#ve">
+               <div>
+                  <div>
+                     <head>In laudem libelli</head>
+                     <l>Ęloquio uires quantę sint, aspice, lector</l>
+                     <l>Quem prius odisti, protinus hunc peramas.</l>
+                  </div>
+                  <div>
+                     <head><sic>Epithaphion</sic></head>
+                     <l>Nemo magis docuit perituri temnere sęcli</l>
+                     <l>Diuitias, fastum, luxuriemque simul.</l>
+                  </div>
+                  <div>
+                     <head>Aliud.</head>
+                     <l>Quam celeris fugiat ruituri gloria mundi</l>
+                     <l>Me speculum cernas quisque uiator ades.</l>
+                  </div>
+                  <div>
+                     <head>Aliud.</head>
+                     <l>Sorte humili natum qui me cognouerit ante</l>
+                     <l>Fortunę uarios rideat ille iocos.</l>
+                  </div>
+               </div>
+            </rdg>
+         </app>
+      </back>
    </text>
 </TEI>
