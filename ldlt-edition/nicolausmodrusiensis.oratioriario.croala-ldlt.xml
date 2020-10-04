@@ -1,96 +1,161 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <fileDesc xml:id="modr-n-oratio-riar">
-         <titleStmt>
-            <title>Oratio in funere Petri Riarii, versio electronica</title>
-            <author ref="nikolamodr01">
-               <persName xml:lang="hr">Nikola Modruški</persName>
-               <date>c. 1427-1480</date>
-            </author>
-            <editor>
-               <persName>
-                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
-               </persName>
-            </editor>
-            <respStmt>
-               <resp>Hanc editionem electronicam curavit</resp>
-               <persName>
-                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
-               </persName>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               Prima editio electronica.
-               
-            </edition>
-         </editionStmt>
-         <extent ana="C">Mg:C Verborum 4115</extent>
-         <publicationStmt>
-	           <p>elektronska verzija: Neolatina Croatica, znanstveni
-	   projekt na <orgName>
-                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
-               </orgName>, <placeName ref="3186886">Zagreb</placeName>
-	   Hrvatska.  <date>srpanj 2005</date>
-            </p>
-	 	      </publicationStmt>
-         <sourceDesc>
-            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
-            <bibl>
-                  Nikola Modruški
-                  Oratio in funere Petri cardinalis s. Sixti 
-                  Romae
-                  Stephanus Plannck
-                  1481-1487.
-                  /6/ f. ; 4o 
-            </bibl>
-         </sourceDesc>
-         
-         <!-- corr: amplisssimis, commitebant, eset, ommnibus, iniuriiis -->
+      <fileDesc xml:id="nicolausmodrusiensis.oratioriario.croala-ldlt">
+      <titleStmt>
+         <title>Oratio in funere Petri Riarii, versio electronica</title>
+         <author><persName xml:lang="hr">Nikola Modruški</persName>
+            <date>c. 1427-1480</date></author>
+         <editor><persName>
+            <ref type="viaf" target="6913774">Neven Jovanović</ref>
+         </persName></editor>
+      </titleStmt>
+      <editionStmt>
+         <edition>Editio altera electronica critica</edition>
+      </editionStmt>
+      <publicationStmt>
+         <publisher>Renaissance Society of America</publisher>
+         <distributor>Digital Latin Library</distributor>
+         <date>2020</date>
+         <availability>
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0
+               International License.</licence>
+         </availability>
+      </publicationStmt>
+      <seriesStmt>
+         <title level="s">Library of Digital Latin Texts</title>
+         <biblScope unit="vol">1</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+         <p>Born digital.</p>
+      </sourceDesc>
       </fileDesc>
-      <profileDesc>
-         <abstract>
-            <p/>
-         </abstract>
-         <settingDesc>
-            <p/>
-         </settingDesc>
-         <particDesc>
-            <p/>
-         </particDesc>
-         <langUsage>
-            <language ident="lat" xml:lang="hrv">latinski</language>
-         </langUsage>
-         <creation>
-            <date when="1474" period="14xx_3_third">1474</date>
-            <placeName>Rim</placeName>
-         </creation>
-         <textClass>
-            <keywords scheme="typus">
-               <term>prosa</term>
-            </keywords>
-            <keywords scheme="aetas">
-               <term>Litterae renatae (1400-1600)</term>
-               <term>Saeculum 15 (1401-1500)</term>
-               <term>1451-1500</term>
-            </keywords>
-            <keywords scheme="genre">
-               <term>prosa oratio - oratio</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change>
-            <persName>
-               <ref type="viaf" target="6913774">Neven Jovanović</ref>
-            </persName>
-            <persName>Luka Špoljarić</persName>
-            <date>2012-02-15</date>
-            Novo, unificirano zaglavlje.
-         </change>
-      </revisionDesc>
+      
+                  
    </teiHeader>
    <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1:" xml:lang="lat" type="prosa-oratio">
+      <front xml:id="front">
+         <div type="section" xml:id="preface">
+            <head>Praefatio</head>
+            <p>TBA.</p>
+            <div type="section"
+               xml:id="preface-section-1">
+               <head>Fontes lectionum</head>
+               <p>
+                  Oratio Nicolai episcopi Modrusiensis in funere Petri Riarii ante annum 1500. septies prelo commissa est; ad nos venerunt etiam sex codices manu scripti contemporanei, quidam de libris impressis translati. Codex autographus sive ab auctore emendatus hodie non exstat. Cum ipsius orationis argumentum, tum vitae impressorum eius suggerunt libros typis exscriptos in lucem fuisse editos ante papae Sixti IV mortem (die 12 Augusti, anno 1484). <!-- Jovanović 2018 -->
+               </p>
+               <p>Hic primum libros typis editos, deinde codices manu scriptos breviter designabimus.</p>
+               <div type="subsection"
+                  xml:id="preface-subsection-1">
+                  <head>Libri impressi</head>
+                  <p>Numerus post siglum GW notam in collectione Gesamtkatalog der Wiegendrucke designat.</p><!-- GW -->
+                  <listWit>
+                     <witness xml:id="V">
+                        <abbr type="siglum">V</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>In domo Antonii et Raphaelis de Vulterris</publisher>,
+                           <date>[1474]</date></bibl>.
+                        GW M26710. Fratres de Vulterris libros excudebant annis 1472–1474.
+                     </witness>
+                     <witness xml:id="V1">
+                        <abbr type="siglum">V1</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>In domo Antonii et Raphaelis de Vulterris</publisher>,
+                           <date>[1474]</date></bibl>.
+                        GW M26711. Editio differt a priore secundum Bošnjak 1976, Bošnjak 1983.
+                     </witness>
+                     <witness xml:id="Ge">
+                        <abbr type="siglum">Ge</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>Johannes Gensberg</publisher>,
+                           <date>[1474]</date></bibl>.
+                        GW M26707. Johannes Gensberg libros excudebat 1473–1474.
+                     </witness>
+                     <witness xml:id="R">
+                        <abbr type="siglum">R</abbr>
+                        <bibl>
+                           <pubPlace>Rostochii</pubPlace>:
+                           <publisher>Fratres Domus Horti Viridis ad S. Michaelem</publisher>,
+                           <date>[1474]</date></bibl>.
+                        GW M26712. Fratres Domus Horti Viridis ad S. Michaelem libros excudebant 1476–1531.
+                     </witness>
+                     <witness xml:id="C">
+                        <abbr type="siglum">C</abbr>
+                        <bibl>
+                           <pubPlace>Paduae</pubPlace>:
+                           <publisher>Matthaeus Cerdonis</publisher>,
+                           <date>die 30. Augusti 1482</date></bibl>.
+                        GW M26706. Matthaeus Cerdonis libros excudebat 1482–1487.
+                     </witness>
+                     <witness xml:id="P">
+                        <abbr type="siglum">P</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>Stephanus Plannck</publisher>,
+                           <date>[1482]</date></bibl>.
+                        GW M26709. Stephanus Plannck libros excudebat 1479–1501.
+                     </witness>
+                     <witness xml:id="Gd">
+                        <abbr type="siglum">Gd</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>Bartholomaeus Guldinbeck</publisher>,
+                           <date>[1482]</date></bibl>.
+                        GW M26708. Bartholomaeus Guldinbeck libros excudebat 1475–1488.
+                     </witness>
+                  </listWit>
+                  <p>Impressores orationis Nicolai plerique parvos et occasioni accomodatos libros edebant; plerique brevi tantum tempore edebant (fratres de Vulterris, Gensberg, Cerdonis non ultra quinque annis). Antonius de Vulterris cliens erat gentis Riariorum, sicut et ipse Nicolaus episcopus Modrusiensis; ea de causa probabile videtur editionem principem orationis in funere Petri Riarii apud fratres de Vulterris typis editam esse. <!-- Farenga 1986 Na vezu tiskara i urotnika upozorila je Farenga, n. dj, 214, bilj. 95. --></p>
+               </div>
+               <div type="subsection"
+                  xml:id="preface-subsection-2">
+                  <head>Codices</head>
+                  <listWit>
+                     <witness xml:id="ve">
+                        <abbr type="siglum">ve</abbr>
+                        <name>Codex Venetus bibliothecae Marcianae; Marc. Lat. cl. XIV, 180
+                           (4667)</name>, <date>saec. XV</date>, ff. 9r–19v.</witness>
+                     <witness xml:id="va">
+                        <abbr type="siglum">va</abbr>
+                        <name>Codex Vaticanus Bibliothecae apostolicae Vaticanae; Vat. lat.
+                           8750</name>, <date>saec. XV desinente – saec. XVI incipiente</date>, ff.
+                        205r–212v. In hoc codice descripta est etiam oratio Nicolai Perotti
+                        (1429–1480) in funere eiusdem cardinalis Riarii (ff. 162r–172v).</witness>
+                     <witness xml:id="co">
+                        <abbr type="siglum">co</abbr>
+                        <name>Codex Romanus Bibliothecae Corsinianae; Accademia Nazionale dei Lincei, Biblioteca dell'Accademia dei Lincei e Corsiniana, fondo principale, cart. misc., Corsin. 583 (45 C 18)</name>, <date>saec. XV</date>, ff. 117r–123r. Descriptus a Tommaso Baldinotti (Pistoia, 1451–1511), ut reperit Petrucci 1956. Codex continet alias orationes apud Sixtum IV, unam Naldi Naldi (1436 – post 1513), ff. 113v–116v et alteram Donati Accaiuoli (1429–1478), ff. 123v–125v.
+                     </witness>
+                     <witness xml:id="pa">
+                        <abbr type="siglum">pa</abbr>
+                        <name>Codex Panormitanus, Biblioteca centrale della Regione siciliana, I.B.6</name>, <date>saec. XV</date>. Tempus scribendi in catalogo ab ipsa oratione Nicolai definitum est.</witness>
+                     <witness xml:id="m">
+                        <abbr type="siglum">m</abbr>
+                        <name>Codex Monacensis , Bayerische Staatsbibliothek; CLM 461</name>, <date>saec. XV desinente – saec. XVI incipiente</date>; ff.~129r–138r. Codex manu Hartmanni Schedel (1440–1514) exaratus est, opere ibidem recentissimo anno 1492 concinnato. Insunt in codice plures apud Sixtum IV orationes et orationes in funeribus cardinalium, auctoribus Bernardi Iustiniani (1408–1489), Ladislai Vetesii (n. circa 1460), Lodovici Imolensis (floruit 1462–1479) in funere Petri Ferrici (m. 1478), oratio anonymi in funere cardinalis Spoletani et oratio Johannis Antonii episcopi S. Palatii auditoris (Gianantonio de San Giorgio, 1439–1509) in exsequiis Cardinalis Tornacensis (Ferri de Clugny) habita a. 1483.
+                     </witness>
+                     <witness xml:id="o">
+                        <abbr type="siglum">o</abbr>
+                        <name>Codex Olomoucensis, Olomouc, Vědecká knihovna; Textus uarii; Historia Bohemica; M I 159</name>, <date>circa 1476–1480</date>, Litomericii scriptus, ff. 170r–174v.
+                     </witness><!-- Truhlář 1892 -->
+                  </listWit>
+               </div>
+            </div>
+         </div>
+         <div type="section" xml:id="bibliography">
+            <head>Conspectus librorum</head>
+            <!--This is where the bibliography for the edition is listed, including manuscript
+                                        descriptions, and lists of early editions, modern editions, and other sources cited
+                                        in the current edition. For more information on encoding the items in the bibliography
+                                        see "Bibliography" below. -->
+            <p>Mladen Bošnjak, »Dvije značajne hrvatske knjižice«, Hrvatska revija: Jubilarni zbornik 1951–1975, Knjižnica Hrvatske revije, Barcelona, 1976, 590–598</p>
+            <p>Mladen Bošnjak, »Zwei unbekannte Inkunabelausgaben«, \textit{Beiträge zur Inkunabelkunde} 3 (1983), 8, 91–93.</p>
+            <p>Paola Farenga, »’Monumenta memoriae’ – Pietro Riario fra mito e storia«, in Massimo Miglio, Francesca Niutta, Diego Quaglioni, Concetta Ranieri (ed.), Un pontificato ed una città – Sisto IV (1471–1484), Associazione Roma nel Rinascimento, Città del Vaticano, 1986, 179–216.</p>
+            <p>Staatsbibliothek zu Berlin, Gesamtkatalog der Wiegendrucke / Inkunabelsammlung, www.gesamtkatalogderwiegendrucke.de/. In rete accessi 29. Novembris 2019.</p>
+            <p>Neven Jovanović, »Nadgrobni govor Nikole Modruškog za Pietra Riarija« \textit{Colloquia Maruliana} XXVII (2018), str.~123–141.}</p>
+            <p>Armando Petrucci, »Alcuni codici Corsiniani di mano di Tommaso e Antonio Baldinotti«, \textit{Rendiconti dell' Accademia nazionale dei Lincei, classe di scienze morali, storiche e filologiche}, serie 8, XI (1956), str.~252–263.</p>
+            <p>Josef Truhlář, Počátky humanismu v Cechách, V Praze: Nákladem České akademie císaře Františka Josefa pro vědy, slovesnost a umění, 1892, p. 507.</p>
+         </div>
+      </front>
       <body n="body1">
          <div type="edition" xml:id="edition-text"
    xml:space="preserve">
