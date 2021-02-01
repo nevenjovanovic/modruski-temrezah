@@ -41,7 +41,7 @@
                xml:id="preface-section-1">
                <head>Fontes lectionum</head>
                <p>
-                  Oratio Nicolai episcopi Modrusiensis in funere Petri Riarii ante annum 1500. septies prelo commissa est; ad nos venerunt etiam sex codices manu scripti contemporanei, quidam de libris impressis translati. Codex autographus sive ab auctore emendatus hodie non exstat. Cum ipsius orationis argumentum, tum vitae impressorum eius suggerunt libros typis exscriptos in lucem fuisse editos ante papae Sixti IV mortem (die 12 Augusti, anno 1484). <!-- Jovanović 2018 -->
+                  Oratio Nicolai episcopi Modrusiensis in funere Petri Riarii ante annum 1500. septies prelo commissa est; praeter libros impressos ad nos venerunt etiam sex codices manu scripti, omnes contemporanei; quorundam archetypa impressa erant. Nullus codex autographus sive ab auctore emendatus hodie exstat. Suggerunt cum ipsius orationis argumentum, tum vitae impressorum eius, libros typis exscriptos in lucem fuisse editos ante papae Sixti IV mortem (die 12 Augusti, anno 1484). <!-- Jovanović 2018 -->
                </p>
                <p>Hic primum libros typis editos, deinde codices manu scriptos breviter designabimus.</p>
                <div type="subsection"
@@ -106,7 +106,7 @@
                         GW M26708. Bartholomaeus Guldinbeck libros excudebat 1475–1488.
                      </witness>
                   </listWit>
-                  <p>Impressores orationis Nicolai plerique parvos et occasioni accomodatos libros edebant; plerique brevi tantum tempore edebant (fratres de Vulterris, Gensberg, Cerdonis non ultra quinque annis). Antonius de Vulterris cliens erat gentis Riariorum, sicut et ipse Nicolaus episcopus Modrusiensis; ea de causa probabile videtur editionem principem orationis in funere Petri Riarii apud fratres de Vulterris typis editam esse. <!-- Farenga 1986 Na vezu tiskara i urotnika upozorila je Farenga, n. dj, 214, bilj. 95. --></p>
+                  <p>Impressores orationis Nicolai plerique breviores et occasioni accomodatos libros edebant; plerique etiam brevi tantum tempore negotium edendi gerebant (non ultra quinque annis fratres de Vulterris, Gensberg, Cerdonis). Antonius de Vulterris impressor familiaris erat gentis Riariorum, sicut et ipse Nicolaus episcopus Modrusiensis; ea de causa probabile videtur editionem principem orationis in funere Petri Riarii apud fratres de Vulterris typis editam esse. <!-- Farenga 1986 Na vezu tiskara i urotnika upozorila je Farenga, n. dj, 214, bilj. 95. --></p>
                </div>
                <div type="subsection"
                   xml:id="preface-subsection-2">
@@ -148,11 +148,11 @@
                                         in the current edition. For more information on encoding the items in the bibliography
                                         see "Bibliography" below. -->
             <p>Mladen Bošnjak, »Dvije značajne hrvatske knjižice«, Hrvatska revija: Jubilarni zbornik 1951–1975, Knjižnica Hrvatske revije, Barcelona, 1976, 590–598</p>
-            <p>Mladen Bošnjak, »Zwei unbekannte Inkunabelausgaben«, \textit{Beiträge zur Inkunabelkunde} 3 (1983), 8, 91–93.</p>
+            <p>Mladen Bošnjak, »Zwei unbekannte Inkunabelausgaben«, Beiträge zur Inkunabelkunde 3 (1983), 8, 91–93.</p>
             <p>Paola Farenga, »’Monumenta memoriae’ – Pietro Riario fra mito e storia«, in Massimo Miglio, Francesca Niutta, Diego Quaglioni, Concetta Ranieri (ed.), Un pontificato ed una città – Sisto IV (1471–1484), Associazione Roma nel Rinascimento, Città del Vaticano, 1986, 179–216.</p>
             <p>Staatsbibliothek zu Berlin, Gesamtkatalog der Wiegendrucke / Inkunabelsammlung, www.gesamtkatalogderwiegendrucke.de/. In rete accessi 29. Novembris 2019.</p>
-            <p>Neven Jovanović, »Nadgrobni govor Nikole Modruškog za Pietra Riarija« \textit{Colloquia Maruliana} XXVII (2018), str.~123–141.}</p>
-            <p>Armando Petrucci, »Alcuni codici Corsiniani di mano di Tommaso e Antonio Baldinotti«, \textit{Rendiconti dell' Accademia nazionale dei Lincei, classe di scienze morali, storiche e filologiche}, serie 8, XI (1956), str.~252–263.</p>
+            <p>Neven Jovanović, »Nadgrobni govor Nikole Modruškog za Pietra Riarija« Colloquia Maruliana XXVII (2018), str.~123–141.}</p>
+            <p>Armando Petrucci, »Alcuni codici Corsiniani di mano di Tommaso e Antonio Baldinotti«, Rendiconti dell' Accademia nazionale dei Lincei, classe di scienze morali, storiche e filologiche, serie 8, XI (1956), str.~252–263.</p>
             <p>Josef Truhlář, Počátky humanismu v Cechách, V Praze: Nákladem České akademie císaře Františka Josefa pro vědy, slovesnost a umění, 1892, p. 507.</p>
          </div>
       </front>
@@ -372,7 +372,7 @@ potius quam ab illis
 <rdg wit="#va">accepit</rdg>
 </app>, 
 habeo tamen et alias immortales ac propemodum diuinas animi ipsius laudes (ut 
-\edtext{fortunae corporisque quaelibet ingentia bona tamquam aliena}
+fortunae corporisque quaelibet ingentia bona tamquam aliena
 relinquam): 
 pietatem, magnitudinem animi, munificentiam, prudentiam, modestiam, atque iustitiam; 
 quae quales in eo fuerint, breuiter explicare conabor. 
@@ -510,7 +510,7 @@ misit ut, quaecumque in tam celeberrimis Italiae
 aut liberalium artium aut sacrarum litterarum dogmata florerent, 
 ipse uelut operosa apis undique colligeret et in sacram pectoris sui cellulam diligenter reconderet. 
 Quod quidem intra breues annos adeo consecutus est ut credibile non sit uirum 
-\edtext{ad agendum magis quam ad philosophandum} 
+ad agendum magis quam ad philosophandum
 natum 
 <app>
 <lem>tantam</lem>
@@ -601,13 +601,28 @@ heri aut
 memoriae mandasse existimares. 
 </p>
    <note type="parallel" target="#modrusiensis-riario04"
- xml:id="p-f5-cicero">
+ xml:id="p-f5a-horatius">
+  <bibl>
+   <author>Hor.</author>
+   <title>c.</title>
+   <biblScope>4, 27–32</biblScope>
+  </bibl>: <quote>ego apis Matinae / more modoque, / grata carpentis thyma per laborem / plurimum, circa nemus uvidique / Tiburis ripas operosa parvos / carmina fingo.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario04"
+ xml:id="p-f5b-cicero">
   <bibl>
    <author>Plato</author>
    <title>Symposium (tr. Ficinus, c. 1460)</title>
    <biblScope>TKTK</biblScope>
   </bibl>: <quote>perinde ac tu nunc, qui quodlibet aliud agendum censes potius quam philosophandum</quote>
-         
+   </note>
+   <note type="parallel" target="#modrusiensis-riario04"
+ xml:id="p-f5c-cicero">
+  <bibl>
+   <author>Cic.</author>
+   <title>Brut.</title>
+   <biblScope>154</biblScope>
+  </bibl>: <quote>Galli hominis acuti et exercitati promptam et paratam in agendo et in respondendo celeritatem subtilitate diligentiaque superavit</quote>
    </note>
 <p n="5" xml:id="modrusiensis-riario05">
 Perfectis igitur 
@@ -784,7 +799,14 @@ possit obsistere
 </app> 
 aut dicere illi »quare sic fecisti«.
          </p>
-   <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6-biblia">
+   <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6a-firmicus">
+  <bibl>
+   <author>Firm.</author>
+   <title>math.</title>
+   <biblScope>8, 21, 4</biblScope>
+  </bibl>: <quote>In Ofiucho qui nati fuerint erunt audaces, enthei, praesago diuinitatis instinctu futura noscentes.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6b-biblia">
   <bibl>
    <author>Biblia</author>
    <title>I Cor</title>
