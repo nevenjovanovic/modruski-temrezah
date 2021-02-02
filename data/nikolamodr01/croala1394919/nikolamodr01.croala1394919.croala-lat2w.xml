@@ -2540,7 +2540,7 @@
           <w ana="a-s---fbs" n="w60">perditissima</w>
           <w ana="n-s---fb-" n="w61">audacia</w>
           <w ana="v--pna---" n="w62">lacerare</w>
-          <pc n="pc10">!</pc>
+          <pc n="pc10">?</pc>
         </s>
         <s n="s2">
           <w ana="v2spma---" n="w1">Caue</w>
@@ -2552,7 +2552,7 @@
           <w ana="a-s---fv-" n="w5">dolosa</w>
           <pc n="pc3">,</pc>
           <w ana="c--------" n="w6">ne</w>
-          <w ana="n-s---mn-" n="w7">deus</w>
+          <w ana="n-s---mn-" n="w7">Deus</w>
           <w ana="v3spsa---" n="w8">destruat</w>
           <w ana="p-s---fa-" n="w9">te</w>
           <w ana="r--------" n="w10">in</w>
@@ -2574,7 +2574,7 @@
           <w ana="r--------" n="w23">de</w>
           <w ana="n-s---fb-" n="w24">terra</w>
           <w ana="v-ppp-mg-" n="w25">uiuentium</w>
-          <pc n="pc7">.</pc>
+          <pc n="pc7">!</pc>
         </s>
         <s n="s3">
           <w ana="c--------" n="w1">Sed</w>
@@ -2587,7 +2587,6 @@
           <w ana="a-s---fa-" n="w8">suam</w>
           <w ana="n-s---fa-" n="w9">nouaculam</w>
           <w ana="a-s---fa-" n="w10">acutam</w>
-          <pc n="pc1">,</pc>
           <w ana="c--------" n="w11">et</w>
           <w ana="v-ppp-mn-" n="w12">sedentes</w>
           <w ana="d--------" n="w13">aduersus</w>
@@ -2623,6 +2622,8 @@
           <w ana="v1ppsp---" n="w17">prosequamur</w>
           <pc n="pc5">.</pc>
         </s>
+      </p>
+      <p n="13" xml:id="modrusiensis-riario13morph">
         <s n="s5">
           <w ana="c--------" n="w1">Itaque</w>
           <pc n="pc1">,</pc>
@@ -2683,9 +2684,7 @@
           <w ana="a-s---ma-" n="w24">dilectum</w>
           <pc n="pc3">.</pc>
         </s>
-      </p>
-      <p n="p10">
-        <s n="s1">
+        <s n="s7">
           <w ana="n-s---fn-" n="w1">Lex</w>
           <w ana="d--------" n="w2">quippe</w>
           <w ana="n-s---fg-" n="w3">amicitiae</w>
@@ -2729,13 +2728,14 @@
           <w ana="v3sisa---" n="w38">foueret</w>
           <pc n="pc4">.</pc>
         </s>
-        <s n="s2">
+        <s n="s8">
           <w ana="v3spia---" n="w1">Ostendit</w>
           <w ana="p-s---na-" n="w2">id</w>
           <w ana="a-s---fns" n="w3">nouissima</w>
           <w ana="p-s---fn-" n="w4">haec</w>
           <w ana="p-s---mg-" n="w5">ipsius</w>
           <w ana="n-s---fn-" n="w6">legatio</w>
+          <pc n="pc0">,</pc>
           <w ana="r--------" n="w7">in</w>
           <w ana="p-s---fb-" n="w8">qua</w>
           <w ana="a-p---mn-" n="w9">omnes</w>
@@ -2767,7 +2767,7 @@
           <w ana="v3slsa---" n="w34">contulisset</w>
           <pc n="pc2">.</pc>
         </s>
-        <s n="s3">
+        <s n="s9">
           <w ana="r--------" n="w1">In</w>
           <w ana="p-p---nb-" n="w2">quibus</w>
           <w ana="v-p-g-nb-" n="w3">acceptandis</w>
@@ -2797,7 +2797,6 @@
           <w ana="p-s---md-" n="w3">illi</w>
           <w ana="n-p---na-" n="w4">negotia</w>
           <w ana="v3piia---" n="w5">credebant</w>
-          <pc n="pc1">,</pc>
           <w ana="c--------" n="w6">et</w>
           <w ana="n-p---fg-" n="w7">rerum</w>
           <w ana="a-p---fg-" n="w8">omnium</w>
@@ -2808,11 +2807,11 @@
           <w ana="v3piia---" n="w13">committebant</w>
           <pc n="pc2">.</pc>
         </s>
-        <s n="s5">
+        <s n="s10">
           <w ana="v3siia---" n="w1">Fallebat</w>
           <w ana="n-s---ma-" n="w2">neminem</w>
-          <pc n="pc1">,</pc>
           <w ana="c--------" n="w3">et</w>
+          <pc n="pc1">,</pc>
           <w ana="a-s---fa-" n="w4">communem</w>
           <w ana="n-s---fa-" n="w5">rem</w>
           <w ana="v3spda-b-" n="w6">gerendo</w>
@@ -2822,7 +2821,9 @@
           <w ana="n-s---mn-" n="w10">aduocatus</w>
           <pc n="pc2">.</pc>
         </s>
-        <s n="s6">
+      </p>
+      <p n="14" xml:id="modrusiensis-riario14morph">
+        <s n="s1">
           <w ana="v3siia---" n="w1">Secedebat</w>
           <w ana="d--------" n="w2">bis</w>
           <w ana="d--------" n="w3">terque</w>
@@ -2835,6 +2836,7 @@
           <w ana="p-s---ma-" n="w10">aliquem</w>
           <w ana="a-s---mac" n="w11">secretiorem</w>
           <w ana="n-s---ma-" n="w12">locum</w>
+          <pc n="pc0">,</pc>
           <w ana="r--------" n="w13">in</w>
           <w ana="p-s---mb-" n="w14">quo</w>
           <w ana="r--------" n="w15">ad</w>
@@ -2868,7 +2870,7 @@
           <w ana="a-s---mgp" n="w40">Christiani</w>
           <w ana="n-s---ma-" n="w41">exitum</w>
           <w ana="v3slia---" n="w42">intenderat</w>
-          <pc n="pc4">,</pc>
+          <pc n="pc4">;</pc>
           <w ana="p-s---na-" n="w43">id</w>
           <w ana="a-s---na-" n="w44">unum</w>
           <w ana="v3siid---" n="w45">moliebatur</w>
@@ -2898,12 +2900,11 @@
           <w ana="v3slsa---" n="w66">praeripuisset</w>
           <pc n="pc8">.</pc>
         </s>
-        <s n="s7">
+        <s n="s2">
           <w ana="v3siia---" n="w1">Vincebat</w>
           <w ana="n-s---nb-" n="w2">ingenio</w>
           <w ana="a-p---na-" n="w3">humana</w>
           <w ana="n-p---na-" n="w4">consilia</w>
-          <pc n="pc1">,</pc>
           <w ana="c--------" n="w5">et</w>
           <w ana="d-------p" n="w6">tantum</w>
           <w ana="a-p----dc" n="w7">grauioribus</w>
@@ -2917,7 +2918,6 @@
           <w ana="a-s---fn-" n="w14">praecipua</w>
           <w ana="p-s---mg-" n="w15">eius</w>
           <w ana="n-s---fn-" n="w16">uoluptas</w>
-          <pc n="pc3">,</pc>
           <w ana="r--------" n="w17">a</w>
           <w ana="p-s---fb-" n="w18">qua</w>
           <w ana="a-p---nb-" n="w19">nullis</w>
@@ -2925,7 +2925,7 @@
           <w ana="n-p---nb-" n="w21">oblectamentis</w>
           <w ana="v3siia---" n="w22">poterat</w>
           <w ana="v--pnp---" n="w23">diuelli</w>
-          <pc n="pc4">,</pc>
+          <pc n="pc4">;</pc>
           <w ana="p-s---fg-" n="w24">huius</w>
           <w ana="v3siid---" n="w25">delectabatur</w>
           <w ana="n-s---mb-" n="w26">gustu</w>
@@ -2936,7 +2936,7 @@
           <w ana="v3siid---" n="w30">pascebatur</w>
           <pc n="pc6">.</pc>
         </s>
-        <s n="s8">
+        <s n="s3">
           <w ana="a-p---mg-" n="w1">Omnium</w>
           <w ana="n-s---fd-" n="w2">saluti</w>
           <w ana="n-s---fb-" n="w3">die</w>
@@ -2949,13 +2949,14 @@
           <w ana="a-p---mb-" n="w9">nonnullis</w>
           <w ana="n-s---fg-" n="w10">negligentiae</w>
           <w ana="v3siip---" n="w11">accusabatur</w>
-          <pc n="pc2">,</pc>
+          <pc n="pc2">;</pc>
           <w ana="c--------" n="w12">quin</w>
-          <w ana="d--------" n="w13">tanquam</w>
+          <w ana="d--------" n="w13">tamquam</w>
           <w ana="a-s---ma-" n="w14">superbum</w>
           <w ana="a-s---ma-" n="w15">difficilemque</w>
           <w ana="a-p---mn-" n="w16">ingrati</w>
           <w ana="v3piid---" n="w17">criminabantur</w>
+          <pc n="pc2a">,</pc>
           <w ana="c--------" n="w18">cum</w>
           <w ana="d--------" n="w19">tamen</w>
           <w ana="c--------" n="w20">et</w>
@@ -2965,7 +2966,7 @@
           <w ana="a-s---mns" n="w24">facillimus</w>
           <pc n="pc3">.</pc>
         </s>
-        <s n="s9">
+        <s n="s4">
           <w ana="v3sria---" n="w1">Nouit</w>
           <w ana="p-s---na-" n="w2">hoc</w>
           <w ana="a-s---mn-" n="w3">tantus</w>
@@ -2978,6 +2979,7 @@
           <w ana="c--------" n="w9">et</w>
           <w ana="a-p---mnp" n="w10">alii</w>
           <w ana="a-p---mn-" n="w11">omnes</w>
+          <pc n="pc1a">,</pc>
           <w ana="p-s---mn-" n="w12">qui</w>
           <w ana="p-s---mg-" n="w13">eius</w>
           <w ana="n-s---fb-" n="w14">familiaritate</w>
@@ -3012,7 +3014,7 @@
           <pc n="pc10">.</pc>
         </s>
       </p>
-      <p n="p11">
+      <p n="15" xml:id="modrusiensis-riario15morph">
         <s n="s1">
           <w ana="a-s---fb-" n="w1">Tanta</w>
           <w ana="d-------p" n="w2">uero</w>
@@ -3056,7 +3058,7 @@
         <s n="s3">
           <w ana="a-s---nns" n="w1">Maximum</w>
           <w ana="p-s---mg-" n="w2">eius</w>
-          <w ana="n-s---nn-" n="w3">conuitium</w>
+          <w ana="n-s---nn-" n="w3">conuicium</w>
           <w ana="v3siip---" n="w4">putabatur</w>
           <w ana="c--------" n="w5">si</w>
           <w ana="p-s---ma-" n="w6">quem</w>
@@ -3075,7 +3077,7 @@
           <pc n="pc3">.</pc>
         </s>
       </p>
-      <p n="p12">
+      <p n="16" xml:id="modrusiensis-riario16morph">
         <s n="s1">
           <w ana="n-s---mg-" n="w1">Cibi</w>
           <w ana="n-s---ng-" n="w2">uinique</w>
@@ -3087,7 +3089,6 @@
           <w ana="d--------" n="w6">immo</w>
           <w ana="d-------p" n="w7">uero</w>
           <w ana="a-s---mnp" n="w8">peruigil</w>
-          <pc n="pc3">,</pc>
           <w ana="c--------" n="w9">et</w>
           <w ana="p-s---mn-" n="w10">qui</w>
           <w ana="a-p---fb-" n="w11">multis</w>
@@ -3097,7 +3098,7 @@
           <w ana="v-srppmn-" n="w15">solitus</w>
           <w ana="v3sisa---" n="w16">esset</w>
           <w ana="v--pna---" n="w17">praeoccupare</w>
-          <pc n="pc4">,</pc>
+          <pc n="pc4">;</pc>
           <w ana="p-s---na-" n="w18">quod</w>
           <w ana="a-s---na-" n="w19">totum</w>
           <w ana="n-s---na-" n="w20">tempus</w>
@@ -3110,14 +3111,13 @@
           <w ana="n-p---fd-" n="w27">cogitationibus</w>
           <w ana="v--pna---" n="w28">impendere</w>
           <w ana="v3slia---" n="w29">consueuerat</w>
-          <pc n="pc5">;</pc>
+          <pc n="pc5">,</pc>
           <w ana="p-p---fn-" n="w30">quae</w>
           <w ana="a-p---fn-" n="w31">tales</w>
           <w ana="n-s---fd-" n="w32">menti</w>
           <w ana="p-s---mg-" n="w33">eius</w>
           <w ana="d-------p" n="w34">assidue</w>
           <w ana="v3piid---" n="w35">obuersabantur</w>
-          <pc n="pc6">,</pc>
           <w ana="a-p---fn-" n="w36">quales</w>
           <w ana="a-p---mg-" n="w37">mortalium</w>
           <w ana="n-p---md-" n="w38">animis</w>
@@ -3239,7 +3239,7 @@
           <pc n="pc1">.</pc>
         </s>
       </p>
-      <p n="p13">
+      <p n="17" xml:id="modrusiensis-riario17morph">
         <s n="s1">
           <w ana="d--------" n="w1">Porro</w>
           <w ana="n-s---fa-" n="w2">iustitiam</w>
@@ -3295,7 +3295,6 @@
           <w ana="m-p---na-" n="w3">milia</w>
           <w ana="n-p---mg-" n="w4">ducatorum</w>
           <w ana="v3sria---" n="w5">accepit</w>
-          <pc n="pc1">,</pc>
           <w ana="c--------" n="w6">et</w>
           <w ana="a-s---nas" n="w7">opulentissimum</w>
           <w ana="n-s---na-" n="w8">oppidum</w>
@@ -3343,10 +3342,12 @@
           <w ana="c--------" n="w1">Et</w>
           <w ana="c--------" n="w2">licet</w>
           <w ana="d--------" n="w3">nonnumquam</w>
+          <pc n="pc0">,</pc>
           <w ana="a-p---mg-" n="w4">domesticorum</w>
           <w ana="a-p---mg-" n="w5">amicorumque</w>
           <w ana="v-srppmn-" n="w6">euictus</w>
           <w ana="n-p---fb-" n="w7">precibus</w>
+          <pc n="pc0a">,</pc>
           <w ana="c--------" n="w8">aut</w>
           <w ana="n-p---fb-" n="w9">litteris</w>
           <w ana="c--------" n="w10">aut</w>
@@ -3376,7 +3377,8 @@
           <w ana="p-s---na-" n="w9">quidnam</w>
           <w ana="r--------" n="w10">de</w>
           <w ana="p-p---mb-" n="w11">illis</w>
-          <pc n="pc1">,</pc>
+          <w ana="v--pnp---" n="w11a">fieri</w>
+          <w ana="v3sisa---" n="w11b">uellet</w>
           <w ana="p-s---mn-" n="w12">qui</w>
           <w ana="a-s---fa-" n="w13">iniustam</w>
           <w ana="n-s---fa-" n="w14">causam</w>
@@ -3467,7 +3469,6 @@
           <w ana="c--------" n="w5">nisi</w>
           <w ana="a-p---nas" n="w6">sanctissima</w>
           <w ana="v3siia---" n="w7">faciebat</w>
-          <pc n="pc1">,</pc>
           <w ana="c--------" n="w8">atque</w>
           <pc n="pc2">,</pc>
           <w ana="c--------" n="w9">ne</w>
@@ -3488,7 +3489,7 @@
           <w ana="n-p---na-" n="w21">exemplaria</w>
           <w ana="r--------" n="w22">apud</w>
           <w ana="n-p---ma-" n="w23">notarios</w>
-          <w ana="v--pna---" n="w24">exstare</w>
+          <w ana="v--pna---" n="w24">extare</w>
           <w ana="v3slia---" n="w25">iusserat</w>
           <pc n="pc6">.</pc>
         </s>
@@ -3502,6 +3503,7 @@
           <w ana="v3sria---" n="w7">potuit</w>
           <pc n="pc1">;</pc>
           <w ana="c--------" n="w8">nam</w>
+          <pc n="pc1a">,</pc>
           <w ana="c--------" n="w9">cum</w>
           <w ana="v3sisd---" n="w10">hortaretur</w>
           <w ana="r--------" n="w11">ab</w>
@@ -3515,7 +3517,7 @@
           <pc n="pc4">,</pc>
           <w ana="a-s---na-" n="w17">meum</w>
           <w ana="v1spia---" n="w18">habeo</w>
-          <pc n="pc5">,</pc>
+          <pc n="pc5">;</pc>
           <w ana="a-p---nn-" n="w19">omnia</w>
           <w ana="v3ppia---" n="w20">sunt</w>
           <w ana="n-s---fg-" n="w21">ecclesiae</w>
@@ -3548,7 +3550,7 @@
           <pc n="pc3">.</pc>
         </s>
       </p>
-      <p n="p14">
+      <p n="18" xml:id="modrusiensis-riario18morph">
         <s n="s1">
           <w ana="v1spip---" n="w1">Cogor</w>
           <w ana="p-s---mb-" n="w2">hoc</w>
@@ -3620,6 +3622,7 @@
           <w ana="v3pria---" n="w8">nouerunt</w>
           <pc n="pc3">,</pc>
           <w ana="v-pppdmbp" n="w9">attestantibus</w>
+          <pc n="pc3a">,</pc>
           <w ana="a-s---ma-" n="w10">nullum</w>
           <w ana="v--rna---" n="w11">fuisse</w>
           <w ana="d--------" n="w12">tam</w>
@@ -3685,21 +3688,23 @@
           <w ana="v3sria---" n="w63">decessit</w>
           <pc n="pc13">,</pc>
           <w ana="d--------" n="w64">semperque</w>
+          <pc n="pc12a">,</pc>
           <w ana="c--------" n="w65">ut</w>
           <w ana="v-srppmn-" n="w66">datus</w>
           <w ana="r--------" n="w67">a</w>
-          <w ana="n-s---mb-" n="w68">domino</w>
+          <w ana="n-s---mb-" n="w68">Domino</w>
           <w ana="n-s---md-" n="w69">Tobiae</w>
           <w ana="n-s---mn-" n="w70">angelus</w>
+          <pc n="pc12b">,</pc>
           <w ana="n-s---nd-" n="w71">lateri</w>
           <w ana="v3sria---" n="w72">haesit</w>
-          <pc n="pc14">,</pc>
+          <pc n="pc14">;</pc>
           <w ana="n-p---na-" n="w73">aduersa</w>
           <w ana="v3sria---" n="w74">procurauit</w>
           <pc n="pc15">,</pc>
           <w ana="v3sria---" n="w75">accersiuit</w>
           <w ana="n-p---na-" n="w76">prospera</w>
-          <pc n="pc16">,</pc>
+          <pc n="pc16">;</pc>
           <w ana="a-s---fb-" n="w77">pia</w>
           <w ana="n-s---fb-" n="w78">sedulitate</w>
           <w ana="v3sria---" n="w79">fouit</w>
@@ -3719,7 +3724,6 @@
           <w ana="v-spp-ma-" n="w90">uiuentem</w>
           <w ana="d-------p" n="w91">tantum</w>
           <w ana="v3sria---" n="w92">dilexit</w>
-          <pc n="pc20">,</pc>
           <w ana="c--------" n="w93">aut</w>
           <w ana="d--------" n="w94">nunc</w>
           <w ana="a-s---mg-" n="w95">mortui</w>
@@ -3729,7 +3733,7 @@
           <pc n="pc21">.</pc>
         </s>
       </p>
-      <p n="p15">
+      <p n="19" xml:id="modrusiensis-riario19morph">
         <s n="s1">
           <w ana="n-s---ma-" n="w1">Finem</w>
           <w ana="v3spda-g-" n="w2">dicendi</w>
@@ -3773,9 +3777,7 @@
           <w ana="a-s---fg-" n="w23">tuae</w>
           <pc n="pc3">.</pc>
         </s>
-      </p>
-      <p n="p16">
-        <s n="s1">
+        <s n="s3">
           <w ana="d--------" n="w1">Proinde</w>
           <w ana="d--------" n="w2">non</w>
           <w ana="v3siia---" n="w3">cessabat</w>
@@ -3819,7 +3821,6 @@
           <w ana="a-p---mbs" n="w34">maximis</w>
           <w ana="n-p---mb-" n="w35">sumptibus</w>
           <w ana="v--pna---" n="w36">coemere</w>
-          <pc n="pc8">,</pc>
           <w ana="c--------" n="w37">et</w>
           <pc n="pc9">,</pc>
           <w ana="d--------" n="w38">quam</w>
@@ -3830,7 +3831,7 @@
           <w ana="v--pna---" n="w42">comparare</w>
           <pc n="pc11">.</pc>
         </s>
-        <s n="s2">
+        <s n="s4">
           <w ana="v3spid---" n="w1">Testatur</w>
           <w ana="p-s---fa-" n="w2">hanc</w>
           <w ana="p-s---mg-" n="w3">eius</w>
@@ -3851,22 +3852,21 @@
           <w ana="d--------" n="w18">perquam</w>
           <w ana="d-------p" n="w19">magnifice</w>
           <w ana="v-srppnn-" n="w20">instauratum</w>
-          <pc n="pc1">;</pc>
+          <pc n="pc1">,</pc>
           <w ana="v3spid---" n="w21">testatur</w>
-          <w ana="n-s---ng-" n="w22">Taruixii</w>
+          <w ana="n-s---ng-" n="w22">Taruisii</w>
           <w ana="a-s---fnc" n="w23">maior</w>
           <w ana="n-s---fn-" n="w24">basilica</w>
           <w ana="d--------" n="w25">non</w>
           <w ana="a-p---nb-" n="w26">paruis</w>
           <w ana="v-srppfn-" n="w27">ditata</w>
           <w ana="n-p---nb-" n="w28">uectigalibus</w>
-          <pc n="pc2">,</pc>
           <w ana="c--------" n="w29">et</w>
           <w ana="a-s---mb-" n="w30">diuino</w>
           <w ana="n-s---mb-" n="w31">cultu</w>
           <w ana="d--------" n="w32">maxime</w>
           <w ana="v-srppfn-" n="w33">illustrata</w>
-          <pc n="pc3">;</pc>
+          <pc n="pc3">,</pc>
           <w ana="v3spid---" n="w34">testatur</w>
           <w ana="n-s---ng-" n="w35">Mediolani</w>
           <w ana="n-s---mg-" n="w36">Ambrosii</w>
@@ -3903,11 +3903,11 @@
           <w ana="a-p---na-" n="w63">uniuersa</w>
           <pc n="pc8">.</pc>
         </s>
-        <s n="s3">
+        <s n="s5">
           <w ana="v3spid---" n="w1">Testatur</w>
-          <w ana="n-s---fg-" n="w2">Papiae</w>
+          <w ana="n-s---fg-" n="w2">Papie</w>
           <w ana="n-s---mg-" n="w3">Maioli</w>
-          <w ana="n-s---nn-" n="w4">fanum</w>
+          <w ana="n-s---nn-" n="w4">phanum</w>
           <w ana="r--------" n="w5">in</w>
           <w ana="p-s---nb-" n="w6">quo</w>
           <w ana="d--------" n="w7">ne</w>
@@ -3940,7 +3940,7 @@
           <w ana="n-p---fb-" n="w30">aedibus</w>
           <w ana="a-p---na-" n="w31">omnia</w>
           <w ana="v--pnp---" n="w32">mutuari</w>
-          <pc n="pc5">;</pc>
+          <pc n="pc5">,</pc>
           <w ana="d--------" n="w33">nunc</w>
           <w ana="a-s---fb-" n="w34">tanta</w>
           <w ana="c--------" n="w35">cum</w>
@@ -3972,10 +3972,10 @@
           <w ana="v3ppsa---" n="w56">accipiant</w>
           <pc n="pc11">.</pc>
         </s>
-        <s n="s4">
+        <s n="s6">
           <w ana="p-s---ng-" n="w1">Huius</w>
           <w ana="p-s---ng-" n="w2">eiusdem</w>
-          <w ana="n-s---ng-" n="w3">fani</w>
+          <w ana="n-s---ng-" n="w3">phani</w>
           <w ana="v-prppna-" n="w4">distracta</w>
           <w ana="n-p---na-" n="w5">praedia</w>
           <w ana="a-p---mb-" n="w6">multis</w>
@@ -3985,6 +3985,7 @@
           <w ana="d-------p" n="w9">multo</w>
           <w ana="a-p---fbc" n="w10">maioribus</w>
           <w ana="n-p---fb-" n="w11">impensis</w>
+          <pc n="pc1b">,</pc>
           <w ana="a-p---na-" n="w12">omnia</w>
           <w ana="v3sria---" n="w13">recuperauit</w>
           <w ana="c--------" n="w14">et</w>
@@ -4002,7 +4003,7 @@
           <w ana="v3sria---" n="w26">exposuit</w>
           <pc n="pc2">.</pc>
         </s>
-        <s n="s5">
+        <s n="s7">
           <w ana="p-s---fn-" n="w1">Haec</w>
           <w ana="d--------" n="w2">quoque</w>
           <w ana="a-s---fn-" n="w3">sacra</w>
@@ -4014,13 +4015,13 @@
           <w ana="v3slsa---" n="w9">potuisset</w>
           <w ana="c--------" n="w10">si</w>
           <w ana="d-------p" n="w11">tantum</w>
-          <w ana="m--------" n="w12">quatuor</w>
+          <w ana="m--------" n="w12">quattuor</w>
           <w ana="n-p---mb-" n="w13">mensibus</w>
           <w ana="a-s---map" n="w14">superstitem</w>
           <w ana="v3slsa---" n="w15">uidisset</w>
           <pc n="pc1">.</pc>
         </s>
-        <s n="s6">
+        <s n="s8">
           <w ana="d--------" n="w1">Iam</w>
           <w ana="c--------" n="w2">enim</w>
           <w ana="v3slia---" n="w3">decreuerat</w>
@@ -4048,7 +4049,7 @@
           <w ana="v3sisa---" n="w25">posset</w>
           <pc n="pc1">.</pc>
         </s>
-        <s n="s7">
+        <s n="s9">
           <w ana="d--------" n="w1">Insuper</w>
           <w ana="c--------" n="w2">et</w>
           <w ana="n-s---fa-" n="w3">bibliothecam</w>
@@ -4065,16 +4066,16 @@
           <w ana="v-srppfa-" n="w14">refertam</w>
           <pc n="pc1">.</pc>
         </s>
-        <s n="s8">
+        <s n="s10">
           <w ana="c--------" n="w1">Sed</w>
-          <w ana="n-s---mg-" n="w2">dei</w>
+          <w ana="n-s---mg-" n="w2">Dei</w>
           <w ana="n-s---fb-" n="w3">uoluntate</w>
           <w ana="p-p---md-" n="w4">nobis</w>
           <w ana="d--------" n="w5">tam</w>
           <w ana="d-------p" n="w6">repente</w>
           <w ana="v-srppmn-" n="w7">ademptus</w>
           <w ana="v3spia---" n="w8">est</w>
-          <pc n="pc1">,</pc>
+          <pc n="pc1">;</pc>
           <w ana="d--------" n="w9">non</w>
           <w ana="c--------" n="w10">quod</w>
           <w ana="d--------" n="w11">tam</w>
@@ -4082,14 +4083,14 @@
           <w ana="n-p---nb-" n="w13">operibus</w>
           <w ana="d--------" n="w14">non</w>
           <w ana="v3sisd---" n="w15">delectaretur</w>
-          <w ana="n-s---mn-" n="w16">deus</w>
+          <w ana="n-s---mn-" n="w16">Deus</w>
           <pc n="pc2">,</pc>
           <w ana="c--------" n="w17">uerum</w>
-          <pc n="pc3">(</pc>
+          <pc n="pc3">,</pc>
           <w ana="p-s---na-" n="w18">quod</w>
           <w ana="d--------" n="w19">ualde</w>
           <w ana="v1spia---" n="w20">pertimesco</w>
-          <pc n="pc4">)</pc>
+          <pc n="pc4">,</pc>
           <w ana="c--------" n="w21">ut</w>
           <w ana="p-s---ma-" n="w22">eum</w>
           <w ana="n-p---fd-" n="w23">calamitatibus</w>
@@ -4104,7 +4105,6 @@
           <pc n="pc6">,</pc>
           <w ana="a-s---ma-" n="w31">immeritum</w>
           <w ana="v3sisa---" n="w32">subtraheret</w>
-          <pc n="pc7">,</pc>
           <w ana="c--------" n="w33">et</w>
           <w ana="r--------" n="w34">pro</w>
           <w ana="v-srppnb-" n="w35">adimpleto</w>
@@ -4123,7 +4123,9 @@
           <w ana="v3si-a---" n="w46">differret</w>
           <pc n="pc10">.</pc>
         </s>
-        <s n="s9">
+      </p>
+      <p n="20" xml:id="modrusiensis-riario20morph">
+        <s n="s1">
           <w ana="p-s---fg-" n="w1">Cuius</w>
           <w ana="n-s---fg-" n="w2">miserationis</w>
           <w ana="n-s---fg-" n="w3">dilectionisque</w>
@@ -4133,8 +4135,8 @@
           <w ana="p-s---mg-" n="w7">ipsius</w>
           <w ana="v1pria---" n="w8">uidimus</w>
           <w ana="n-s---fb-" n="w9">morte</w>
-          <pc n="pc1">;</pc>
           <w ana="p-s---fa-" n="w10">quam</w>
+          <pc n="pc1">,</pc>
           <w ana="c--------" n="w11">cum</w>
           <w ana="a-p---fb-" n="w12">multis</w>
           <w ana="d--------" n="w13">ante</w>
