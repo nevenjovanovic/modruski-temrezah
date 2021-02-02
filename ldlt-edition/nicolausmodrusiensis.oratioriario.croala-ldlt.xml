@@ -215,17 +215,16 @@ et hunc publicum totius curiae luctum ulla ex parte leuare possent.
    <note type="parallel" target="#modrusiensis-riario01"
  xml:id="p-f1-cicero">
   <bibl>
-   <author>Cic.</author>
-   <title>fam.</title>
+   <author>Cicero</author>
+   <title>Ad familiares</title>
    <biblScope>5, 16, 1</biblScope>
   </bibl>: <quote>Etsi unus ex omnibus minime sum ad te consolandum accommodatus, quod tantum ex tuis molestiis cepi doloris ut consolatione ipse egerem.</quote>
-         
    </note>
    <note type="parallel" target="#modrusiensis-riario01"
  xml:id="p-f2-cicero">
   <bibl>
-   <author>Cic.</author>
-   <title>Off.</title>
+   <author>Cicero</author>
+   <title>De officiis</title>
    <biblScope>1, 50</biblScope>
   </bibl>: <quote>Eius (i. e. societatis) autem vinculum est ratio et oratio.</quote>
    </note>
@@ -323,7 +322,8 @@ agam tamen ut potero et minus temeritatis quam ingratitudinis notam subire uereb
    <note type="parallel" target="#modrusiensis-riario02"
  xml:id="p-f3-biblia">
   <bibl>
-   <title>Tob</title>
+   <author>Biblia</author>
+   <title>Tobias</title>
    <biblScope>5, 23</biblScope>
   </bibl>: <quote>baculum senectutis nostrae, solatium vitae nostrae</quote>
          
@@ -379,8 +379,8 @@ quae quales in eo fuerint, breuiter explicare conabor.
 </p>
    <note type="parallel" target="#modrusiensis-riario03" xml:id="p-f4-cicero-valla">
   <bibl>
-   <author>Cic.</author>
-   <title>Tusc.</title>
+   <author>Cicero</author>
+   <title>Tusculanae disputationes</title>
    <biblScope>5, 30, 85</biblScope>
   </bibl>: <quote>tria genera bonorum, maxuma animi, secunda corporis, externa tertia, ut Peripatetici nec multo veteres Academici secus</quote>
          <bibl>
@@ -603,8 +603,8 @@ memoriae mandasse existimares.
    <note type="parallel" target="#modrusiensis-riario04"
  xml:id="p-f5a-horatius">
   <bibl>
-   <author>Hor.</author>
-   <title>c.</title>
+   <author>Horatius</author>
+   <title>carmina</title>
    <biblScope>4, 27–32</biblScope>
   </bibl>: <quote>ego apis Matinae / more modoque, / grata carpentis thyma per laborem / plurimum, circa nemus uvidique / Tiburis ripas operosa parvos / carmina fingo.</quote>
    </note>
@@ -619,8 +619,8 @@ memoriae mandasse existimares.
    <note type="parallel" target="#modrusiensis-riario04"
  xml:id="p-f5c-cicero">
   <bibl>
-   <author>Cic.</author>
-   <title>Brut.</title>
+   <author>Cicero</author>
+   <title>Brutus</title>
    <biblScope>154</biblScope>
   </bibl>: <quote>Galli hominis acuti et exercitati promptam et paratam in agendo et in respondendo celeritatem subtilitate diligentiaque superavit</quote>
    </note>
@@ -801,8 +801,8 @@ aut dicere illi »quare sic fecisti«.
          </p>
    <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6a-firmicus">
   <bibl>
-   <author>Firm.</author>
-   <title>math.</title>
+   <author>Firmicus Maternus</author>
+   <title>mathesis</title>
    <biblScope>8, 21, 4</biblScope>
   </bibl>: <quote>In Ofiucho qui nati fuerint erunt audaces, enthei, praesago diuinitatis instinctu futura noscentes.</quote>
    </note>
