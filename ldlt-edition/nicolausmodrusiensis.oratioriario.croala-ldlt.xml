@@ -737,12 +737,24 @@ quae
 <lem>semper</lem>
 <rdg wit="#R"></rdg>
 </app>
+   <cit>
+      <quote>
 <app>
 <lem>infirma mundi</lem>
 <rdg wit="#va"></rdg>
 </app>
 eligere consueuit 
 ut fortia quaeque confundat, 
+      </quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>I Cor</title>
+   <biblScope>1, 27</biblScope>
+  </bibl>
+      <note type="source" xml:id="p-f6b-biblia-s">
+         <quote>infirma mundi elegit Deus ut confundat fortia</quote>
+   </note>
+   </cit>
 <app>
 <lem>cardinalis</lem>
 <rdg wit="#C">cardinalatus</rdg>
@@ -772,6 +784,8 @@ certamque esse illam
 <rdg wit="#va">Nabuchodonosor</rdg>
 </app> 
 confessionem in quam et regno et sensui restitutus supplex prorupit dicens 
+<cit>
+   <quote>
 in manu solius omnipotentis Dei esse omnia regna terrarum atque illa, quibus ipse 
 <app>
 <lem>uoluerit</lem>
@@ -798,27 +812,14 @@ possit obsistere
 <rdg wit="#va">uolunptati</rdg>
 </app> 
 aut dicere illi »quare sic fecisti«.
-         </p>
-   <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6a-firmicus">
-  <bibl>
-   <author>Firmicus Maternus</author>
-   <title>mathesis</title>
-   <biblScope>8, 21, 4</biblScope>
-  </bibl>: <quote>In Ofiucho qui nati fuerint erunt audaces, enthei, praesago diuinitatis instinctu futura noscentes.</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6b-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>I Cor</title>
-   <biblScope>1, 27</biblScope>
-  </bibl>: <quote>infirma mundi elegit Deus ut confundat fortia</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f7-biblia">
+   </quote>
   <bibl>
    <author>Biblia</author>
    <title>Daniel</title>
    <biblScope>4, 31–32</biblScope>
-  </bibl>: <quote>Igitur post finem dierum ego Nabuchodonosor oculos meos ad caelum levavi, et sensus meus redditus est mihi, et Altissimo benedixi et Viventem in sempiternum laudavi et glorificavi,
+  </bibl>
+<note type="source" xml:id="p-f7-biblia-s">
+   <quote>Igitur post finem dierum ego Nabuchodonosor oculos meos ad caelum levavi, et sensus meus redditus est mihi, et Altissimo benedixi et Viventem in sempiternum laudavi et glorificavi,
 quia potestas eius potestas sempiterna,
 et regnum eius in generationem et generationem;
 et omnes habitatores terrae apud eum in nihilum reputati sunt:
@@ -826,6 +827,15 @@ iuxta voluntatem enim suam facit
 tam in virtutibus caeli quam in habitatoribus terrae,
 et non est qui resistat manui eius
 et dicat ei: “Quid facis?”.</quote>
+   </note>
+</cit>
+         </p>
+   <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6a-firmicus">
+  <bibl>
+   <author>Firmicus Maternus</author>
+   <title>mathesis</title>
+   <biblScope>8, 21, 4</biblScope>
+  </bibl>: <quote>In Ofiucho qui nati fuerint erunt audaces, enthei, praesago diuinitatis instinctu futura noscentes.</quote>
    </note>
 <p n="6" xml:id="modrusiensis-riario06">
 Petrus igitur per hunc modum in principatu constitutus, qui solet uiros ostendere, 
@@ -1931,7 +1941,7 @@ Delicta, quae
 aetatis uel fortunae uitio pro fragilitate humana contraxerat, 
 pia confessione saepius diligentiusque purgauit et 
 <app>
-<lem>\edtext{munitus</lem>
+<lem>munitus</lem>
 <rdg wit="#V #Gd #P">minutus</rdg>
 </app>  
 caelesti uiatico, 
@@ -2122,6 +2132,20 @@ immortalitati.
    <biblScope>1, 23–24</biblScope>
   </bibl>: <quote>coartor autem e duobus desiderium habens dissolui et cum Christo esse multo magis melius permanere autem in carne magis necessarium est propter uos</quote>
    </note>
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f21-petrusdamiani">
+   <bibl>
+   <author>Petrus Damianus</author>
+   <title>De ordine eremitarum et facultatibus eremi Fontis Avellani</title>
+   <biblScope>PL145, 0334B</biblScope>
+  </bibl>: <quote>Non itaque ad monasterialem laxitudinem ab eremitica vos libeat districtione descendere: et, relicta lege spiritus, carnis illecebris et lenociniis consentire.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f21-sidonius">
+   <bibl>
+   <author>Sidonius Apollinaris</author>
+   <title>Epistulae</title>
+   <biblScope>2, 13, 3</biblScope>
+  </bibl>: <quote>solus iste peculiaris tuus Maximus maximo nobis documento poterit esse</quote>
+   </note>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f22-horatius">
   <bibl>
    <author>Horatius</author>
@@ -2145,7 +2169,7 @@ immortalitati.
    </note>
 <p n="21" xml:id="modrusiensis-riario21">
 Reliquum est quod uos 
-per uiscera misericordiae saluatoris nostri 
+per uiscera misericordiae Saluatoris nostri 
 supplex deprecor ut mihi, quaecumque in uos deliqui, condonare dignemini.  
 Minus quippe meae iuuentutis potens fui et nonnunquam partim oculos, 
 partim aures uestras in multis offendi.  
@@ -2169,6 +2193,40 @@ quam caduca sit huius mundi felicitas, uel meo exemplo
 <rdg wit="#C">addiscite</rdg>
 </app>.«
          </p>
+   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-biblia">
+  <bibl>
+   <author>Biblia</author>
+   <title>Lucas</title>
+   <biblScope>1, 78</biblScope>
+  </bibl>: <quote>per viscera misericordiae Dei nostri in quibus visitavit nos oriens ex alto</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-seneca">
+  <bibl>
+   <author>Seneca</author>
+   <title>De brevitate vitae</title>
+   <biblScope>18, 5</biblScope>
+  </bibl>: <quote>Modo modo intra paucos illos dies, quibus C. Caesar perit, si quis inferis sensus est, hoc gravissime ferens</quote>
+      <bibl>
+   <author>Seneca</author>
+   <title>De consolatione ad Polybium</title>
+   <biblScope>9, 2</biblScope>
+  </bibl>: <quote>Quid itaque iuvat dolori intabescere, quem, si quis defunctis sensus est, finiri frater tuus cupit?</quote>
+      <bibl>
+   <author>Seneca</author>
+   <title>Octavia</title>
+   <biblScope>10–13</biblScope>
+  </bibl>: <quote>semper, genetrix, deflenda mihi, / prima meorum causa malorum, / tristes questus natae exaudi, / si quis remanet sensus in umbris</quote>
+      <bibl>
+   <author>Statius</author>
+   <title>Thebais</title>
+   <biblScope>12, 214–215</biblScope>
+  </bibl>: <quote>et nunc me duram, si quis tibi sensus ad umbras, / me tardam Stygiis quereris, fidissime, divis.</quote>
+      <bibl>
+   <author>Marcus Iunianus Iustinus</author>
+   <title>Epitoma historiarum Philippicarum</title>
+   <biblScope>6, 1, 17</biblScope>
+  </bibl>: <quote>Quamobrem etiam Philippum Alexandrumque, si quis manium sensus est, non interfectores suos ac stirpis suae, sed ultores eorum Macedoniae regnum tenere malle.</quote>
+   </note>
 <p n="22" xml:id="modrusiensis-riario22">
 His atque aliis huiusmodi plerisque summa cum religione sanctissime monitos singulos 
 flentes eiulantesque 
@@ -2186,11 +2244,20 @@ misericordiam peccatorum suorum supplex
 </app> 
 Domino precabatur.  
 Cumque iam nox intempesta medium cursum peregisset, 
-conuersus ad Viterbiensem praesulem »Ecce«, inquit, »appropinquat
+conuersus ad Viterbiensem praesulem »Ecce«, inquit, <cit>
+   <quote>
+      appropinquat
 <app>
 <lem>iam</lem>
 <rdg wit="#C"></rdg>
-</app> hora; 
+</app> hora</quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Matthaeus</title>
+   <biblScope>26, 45</biblScope>
+  </bibl>
+   <note type="source" target="#modrusiensis-riario22" xml:id="p-f26-biblia"><quote>ecce appropinquavit hora</quote>
+   </note></cit>; 
 affer mihi sacrae unctionis oleum.«  
 Quod confestim cubiculo illatum nudato ac sublato, 
 ut poterat, capite religiose ueneratus est, 
@@ -2223,17 +2290,31 @@ euangelia;
 semperque intentus auribus atque oculis in ea, 
 quae legebantur, etiam deficiente spiritu perstitit, 
 donec lector Dominicae passionis ad illum locum peruenit 
-ubi scriptura inquit »et inclinato 
+ubi scriptura inquit 
+<cit>
+   <quote>
+et inclinato 
 <app>
 <lem>capite</lem>
 <rdg wit="#pa">capito</rdg>
 </app> 
-emisit spiritum«.  
+emisit spiritum.
+   </quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Iohannes</title>
+   <biblScope>19, 30</biblScope>
+  </bibl>
+   <note type="source" target="#modrusiensis-riario22" xml:id="p-f27-biblia">
+      <quote>et inclinato capite tradidit spiritum</quote>
+   </note>
+</cit>
 <app>
 <lem>Ad hanc uocem illa dilecta Deo anima ueluti certo accepto signo ad Dominum suum confestim euolauit.</lem>
 <rdg wit="#Ge #C #va #o"></rdg>
 </app>
 </p>
+   
 <p n="23" xml:id="modrusiensis-riario23">
 O felix atque iterum felix 
 cui et 
@@ -2272,74 +2353,56 @@ sua commoda ex amici
 Quicquid superuixisset, doloribus superuixisset et laboribus; 
 quibus quoniam eum diuina clementia misericorditer subduxit, 
 gratias illi agamus atque dicamus: 
-»Dominus dedit, Dominus abstulit; sicut Domino placuit ita factum est; sit nomen Domini benedictum.« 
-
+<cit>
+<quote>Dominus dedit, Dominus abstulit; sicut Domino placuit ita factum est; sit nomen Domini benedictum.</quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Iob</title>
+   <biblScope>1, 21</biblScope>
+  </bibl>
+   <note type="parallel" target="#modrusiensis-riario23" xml:id="p-f29-biblia">
+    Cf.  <bibl>
+   <author>Nicolaus Modrussiensis</author>
+   <title>De consolatione</title>
+   <biblScope>II, 6, 7</biblScope>
+  </bibl>
+   </note>
+</cit>
 <app>
 <lem>Amen.</lem>
-<rdg wit="#C">Amen. Laus Deo.</rdg><rdg wit="#m">Amen. Laus Deo. I. H. S.</rdg>
+   <rdg wit="#Ge #o">Amen. ET SIC EST FINIS.</rdg>
+<rdg wit="#C">Amen. Laus Deo. Impressum Padue die penultima Augusti 1482 per Matheum Cerdonis.</rdg><rdg wit="#m">Amen. Laus Deo. I. H. S.</rdg>
 </app>
 </p>
-   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Lucas</title>
-   <biblScope>1, 78</biblScope>
-  </bibl>: <quote>per viscera misericordiae Dei nostri in quibus visitavit nos oriens ex alto</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f26-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Matthaeus</title>
-   <biblScope>26, 45</biblScope>
-  </bibl>: <quote>ecce appropinquavit hora</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f27-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Iohannes</title>
-   <biblScope>19, 30</biblScope>
-  </bibl>: <quote>et inclinato capite tradidit spiritum</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f28-terentius">
+   <note type="parallel" target="#modrusiensis-riario23" xml:id="p-f28-terentius">
   <bibl>
    <author>Terentius</author>
    <title>Andria</title>
    <biblScope>627–628</biblScope>
   </bibl>: <quote>ex incommodis alterius sua ut comparent commoda</quote>
    </note>
-   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f29-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Iob</title>
-   <biblScope>1, 21</biblScope>
-  </bibl>; etiam
-      <bibl>
-   <author>Nicolaus Modrussiensis</author>
-   <title>De consolatione</title>
-   <biblScope>II, 6, 7</biblScope>
-  </bibl>
-   </note>
+   
                                     </div>
             <app>
             <lem></lem>
             <rdg wit="#ve">
                <div type="textpart" n="2" xml:id="epigrammata">
-                  <div>
+                  <div n="e1" xml:id="modrusiensis-riario-epigr1">
                      <head>In laudem libelli</head>
                      <l>Ęloquio uires quantę sint, aspice, lector</l>
                      <l>Quem prius odisti, protinus hunc peramas.</l>
                   </div>
-                  <div>
+                  <div n="e2" xml:id="modrusiensis-riario-epigr2">
                      <head><sic>Epithaphion</sic></head>
                      <l>Nemo magis docuit perituri temnere sęcli</l>
                      <l>Diuitias, fastum, luxuriemque simul.</l>
                   </div>
-                  <div>
+                  <div n="e3" xml:id="modrusiensis-riario-epigr3">
                      <head>Aliud.</head>
                      <l>Quam celeris fugiat ruituri gloria mundi</l>
                      <l>Me speculum cernas quisque uiator ades.</l>
                   </div>
-                  <div>
+                  <div n="e4" xml:id="modrusiensis-riario-epigr4">
                      <head>Aliud.</head>
                      <l>Sorte humili natum qui me cognouerit ante</l>
                      <l>Fortunę uarios rideat ille iocos.</l>
