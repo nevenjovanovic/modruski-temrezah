@@ -57,14 +57,6 @@
                            <date>[1474]</date></bibl>.
                         GW M26710. Fratres de Vulterris libros excudebant annis 1472–1474.
                      </witness>
-                     <witness xml:id="V1">
-                        <abbr type="siglum">V1</abbr>
-                        <bibl>
-                           <pubPlace>Romae</pubPlace>:
-                           <publisher>In domo Antonii et Raphaelis de Vulterris</publisher>,
-                           <date>[1474]</date></bibl>.
-                        GW M26711. Editio differt a priore secundum Bošnjak 1976, Bošnjak 1983.
-                     </witness>
                      <witness xml:id="Ge">
                         <abbr type="siglum">Ge</abbr>
                         <bibl>
@@ -2400,8 +2392,9 @@ gratias illi agamus atque dicamus:
    </note>
    
                                     </div>
+            <div type="textpart" n="2" xml:id="epigrammata">
             <app>
-            <lem><div type="textpart" n="2" xml:id="epigrammata">
+            <lem>
                   <div n="e1" xml:id="modrusiensis-riario-epigr1">
                      <head>In laudem libelli</head>
                      <l>Ęloquio uires quantę sint, aspice, lector</l>
@@ -2422,14 +2415,12 @@ gratias illi agamus atque dicamus:
                      <l>Sorte humili natum qui me cognouerit ante</l>
                      <l>Fortunę uarios rideat ille iocos.</l>
                   </div>
-               </div></lem>
-            <rdg wit="#ve" type="addidit">
-               Versus leguntur tantummodo in ve.
-            </rdg>
+               </lem>
             <rdg wit="#V #R #P #C #Gd #Ge #co #m #va #pa #o" type="omisit">
-               Omiserunt.
+               Versus leguntur tantummodo in ve. Alii omiserunt.
             </rdg>
          </app>
+         </div>
          </div>
       </body>
       <back>
