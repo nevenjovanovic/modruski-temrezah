@@ -2394,7 +2394,7 @@ gratias illi agamus atque dicamus:
                                     </div>
             <div type="textpart" n="2" xml:id="epigrammata">
             <app>
-            <lem>
+            <lem type="potissimum">
                   <div n="e1" xml:id="modrusiensis-riario-epigr1">
                      <head>In laudem libelli</head>
                      <l>Ęloquio uires quantę sint, aspice, lector</l>
