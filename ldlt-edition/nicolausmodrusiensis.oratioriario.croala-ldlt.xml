@@ -838,7 +838,14 @@ et dicat ei: “Quid facis?”.</quote>
   </bibl>: <quote>In Ofiucho qui nati fuerint erunt audaces, enthei, praesago diuinitatis instinctu futura noscentes.</quote>
    </note>
 <p n="6" xml:id="modrusiensis-riario06">
-Petrus igitur per hunc modum in principatu constitutus, qui solet uiros ostendere, 
+Petrus igitur per hunc modum in principatu constitutus, qui <cit><quote>solet uiros ostendere</quote>
+  <bibl>
+   <author>Aristoteles</author>
+   <title>Ethica ad Nicomachum</title>
+   <biblScope>3, 1330, a 1-2</biblScope>
+  </bibl>
+<note type="source" xml:id="p-f8-aristoteles-s"><quote>principatus virum ostendit</quote></note>
+   </cit>, 
 talem 
 <app>
 <lem>sese</lem>
@@ -937,7 +944,21 @@ Affluebant quotidie opes
 et ab omnibus ferme Christianis principibus magni prouentus ultro offerebantur; 
 quos licet ipse in illos, quos diximus, acceptaret usus, 
 prophetici tamen documenti memor 
-minime ad ea cor apponebat, 
+<cit><quote>minime ad ea cor apponebat</quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Psalmi</title>
+   <biblScope>61, 11</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario06" xml:id="p-f9-biblia">
+   <quote>diuitiae si affluant, nolite cor apponere</quote>; cf. etiam 
+      <bibl>
+   <author>Nicolaus Modrussiensis</author>
+   <title>De consolatione</title>
+   <biblScope>II, 15, 24</biblScope>
+  </bibl>
+   </note>
+</cit>, 
 neque <app>
 <lem>illis</lem>
 <rdg wit="#C">ullo</rdg>
@@ -967,25 +988,8 @@ culpam magis dolens quam
 <rdg wit="#V #C #Gd #m">dampnum</rdg>
 </app>. 
 </p>
-   <note type="parallel" target="#modrusiensis-riario06" xml:id="p-f8-aristoteles">
-  <bibl>
-   <author>Aristoteles</author>
-   <title>Ethica ad Nicomachum</title>
-   <biblScope>3, 1330, a 1-2</biblScope>
-  </bibl>: <quote>principatus virum ostendit</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario06" xml:id="p-f9-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Psalmi</title>
-   <biblScope>61, 11</biblScope>
-  </bibl>: <quote>diuitiae si affluant, nolite cor apponere</quote>; etiam 
-      <bibl>
-   <author>Nicolaus Modrussiensis</author>
-   <title>De consolatione</title>
-   <biblScope>II, 15, 24</biblScope>
-  </bibl>
-   </note>
+   
+   
 <p n="7" xml:id="modrusiensis-riario07">
 A suscepto semel negotio nullo metu absterreri potuerat, 
 nullo periculo depelli. 
@@ -1192,7 +1196,15 @@ pectora,
 ubi sunt dirissimo felle manantia praecordia, 
 ubi rabidorum canum pestiferi dentes, 
 qui inexpiabili temeritate ausi sunt 
-os suum in caelo ponere  
+<cit><quote>os suum in caelo ponere</quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Psalmi</title>
+   <biblScope>72 (73), 9</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario12" xml:id="p-f10-biblia-s"><quote>Posuerunt in caelum os suum, et lingua eorum transivit in terra</quote>
+   </note>
+</cit>  
 et uicarii Christi fratrumque eius, 
 tam excellentissimorum patrum, 
 factum 
@@ -1207,14 +1219,23 @@ qui prius a
 <rdg wit="#R">donimo</rdg>
 </app>  
 electi sunt, 
-a quo sunt omnium regnorum potestates, 
+<cit>
+   <quote>a quo sunt omnium regnorum potestates</quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Epistula ad Romanos</title>
+   <biblScope>13, 1</biblScope>
+  </bibl>
+   <note type="source" target="#modrusiensis-riario12" xml:id="p-f11-biblia"><quote>non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt</quote>
+   </note>
+</cit>, 
 quam a summo pontifice declarati, 
 perditissima audacia lacerare? 
 <app>
 <lem>Caue,</lem>
 <rdg wit="#Ge #C #Gd #va #o"></rdg>
 </app>  
-caue tibi, lingua dolosa, ne Deus
+caue tibi, lingua dolosa, ne <cit><quote>Deus
 <app>
 <lem>destruat</lem>
 <rdg wit="#pa">destruet</rdg>
@@ -1225,21 +1246,49 @@ te in finem,
 <rdg wit="#ve1">euellet</rdg>
 <rdg wit="#ve1">euellat</rdg>
 </app>  
-te, et emigret te de tabernaculo tuo, et radicem tuam de terra uiuentium! 
+te, et emigret te de tabernaculo tuo, et radicem tuam de terra uiuentium!</quote>
+
+  <bibl>
+   <author>Biblia</author>
+   <title>Psalmi</title>
+   <biblScope>52, 5 (51, 7)</biblScope>
+  </bibl>
+   <note type="source" target="#modrusiensis-riario12" xml:id="p-f12-biblia">
+      <quote>sed Deus destruet te in sempiternum terrebit et euellet te de tabernaculo et eradicabit te de terra uiuentium semper</quote>; in versione antiqua: <quote>Deus destruet te in finem, euellat te, et emigret te de tabernaculo suo, et radicem tuam de terra uiuentium</quote>
+   </note>
+</cit> 
 Sed haec illi 
 <app>
 <lem>uiderunt</lem>
 <rdg wit="#ve">uiderint</rdg>
 </app>  
 qui 
-fecerunt linguam suam nouaculam acutam 
+<cit><quote>fecerunt linguam suam nouaculam acutam</quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Psalmi</title>
+   <biblScope>52, 2 (51, 4)</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario12" xml:id="p-f13-biblia">
+   <quote>insidias cogitat lingua tua quasi nouacula acuta faciens dolum</quote>
+   </note>
+</cit> 
 et 
-sedentes aduersus fratrem suum 
+<cit>
+   <quote>sedentes aduersus fratrem suum 
 <app>
 <lem>tota</lem>
 <rdg wit="#va"></rdg>
 </app>   
-die concinnabant dolos. 
+die concinnabant dolos.</quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Psalmi</title>
+   <biblScope>49, 19-20</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario12" xml:id="p-f14-biblia"><quote>Os tuum abundavit malitia, et lingua tua concinnabat dolos. Sedens adversus fratrem tuum loquebaris</quote>
+   </note>
+</cit> 
 Sed haec illi uiderunt; 
 nos interea reliquas Petri uirtutes, 
 non quibus debemus, sed quibus possumus, laudibus 
@@ -1248,41 +1297,6 @@ non quibus debemus, sed quibus possumus, laudibus
 <rdg wit="#V #C #P">p-sequamur</rdg>
 </app>.
          </p>
-<note type="parallel" target="#modrusiensis-riario12" xml:id="p-f10-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Psalmi</title>
-   <biblScope>72 (73), 9</biblScope>
-  </bibl>: <quote>Posuerunt in caelum os suum, et lingua eorum transivit in terra</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario12" xml:id="p-f11-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Epistula ad Romanos</title>
-   <biblScope>13, 1</biblScope>
-  </bibl>: <quote>non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario12" xml:id="p-f12-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Psalmi</title>
-   <biblScope>52, 5 (51, 7)</biblScope>
-  </bibl>: <quote>sed Deus destruet te in sempiternum terrebit et euellet te de tabernaculo et eradicabit te de terra uiuentium semper</quote>; in versione antiqua: <quote>Deus destruet te in finem, euellat te, et emigret te de tabernaculo suo, et radicem tuam de terra uiuentium</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario12" xml:id="p-f13-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Psalmi</title>
-   <biblScope>52, 2 (51, 4)</biblScope>
-  </bibl>: <quote>insidias cogitat lingua tua quasi nouacula acuta faciens dolum</quote>
-   </note>
-   <note type="parallel" target="#modrusiensis-riario12" xml:id="p-f14-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Psalmi</title>
-   <biblScope>49, 19-20</biblScope>
-  </bibl>: <quote>Os tuum abundavit malitia, et lingua tua concinnabat dolos. Sedens adversus fratrem tuum loquebaris</quote>
-   </note>
    <p n="13" xml:id="modrusiensis-riario13">
 Itaque, ut propositus ordo postulat, nunc ipsius prudentiam contemplemur, 
 quamuis eius excellentia iam per ea, quae narrauimus, 
@@ -1682,21 +1696,20 @@ nunquam ab
 <rdg wit="#R">discessit</rdg>
 </app>, 
 semperque, 
-ut datus a Domino Tobiae angelus, 
-lateri haesit; 
+<cit><ref>ut datus a Domino Tobiae angelus, 
+lateri haesit</ref>
+  <bibl>
+   <author>Biblia</author>
+   <title>Tobias</title>
+   <biblScope>5–12</biblScope>
+  </bibl>
+</cit>; 
 aduersa procurauit, accersiuit prospera; 
 pia sedulitate fouit, coluit, ueneratus est, 
 ut nemini mirum uideri debeat 
 si aut uiuentem tantum dilexit 
 aut nunc mortui desiderio adeo moueatur.
 </p>
-   <note type="parallel" target="#modrusiensis-riario18" xml:id="p-f16-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Tobias</title>
-   <biblScope>5–12</biblScope>
-  </bibl>
-   </note>
 <p n="19" xml:id="modrusiensis-riario19">
 Finem dicendi faciam si 
 <app>
@@ -1714,7 +1727,16 @@ Compositis rebus suis totam mentem ad illud conuerterat ut dicere cum psalmista
 <rdg wit="#co">libenter</rdg>
 </app>  
 posset: 
-»Domine, dilexi decorem domus tuae et gloriam habitationis tuae.«  
+<cit><quote>Domine, dilexi decorem domus tuae et gloriam habitationis tuae.</quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Psalmi</title>
+   <biblScope>26, 8 (25, 8)</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario19" xml:id="p-f17-biblia">
+   <quote>Domine dilexi habitaculum domus tuae et locum tabernaculi gloriae tuae</quote>
+   </note>
+</cit>
 Proinde non 
 <app>
 <lem>cessabat</lem>
@@ -1911,13 +1933,7 @@ cuius gratia eum procreauerat, congruis praemiis
 <rdg wit="#C">efficere</rdg>
 </app>  
 non differret.</p>
-   <note type="parallel" target="#modrusiensis-riario19" xml:id="p-f17-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Psalmi</title>
-   <biblScope>26, 8 (25, 8)</biblScope>
-  </bibl>: <quote>Domine dilexi habitaculum domus tuae et locum tabernaculi gloriae tuae</quote>
-   </note>
+   
 <p n="20" xml:id="modrusiensis-riario20">
 Cuius miserationis dilectionisque certa indicia 
 <app>
@@ -2016,11 +2032,19 @@ Maius restabat nihil; quicquid supererat, merito mihi suspectum metuendumque fui
 <rdg wit="#P">Prouide</rdg>
 </app>  
 licet 
-cupiam dissolui et esse cum Christo, uror tamen sola uestrarum 
+<cit><quote>cupiam dissolui et esse cum Christo, uror tamen sola uestrarum 
 <app>
 <lem>rerum cura</lem>
 <rdg wit="#o">cura rerum</rdg>
-</app>.  Cognosco enim me tenuem uobis 
+</app></quote>
+  <bibl>
+   <author>Biblia</author>
+   <title>Epistula ad Philippenses</title>
+   <biblScope>1, 23–24</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario20" xml:id="p-f21-biblia">
+   <quote>coartor autem e duobus desiderium habens dissolui et cum Christo esse multo magis melius permanere autem in carne magis necessarium est propter uos</quote></note>
+</cit>.  Cognosco enim me tenuem uobis 
 <app>
 <lem>mercedem</lem>
 <rdg wit="#va"></rdg>
@@ -2069,7 +2093,13 @@ ponatis; quae
 </app>  
 sint, ego unus uobis maximo possum esse documento.  
 Credite quoniam 
-puluis et umbra sumus 
+<cit><quote>puluis et umbra sumus</quote>
+  <bibl>
+   <author>Horatius</author>
+   <title>carmina</title>
+   <biblScope>4, 7, 16</biblScope>
+  </bibl>
+</cit> 
 et non hic, sed 
 alibi permanentes habemus mansiones, 
 ubi nihil corruptibile, nihil caducum esse potest, sed omnia incorruptibilia, omnia sempiterna.  Proinde date operam probitati et uirtuti totis uiribus incumbite.  
@@ -2125,13 +2155,7 @@ immortalitati.
    <biblScope>25</biblScope>
   </bibl>: <quote>Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi: »Satis diu vel naturae vixi vel gloriae.«</quote>
    </note>
-   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f21-biblia">
-  <bibl>
-   <author>Biblia</author>
-   <title>Epistula ad Philippenses</title>
-   <biblScope>1, 23–24</biblScope>
-  </bibl>: <quote>coartor autem e duobus desiderium habens dissolui et cum Christo esse multo magis melius permanere autem in carne magis necessarium est propter uos</quote>
-   </note>
+   
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f21-petrusdamiani">
    <bibl>
    <author>Petrus Damianus</author>
@@ -2146,13 +2170,7 @@ immortalitati.
    <biblScope>2, 13, 3</biblScope>
   </bibl>: <quote>solus iste peculiaris tuus Maximus maximo nobis documento poterit esse</quote>
    </note>
-   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f22-horatius">
-  <bibl>
-   <author>Horatius</author>
-   <title>carmina</title>
-   <biblScope>4, 7, 16</biblScope>
-  </bibl>
-   </note>
+   
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f23-biblia">
   <bibl>
    <author>Biblia</author>
