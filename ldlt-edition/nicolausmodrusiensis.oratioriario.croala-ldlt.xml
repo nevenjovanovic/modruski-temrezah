@@ -2256,7 +2256,7 @@ conuersus ad Viterbiensem praesulem »Ecce«, inquit, <cit>
    <title>Matthaeus</title>
    <biblScope>26, 45</biblScope>
   </bibl>
-   <note type="source" target="#modrusiensis-riario22" xml:id="p-f26-biblia"><quote>ecce appropinquavit hora</quote>
+   <note type="source" xml:id="p-f26-biblia"><quote>ecce appropinquavit hora</quote>
    </note></cit>; 
 affer mihi sacrae unctionis oleum.«  
 Quod confestim cubiculo illatum nudato ac sublato, 
@@ -2305,7 +2305,7 @@ emisit spiritum.
    <title>Iohannes</title>
    <biblScope>19, 30</biblScope>
   </bibl>
-   <note type="source" target="#modrusiensis-riario22" xml:id="p-f27-biblia">
+   <note type="source" xml:id="p-f27-biblia">
       <quote>et inclinato capite tradidit spiritum</quote>
    </note>
 </cit>
