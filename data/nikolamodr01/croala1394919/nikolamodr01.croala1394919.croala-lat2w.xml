@@ -686,7 +686,7 @@
           <pc n="pc2">(</pc>
           <w ana="c--------" n="w33">ut</w>
           <w ana="n-s---fg-" n="w34">fortunae</w>
-          <w ana="compositum" n="w35"><w ana="n-s---ng-" n="w35a">corporisque</w><w ana="TKTK" n="w35b">que</w></w>
+          <w ana="compositum" n="w35"><w ana="n-s---ng-" n="w35a">corporis</w><w ana="TKTK" n="w35b">que</w></w>
           <w ana="p-p---na-" n="w36">quaelibet</w>
           <w ana="a-p---na-" n="w37">ingentia</w>
           <w ana="n-p---na-" n="w38">bona</w>
@@ -791,7 +791,7 @@
           <w ana="d--------" n="w4">tunc</w>
           <w ana="n-s---nn-" n="w5">nomen</w>
           <w ana="a-s---mgs" n="w6">religiosissimi</w>
-          <w ana="a-s---mgs" n="w7">doctissimique</w>
+          <w ana="compositum" n="w7"><w n="w7a" ana="a-s---mgs">doctissimi</w><w ana="TKTK" n="w7b">que</w></w>
           <w ana="n-s---mg-" n="w8">uiri</w>
           <pc n="pc0">,</pc>
           <w ana="n-s---mg-" n="w9">magistri</w>
@@ -909,7 +909,7 @@
           <w ana="v3sisa---" n="w28">remearet</w>
           <w ana="c--------" n="w29">et</w>
           <w ana="n-s---fg-" n="w30">matris</w>
-          <w ana="n-p---mg-" n="w31">fratrumque</w>
+          <w ana="compositum" n="w31"><w n="w31a" ana="n-p---mg-">fratrum</w><w ana="TKTK" n="w31b">que</w></w>
           <w ana="n-s---fa-" n="w32">curam</w>
           <pc n="pc3">,</pc>
           <w ana="c--------" n="w33">ut</w>
@@ -1947,7 +1947,7 @@
           <w ana="n-s---fa-" n="w12">ueniam</w>
           <w ana="v3siip---" n="w13">uidebatur</w>
           <pc n="pc1">,</pc>
-          <w ana="a-p---ng-" n="w14">tantumque</w>
+          <w ana="compositum" n="w14"><w n="w14a" ana="d-------p">tantumque</w><w ana="TKTK" n="w14b">que</w></w>
           <w ana="r--------" n="w15">ab</w>
           <w ana="n-s---nb-" n="w16">omni</w>
           <w ana="v3spdd-g-" n="w17">ulciscendi</w>
@@ -2505,7 +2505,7 @@
           <w ana="c--------" n="w29">et</w>
           <w ana="n-s---mg-" n="w30">uicarii</w>
           <w ana="n-s---mg-" n="w31">Christi</w>
-          <w ana="n-p---mg-" n="w32">fratrumque</w>
+          <w ana="compositum" n="w32"><w n="w32a" ana="n-p---mg-">fratrum</w><w ana="TKTK" n="w32b">que</w></w>
           <w ana="p-s---mg-" n="w33">eius</w>
           <pc n="pc4">,</pc>
           <w ana="d--------" n="w34">tam</w>
@@ -4198,7 +4198,7 @@
           <pc n="pc6">.</pc>
         </s>
         <s n="s4">
-          <w ana="d--------" n="w1">Iamque</w>
+          <w ana="compositum" n="w1"><w ana="d--------" n="w1a">Iam</w><w ana="TKTK" n="w1b">que</w></w>
           <w ana="a-s---mn-" n="w2">uicinus</w>
           <w ana="n-s---fd-" n="w3">morti</w>
           <w ana="a-p---ma-" n="w4">domesticos</w>
@@ -4255,7 +4255,7 @@
           <w ana="v3spia---" n="w48">inquit</w>
           <pc n="pc8">,</pc>
           <w ana="n-p---mv-" n="w49">filii</w>
-          <w ana="n-p---mv-" n="w50">fratresque</w>
+          <w ana="compositum" n="w50"><w n="w50a" ana="n-p---mv-">fratres</w><w ana="TKTK" n="w50b">que</w></w>
           <w ana="a-p---mv-" n="w51">mei</w>
           <pc n="pc9">,</pc>
           <w ana="n-s---fa-" n="w52">manum</w>
