@@ -47,7 +47,7 @@
                <div type="subsection"
                   xml:id="preface-subsection-1">
                   <head>Libri impressi</head>
-                  <p>Numerus post siglum GW notam in collectione Gesamtkatalog der Wiegendrucke designat.</p><!-- GW -->
+                  <p>Numerus post siglum GW notam in collectione <orgName ref="http://www.wikidata.org/entity/Q1421256">Gesamtkatalog der Wiegendrucke</orgName> designat.</p><!-- GW -->
                   <listWit>
                      <witness xml:id="V">
                         <abbr type="siglum">V</abbr>
@@ -55,7 +55,8 @@
                            <pubPlace>Romae</pubPlace>:
                            <publisher>In domo Antonii et Raphaelis de Vulterris</publisher>,
                            <date>[1474]</date></bibl>.
-                        GW M26710. Fratres de Vulterris libros excudebant annis 1472–1474.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26710.htm">GW M26710</ref>. Fratres de Vulterris libros excudebant annis 1472–1474.
+                        <ref type="url" target="http://digital.wlb-stuttgart.de/purl/bsz348289790">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q317950">Württembergische Landesbibliothek Stuttgart</orgName></ref>
                      </witness>
                      <witness xml:id="Ge">
                         <abbr type="siglum">Ge</abbr>
@@ -63,7 +64,8 @@
                            <pubPlace>Romae</pubPlace>:
                            <publisher>Johannes Gensberg</publisher>,
                            <date>[1474]</date></bibl>.
-                        GW M26707. Johannes Gensberg libros excudebat 1473–1474.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26707.htm">GW M26707</ref>. Johannes Gensberg libros excudebat 1473–1474.
+                        <ref type="url" target="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00063779-4">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q256507">Bayerische Staatsbibliothek München</orgName></ref>
                      </witness>
                      <witness xml:id="R">
                         <abbr type="siglum">R</abbr>
@@ -71,7 +73,8 @@
                            <pubPlace>Rostochii</pubPlace>:
                            <publisher>Fratres Domus Horti Viridis ad S. Michaelem</publisher>,
                            <date>[1474]</date></bibl>.
-                        GW M26712. Fratres Domus Horti Viridis ad S. Michaelem libros excudebant 1476–1531.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26712.htm">GW M26712</ref>. Fratres Domus Horti Viridis ad S. Michaelem libros excudebant 1476–1531.
+                        <ref type="url" target="https://soeg.kb.dk/permalink/45KBDK_KGL/1pioq0f/alma99122732114905763">Facsimile exemplaris <orgName ref="http://www.wikidata.org/entity/Q867885">Det Kgl. Bibliotek, Copenhagen</orgName></ref>
                      </witness>
                      <witness xml:id="C">
                         <abbr type="siglum">C</abbr>
@@ -79,7 +82,8 @@
                            <pubPlace>Paduae</pubPlace>:
                            <publisher>Matthaeus Cerdonis</publisher>,
                            <date>die 30. Augusti 1482</date></bibl>.
-                        GW M26706. Matthaeus Cerdonis libros excudebat 1482–1487.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26706.htm">GW M26706</ref>. Matthaeus Cerdonis libros excudebat 1482–1487.
+                        <ref type="url" target="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00067886-4">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q256507">Bayerische Staatsbibliothek München</orgName></ref>
                      </witness>
                      <witness xml:id="P">
                         <abbr type="siglum">P</abbr>
@@ -87,7 +91,8 @@
                            <pubPlace>Romae</pubPlace>:
                            <publisher>Stephanus Plannck</publisher>,
                            <date>[1482]</date></bibl>.
-                        GW M26709. Stephanus Plannck libros excudebat 1479–1501.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26709.htm">GW M26709</ref>. Stephanus Plannck libros excudebat 1479–1501.
+                        <ref type="url" target="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00063782-7">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q256507">Bayerische Staatsbibliothek München</orgName></ref>
                      </witness>
                      <witness xml:id="Gd">
                         <abbr type="siglum">Gd</abbr>
@@ -95,7 +100,8 @@
                            <pubPlace>Romae</pubPlace>:
                            <publisher>Bartholomaeus Guldinbeck</publisher>,
                            <date>[1482]</date></bibl>.
-                        GW M26708. Bartholomaeus Guldinbeck libros excudebat 1475–1488.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26708.htm">GW M26708</ref>. Bartholomaeus Guldinbeck libros excudebat 1475–1488.
+                        <ref type="url" target="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00063784-8">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q256507">Bayerische Staatsbibliothek München</orgName></ref>
                      </witness>
                   </listWit>
                   <p>Impressores orationis Nicolai plerique breviores et occasioni accomodatos libros edebant; plerique etiam brevi tantum tempore negotium edendi gerebant (non ultra quinque annis fratres de Vulterris, Gensberg, Cerdonis). Antonius de Vulterris impressor familiaris erat gentis Riariorum, sicut et ipse Nicolaus episcopus Modrusiensis; ea de causa probabile videtur editionem principem orationis in funere Petri Riarii apud fratres de Vulterris typis editam esse. <!-- Farenga 1986 Na vezu tiskara i urotnika upozorila je Farenga, n. dj, 214, bilj. 95. --></p>
@@ -162,8 +168,8 @@
          <app>
             <lem>MODRVSIENSI</lem>
             <rdg wit="#Ge" type="addidit">Modrusiensi 1475</rdg>
-            <rdg wit="#ve" type="ignorat">Modnisiensi</rdg>
-            <rdg wit="#co" type="ignorat">Modrisiensi</rdg>
+            <rdg wit="#ve" type="error" cause="lectioFalsa">Modnisiensi</rdg>
+            <rdg wit="#co" type="error" cause="lectioFalsa">Modrisiensi</rdg>
          </app>
     </head>
          
@@ -207,16 +213,16 @@ et hunc publicum totius curiae luctum ulla ex parte leuare possent.
    <note type="parallel" target="#modrusiensis-riario01"
  xml:id="p-f1-cicero">
   <bibl>
-   <author>Cicero</author>
-   <title>Ad familiares</title>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi056">Ad familiares</title>
    <biblScope>5, 16, 1</biblScope>
   </bibl>: <quote>Etsi unus ex omnibus minime sum ad te consolandum accommodatus, quod tantum ex tuis molestiis cepi doloris ut consolatione ipse egerem.</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario01"
  xml:id="p-f2-cicero">
   <bibl>
-   <author>Cicero</author>
-   <title>De officiis</title>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi055">De officiis</title>
    <biblScope>1, 50</biblScope>
   </bibl>: <quote>Eius (i. e. societatis) autem vinculum est ratio et oratio.</quote>
    </note>
@@ -260,7 +266,7 @@ diligentissimus restaurator.
 Corruit praeclarum magnanimitatis exemplar; cecidit 
 <app>
 <lem>munificentiae</lem>
-<rdg wit="#pa" type="lexicographice" cause="falsaLectio">manificentie</rdg>
+<rdg wit="#pa" type="lexicographice" cause="lectioFalsa">manificentie</rdg>
 </app>, 
 <app>
 <lem>gratitudinis</lem>
@@ -314,7 +320,7 @@ agam tamen ut potero et minus temeritatis quam ingratitudinis notam subire uereb
    <note type="parallel" target="#modrusiensis-riario02"
  xml:id="p-f3-biblia">
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Tobias</title>
    <biblScope>5, 23</biblScope>
   </bibl>: <quote>baculum senectutis nostrae, solatium vitae nostrae</quote>
@@ -371,13 +377,13 @@ quae quales in eo fuerint, breuiter explicare conabor.
 </p>
    <note type="parallel" target="#modrusiensis-riario03" xml:id="p-f4-cicero-valla">
   <bibl>
-   <author>Cicero</author>
-   <title>Tusculanae disputationes</title>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi049">Tusculanae disputationes</title>
    <biblScope>5, 30, 85</biblScope>
   </bibl>: <quote>tria genera bonorum, maxuma animi, secunda corporis, externa tertia, ut Peripatetici nec multo veteres Academici secus</quote>
          <bibl>
-   <author>Laurentius Valla</author>
-   <title>De voluptate sive de vero bono</title>
+   <author ref="http://viaf.org/viaf/29541502">Laurentius Valla</author>
+   <title ref="http://viaf.org/viaf/174927538">De voluptate sive de vero bono</title>
    <biblScope>1, 16, 1</biblScope>
   </bibl>: <quote>ipsa testatur consensio communis que vulgato sermone appellat bona animi, bona corporis, bona fortune</quote>
    </note>
@@ -431,7 +437,7 @@ Quem ubi conspexisset Franciscus iam
 </app>  
 <app>
 <lem>ueste</lem>
-<rdg wit="#Gd #P" type="lexicographice" cause="falsaLectio">iuste</rdg>
+<rdg wit="#Gd #P" type="lexicographice" cause="lectioFalsa">iuste</rdg>
 </app> 
 indutum, quam idcirco iuuenis in itinere assumpserat quo se facilius 
 <app>
@@ -443,7 +449,7 @@ et matris fratrumque curam, ut coeperat, ageret,
 uel maturiorem 
 <app>
 <lem>domi</lem>
-<rdg wit="#Ge #C #R #va #o #ve #pa #co" type="lexicographice" cause="falsaLectio">domini</rdg>
+<rdg wit="#Ge #C #R #va #o #ve #pa #co" type="lexicographice" cause="lectioFalsa">domini</rdg>
 </app>  
 praestolaretur aetatem, 
 <app>
@@ -583,7 +589,7 @@ uersus complures multosque grammaticae textus, quos olim
 ita memoriter recitabat ut ea 
 <app>
 <lem>illum</lem>
-<rdg wit="#o" type="synonymum">eum</rdg>
+<rdg wit="#o" type="synonymon">eum</rdg>
 </app>  
 heri aut 
 <app>
@@ -595,24 +601,25 @@ memoriae mandasse existimares.
    <note type="parallel" target="#modrusiensis-riario04"
  xml:id="p-f5a-horatius">
   <bibl>
-   <author>Horatius</author>
-   <title>carmina</title>
+   <author ref="http://viaf.org/viaf/100227522">Horatius</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0893.phi001">carmina</title>
    <biblScope>4, 27–32</biblScope>
   </bibl>: <quote>ego apis Matinae / more modoque, / grata carpentis thyma per laborem / plurimum, circa nemus uvidique / Tiburis ripas operosa parvos / carmina fingo.</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario04"
  xml:id="p-f5b-cicero">
   <bibl>
-   <author>Plato</author>
-   <title>Symposium (tr. Ficinus, c. 1460)</title>
+   <author ref="http://viaf.org/viaf/303814984">Plato</author>
+   <author role="vertit" ref="http://viaf.org/viaf/120697563">Marsilius Ficinus</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0059.tlg011">Symposium (tr. Ficinus, c. 1460)</title>
    <biblScope>TKTK</biblScope>
   </bibl>: <quote>perinde ac tu nunc, qui quodlibet aliud agendum censes potius quam philosophandum</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario04"
  xml:id="p-f5c-cicero">
   <bibl>
-   <author>Cicero</author>
-   <title>Brutus</title>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi039">Brutus</title>
    <biblScope>154</biblScope>
   </bibl>: <quote>Galli hominis acuti et exercitati promptam et paratam in agendo et in respondendo celeritatem subtilitate diligentiaque superavit</quote>
    </note>
@@ -629,7 +636,7 @@ Inerat enim menti eius praesaga quaedam futurorum diuinitas
 complurimaque, 
 <app>
 <lem>antequam</lem>
-<rdg wit="#co" type="orthographia" cause="divisit">ante quam</rdg>
+<rdg wit="#co" type="orthographia" cause="divisio">ante quam</rdg>
 </app> 
 <app>
 <lem>contigissent</lem>
@@ -683,7 +690,7 @@ Cerno hic
 praelatos et ex aliis ordinibus 
 <app>
 <lem>uiros</lem>
-<rdg wit="#Gd" type="lexicographice" cause="falsaLectio">unos</rdg>
+<rdg wit="#Gd" type="lexicographice" cause="lectioFalsa">unos</rdg>
 </app> 
 <app>
 <lem>praestantes</lem>
@@ -715,7 +722,7 @@ demandatum ab altissimi prouidentia munus uiriliter absolueret et
 suum per uaria 
 <app>
 <lem>bonorum</lem>
-<rdg wit="#va" type="lexicographice" cause="falsaLectio">honorum</rdg>
+<rdg wit="#va" type="lexicographice" cause="lectioFalsa">honorum</rdg>
 </app> 
 incrementa ad summum 
 <app>
@@ -739,7 +746,7 @@ eligere consueuit
 ut fortia quaeque confundat, 
       </quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
    <title>I Cor</title>
    <biblScope>1, 27</biblScope>
   </bibl>
@@ -755,7 +762,7 @@ eum dignitatis splendore uoluit illustrare
 omnibusque mundi principibus ostendere quo ministro et ex quam humili loco 
 <app>
 <lem>accepto</lem>
-<rdg wit="#pa1" ana="inmargine" type="omisit" cause="adiditPostea">Postea addidit in margine: accepto</rdg>
+<rdg wit="#pa1" ana="inmargine" type="omisit" cause="addiditPostea">Postea addidit in margine: accepto</rdg>
 </app> 
 uoluerit in sui uicarii 
 <app>
@@ -806,7 +813,7 @@ possit obsistere
 aut dicere illi »quare sic fecisti«.
    </quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Daniel</title>
    <biblScope>4, 31–32</biblScope>
   </bibl>
@@ -824,15 +831,15 @@ et dicat ei: “Quid facis?”.</quote>
          </p>
    <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6a-firmicus">
   <bibl>
-   <author>Firmicus Maternus</author>
-   <title>mathesis</title>
+   <author ref="http://viaf.org/viaf/5015147967361884200009">Firmicus Maternus</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0123a.stoa002">mathesis</title>
    <biblScope>8, 21, 4</biblScope>
   </bibl>: <quote>In Ofiucho qui nati fuerint erunt audaces, enthei, praesago diuinitatis instinctu futura noscentes.</quote>
    </note>
 <p n="6" xml:id="modrusiensis-riario06">
 Petrus igitur per hunc modum in principatu constitutus, qui <cit><quote>solet uiros ostendere</quote>
   <bibl>
-   <author>Aristoteles</author>
+   <author ref="http://viaf.org/viaf/7524651">Aristoteles</author>
    <title>Ethica ad Nicomachum</title>
    <biblScope>3, 1330, a 1-2</biblScope>
   </bibl>
@@ -938,14 +945,14 @@ quos licet ipse in illos, quos diximus, acceptaret usus,
 prophetici tamen documenti memor 
 <cit><quote>minime ad ea cor apponebat</quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Psalmi</title>
    <biblScope>61, 11</biblScope>
   </bibl>
 <note type="source" target="#modrusiensis-riario06" xml:id="p-f9-biblia">
    <quote>diuitiae si affluant, nolite cor apponere</quote>; cf. etiam 
       <bibl>
-   <author>Nicolaus Modrussiensis</author>
+   <author ref="http://viaf.org/viaf/23432692">Nicolaus Modrussiensis</author>
    <title>De consolatione</title>
    <biblScope>II, 15, 24</biblScope>
   </bibl>
@@ -1190,7 +1197,7 @@ ubi rabidorum canum pestiferi dentes,
 qui inexpiabili temeritate ausi sunt 
 <cit><quote>os suum in caelo ponere</quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Psalmi</title>
    <biblScope>72 (73), 9</biblScope>
   </bibl>
@@ -1214,7 +1221,7 @@ electi sunt,
 <cit>
    <quote>a quo sunt omnium regnorum potestates</quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
    <title>Epistula ad Romanos</title>
    <biblScope>13, 1</biblScope>
   </bibl>
@@ -1240,7 +1247,7 @@ te in finem,
 te, et emigret te de tabernaculo tuo, et radicem tuam de terra uiuentium!</quote>
 
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Psalmi</title>
    <biblScope>52, 5 (51, 7)</biblScope>
   </bibl>
@@ -1256,7 +1263,7 @@ Sed haec illi
 qui 
 <cit><quote>fecerunt linguam suam nouaculam acutam</quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Psalmi</title>
    <biblScope>52, 2 (51, 4)</biblScope>
   </bibl>
@@ -1273,7 +1280,7 @@ et
 </app>   
 die concinnabant dolos.</quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Psalmi</title>
    <biblScope>49, 19-20</biblScope>
   </bibl>
@@ -1342,7 +1349,7 @@ Fallebat neminem et, communem rem gerendo, singulorum tamen uidebatur aduocatus.
 </p>
    <note type="parallel" target="#modrusiensis-riario13" xml:id="p-f15-augustinus">
   <bibl>
-   <author>Augustinus</author>
+   <author ref="http://viaf.org/viaf/66806872">Augustinus</author>
    <title>Sermones de Scripturis</title>
    <biblScope>49, 6, 6</biblScope>
   </bibl>: <quote>Incipiunt esse de tribus amicis duo inter se inimici, quid faciat medius qui remansit? Vult, exigit, flagitat a te ut oderis cum illo quem odisse coepit, et haec verba tibi dicit: Non es amicus meus, quia es amicus inimici mei.</quote>
@@ -1690,7 +1697,7 @@ semperque,
 <cit><ref>ut datus a Domino Tobiae angelus, 
 lateri haesit</ref>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Tobias</title>
    <biblScope>5–12</biblScope>
   </bibl>
@@ -1720,7 +1727,7 @@ Compositis rebus suis totam mentem ad illud conuerterat ut dicere cum psalmista
 posset: 
 <cit><quote>Domine, dilexi decorem domus tuae et gloriam habitationis tuae.</quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Psalmi</title>
    <biblScope>26, 8 (25, 8)</biblScope>
   </bibl>
@@ -1867,7 +1874,7 @@ exposuit.
 Haec quoque sacra apostolorum 
 <app>
 <lem>aedes</lem>
-<rdg wit="#co" type="delevit" cause="corrrectio"><del resp="#co1">eius</del> ędes</rdg>
+<rdg wit="#co" type="delevit" cause="correctio"><del resp="#co1">eius</del> ędes</rdg>
 </app>  
 beneficentiam eius testari potuisset 
 <app>
@@ -1900,7 +1907,7 @@ refertam.  Sed Dei
 nobis tam repente 
 <app>
 <lem>ademptus</lem>
-<rdg wit="#P" type="lexicographice" cause="falsaLectio">adeptus</rdg>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">adeptus</rdg>
 </app>  
 est; non quod tam piis operibus non delectaretur Deus, uerum, quod ualde pertimesco, ut eum calamitatibus, quibus forsan in nostra crimina 
 <app>
@@ -1910,7 +1917,7 @@ est; non quod tam piis operibus non delectaretur Deus, uerum, quod ualde pertime
 decreuit, 
 <app>
 <lem>immeritum</lem>
-<rdg wit="#R" type="lexicographice" cause="falsaLectio">interitum</rdg>
+<rdg wit="#R" type="lexicographice" cause="lectioFalsa">interitum</rdg>
 </app>  
 subtraheret et 
 pro adimpleto bene 
@@ -1929,7 +1936,7 @@ non differret.</p>
 Cuius miserationis dilectionisque certa indicia 
 <app>
 <lem>in</lem>
-<rdg wit="#P" type="lexicographice" cause="falsaLectio">iam</rdg>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">iam</rdg>
 </app>  
 ipsius uidimus morte 
 quam, cum multis ante diebus aduentare praesentiret, 
@@ -1980,7 +1987,7 @@ nec se in medio iuuentutis flore ex tanto imperio et ex
 </app>  
 <app>
 <lem>opibus</lem>
-<rdg wit="#V #Gd #P #m" type="lexicographice" cause="falsaLectio">operibus</rdg>
+<rdg wit="#V #Gd #P #m" type="lexicographice" cause="lectioFalsa">operibus</rdg>
 </app>  
 subtrahi uel 
 <app>
@@ -2020,7 +2027,7 @@ Cepi enim illum ex hac mortalitate fructum quem maximum mea fortuna capere potui
 Maius restabat nihil; quicquid supererat, merito mihi suspectum metuendumque fuisset.  
 <app>
 <lem>Proinde</lem>
-<rdg wit="#P" type="lexicographice" cause="falsaLectio">Prouide</rdg>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">Prouide</rdg>
 </app>  
 licet 
 <cit><quote>cupiam dissolui et esse cum Christo, uror tamen sola uestrarum 
@@ -2029,7 +2036,7 @@ licet
 <rdg wit="#o" type="transpositio">cura rerum</rdg>
 </app></quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
    <title>Epistula ad Philippenses</title>
    <biblScope>1, 23–24</biblScope>
   </bibl>
@@ -2063,13 +2070,13 @@ sua clementia inter uos partiatur,
 ut et uos meritorum uestrorum et me non praestiti officii 
 <app>
 <lem>minus</lem>
-<rdg wit="#m" type="lexicographice" cause="falsaLectio">munus</rdg>
+<rdg wit="#m" type="lexicographice" cause="lectioFalsa">munus</rdg>
 </app>  
 paeniteat.  
 Ad haec compellit me et uehementius urget mea erga uos incredibilis caritas ut uos horter atque obtester ne huius mundi illecebris atque lenociniis animum uestrum inducatis neue in luxu ac 
 <app>
 <lem>inanibus</lem>
-<rdg wit="#Gd #P" type="lexicographice" cause="falsaLectio">manibus</rdg>
+<rdg wit="#Gd #P" type="lexicographice" cause="lectioFalsa">manibus</rdg>
 <rdg wit="#va" type="lexicographice" cause="divisio">in anibus</rdg>
 </app>  
 eius diuitiis spem 
@@ -2080,13 +2087,13 @@ eius diuitiis spem
 ponatis; quae 
 <app>
 <lem>quam fluxae quamque fallaces</lem>
-<rdg wit="#ve" type="lexicographice" cause="falsaLectio">quamquam fluxae quamquam fallaces</rdg>
+<rdg wit="#ve" type="lexicographice" cause="lectioFalsa">quamquam fluxae quamquam fallaces</rdg>
 </app>  
 sint, ego unus uobis maximo possum esse documento.  
 Credite quoniam 
 <cit><quote>puluis et umbra sumus</quote>
   <bibl>
-   <author>Horatius</author>
+   <author ref="http://viaf.org/viaf/100227522">Horatius</author>
    <title>carmina</title>
    <biblScope>4, 7, 16</biblScope>
   </bibl>
@@ -2103,7 +2110,7 @@ nihil anteponite scientes unicuique uestrum
 propositam 
 <app>
 <lem>esse a Domino</lem>
-<rdg wit="#va" type="omisit" cause="falsaLectio">a Deo</rdg>
+<rdg wit="#va" type="omisit" cause="lectioFalsa">a Deo</rdg>
 </app>  
 laborum suorum mercedem; 
 quae etiam si nulla esset, hoc tamen ipsum 
@@ -2127,21 +2134,21 @@ immortalitati.
 </p>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f18-biblia">
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>1 Samuel</title>
    <biblScope>5, 6</biblScope>
   </bibl>: <quote>Aggravata est autem manus Domini super Azotios</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f19-seneca">
   <bibl>
-   <author>Seneca</author>
+   <author ref="http://viaf.org/viaf/90637919">Seneca</author>
    <title>epistulae</title>
    <biblScope>4, 37, 2</biblScope>
   </bibl>: <quote>ut volens libensque patiaris</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f20-cicero">
   <bibl>
-   <author>Cicero</author>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
    <title>pro Marcello</title>
    <biblScope>25</biblScope>
   </bibl>: <quote>Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi: »Satis diu vel naturae vixi vel gloriae.«</quote>
@@ -2149,14 +2156,14 @@ immortalitati.
    
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f21-petrusdamiani">
    <bibl>
-   <author>Petrus Damianus</author>
+   <author ref="http://viaf.org/viaf/50018008">Petrus Damianus</author>
    <title>De ordine eremitarum et facultatibus eremi Fontis Avellani</title>
    <biblScope>PL145, 0334B</biblScope>
   </bibl>: <quote>Non itaque ad monasterialem laxitudinem ab eremitica vos libeat districtione descendere: et, relicta lege spiritus, carnis illecebris et lenociniis consentire.</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f21-sidonius">
    <bibl>
-   <author>Sidonius Apollinaris</author>
+   <author ref="http://viaf.org/viaf/89203537">Sidonius Apollinaris</author>
    <title>Epistulae</title>
    <biblScope>2, 13, 3</biblScope>
   </bibl>: <quote>solus iste peculiaris tuus Maximus maximo nobis documento poterit esse</quote>
@@ -2164,14 +2171,14 @@ immortalitati.
    
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f23-biblia">
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
    <title>Iohannes</title>
    <biblScope>14, 2</biblScope>
   </bibl>: <quote>in domo Patris mei mansiones multae sunt</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f24-biblia">
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Sapientia</title>
    <biblScope>10, 17</biblScope>
   </bibl>: <quote>reddidit iustis mercedem laborum suorum</quote>
@@ -2204,34 +2211,34 @@ quam caduca sit huius mundi felicitas, uel meo exemplo
          </p>
    <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-biblia">
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
    <title>Lucas</title>
    <biblScope>1, 78</biblScope>
   </bibl>: <quote>per viscera misericordiae Dei nostri in quibus visitavit nos oriens ex alto</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-seneca">
   <bibl>
-   <author>Seneca</author>
+   <author ref="http://viaf.org/viaf/90637919">Seneca</author>
    <title>De brevitate vitae</title>
    <biblScope>18, 5</biblScope>
   </bibl>: <quote>Modo modo intra paucos illos dies, quibus C. Caesar perit, si quis inferis sensus est, hoc gravissime ferens</quote>
       <bibl>
-   <author>Seneca</author>
+   <author ref="http://viaf.org/viaf/90637919">Seneca</author>
    <title>De consolatione ad Polybium</title>
    <biblScope>9, 2</biblScope>
   </bibl>: <quote>Quid itaque iuvat dolori intabescere, quem, si quis defunctis sensus est, finiri frater tuus cupit?</quote>
       <bibl>
-   <author>Seneca</author>
+   <author ref="http://viaf.org/viaf/90637919">Seneca</author>
    <title>Octavia</title>
    <biblScope>10–13</biblScope>
   </bibl>: <quote>semper, genetrix, deflenda mihi, / prima meorum causa malorum, / tristes questus natae exaudi, / si quis remanet sensus in umbris</quote>
       <bibl>
-   <author>Statius</author>
+   <author ref="http://viaf.org/viaf/100904338">Statius</author>
    <title>Thebais</title>
    <biblScope>12, 214–215</biblScope>
   </bibl>: <quote>et nunc me duram, si quis tibi sensus ad umbras, / me tardam Stygiis quereris, fidissime, divis.</quote>
       <bibl>
-   <author>Marcus Iunianus Iustinus</author>
+   <author ref="http://viaf.org/viaf/24616821">Marcus Iunianus Iustinus</author>
    <title>Epitoma historiarum Philippicarum</title>
    <biblScope>6, 1, 17</biblScope>
   </bibl>: <quote>Quamobrem etiam Philippum Alexandrumque, si quis manium sensus est, non interfectores suos ac stirpis suae, sed ultores eorum Macedoniae regnum tenere malle.</quote>
@@ -2261,7 +2268,7 @@ conuersus ad Viterbiensem praesulem »Ecce«, inquit, <cit>
 <rdg wit="#C" type="omisit">Omisit.</rdg>
 </app> hora</quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
    <title>Matthaeus</title>
    <biblScope>26, 45</biblScope>
   </bibl>
@@ -2310,7 +2317,7 @@ et inclinato
 emisit spiritum.
    </quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
    <title>Iohannes</title>
    <biblScope>19, 30</biblScope>
   </bibl>
@@ -2365,13 +2372,13 @@ gratias illi agamus atque dicamus:
 <cit>
 <quote>Dominus dedit, Dominus abstulit; sicut Domino placuit ita factum est; sit nomen Domini benedictum.</quote>
   <bibl>
-   <author>Biblia</author>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
    <title>Iob</title>
    <biblScope>1, 21</biblScope>
   </bibl>
    <note type="parallel" target="#modrusiensis-riario23" xml:id="p-f29-biblia">
     Cf.  <bibl>
-   <author>Nicolaus Modrussiensis</author>
+   <author ref="http://viaf.org/viaf/23432692">Nicolaus Modrussiensis</author>
    <title>De consolatione</title>
    <biblScope>II, 6, 7</biblScope>
   </bibl>
@@ -2385,8 +2392,8 @@ gratias illi agamus atque dicamus:
 </p>
    <note type="parallel" target="#modrusiensis-riario23" xml:id="p-f28-terentius">
   <bibl>
-   <author>Terentius</author>
-   <title>Andria</title>
+   <author ref="http://viaf.org/viaf/66462384">Terentius</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0134.phi001">Andria</title>
    <biblScope>627–628</biblScope>
   </bibl>: <quote>ex incommodis alterius sua ut comparent commoda</quote>
    </note>
