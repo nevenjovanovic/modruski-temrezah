@@ -14,13 +14,13 @@ declare function local:copy-node($node, $content) {
   }
 };
 
-let $f := "/home/neven/cltk/sen-ep-1-1.xml"
+let $f := "/home/neven/Documents/documents/latinisti/nimira/nimira-Q12636396.sermo-de-passione.croala-lat02-sententiae.xml"
 let $xml := fetch:xml($f)
-for $d in $xml/div
+for $d in $xml//*:div[*:p]
 return local:copy-node($d,
-for $p in $d/p
+for $p in $d/*:p
 return local:copy-node($p ,
-   for $s in $p/s
+   for $s in $p/*:seg
    return local:copy-node( $s ,
    let $words_tokenized := tokenize($s/string(), '\s')
    for $w in $words_tokenized return
