@@ -1164,10 +1164,10 @@
         <s n="s12">
           <w n="w1" lemma="habeo" lemmaRef="http://lila-erc.eu/data/id/lemma/105044" ana="v1spia---">Habeo</w>
           <w n="w2" lemma="hic" lemmaRef="http://lila-erc.eu/data/id/hypolemma/18676" ana="d-------p">hic</w>
-          <w n="w3" lemma="testis2" ana="n-p---ma-">testes</w>
+          <w n="w3" lemma="testis2" lemmaRef="http://lila-erc.eu/data/id/lemma/127994" ana="n-p---ma-">testes</w>
           <w n="w4" lemma="complures" lemmaRef="http://lila-erc.eu/data/id/lemma/95359" ana="a-p---ma-">complures</w>
           <pc n="pc5" lemma="punc1" ana="u--------">,</pc>
-          <w n="w6" lemma="familiaris" ana="a-p---ma-">familiares</w>
+          <w n="w6" lemma="familiaris" lemmaRef="http://lila-erc.eu/data/id/lemma/102888" ana="n-p---ma-">familiares</w>
           <w n="w7" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---mg-">eius</w>
           <pc n="pc8" lemma="punc1" ana="u--------">,</pc>
           <w n="w9" lemma="vir" lemmaRef="http://lila-erc.eu/data/id/lemma/130300" ana="n-p---ma-">uiros</w>
@@ -1175,14 +1175,14 @@
           <w n="w11" lemma="doctus" lemmaRef="http://lila-erc.eu/data/id/lemma/5182" ana="a-p---mas">doctissimos</w>
           <pc n="pc12" lemma="punc1" ana="u--------">,</pc>
           <w n="w13" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-p---mb-">quibuscum</w>
-          <w n="w14" lemma="inter" ana="r--------">inter</w>
+          <w n="w14" lemma="inter" lemmaRef="http://lila-erc.eu/data/id/lemma/108392" ana="r--------">inter</w>
           <w n="w15" lemma="ceno" lemmaRef="http://lila-erc.eu/data/id/lemma/93384" ana="v-s-g-na-">cenandum</w>
           <w n="w16" lemma="de" lemmaRef="http://lila-erc.eu/data/id/lemma/97932" ana="r--------">de</w>
           <w n="w17" lemma="varius1" lemmaRef="http://lila-erc.eu/data/id/lemma/129584" ana="a-p---nb-">uariis</w>
           <w n="w18" lemma="disciplina" lemmaRef="http://lila-erc.eu/data/id/lemma/99609" ana="n-p---fg-">disciplinarum</w>
           <w n="w19" lemma="studium" lemmaRef="http://lila-erc.eu/data/id/lemma/125889" ana="n-p---nb-">studiis</w>
-          <w n="w20" lemma="frequenter" ana="d--------">frequenter</w>
-          <w n="w21" lemma="dissero1" ana="v--pna---">disserere</w>
+          <w n="w20" lemma="frequenter" lemmaRef="http://lila-erc.eu/data/id/hypolemma/17262" ana="d--------">frequenter</w>
+          <w n="w21" lemma="dissero1" lemmaRef="http://lila-erc.eu/data/id/lemma/99785" ana="v--pna---">disserere</w>
           <w n="w22" lemma="consuesco" lemmaRef="http://lila-erc.eu/data/id/lemma/94952" ana="v3slia---">consueuerat</w>
           <w n="w23" lemma="adeo2" lemmaRef="http://lila-erc.eu/data/id/lemma/87420" ana="d--------">adeo</w>
           <w n="w24" lemma="acute" ana="d-------p">acute</w>          
@@ -1190,9 +1190,9 @@
             <w n="w25a" lemma="adeo2" lemmaRef="http://lila-erc.eu/data/id/lemma/87420" ana="d--------">adeo</w>
               <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" ana="c--------" n="w25b">que</w>
             </w>
-          <w n="w26" lemma="prompte" ana="d-------p">prompte</w>
+          <w n="w26" lemma="prompte" lemmaRef="http://lila-erc.eu/data/id/hypolemma/111642" ana="d-------p">prompte</w>
           <w n="w27" lemma="atque" lemmaRef="http://lila-erc.eu/data/id/lemma/90490" ana="c--------">ac</w>
-          <w n="w28" lemma="subtiliter" ana="d--------">subtiliter</w>
+          <w n="w28" lemma="subtiliter" lemmaRef="http://lila-erc.eu/data/id/hypolemma/42737" ana="d--------">subtiliter</w>
           <w n="w29" lemma="de" lemmaRef="http://lila-erc.eu/data/id/lemma/97932" ana="r--------">de</w>
           <w n="w30" lemma="quaestio" lemmaRef="http://lila-erc.eu/data/id/lemma/121052" ana="n-s---fb-">quaestione</w>
           <w n="w31" lemma="propono" lemmaRef="http://lila-erc.eu/data/id/lemma/119973" ana="v-srppfb-">proposita</w>
@@ -1212,17 +1212,17 @@
           <w n="w42" lemma="evolvo" lemmaRef="http://lila-erc.eu/data/id/lemma/101670" ana="v-p-g-md-">euoluendis</w>
           <w n="w43" lemma="theologus" lemmaRef="http://lila-erc.eu/data/id/lemma/128116" ana="n-p---mg-">theologorum</w>
           <w ana="compositum" n="w44">
-          <w n="w44a" lemma="philosophus" ana="n-p---mg-">philosophorum</w>
+            <w n="w44a" lemma="philosophus" lemmaRef="http://lila-erc.eu/data/id/lemma/118059" ana="n-p---mg-">philosophorum</w>
               <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" ana="c--------" n="w44b">que</w>
             </w>
-          <w n="w45" lemma="liber4" ana="n-p---md-">libris</w>
-          <w n="w46" lemma="vaco" ana="v--pna---">uacare</w>
+          <w n="w45" lemma="liber4" lemmaRef="http://lila-erc.eu/data/id/lemma/110382" ana="n-p---md-">libris</w>
+          <w n="w46" lemma="vaco" lemmaRef="http://lila-erc.eu/data/id/lemma/129468" ana="v--pna---">uacare</w>
           <pc n="pc47" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s13">
           <w n="w1" lemma="teneo" lemmaRef="http://lila-erc.eu/data/id/lemma/127822" ana="v3siia---">Tenebat</w>
           <w n="w2" lemma="figo" lemmaRef="http://lila-erc.eu/data/id/lemma/103280" ana="v-prppna-">fixa</w>
-          <w n="w3" lemma="memoria" ana="n-s---fg-">memoriae</w>
+          <w n="w3" lemma="memoria" lemmaRef="http://lila-erc.eu/data/id/lemma/112000" ana="n-s---fg-">memoriae</w>
           <w n="w4" lemma="quicumque" lemmaRef="http://lila-erc.eu/data/id/lemma/121318" ana="p-p---na-">quaecunque</w>
           <w n="w5" lemma="ab" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" ana="r--------">ab</w>
           <w n="w6" lemma="ineo" lemmaRef="http://lila-erc.eu/data/id/lemma/107508" ana="v-sppafb-">ineunte</w>
@@ -1243,9 +1243,9 @@
           <w n="w8" lemma="perspicacitas" lemmaRef="http://lila-erc.eu/data/id/lemma/117343" ana="n-s---fb-">perspicacitate</w>
           <w n="w9" lemma="facile" lemmaRef="http://lila-erc.eu/data/id/hypolemma/111576" ana="d-------p">facile</w>
           <w n="w10" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" ana="r--------">in</w>
-          <w n="w11" lemma="abditus" ana="a-p---nas">abditissima</w>
+          <w n="w11" lemma="abditus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/30" ana="a-p---nas">abditissima</w>
           <w n="w12" lemma="quisque" lemmaRef="http://lila-erc.eu/data/id/lemma/121320" ana="p-p---na-">quaeque</w>
-          <w n="w13" lemma="natura" ana="n-s---fg-">naturae</w>
+          <w n="w13" lemma="natura" lemmaRef="http://lila-erc.eu/data/id/lemma/113421" ana="n-s---fg-">naturae</w>
           <w n="w14" lemma="secretum" lemmaRef="http://lila-erc.eu/data/id/lemma/79660" ana="n-p---na-">secreta</w>
           <w n="w15" lemma="penetro" lemmaRef="http://lila-erc.eu/data/id/lemma/116485" ana="v3siia---">penetrabat</w>
           <pc n="pc16" lemma="punc1" ana="u--------">,</pc>
@@ -1253,11 +1253,11 @@
           <w n="w18" lemma="ex" lemmaRef="http://lila-erc.eu/data/id/lemma/101716" ana="r--------">ex</w>
           <w n="w19" lemma="percipio" lemmaRef="http://lila-erc.eu/data/id/lemma/116656" ana="v-prppnb-">perceptis</w>
           <w n="w20" lemma="semel" lemmaRef="http://lila-erc.eu/data/id/lemma/124090" ana="d--------">semel</w>
-          <w n="w21" lemma="principium" ana="n-p---nb-">principiis</w>
+          <w n="w21" lemma="principium" lemmaRef="http://lila-erc.eu/data/id/lemma/119505" ana="n-p---nb-">principiis</w>
           <w n="w22" lemma="difficilis" lemmaRef="http://lila-erc.eu/data/id/lemma/99345" ana="a-p---nas">difficillima</w>
           <w n="w23" lemma="quivis" lemmaRef="http://lila-erc.eu/data/id/lemma/121316" ana="p-p---na-">quaeuis</w>
           <w n="w24" lemma="vel" lemmaRef="http://lila-erc.eu/data/id/lemma/129695" ana="c--------">uel</w>
-          <w n="w25" lemma="philosophia" ana="n-s---fg-">philosophiae</w>
+          <w n="w25" lemma="philosophia" lemmaRef="http://lila-erc.eu/data/id/lemma/117663" ana="n-s---fg-">philosophiae</w>
           <w n="w26" lemma="vel" lemmaRef="http://lila-erc.eu/data/id/lemma/129695" ana="c--------">uel</w>
           <w n="w27" lemma="theologia" lemmaRef="http://lila-erc.eu/data/id/lemma/128113" ana="n-s---fg-">theologiae</w>
           <w n="w28" lemma="problema" lemmaRef="http://lila-erc.eu/data/id/lemma/119562" ana="n-p---na-">problemata</w>
@@ -1267,114 +1267,114 @@
           <w n="w32" lemma="admiratio" lemmaRef="http://lila-erc.eu/data/id/lemma/87538" ana="n-s---fb-">admiratione</w>
           <w n="w33" lemma="absolvo" lemmaRef="http://lila-erc.eu/data/id/lemma/87018" ana="v3siia---">absoluebat</w>
           <pc n="pc34" lemma="punc1" ana="u--------">;</pc>
-          <w n="w35" lemma="versus3" ana="n-p---ma-">uersus</w>
+          <w n="w35" lemma="versus3" lemmaRef="http://lila-erc.eu/data/id/lemma/130035" ana="n-p---ma-">uersus</w>
           <w n="w36" lemma="complures" lemmaRef="http://lila-erc.eu/data/id/lemma/95359" ana="a-p---ma-">complures</w>
           <w ana="compositum" n="w37">
           <w n="w37a" lemma="multus" lemmaRef="http://lila-erc.eu/data/id/lemma/112998" ana="a-p---ma-">multos</w>
               <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" ana="c--------" n="w37b">que</w>
             </w>
-          <w n="w38" lemma="grammatica" ana="n-s---fg-">grammaticae</w>
-          <w n="w39" lemma="textus2" ana="n-p---ma-">textus</w>
+          <w n="w38" lemma="grammatica" lemmaRef="http://lila-erc.eu/data/id/lemma/104818" ana="n-s---fg-">grammaticae</w>
+          <w n="w39" lemma="textus2" lemmaRef="http://lila-erc.eu/data/id/lemma/129412" ana="n-p---ma-">textus</w>
           <pc n="pc40" lemma="punc1" ana="u--------">,</pc>
           <w n="w41" lemma="qui1" ana="n-p---ma-">quos</w>
-          <w n="w42" lemma="olim" ana="d--------">olim</w>
+          <w n="w42" lemma="olim" lemmaRef="http://lila-erc.eu/data/id/lemma/114887" ana="d--------">olim</w>
           <w n="w43" lemma="puer" lemmaRef="http://lila-erc.eu/data/id/lemma/118042" ana="n-s---mn-">puer</w>
-          <w n="w44" lemma="edisco" ana="v3slia---">edidicerat</w>
+          <w n="w44" lemma="edisco" lemmaRef="http://lila-erc.eu/data/id/lemma/100567" ana="v3slia---">edidicerat</w>
           <pc n="pc45" lemma="punc1" ana="u--------">,</pc>
           <w n="w46" lemma="ita" lemmaRef="http://lila-erc.eu/data/id/lemma/109126" ana="d--------">ita</w>
-          <w n="w47" lemma="memoriter" ana="d--------">memoriter</w>
-          <w n="w48" lemma="recito" ana="v3siia---">recitabat</w>
+          <w n="w47" lemma="memoriter" lemmaRef="http://lila-erc.eu/data/id/lemma/64998" ana="d--------">memoriter</w>
+          <w n="w48" lemma="recito" lemmaRef="http://lila-erc.eu/data/id/lemma/122392" ana="v3siia---">recitabat</w>
           <w n="w49" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" ana="c--------">ut</w>
           <w n="w50" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-p---na-">ea</w>
           <w n="w51" lemma="ille" lemmaRef="http://lila-erc.eu/data/id/lemma/106221" ana="p-s---ma-">illum</w>
-          <w n="w52" lemma="heri" ana="d--------">heri</w>
+          <w n="w52" lemma="heri" lemmaRef="http://lila-erc.eu/data/id/lemma/105378" ana="d--------">heri</w>
           <w n="w53" lemma="aut" lemmaRef="http://lila-erc.eu/data/id/lemma/90827" ana="c--------">aut</w>
           <w n="w54" lemma="nudiustertius" ana="d-------p">nudiustertius</w>
-          <w n="w55" lemma="memoria" ana="n-s---fd-">memoriae</w>
-          <w n="w56" lemma="mando1" ana="v--rna---">mandasse</w>
-          <w n="w57" lemma="existimo" ana="v2sisa---">existimares</w>
+          <w n="w55" lemma="memoria" lemmaRef="http://lila-erc.eu/data/id/lemma/112000" ana="n-s---fd-">memoriae</w>
+          <w n="w56" lemma="mando1" lemmaRef="http://lila-erc.eu/data/id/lemma/111470" ana="v--rna---">mandasse</w>
+          <w n="w57" lemma="existimo" lemmaRef="http://lila-erc.eu/data/id/lemma/102057" ana="v2sisa---">existimares</w>
           <pc n="pc58" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s15">
-          <w n="w1" lemma="perficio" ana="v-prppnb-">Perfectis</w>
+          <w n="w1" lemma="perficio" lemmaRef="http://lila-erc.eu/data/id/lemma/116821" ana="v-prppnb-">Perfectis</w>
           <w n="w2" lemma="igitur" lemmaRef="http://lila-erc.eu/data/id/lemma/106127" ana="c--------">igitur</w>
           <w n="w3" lemma="quam" lemmaRef="http://lila-erc.eu/data/id/lemma/74492" ana="d--------">quam</w>
-          <w n="w4" lemma="celere" ana="d-------s">celerrime</w>
+          <w n="w4" lemma="celere" lemmaRef="http://lila-erc.eu/data/id/lemma/40464" ana="d-------s">celerrime</w>
           <w n="w5" lemma="omnis" lemmaRef="http://lila-erc.eu/data/id/lemma/114954" ana="a-p---fg-">omnium</w>
           <w n="w6" lemma="bonus" lemmaRef="http://lila-erc.eu/data/id/lemma/91782" ana="a-p---fg-">bonarum</w>
           <w n="w7" lemma="ars" lemmaRef="http://lila-erc.eu/data/id/lemma/90089" ana="n-p---fg-">artium</w>
           <w n="w8" lemma="studium" lemmaRef="http://lila-erc.eu/data/id/lemma/125889" ana="n-p---nb-">studiis</w>
           <pc n="pc9" lemma="punc1" ana="u--------">,</pc>
-          <w n="w10" lemma="redeo" ana="v3sria---">rediit</w>
-          <w n="w11" lemma="sollicitus" ana="a-s---mn-">sollicitus</w>
+          <w n="w10" lemma="redeo" lemmaRef="http://lila-erc.eu/data/id/lemma/122463" ana="v3sria---">rediit</w>
+          <w n="w11" lemma="sollicitus" lemmaRef="http://lila-erc.eu/data/id/lemma/125090" ana="a-s---mn-">sollicitus</w>
           <w n="w12" lemma="ad" lemmaRef="http://lila-erc.eu/data/id/lemma/87344" ana="r--------">ad</w>
           <w n="w13" lemma="magister" lemmaRef="http://lila-erc.eu/data/id/lemma/111274" ana="n-s---ma-">magistrum</w>
           <pc n="pc14" lemma="punc1" ana="u--------">,</pc>
           <w n="w15" lemma="munus" lemmaRef="http://lila-erc.eu/data/id/lemma/113061" ana="n-s---na-">munus</w>
           <pc n="pc16" lemma="punc1" ana="u--------">,</pc>
           <w n="w17" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-s---nd-">cui</w>
-          <w n="w18" lemma="caelitus" ana="d--------">caelitus</w>
-          <w n="w19" lemma="destino" ana="v-srppmn-">destinatus</w>
+          <w n="w18" lemma="caelitus" lemmaRef="http://lila-erc.eu/data/id/lemma/92227" ana="d--------">caelitus</w>
+          <w n="w19" lemma="destino" lemmaRef="http://lila-erc.eu/data/id/lemma/98963" ana="v-srppmn-">destinatus</w>
           <w n="w20" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v3siia---">erat</w>
           <pc n="pc21" lemma="punc1" ana="u--------">,</pc>
           <w n="w22" lemma="bene" lemmaRef="http://lila-erc.eu/data/id/lemma/91473" ana="d-------s">optime</w>
-          <w n="w23" lemma="impleo" ana="v-sfpamn-">impleturus</w>
+          <w n="w23" lemma="impleo" lemmaRef="http://lila-erc.eu/data/id/lemma/106607" ana="v-sfpamn-">impleturus</w>
           <pc n="pc24" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s16">
-          <w n="w1" lemma="insum" ana="v3siia---">Inerat</w>
+          <w n="w1" lemma="insum" lemmaRef="http://lila-erc.eu/data/id/lemma/108325" ana="v3siia---">Inerat</w>
           <w n="w2" lemma="enim" lemmaRef="http://lila-erc.eu/data/id/lemma/101119" ana="c--------">enim</w>
-          <w n="w3" lemma="mens" ana="n-s---fd-">menti</w>
+          <w n="w3" lemma="mens" lemmaRef="http://lila-erc.eu/data/id/lemma/112038" ana="n-s---fd-">menti</w>
           <w n="w4" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---mg-">eius</w>
-          <w n="w5" lemma="praesagus" ana="a-s---fn-">praesaga</w>
+          <w n="w5" lemma="praesagus" lemmaRef="http://lila-erc.eu/data/id/lemma/119169" ana="a-s---fn-">praesaga</w>
           <w n="w6" lemma="quidam" lemmaRef="http://lila-erc.eu/data/id/lemma/121313" ana="p-s---fn-">quaedam</w>
           <w n="w7" lemma="futurus"  lemmaRef="http://lila-erc.eu/data/id/hypolemma/43030" ana="v-pfpang-">futurorum</w>
-          <w n="w8" lemma="divinitas" ana="n-s---fn-">diuinitas</w>
+          <w n="w8" lemma="divinitas" lemmaRef="http://lila-erc.eu/data/id/lemma/99940" ana="n-s---fn-">diuinitas</w>
           <w ana="compositum" n="w9">
-          <w n="w9a" lemma="complurimi" ana="a-p---nas">complurima</w>
+            <w n="w9a" lemma="complurimi" lemmaRef="http://lila-erc.eu/data/id/lemma/95361" ana="a-p---nas">complurima</w>
               <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" ana="c--------" n="w9b">que</w>
             </w>
           <pc n="pc10" lemma="punc1" ana="u--------">,</pc>
-          <w n="w11" lemma="antequam" ana="c--------">antequam</w>
-          <w n="w12" lemma="contingo1" ana="v3plsa---">contigissent</w>
+          <w n="w11" lemma="antequam" lemmaRef="http://lila-erc.eu/data/id/lemma/90912" ana="c--------">antequam</w>
+          <w n="w12" lemma="contingo1" lemmaRef="http://lila-erc.eu/data/id/lemma/96293" ana="v3plsa---">contigissent</w>
           <pc n="pc13" lemma="punc1" ana="u--------">,</pc>
           <w n="w14" lemma="per" lemmaRef="http://lila-erc.eu/data/id/lemma/116569" ana="r--------">per</w>
-          <w n="w15" lemma="quies1" ana="n-s---fa-">quietem</w>
-          <w n="w16" lemma="disco" ana="v3siia---">discebat</w>
+          <w n="w15" lemma="quies1" lemmaRef="http://lila-erc.eu/data/id/lemma/121173" ana="n-s---fa-">quietem</w>
+          <w n="w16" lemma="disco" lemmaRef="http://lila-erc.eu/data/id/lemma/99619" ana="v3siia---">discebat</w>
           <pc n="pc17" lemma="punc1" ana="u--------">,</pc>
           <w n="w18" lemma="ita" lemmaRef="http://lila-erc.eu/data/id/lemma/109126" ana="d--------">ita</w>
           <w n="w19" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" ana="c--------">ut</w>
-          <w n="w20" lemma="insomnium1" ana="n-p---nn-">insomnia</w>
+          <w n="w20" lemma="insomnium1" lemmaRef="http://lila-erc.eu/data/id/lemma/108198" ana="n-p---nn-">insomnia</w>
           <w n="w21" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" ana="p-s---mg-">ipsius</w>
           <w n="w22" lemma="non" lemmaRef="http://lila-erc.eu/data/id/lemma/114108" ana="d--------">non</w>
-          <w n="w23" lemma="viso" ana="v-prppnn-">uisa</w>
-          <w n="w24" lemma="solum" ana="d-------p">solum</w>
+          <w n="w23" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v-prppnn-">uisa</w>
+          <w n="w24" lemma="solum" lemmaRef="http://lila-erc.eu/data/id/hypolemma/111490" ana="d-------p">solum</w>
           <pc n="pc25" lemma="punc1" ana="u--------">,</pc>
           <w n="w26" lemma="sed" lemmaRef="http://lila-erc.eu/data/id/lemma/123994" ana="c--------">sed</w>
-          <w n="w27" lemma="certus" ana="a-p---nn-">certa</w>
-          <w n="w28" lemma="video" ana="v3pisp---">uiderentur</w>
-          <w n="w29" lemma="oraculum" ana="n-p---nn-">oracula</w>
+          <w n="w27" lemma="certus" lemmaRef="http://lila-erc.eu/data/id/lemma/93581" ana="a-p---nn-">certa</w>
+          <w n="w28" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3pisp---">uiderentur</w>
+          <w n="w29" lemma="oraculum" lemmaRef="http://lila-erc.eu/data/id/lemma/115176" ana="n-p---nn-">oracula</w>
           <pc n="pc30" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s17">
           <w n="w1" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-p---nb-">Quibus</w>
-          <w n="w2" lemma="varie" ana="d-------p">uarie</w>
-          <w n="w3" lemma="sollicito" ana="v-srppmn-">sollicitatus</w>
+          <w n="w2" lemma="varie" lemmaRef="http://lila-erc.eu/data/id/hypolemma/45924" ana="d-------p">uarie</w>
+          <w n="w3" lemma="sollicito" lemmaRef="http://lila-erc.eu/data/id/lemma/125088" ana="v-srppmn-">sollicitatus</w>
           <w n="w4" lemma="coepi" lemmaRef="http://lila-erc.eu/data/id/lemma/94695" ana="v3sria---">coepit</w>
           <w n="w5" lemma="avunculus" lemmaRef="http://lila-erc.eu/data/id/lemma/90860" ana="n-s---ma-">auunculum</w>
           <w n="w6" lemma="suus" lemmaRef="http://lila-erc.eu/data/id/lemma/127165" ana="a-s---ma-">suum</w>
           <w n="w7" lemma="hortor" lemmaRef="http://lila-erc.eu/data/id/lemma/105727" ana="v--pnp---">hortari</w>
           <pc n="pc8" lemma="punc1" ana="u--------">,</pc>
           <w n="w9" lemma="coepi" lemmaRef="http://lila-erc.eu/data/id/lemma/94695" ana="v3sria---">coepit</w>
-          <w n="w10" lemma="importune" ana="d-------c">importunius</w>
-          <w n="w11" lemma="compello1" ana="v--pna---">compellere</w>
-          <w n="w12" lemma="Roma" ana="n-s---fa-">Romam</w>
-          <w n="w13" lemma="peto" ana="v3sisa---">peteret</w>
+          <w n="w10" lemma="importune" lemmaRef="http://lila-erc.eu/data/id/hypolemma/20091" ana="d-------c">importunius</w>
+          <w n="w11" lemma="compello1" lemmaRef="http://lila-erc.eu/data/id/lemma/95289" ana="v--pna---">compellere</w>
+          <w n="w12" lemma="Roma" lemmaRef="http://lila-erc.eu/data/id/lemma/20293" ana="n-s---fa-">Romam</w>
+          <w n="w13" lemma="peto" lemmaRef="http://lila-erc.eu/data/id/lemma/117549" ana="v3sisa---">peteret</w>
           <w n="w14" lemma="atque" lemmaRef="http://lila-erc.eu/data/id/lemma/90490" ana="c--------">atque</w>
           <w n="w15" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" ana="r--------">in</w>
           <w n="w16" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---fb-">ea</w>
           <w n="w17" lemma="urbs" lemmaRef="http://lila-erc.eu/data/id/lemma/130822" ana="n-s---fb-">urbe</w>
-          <w n="w18" lemma="versor" ana="v--pnp---">uersari</w>
+          <w n="w18" lemma="versor" lemmaRef="http://lila-erc.eu/data/id/lemma/84710" ana="v--pnp---">uersari</w>
           <w n="w19" lemma="volo1" lemmaRef="http://lila-erc.eu/data/id/lemma/130745" ana="v3sisa---">uellet</w>
           <pc n="pc20" lemma="punc1" ana="u--------">,</pc>
           <w n="w21" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" ana="r--------">in</w>
@@ -1382,42 +1382,42 @@
           <w n="w23" lemma="ab" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" ana="r--------">a</w>
           <w n="w24" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" ana="a-s---mbs">maximo</w>
           <w n="w25" lemma="omnis" lemmaRef="http://lila-erc.eu/data/id/lemma/114954" ana="a-p---ng-">omnium</w>
-          <w n="w26" lemma="rector" ana="n-s---mb-">rectore</w>
+          <w n="w26" lemma="rector" lemmaRef="http://lila-erc.eu/data/id/lemma/121576" ana="n-s---mb-">rectore</w>
           <w n="w27" lemma="deus" lemmaRef="http://lila-erc.eu/data/id/lemma/4810" ana="n-s---mb-">Deo</w>
           <w n="w28" lemma="futurus"  lemmaRef="http://lila-erc.eu/data/id/hypolemma/43030" ana="v-sfpamn-">futurus</w>
           <w n="w29" lemma="superus" lemmaRef="http://lila-erc.eu/data/id/lemma/126999" ana="a-s---mns">summus</w>
           <w n="w30" lemma="pontifex" lemmaRef="http://lila-erc.eu/data/id/lemma/118418" ana="n-s---mn-">pontifex</w>
           <w n="w31" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v3siia---">erat</w>
-          <w n="w32" lemma="designo" ana="v-srppmn-">designatus</w>
+          <w n="w32" lemma="designo" lemmaRef="http://lila-erc.eu/data/id/lemma/98908" ana="v-srppmn-">designatus</w>
           <pc n="pc33" lemma="punc1" ana="u--------">;</pc>
           <w n="w34" lemma="ubi" lemmaRef="http://lila-erc.eu/data/id/lemma/129639" ana="c--------">ubi</w>
           <w n="w35" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
-          <w n="w36" lemma="sui ipsius" ana="p-s---ma-">seipsum</w>
+          <w n="w36" lemma="seipse" lemmaRef="https://lila-erc.eu/data/id/lemma/131431" ana="p-s---ma-">seipsum</w>
           <w n="w37" lemma="accipio" lemmaRef="http://lila-erc.eu/data/id/lemma/87119" ana="v-sfpama-">accepturum</w>
           <w n="w38" lemma="ab" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" ana="r--------">ab</w>
           <w n="w39" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---mb-">eo</w>
-          <w n="w40" lemma="cardinalatus" ana="n-s---mg-">cardinalatus</w>
+          <w n="w40" lemma="cardinalatus" lemmaRef="http://lila-erc.eu/data/id/lemma/39288" ana="n-s---mg-">cardinalatus</w>
           <w n="w41" lemma="decus1" lemmaRef="http://lila-erc.eu/data/id/lemma/98168" ana="n-s---na-">decus</w>
           <w n="w42" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <w n="w43" lemma="alius" lemmaRef="http://lila-erc.eu/data/id/lemma/88481" ana="n-p---ma-">alios</w>
           <w n="w44" lemma="universus" lemmaRef="http://lila-erc.eu/data/id/lemma/130700" ana="a-p---ma-">uniuersos</w>
-          <w n="w45" lemma="honor" ana="n-p---ma-">honores</w>
+          <w n="w45" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" ana="n-p---ma-">honores</w>
           <pc n="pc46" lemma="punc1" ana="u--------">,</pc>
           <w n="w47" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-p---mb-">quibus</w>
           <w n="w48" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---ma-">eum</w>
-          <w n="w49" lemma="fungor" ana="v-srppma-">functum</w>
-          <w n="w50" lemma="video" ana="v1pria---">uidimus</w>
+          <w n="w49" lemma="fungor" lemmaRef="http://lila-erc.eu/data/id/lemma/104022" ana="v-srppma-">functum</w>
+          <w n="w50" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v1pria---">uidimus</w>
           <pc n="pc51" lemma="punc1" ana="u--------">,</pc>
           <w n="w52" lemma="mirus" lemmaRef="http://lila-erc.eu/data/id/lemma/112444" ana="a-s---fb-">mira</w>
-          <w n="w53" lemma="asseveratio" ana="n-s---fb-">asseueratione</w>
-          <w n="w54" lemma="praedico2" ana="v3siia---">praedicebat</w>
+          <w n="w53" lemma="asseveratio" lemmaRef="http://lila-erc.eu/data/id/lemma/90334" ana="n-s---fb-">asseueratione</w>
+          <w n="w54" lemma="praedico2" lemmaRef="http://lila-erc.eu/data/id/lemma/118833" ana="v3siia---">praedicebat</w>
           <pc n="pc55" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s18">
-          <w n="w1" lemma="cerno" ana="v1spia---">Cerno</w>
+          <w n="w1" lemma="cerno" lemmaRef="http://lila-erc.eu/data/id/lemma/93546" ana="v1spia---">Cerno</w>
           <w n="w2" lemma="hic" lemmaRef="http://lila-erc.eu/data/id/hypolemma/18676" ana="d-------p">hic</w>
-          <w n="w3" lemma="nonnullus" ana="a-p---ma-">nonnullos</w>
-          <w n="w4" lemma="praelatus" ana="n-p---ma-">praelatos</w>
+          <w n="w3" lemma="nonnullus" lemmaRef="http://lila-erc.eu/data/id/lemma/114159" ana="a-p---ma-">nonnullos</w>
+          <w n="w4" lemma="praelatus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/34443" ana="n-p---ma-">praelatos</w>
           <w n="w5" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <w n="w6" lemma="ex" lemmaRef="http://lila-erc.eu/data/id/lemma/101716" ana="r--------">ex</w>
           <w n="w7" lemma="alius" lemmaRef="http://lila-erc.eu/data/id/lemma/88481" ana="n-p---mb-">aliis</w>
@@ -1428,9 +1428,9 @@
           <w n="w12" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-p---mb-">quibus</w>
           <w n="w13" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" ana="a-s---fb-">magna</w>
           <w n="w14" lemma="cum" lemmaRef="http://lila-erc.eu/data/id/lemma/97201" ana="r--------">cum</w>
-          <w n="w15" lemma="attestatio" ana="n-s---fb-">attestatione</w>
+          <w n="w15" lemma="attestatio" lemmaRef="http://lila-erc.eu/data/id/lemma/90542" ana="n-s---fb-">attestatione</w>
           <w n="w16" lemma="audio" lemmaRef="http://lila-erc.eu/data/id/lemma/90641" ana="v1sria---">audiui</w>
-          <w n="w17" lemma="singulus" ana="a-p---na-">singula</w>
+          <w n="w17" lemma="singulus" lemmaRef="http://lila-erc.eu/data/id/lemma/123320" ana="a-p---na-">singula</w>
           <w n="w18" lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" ana="p-p---na-">haec</w>
           <pc n="pc19" lemma="punc1" ana="u--------">,</pc>
           <w n="w20" lemma="qui1" ana="n-p---na-">quae</w>
@@ -1441,24 +1441,24 @@
           <w n="w25" lemma="annus" lemmaRef="http://lila-erc.eu/data/id/lemma/89129" ana="n-p---mb-">annis</w>
           <w n="w26" lemma="ab" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" ana="r--------">ab</w>
           <w n="w27" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" ana="p-s---mb-">ipso</w>
-          <w n="w28" lemma="praedico2" ana="v-prppna-">praedicta</w>
+          <w n="w28" lemma="praedico2" lemmaRef="http://lila-erc.eu/data/id/lemma/118833" ana="v-prppna-">praedicta</w>
           <w n="w29" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v--rna---">fuisse</w>
           <pc n="pc30" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s19">
           <w n="w1" lemma="itaque" lemmaRef="http://lila-erc.eu/data/id/lemma/109129" ana="c--------">Itaque</w>
-          <w n="w2" lemma="repugno" ana="v-spp-ma-">repugnantem</w>
+          <w n="w2" lemma="repugno" lemmaRef="http://lila-erc.eu/data/id/lemma/122690" ana="v-spp-ma-">repugnantem</w>
           <w n="w3" lemma="magister" lemmaRef="http://lila-erc.eu/data/id/lemma/111274" ana="n-s---ma-">magistrum</w>
           <w n="w4" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <w n="w5" lemma="sui" lemmaRef="http://lila-erc.eu/data/id/lemma/131255" ana="p-s---ma-">se</w>
           <w n="w6" lemma="tantus" lemmaRef="http://lila-erc.eu/data/id/lemma/127630" ana="a-s---nb-">tanto</w>
-          <w n="w7" lemma="fastigium" ana="n-s---nb-">fastigio</w>
-          <w n="w8" lemma="indignus" ana="a-s---ma-">indignum</w>
-          <w n="w9" lemma="reclamo" ana="v-spp-ma-">reclamantem</w>
-          <w n="w10" lemma="urgeo" ana="v--pna---">urgere</w>
+          <w n="w7" lemma="fastigium" lemmaRef="http://lila-erc.eu/data/id/lemma/102977" ana="n-s---nb-">fastigio</w>
+          <w n="w8" lemma="indignus" lemmaRef="http://lila-erc.eu/data/id/lemma/107459" ana="a-s---ma-">indignum</w>
+          <w n="w9" lemma="reclamo" lemmaRef="http://lila-erc.eu/data/id/lemma/122394" ana="v-spp-ma-">reclamantem</w>
+          <w n="w10" lemma="urgeo" lemmaRef="http://lila-erc.eu/data/id/lemma/130831" ana="v--pna---">urgere</w>
           <w n="w11" lemma="non" lemmaRef="http://lila-erc.eu/data/id/lemma/114108" ana="d--------">non</w>
-          <w n="w12" lemma="de_-sisto" ana="v3sria---">destitit</w>
-          <w n="w13" lemma="donec" ana="c--------">donec</w>
+          <w n="w12" lemma="desisto" lemmaRef="http://lila-erc.eu/data/id/lemma/98913" ana="v3sria---">destitit</w>
+          <w n="w13" lemma="donec" lemmaRef="http://lila-erc.eu/data/id/lemma/100084" ana="c--------">donec</w>
           <w n="w14" lemma="multus" lemmaRef="http://lila-erc.eu/data/id/lemma/112998" ana="a-p---nb-">multis</w>
           <w n="w15" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <w n="w16" lemma="signum" ana="n-p---nb-">signis</w>
@@ -1466,7 +1466,7 @@
           <w n="w18" lemma="prodigium" ana="n-p---nb-">prodigiis</w>
           <w n="w19" lemma="evinco" lemmaRef="http://lila-erc.eu/data/id/lemma/101641" ana="v-srppma-">euictum</w>
           <w n="w20" lemma="propello" ana="v3sria---">propulit</w>
-          <w n="w21" lemma="Roma" ana="n-s---fa-">Romam</w>
+          <w n="w21" lemma="Roma" lemmaRef="http://lila-erc.eu/data/id/lemma/20293" ana="n-s---fa-">Romam</w>
           <w n="w22" lemma="proficiscor" ana="v--pnp---">proficisci</w>
           <pc n="pc23" lemma="punc1" ana="u--------">,</pc>
           <w n="w24" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" ana="r--------">in</w>
@@ -1474,7 +1474,7 @@
           <w n="w26" lemma="constituo" ana="v-srppmn-">constitutus</w>
           <w n="w27" lemma="minime" lemmaRef="http://lila-erc.eu/data/id/hypolemma/27351" ana="d--------">minime</w>
           <w n="w28" lemma="conquiesco" ana="v3sria---">conquieuit</w>
-          <w n="w29" lemma="antequam" ana="c--------">antequam</w>
+          <w n="w29" lemma="antequam" lemmaRef="http://lila-erc.eu/data/id/lemma/90912" ana="c--------">antequam</w>
           <w n="w30" lemma="demando" ana="v-srppna-">demandatum</w>
           <w n="w31" lemma="ab" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" ana="r--------">ab</w>
           <w n="w32" lemma="altus1" ana="a-s---mgs">altissimi</w>
@@ -1494,7 +1494,7 @@
           <w n="w46" lemma="apostolatus" lemmaRef="http://lila-erc.eu/data/id/lemma/89539" ana="n-s---mg-">apostolatus</w>
           <w n="w47" lemma="culmen" ana="n-s---na-">culmen</w>
           <w n="w48" lemma="conscendo" ana="v--rna---">conscendisse</w>
-          <w n="w49" lemma="video" ana="v3sisa---">uideret</w>
+          <w n="w49" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3sisa---">uideret</w>
           <pc n="pc50" lemma="punc1" ana="u--------">,</pc>
           <w n="w51" lemma="pro1" lemmaRef="http://lila-erc.eu/data/id/lemma/118468" ana="r--------">pro</w>
           <w n="w52" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-p---mb-">quibus</w>
@@ -1550,11 +1550,11 @@
           <w n="w99" lemma="utor" ana="v--pnp---">uti</w>
           <pc n="pc100" lemma="punc1" ana="u--------">,</pc>
           <w n="w101" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" ana="c--------">ut</w>
-          <w n="w102" lemma="disco" ana="v3pisa---">discerent</w>
+          <w n="w102" lemma="disco" lemmaRef="http://lila-erc.eu/data/id/lemma/99619" ana="v3pisa---">discerent</w>
           <w n="w103" lemma="universus" lemmaRef="http://lila-erc.eu/data/id/lemma/130700" ana="a-p---mn-">uniuersi</w>
           <w n="w104" lemma="verus" ana="a-s---fa-">ueram</w>
           <w ana="compositum" n="w105">
-          <w n="w105a" lemma="certus" ana="a-s---fa-">certam</w>
+            <w n="w105a" lemma="certus" lemmaRef="http://lila-erc.eu/data/id/lemma/93581" ana="a-s---fa-">certam</w>
               <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" ana="c--------" n="w105b">que</w>
             </w>
           <w n="w106" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v--pna---">esse</w>
@@ -1886,7 +1886,7 @@
           <w n="w5" lemma="moveo" ana="v3siip---">mouebatur</w>
           <w n="w6" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-s---fn-">quae</w>
           <w n="w7" lemma="neglegentia" ana="n-s---fb-">negligentia</w>
-          <w n="w8" lemma="contingo1" ana="v3slsa---">contigisset</w>
+          <w n="w8" lemma="contingo1" lemmaRef="http://lila-erc.eu/data/id/lemma/96293" ana="v3slsa---">contigisset</w>
           <pc n="pc9" lemma="punc1" ana="u--------">,</pc>
           <w n="w10" lemma="culpa" lemmaRef="http://lila-erc.eu/data/id/lemma/97183" ana="n-s---fa-">culpam</w>
           <w n="w11" lemma="magis" lemmaRef="http://lila-erc.eu/data/id/lemma/111271" ana="d--------">magis</w>
@@ -1961,7 +1961,7 @@
           <w n="w13" lemma="offensa" ana="n-p---fb-">offensis</w>
           <w n="w14" lemma="laedo" ana="v--pnp---">laedi</w>
           <w n="w15" lemma="possum" lemmaRef="http://lila-erc.eu/data/id/lemma/118569" ana="v--pna---">posse</w>
-          <w n="w16" lemma="video" ana="v3siip---">uidebatur</w>
+          <w n="w16" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3siip---">uidebatur</w>
           <pc n="pc17" lemma="punc1" ana="u--------">,</pc>
           <w n="w18" lemma="neque" lemmaRef="http://lila-erc.eu/data/id/lemma/114120" ana="c--------">nec</w>
           <w n="w19" lemma="ullus" lemmaRef="http://lila-erc.eu/data/id/lemma/130494" ana="a-------c">ullius</w>
@@ -1985,7 +1985,7 @@
           <w n="w10" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" ana="r--------">in</w>
           <w n="w11" lemma="supplex" ana="a-p---mg-">supplicium</w>
           <w n="w12" lemma="venia" lemmaRef="http://lila-erc.eu/data/id/lemma/129786" ana="n-s---fa-">ueniam</w>
-          <w n="w13" lemma="video" ana="v3siip---">uidebatur</w>
+          <w n="w13" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3siip---">uidebatur</w>
           <pc n="pc14" lemma="punc1" ana="u--------">,</pc>
           <w ana="compositum" n="w15">
               <w n="w15a" lemma="tantum" lemmaRef="http://lila-erc.eu/data/id/hypolemma/110679" ana="d-------p">tantum</w>
@@ -2111,7 +2111,7 @@
           <pc n="pc6" lemma="punc1" ana="u--------">,</pc>
           <w n="w7" lemma="cum" lemmaRef="http://lila-erc.eu/data/id/lemma/97202" ana="c--------">cum</w>
           <w n="w8" lemma="quidam" lemmaRef="http://lila-erc.eu/data/id/lemma/121313" ana="p-p---ma-">quosdam</w>
-          <w n="w9" lemma="familiaris" ana="a-p---mg-">familiarium</w>
+          <w n="w9" lemma="familiaris" lemmaRef="http://lila-erc.eu/data/id/lemma/102888" ana="n-p---mg-">familiarium</w>
           <w n="w10" lemma="merito" ana="d-------p">merito</w>
           <w n="w11" lemma="objurgo" ana="v3slsa---">obiurgasset</w>
           <pc n="pc12" lemma="punc1" ana="u--------">,</pc>
@@ -2159,7 +2159,7 @@
           <pc n="pc31" lemma="punc1" ana="u--------">:</pc>
           <w n="w32" lemma="tuus" ana="a-s---nn-">Tuum</w>
           <w n="w33" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v3spia---">est</w>
-          <w n="w34" lemma="familiaris" ana="a-p---ma-">familiares</w>
+          <w n="w34" lemma="familiaris" lemmaRef="http://lila-erc.eu/data/id/lemma/102888" ana="n-p---ma-">familiares</w>
           <w n="w35" lemma="meus" lemmaRef="http://lila-erc.eu/data/id/lemma/112262" ana="a-p---ma-">meos</w>
           <w n="w36" lemma="pro1" lemmaRef="http://lila-erc.eu/data/id/lemma/118468" ana="r--------">pro</w>
           <w n="w37" lemma="neglego" ana="v-srppnb-">neglecto</w>
@@ -2184,7 +2184,7 @@
           <w n="w56" lemma="suus" lemmaRef="http://lila-erc.eu/data/id/lemma/127165" ana="a-s---nb-">suo</w>
           <w n="w57" lemma="munus" lemmaRef="http://lila-erc.eu/data/id/lemma/113061" ana="n-s---nb-">munere</w>
           <w n="w58" lemma="bene" lemmaRef="http://lila-erc.eu/data/id/lemma/91473" ana="d-------s">optime</w>
-          <w n="w59" lemma="fungor" ana="v-srppmn-">fructus</w>
+          <w n="w59" lemma="fungor" lemmaRef="http://lila-erc.eu/data/id/lemma/104022" ana="v-srppmn-">fructus</w>
           <w n="w60" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v3sfia---">erit</w>
           <pc n="pc61" lemma="punc1" ana="u--------">.</pc>
         </s>
@@ -2241,7 +2241,7 @@
           <w n="w1" lemma="quingenti" ana="a-p---ma-">Quingentos</w>
           <w n="w2" lemma="ferme" ana="d--------">ferme</w>
           <w n="w3" lemma="pasco" ana="v3siia---">pascebat</w>
-          <w n="w4" lemma="familiaris" ana="a-p---ma-">familiares</w>
+          <w n="w4" lemma="familiaris" lemmaRef="http://lila-erc.eu/data/id/lemma/102888" ana="n-p---ma-">familiares</w>
           <pc n="pc5" lemma="punc1" ana="u--------">,</pc>
           <w n="w6" lemma="partim" lemmaRef="http://lila-erc.eu/data/id/lemma/116111" ana="d--------">partim</w>
           <w n="w7" lemma="illustris" ana="a-s---mb-">illustri</w>
@@ -2254,7 +2254,7 @@
           <w n="w14" lemma="locus" lemmaRef="http://lila-erc.eu/data/id/lemma/110019" ana="n-s---mb-">loco</w>
           <w n="w15" lemma="nascor" lemmaRef="http://lila-erc.eu/data/id/lemma/113387" ana="v-prpdmap">natos</w>
           <pc n="pc16" lemma="punc1" ana="u--------">:</pc>
-          <w n="w17" lemma="praelatus" ana="n-p---ma-">praelatos</w>
+          <w n="w17" lemma="praelatus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/34443" ana="n-p---ma-">praelatos</w>
           <pc n="pc18" lemma="punc1" ana="u--------">,</pc>
           <w n="w19" lemma="miles" ana="n-p---ma-">milites</w>
           <pc n="pc20" lemma="punc1" ana="u--------">,</pc>
@@ -2345,7 +2345,7 @@
           <w n="w6" lemma="avaritia" ana="n-s---fg-">auaritiae</w>
           <pc n="pc7" lemma="punc1" ana="u--------">,</pc>
           <w n="w8" lemma="sed" lemmaRef="http://lila-erc.eu/data/id/lemma/123994" ana="c--------">sed</w>
-          <w n="w9" lemma="honor" ana="n-s---mg-">honoris</w>
+          <w n="w9" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" ana="n-s---mg-">honoris</w>
           <w ana="compositum" n="w10">
           <w n="w10a" lemma="comparo2" ana="v-s-g-fg-">comparandae</w>
               <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" ana="c--------" n="w10b">que</w>
@@ -2404,7 +2404,7 @@
           <w n="w19" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---mb-">eo</w>
           <w n="w20" lemma="non" lemmaRef="http://lila-erc.eu/data/id/lemma/114108" ana="d--------">non</w>
           <w n="w21" lemma="parvus" ana="a-p---ma-">paruos</w>
-          <w n="w22" lemma="honor" ana="n-p---ma-">honores</w>
+          <w n="w22" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" ana="n-p---ma-">honores</w>
           <w n="w23" lemma="multus" lemmaRef="http://lila-erc.eu/data/id/lemma/112998" ana="a-p---na-">multa</w>
           <w n="w24" lemma="insuper" ana="d--------">insuper</w>
           <w n="w25" lemma="donum" ana="n-p---na-">dona</w>
@@ -2414,7 +2414,7 @@
       </p>
       <p n="p8">
         <s n="s1">
-          <w n="w1" lemma="video" ana="v1sria---">Vidi</w>
+          <w n="w1" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v1sria---">Vidi</w>
           <w n="w2" lemma="ille" lemmaRef="http://lila-erc.eu/data/id/lemma/106221" ana="p-s---ma-">illum</w>
           <w n="w3" lemma="quidam" lemmaRef="http://lila-erc.eu/data/id/lemma/121313" ana="p-s---mb-">quodam</w>
           <w n="w4" lemma="vesper" ana="n-s---mb-">uesperi</w>
@@ -2510,7 +2510,7 @@
           <w n="w6" lemma="animus" lemmaRef="http://lila-erc.eu/data/id/lemma/89094" ana="n-s---mg-">animi</w>
           <w n="w7" lemma="cruciatus" lemmaRef="http://lila-erc.eu/data/id/lemma/97041" ana="n-p---mb-">cruciatibus</w>
           <w n="w8" lemma="torqueo" lemmaRef="http://lila-erc.eu/data/id/lemma/128449" ana="v--pnp---">torqueri</w>
-          <w n="w9" lemma="video" ana="v2sisa---">uideres</w>
+          <w n="w9" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v2sisa---">uideres</w>
           <w n="w10" lemma="quod" lemmaRef="http://lila-erc.eu/data/id/lemma/74854" ana="c--------">quod</w>
           <w n="w11" lemma="sui" lemmaRef="http://lila-erc.eu/data/id/lemma/131255" ana="p-s---md-">sibi</w>
           <pc n="pc12" lemma="punc1" ana="u--------">,</pc>
@@ -2649,7 +2649,7 @@
           <w n="w1" lemma="sed" lemmaRef="http://lila-erc.eu/data/id/lemma/123994" ana="c--------">Sed</w>
           <w n="w2" lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" ana="p-p---na-">haec</w>
           <w n="w3" lemma="ille" lemmaRef="http://lila-erc.eu/data/id/lemma/106221" ana="p-p---mn-">illi</w>
-          <w n="w4" lemma="video" ana="v3pria---">uiderunt</w>
+          <w n="w4" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3pria---">uiderunt</w>
           <w n="w5" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-s---mn-">qui</w>
           <w n="w6" lemma="facio" ana="v3pria---">fecerunt</w>
           <w n="w7" lemma="lingua" lemmaRef="http://lila-erc.eu/data/id/lemma/110562" ana="n-s---fa-">linguam</w>
@@ -2672,7 +2672,7 @@
           <w n="w1" lemma="sed" lemmaRef="http://lila-erc.eu/data/id/lemma/123994" ana="c--------">Sed</w>
           <w n="w2" lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" ana="p-p---na-">haec</w>
           <w n="w3" lemma="ille" lemmaRef="http://lila-erc.eu/data/id/lemma/106221" ana="p-p---mn-">illi</w>
-          <w n="w4" lemma="video" ana="v3pria---">uiderunt</w>
+          <w n="w4" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3pria---">uiderunt</w>
           <pc n="pc5" lemma="punc1" ana="u--------">;</pc>
           <w n="w6" lemma="nos" lemmaRef="http://lila-erc.eu/data/id/hypolemma/110487" ana="p-p---mn-">nos</w>
           <w n="w7" lemma="interea" lemmaRef="http://lila-erc.eu/data/id/lemma/108452" ana="d--------">interea</w>
@@ -2732,7 +2732,7 @@
           <w n="w6" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-s---fb-">qua</w>
           <w n="w7" lemma="ita" lemmaRef="http://lila-erc.eu/data/id/lemma/109126" ana="d--------">ita</w>
           <w n="w8" lemma="sui" lemmaRef="http://lila-erc.eu/data/id/lemma/131255" ana="p-s---ma-">sese</w>
-          <w n="w9" lemma="inter" ana="r--------">inter</w>
+          <w n="w9" lemma="inter" lemmaRef="http://lila-erc.eu/data/id/lemma/108392" ana="r--------">inter</w>
           <w n="w10" lemma="princeps" lemmaRef="http://lila-erc.eu/data/id/lemma/73416" ana="n-p---ma-">principes</w>
           <w n="w11" lemma="Christianus" lemmaRef="http://lila-erc.eu/data/id/lemma/3084" ana="a-p---map">Christianos</w>
           <w n="w12" lemma="gero1" lemmaRef="http://lila-erc.eu/data/id/lemma/104536" ana="v3sria---">gessit</w>
@@ -2811,7 +2811,7 @@
           <w n="w10" lemma="Italia" lemmaRef="http://lila-erc.eu/data/id/lemma/10748" ana="n-s---fg-">Italiae</w>
           <w n="w11" lemma="populus1" ana="n-p---mn-">populi</w>
           <w ana="compositum" n="w12">
-          <w n="w12a" lemma="singulus" ana="a-p---mn-">singuli</w>
+            <w n="w12a" lemma="singulus" lemmaRef="http://lila-erc.eu/data/id/lemma/123320" ana="a-p---mn-">singuli</w>
               <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" ana="c--------" n="w12b">que</w>
             </w>
           <w n="w13" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" ana="p-p---mg-">ipsorum</w>
@@ -2822,7 +2822,7 @@
           <w n="w18" lemma="quisnam" lemmaRef="http://lila-erc.eu/data/id/lemma/121334" ana="p-s---mn-">quisnam</w>
           <w n="w19" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---ma-">eum</w>
           <w n="w20" lemma="amplus" lemmaRef="http://lila-erc.eu/data/id/lemma/88785" ana="a-p----bc">amplioribus</w>
-          <w n="w21" lemma="honor" ana="n-p---mb-">honoribus</w>
+          <w n="w21" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" ana="n-p---mb-">honoribus</w>
           <w n="w22" lemma="excipio" lemmaRef="http://lila-erc.eu/data/id/lemma/101865" ana="v3sisa---">exciperet</w>
           <w n="w23" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <w n="w24" lemma="prosequor" lemmaRef="http://lila-erc.eu/data/id/lemma/120069" ana="v3sisd---">prosequeretur</w>
@@ -2858,7 +2858,7 @@
           <w n="w13" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v3sisa---">esset</w>
           <w n="w14" lemma="amicus2" lemmaRef="http://lila-erc.eu/data/id/lemma/88684" ana="n-s---mn-">amicus</w>
           <pc n="pc15" lemma="punc1" ana="u--------">,</pc>
-          <w n="w16" lemma="singulus" ana="a-p---mn-">singuli</w>
+          <w n="w16" lemma="singulus" lemmaRef="http://lila-erc.eu/data/id/lemma/123320" ana="a-p---mn-">singuli</w>
           <w n="w17" lemma="tamen" lemmaRef="http://lila-erc.eu/data/id/lemma/127607" ana="d--------">tamen</w>
           <w n="w18" lemma="sui" lemmaRef="http://lila-erc.eu/data/id/lemma/131255" ana="p-p---md-">sibi</w>
           <w n="w19" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---ma-">eum</w>
@@ -2891,9 +2891,9 @@
           <w n="w5" lemma="communis" lemmaRef="http://lila-erc.eu/data/id/lemma/97171" ana="a-s---fa-">communem</w>
           <w n="w6" lemma="res" lemmaRef="http://lila-erc.eu/data/id/lemma/121868" ana="n-s---fa-">rem</w>
           <w n="w7" lemma="gero1" lemmaRef="http://lila-erc.eu/data/id/lemma/104536" ana="v3spda-b-">gerendo</w>
-          <w n="w8" lemma="singulus" ana="a-p---mg-">singulorum</w>
+          <w n="w8" lemma="singulus" lemmaRef="http://lila-erc.eu/data/id/lemma/123320" ana="a-p---mg-">singulorum</w>
           <w n="w9" lemma="tamen" lemmaRef="http://lila-erc.eu/data/id/lemma/127607" ana="d--------">tamen</w>
-          <w n="w10" lemma="video" ana="v3siip---">uidebatur</w>
+          <w n="w10" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3siip---">uidebatur</w>
           <w n="w11" lemma="advocatus" lemmaRef="http://lila-erc.eu/data/id/lemma/87679" ana="n-s---mn-">aduocatus</w>
           <pc n="pc12" lemma="punc1" ana="u--------">.</pc>
         </s>
@@ -2935,7 +2935,7 @@
           <w n="w32" lemma="postquam" lemmaRef="http://lila-erc.eu/data/id/lemma/120753" ana="c--------">postquam</w>
           <w n="w33" lemma="ab" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" ana="r--------">a</w>
           <w n="w34" lemma="legatio" lemmaRef="http://lila-erc.eu/data/id/lemma/110156" ana="n-s---fb-">legatione</w>
-          <w n="w35" lemma="redeo" ana="v3slia---">redierat</w>
+          <w n="w35" lemma="redeo" lemmaRef="http://lila-erc.eu/data/id/lemma/122463" ana="v3slia---">redierat</w>
           <pc n="pc36" lemma="punc1" ana="u--------">,</pc>
           <w n="w37" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" ana="r--------">in</w>
           <w n="w38" lemma="pax" lemmaRef="http://lila-erc.eu/data/id/lemma/116322" ana="n-s---fa-">pacem</w>
@@ -2991,7 +2991,7 @@
           <w n="w9" lemma="respublica" ana="n-s---fg-">reipublicae</w>
           <w n="w10" lemma="cura" lemmaRef="http://lila-erc.eu/data/id/lemma/97301" ana="n-p---fd-">curis</w>
           <w n="w11" lemma="nascor" lemmaRef="http://lila-erc.eu/data/id/lemma/113387" ana="v-srpdmnp">natus</w>
-          <w n="w12" lemma="video" ana="v3siip---">uidebatur</w>
+          <w n="w12" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3siip---">uidebatur</w>
           <pc n="pc13" lemma="punc1" ana="u--------">;</pc>
           <w n="w14" lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" ana="p-s---fn-">haec</w>
           <w n="w15" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v3siia---">erat</w>
@@ -3030,7 +3030,7 @@
           <w n="w7" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <w n="w8" lemma="tamen" lemmaRef="http://lila-erc.eu/data/id/lemma/127607" ana="d--------">tamen</w>
           <w n="w9" lemma="ab" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" ana="r--------">a</w>
-          <w n="w10" lemma="nonnullus" ana="a-p---mb-">nonnullis</w>
+          <w n="w10" lemma="nonnullus" lemmaRef="http://lila-erc.eu/data/id/lemma/114159" ana="a-p---mb-">nonnullis</w>
           <w n="w11" lemma="neglegentia" ana="n-s---fg-">negligentiae</w>
           <w n="w12" lemma="accuso" lemmaRef="http://lila-erc.eu/data/id/lemma/87175" ana="v3siip---">accusabatur</w>
           <pc n="pc13" lemma="punc1" ana="u--------">,</pc>
@@ -3130,7 +3130,7 @@
           <w n="w8" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <pc n="pc9" lemma="punc1" ana="u--------">,</pc>
           <w n="w10" lemma="nisi" lemmaRef="http://lila-erc.eu/data/id/lemma/67473" ana="d--------">nisi</w>
-          <w n="w11" lemma="familiaris" ana="a-p---mg-">familiarium</w>
+          <w n="w11" lemma="familiaris" lemmaRef="http://lila-erc.eu/data/id/lemma/102888" ana="n-p---mg-">familiarium</w>
           <w n="w12" lemma="suus" lemmaRef="http://lila-erc.eu/data/id/lemma/127165" ana="a-p---mg-">suorum</w>
           <pc n="pc13" lemma="punc1" ana="u--------">,</pc>
           <w n="w14" lemma="alius" lemmaRef="http://lila-erc.eu/data/id/lemma/88481" ana="a-p---mgp">aliorum</w>
@@ -3203,7 +3203,7 @@
           <pc n="pc34" lemma="punc1" ana="u--------">;</pc>
           <w n="w35" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-p---fn-">quae</w>
           <w n="w36" lemma="talis" ana="a-p---fn-">tales</w>
-          <w n="w37" lemma="mens" ana="n-s---fd-">menti</w>
+          <w n="w37" lemma="mens" lemmaRef="http://lila-erc.eu/data/id/lemma/112038" ana="n-s---fd-">menti</w>
           <w n="w38" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---mg-">eius</w>
           <w n="w39" lemma="assidue" ana="d-------p">assidue</w>
           <w n="w40" lemma="obversor" lemmaRef="http://lila-erc.eu/data/id/lemma/114546" ana="v3piid---">obuersabantur</w>
@@ -3246,7 +3246,7 @@
           <w n="w26" lemma="conubium" lemmaRef="http://lila-erc.eu/data/id/lemma/96413" ana="n-s---nb-">connubio</w>
           <w n="w27" lemma="filia" lemmaRef="http://lila-erc.eu/data/id/lemma/103296" ana="n-s---fg-">filiae</w>
           <w n="w28" lemma="digno" lemmaRef="http://lila-erc.eu/data/id/lemma/99405" ana="v-srppma-">dignatum</w>
-          <w n="w29" lemma="cerno" ana="v3siia---">cernebat</w>
+          <w n="w29" lemma="cerno" lemmaRef="http://lila-erc.eu/data/id/lemma/93546" ana="v3siia---">cernebat</w>
           <pc n="pc30" lemma="punc1" ana="u--------">,</pc>
           <w n="w31" lemma="volo1" lemmaRef="http://lila-erc.eu/data/id/lemma/130745" ana="v3sria---">uoluit</w>
           <w n="w32" lemma="fraternus" lemmaRef="http://lila-erc.eu/data/id/lemma/103742" ana="a-s---fb-">fraterna</w>
@@ -3265,12 +3265,12 @@
           <w n="w8" lemma="is" lemmaRef="http://lila-erc.eu/data/id/lemma/109083" ana="p-s---nn-">id</w>
           <w n="w9" lemma="cum" lemmaRef="http://lila-erc.eu/data/id/lemma/97201" ana="r--------">cum</w>
           <w n="w10" lemma="ingens" lemmaRef="http://lila-erc.eu/data/id/lemma/107799" ana="a-s---mb-">ingenti</w>
-          <w n="w11" lemma="honor" ana="n-s---mb-">honore</w>
+          <w n="w11" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" ana="n-s---mb-">honore</w>
           <w n="w12" lemma="atque" lemmaRef="http://lila-erc.eu/data/id/lemma/90490" ana="c--------">ac</w>
           <w n="w13" lemma="laus" lemmaRef="http://lila-erc.eu/data/id/lemma/110103" ana="n-s---fb-">laude</w>
           <w n="w14" lemma="sedes" lemmaRef="http://lila-erc.eu/data/id/lemma/124005" ana="n-s---fg-">sedis</w>
           <w n="w15" lemma="apostolicus" lemmaRef="http://lila-erc.eu/data/id/lemma/89540" ana="a-s---fg-">apostolicae</w>
-          <w n="w16" lemma="contingo1" ana="v3sisa---">contingeret</w>
+          <w n="w16" lemma="contingo1" lemmaRef="http://lila-erc.eu/data/id/lemma/96293" ana="v3sisa---">contingeret</w>
           <pc n="pc17" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s4">
@@ -3367,7 +3367,7 @@
           <w n="w11" lemma="mereor" ana="v-srpdmdp">merito</w>
           <pc n="pc12" lemma="punc1" ana="u--------">,</pc>
           <w n="w13" lemma="non" lemmaRef="http://lila-erc.eu/data/id/lemma/114108" ana="d--------">non</w>
-          <w n="w14" lemma="solum" ana="d-------p">solum</w>
+          <w n="w14" lemma="solum" lemmaRef="http://lila-erc.eu/data/id/hypolemma/111490" ana="d-------p">solum</w>
           <w n="w15" lemma="victus2" ana="n-s---ma-">uictum</w>
           <pc n="pc16" lemma="punc1" ana="u--------">,</pc>
           <w n="w17" lemma="sed" lemmaRef="http://lila-erc.eu/data/id/lemma/123994" ana="c--------">sed</w>
@@ -3525,7 +3525,7 @@
           <w n="w18" lemma="suus" lemmaRef="http://lila-erc.eu/data/id/lemma/127165" ana="a-s---fg-">suae</w>
           <w n="w19" lemma="judex" lemmaRef="http://lila-erc.eu/data/id/lemma/109161" ana="n-p---md-">iudicibus</w>
           <w n="w20" lemma="saepe" lemmaRef="http://lila-erc.eu/data/id/lemma/123106" ana="d--------">saepe</w>
-          <w n="w21" lemma="mando1" ana="v3siia---">mandabat</w>
+          <w n="w21" lemma="mando1" lemmaRef="http://lila-erc.eu/data/id/lemma/111470" ana="v3siia---">mandabat</w>
           <pc n="pc22" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s8">
@@ -3733,7 +3733,7 @@
           <w n="w27" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <w n="w28" lemma="salus" ana="n-s---fg-">salutis</w>
           <w n="w29" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
-          <w n="w30" lemma="honor" ana="n-s---mg-">honoris</w>
+          <w n="w30" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" ana="n-s---mg-">honoris</w>
           <w n="w31" lemma="genitor" lemmaRef="http://lila-erc.eu/data/id/lemma/104485" ana="n-s---mg-">genitoris</w>
           <w n="w32" lemma="suus" lemmaRef="http://lila-erc.eu/data/id/lemma/127165" ana="a-s---mg-">sui</w>
           <w n="w33" lemma="cura" lemmaRef="http://lila-erc.eu/data/id/lemma/97301" ana="n-s---fn-">cura</w>
@@ -3811,7 +3811,7 @@
           <w n="w102" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" ana="c--------">ut</w>
           <w n="w103" lemma="nemo" lemmaRef="http://lila-erc.eu/data/id/lemma/67324" ana="n-s---md-">nemini</w>
           <w n="w104" lemma="mirus" lemmaRef="http://lila-erc.eu/data/id/lemma/112444" ana="a-s---na-">mirum</w>
-          <w n="w105" lemma="video" ana="v--pnp---">uideri</w>
+          <w n="w105" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v--pnp---">uideri</w>
           <w n="w106" lemma="debeo" lemmaRef="http://lila-erc.eu/data/id/lemma/97963" ana="v3spsa---">debeat</w>
           <w n="w107" lemma="si" lemmaRef="http://lila-erc.eu/data/id/lemma/124676" ana="c--------">si</w>
           <w n="w108" lemma="aut" lemmaRef="http://lila-erc.eu/data/id/lemma/90827" ana="c--------">aut</w>
@@ -3849,7 +3849,7 @@
           <w n="w2" lemma="res" lemmaRef="http://lila-erc.eu/data/id/lemma/121868" ana="n-p---fb-">rebus</w>
           <w n="w3" lemma="suus" lemmaRef="http://lila-erc.eu/data/id/lemma/127165" ana="a-p---fb-">suis</w>
           <w n="w4" lemma="totus1" lemmaRef="http://lila-erc.eu/data/id/lemma/128484" ana="a-s---fa-">totam</w>
-          <w n="w5" lemma="mens" ana="n-s---fa-">mentem</w>
+          <w n="w5" lemma="mens" lemmaRef="http://lila-erc.eu/data/id/lemma/112038" ana="n-s---fa-">mentem</w>
           <w n="w6" lemma="ad" lemmaRef="http://lila-erc.eu/data/id/lemma/87344" ana="r--------">ad</w>
           <w n="w7" lemma="ille" lemmaRef="http://lila-erc.eu/data/id/lemma/106221" ana="p-s---na-">illud</w>
           <w n="w8" lemma="converto" lemmaRef="http://lila-erc.eu/data/id/lemma/96446" ana="v3slia---">conuerterat</w>
@@ -3894,7 +3894,7 @@
           <pc n="pc17" lemma="punc1" ana="u--------">,</pc>
           <w n="w18" lemma="bonum" lemmaRef="http://lila-erc.eu/data/id/lemma/91351" ana="n-p---na-">bona</w>
           <w n="w19" lemma="prior" lemmaRef="http://lila-erc.eu/data/id/lemma/119509" ana="a-p---mgc">priorum</w>
-          <w n="w20" lemma="rector" ana="n-p---mg-">rectorum</w>
+          <w n="w20" lemma="rector" lemmaRef="http://lila-erc.eu/data/id/lemma/121576" ana="n-p---mg-">rectorum</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/99875" n="w21" lemma="distraho" ana="v-prppna-">distracta</w>
           <w n="w22" lemma="neglegentia" ana="n-s---fb-">negligentia</w>
           <w n="w23" lemma="proprius" lemmaRef="http://lila-erc.eu/data/id/lemma/119990" ana="a-p---fb-">propriis</w>
@@ -3903,7 +3903,7 @@
           <pc n="pc26" lemma="punc1" ana="u--------">;</pc>
           <w n="w27" lemma="vestimentum" ana="n-p---na-">uestimenta</w>
           <pc n="pc28" lemma="punc1" ana="u--------">,</pc>
-          <w n="w29" lemma="liber4" ana="n-p---ma-">libros</w>
+          <w n="w29" lemma="liber4" lemmaRef="http://lila-erc.eu/data/id/lemma/110382" ana="n-p---ma-">libros</w>
           <pc n="pc30" lemma="punc1" ana="u--------">,</pc>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/129593" n="w31" lemma="vasum" ana="n-p---na-">uasa</w>
           <w n="w32" lemma="sacer" lemmaRef="http://lila-erc.eu/data/id/lemma/123063" ana="a-p---na-">sacra</w>
@@ -4017,7 +4017,7 @@
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/123092" n="w12" lemma="sacrificium" ana="n-s---na-">sacrificium</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/122659" n="w13" lemma="reperio" ana="v3sria---">reperit</w>
           <pc n="pc14" lemma="punc1" ana="u--------">,</pc>
-          <w n="w15" lemma="liber4" ana="n-p---ma-">libros</w>
+          <w n="w15" lemma="liber4" lemmaRef="http://lila-erc.eu/data/id/lemma/110382" ana="n-p---ma-">libros</w>
           <w n="w16" lemma="autem" lemmaRef="http://lila-erc.eu/data/id/lemma/90828" ana="c--------">autem</w>
           <w n="w17" lemma="prorsus1" lemmaRef="http://lila-erc.eu/data/id/hypolemma/110864" ana="d--------">prorsus</w>
           <w n="w18" lemma="nullus" lemmaRef="http://lila-erc.eu/data/id/lemma/114081" ana="a-p---ma-">nullos</w>
@@ -4116,7 +4116,7 @@
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/121130" n="w12" lemma="quattuor" ana="m--------">quatuor</w>
           <w n="w13" lemma="mensis" lemmaRef="http://lila-erc.eu/data/id/lemma/112046" ana="n-p---mb-">mensibus</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/126956" n="w14" lemma="superstes" ana="a-s---map">superstitem</w>
-          <w n="w15" lemma="video" ana="v3slsa---">uidisset</w>
+          <w n="w15" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v3slsa---">uidisset</w>
           <pc n="pc16" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s6">
@@ -4159,7 +4159,7 @@
           <w n="w9" lemma="praestans" lemmaRef="http://lila-erc.eu/data/id/hypolemma/35027" ana="a-p---mbs">praestantissimis</w>
           <w n="w10" lemma="omnis" lemmaRef="http://lila-erc.eu/data/id/lemma/114954" ana="a-p---fg-">omnium</w>
           <w n="w11" lemma="scientia" lemmaRef="http://lila-erc.eu/data/id/lemma/127415" ana="n-p---fg-">scientiarum</w>
-          <w n="w12" lemma="liber4" ana="n-p---mb-">libris</w>
+          <w n="w12" lemma="liber4" lemmaRef="http://lila-erc.eu/data/id/lemma/110382" ana="n-p---mb-">libris</w>
           <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/13804" n="w13" lemma="egregie" ana="d-------p">egregie</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/122492" n="w14" lemma="refercio" ana="v-srppfa-">refertam</w>
           <pc n="pc15" lemma="punc1" ana="u--------">.</pc>
@@ -4229,11 +4229,11 @@
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/99458" n="w3a" lemma="dilectio" ana="n-s---fg-">dilectionis</w>
               <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" ana="c--------" n="w3b">que</w>
             </w>
-          <w n="w4" lemma="certus" ana="a-p---na-">certa</w>
+          <w n="w4" lemma="certus" lemmaRef="http://lila-erc.eu/data/id/lemma/93581" ana="a-p---na-">certa</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/107326" n="w5" lemma="indicium" ana="n-p---na-">indicia</w>
           <w n="w6" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" ana="r--------">in</w>
           <w n="w7" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" ana="p-s---mg-">ipsius</w>
-          <w n="w8" lemma="video" ana="v1pria---">uidimus</w>
+          <w n="w8" lemma="video" lemmaRef="http://lila-erc.eu/data/id/lemma/130163" ana="v1pria---">uidimus</w>
           <w n="w9" lemma="mors" lemmaRef="http://lila-erc.eu/data/id/lemma/112807" ana="n-s---fb-">morte</w>
           <pc n="pc10" lemma="punc1" ana="u--------">;</pc>
           <w n="w11" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-s---fa-">quam</w>
@@ -4308,7 +4308,7 @@
           <w n="w3" lemma="mors" lemmaRef="http://lila-erc.eu/data/id/lemma/112807" ana="n-s---fd-">morti</w>
           <w n="w4" lemma="domesticus" lemmaRef="http://lila-erc.eu/data/id/lemma/48017" ana="n-p---ma-">domesticos</w>
           <w n="w5" lemma="atque" lemmaRef="http://lila-erc.eu/data/id/lemma/90490" ana="c--------">ac</w>
-          <w n="w6" lemma="familiaris" ana="a-p---ma-">familiares</w>
+          <w n="w6" lemma="familiaris" lemmaRef="http://lila-erc.eu/data/id/lemma/102888" ana="n-p---ma-">familiares</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/89811" n="w7" lemma="arcesso" ana="v--pnp---">accersiri</w>
           <w n="w8" lemma="jubeo" lemmaRef="http://lila-erc.eu/data/id/lemma/109152" ana="v3spia---">iubet</w>
           <pc n="pc9" lemma="punc1" ana="u--------">,</pc>
@@ -4515,7 +4515,7 @@
           <pc n="pc11" lemma="punc1" ana="u--------">,</pc>
           <w n="w12" lemma="suus" lemmaRef="http://lila-erc.eu/data/id/lemma/127165" ana="a-s---fb-">sua</w>
           <w n="w13" lemma="clementia" lemmaRef="http://lila-erc.eu/data/id/lemma/94487" ana="n-s---fb-">clementia</w>
-          <w n="w14" lemma="inter" ana="r--------">inter</w>
+          <w n="w14" lemma="inter" lemmaRef="http://lila-erc.eu/data/id/lemma/108392" ana="r--------">inter</w>
           <w n="w15" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/29131" ana="p-p---ma-">uos</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/116113" n="w16" lemma="partior" ana="v3spsd---">partiatur</w>
           <pc n="pc17" lemma="punc1" ana="u--------">,</pc>
@@ -4540,7 +4540,7 @@
           <w n="w4" lemma="ego" lemmaRef="http://lila-erc.eu/data/id/lemma/100712" ana="p-s---ma-">me</w>
           <w n="w5" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" ana="c--------">et</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/129684" n="w6" lemma="vehemens" ana="a-------c">uehementius</w>
-          <w n="w7" lemma="urgeo" ana="v3spia---">urget</w>
+          <w n="w7" lemma="urgeo" lemmaRef="http://lila-erc.eu/data/id/lemma/130831" ana="v3spia---">urget</w>
           <w n="w8" lemma="meus" lemmaRef="http://lila-erc.eu/data/id/lemma/112262" ana="a-s---fn-">mea</w>
           <w n="w9" lemma="erga" lemmaRef="http://lila-erc.eu/data/id/lemma/101404" ana="r--------">erga</w>
           <w n="w10" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/29131" ana="p-p---ma-">uos</w>
@@ -4798,7 +4798,7 @@
           <w n="w13" lemma="vel" lemmaRef="http://lila-erc.eu/data/id/lemma/129695" ana="d--------">uel</w>
           <w n="w14" lemma="meus" lemmaRef="http://lila-erc.eu/data/id/lemma/112262" ana="a-s---nb-">meo</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/101975" n="w15" lemma="exemplum" ana="n-s---nb-">exemplo</w>
-          <w n="w16" lemma="disco" ana="v2ppma---">discite</w>
+          <w n="w16" lemma="disco" lemmaRef="http://lila-erc.eu/data/id/lemma/99619" ana="v2ppma---">discite</w>
           <pc n="pc17" lemma="punc1" ana="u--------">.</pc>
         </s>
       </p>
@@ -4814,7 +4814,7 @@
           <w n="w8" lemma="religio" lemmaRef="http://lila-erc.eu/data/id/lemma/121713" ana="n-s---fb-">religione</w>
           <w n="w9" lemma="sancte" ana="d-------s">sanctissime</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/112665" n="w10" lemma="moneo" ana="v-prppma-">monitos</w>
-          <w n="w11" lemma="singulus" ana="a-p---ma-">singulos</w>
+          <w n="w11" lemma="singulus" lemmaRef="http://lila-erc.eu/data/id/lemma/123320" ana="a-p---ma-">singulos</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/103446" n="w12" lemma="fleo" ana="v-ppp-ma-">flentes</w>
           <w ana="compositum" n="w13">
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/100733" n="w13" lemma="ejulo" ana="v-ppp-ma-">eiulantes</w>
@@ -4920,7 +4920,7 @@
           <w n="w40" lemma="dominus" lemmaRef="http://lila-erc.eu/data/id/lemma/5227" ana="n-s---md-">Domino</w>
           <w n="w41" lemma="anima" lemmaRef="http://lila-erc.eu/data/id/lemma/89075" ana="n-s---fa-">animam</w>
           <w n="w42" lemma="commendo" ana="v-ppp-mn-">commendantes</w>
-          <w n="w43" lemma="recito" ana="v2ppma---">recitate</w>
+          <w n="w43" lemma="recito" lemmaRef="http://lila-erc.eu/data/id/lemma/122392" ana="v2ppma---">recitate</w>
           <pc n="pc44" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s5">
@@ -4958,7 +4958,7 @@
           <pc n="pc29" lemma="punc1" ana="u--------">,</pc>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/117355" n="w30" lemma="persto" ana="v3sria---">perstitit</w>
           <pc n="pc31" lemma="punc1" ana="u--------">,</pc>
-          <w n="w32" lemma="donec" ana="c--------">donec</w>
+          <w n="w32" lemma="donec" lemmaRef="http://lila-erc.eu/data/id/lemma/100084" ana="c--------">donec</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/110136" n="w33" lemma="lector" ana="n-s---mn-">lector</w>
           <w n="w34" lemma="dominicus" lemmaRef="http://lila-erc.eu/data/id/lemma/98100" ana="a-s---fg-">dominicae</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/116162" n="w35" lemma="passio" ana="n-s---fg-">passionis</w>
@@ -4987,7 +4987,7 @@
           <w n="w6" lemma="deus" lemmaRef="http://lila-erc.eu/data/id/lemma/4810" ana="n-s---md-">Deo</w>
           <w n="w7" lemma="anima" lemmaRef="http://lila-erc.eu/data/id/lemma/89075" ana="n-s---fn-">anima</w>
           <w n="w8" lemma="velut" lemmaRef="http://lila-erc.eu/data/id/lemma/129732" ana="d--------">ueluti</w>
-          <w n="w9" lemma="certus" ana="a-s---nb-">certo</w>
+          <w n="w9" lemma="certus" lemmaRef="http://lila-erc.eu/data/id/lemma/93581" ana="a-s---nb-">certo</w>
           <w n="w10" lemma="accipio" lemmaRef="http://lila-erc.eu/data/id/lemma/87119" ana="v-srppnb-">accepto</w>
           <w n="w11" lemma="signum" ana="n-s---nb-">signo</w>
           <w n="w12" lemma="ad" lemmaRef="http://lila-erc.eu/data/id/lemma/87344" ana="r--------">ad</w>
@@ -5204,7 +5204,7 @@
               <w n="w6" lemma="mundus" ana="n-s---mg-">mundi</w>
               <w n="w7" lemma="ego" lemmaRef="http://lila-erc.eu/data/id/lemma/100712" ana="p-s---ma-">Me</w>
               <w n="w8" lemma="speculum" lemmaRef="http://lila-erc.eu/data/id/lemma/125316" ana="n-s---na-">speculum</w>
-              <w n="w9" lemma="cerno" ana="v2spsa---">cernas</w>
+              <w n="w9" lemma="cerno" lemmaRef="http://lila-erc.eu/data/id/lemma/93546" ana="v2spsa---">cernas</w>
               <w n="w10" lemma="quisque" lemmaRef="http://lila-erc.eu/data/id/lemma/121320" ana="p-s---mn-">quisque</w>
               <w n="w11" lemma="uiator" lemmaRef="http://lila-erc.eu/data/id/lemma/130097" ana="n-s---mv-">uiator</w>
               <w n="w12" lemma="adsum" lemmaRef="http://lila-erc.eu/data/id/lemma/87642" ana="v2spia---">ades</w>
