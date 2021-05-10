@@ -2670,7 +2670,7 @@
           <w n="w17" lemma="totus1" lemmaRef="http://lila-erc.eu/data/id/lemma/128484" ana="a-s---fb-">tota</w>
           <w n="w18" lemma="dies" lemmaRef="http://lila-erc.eu/data/id/lemma/99334" ana="n-s---fb-">die</w>
           <w n="w19" lemma="concinno" lemmaRef="http://lila-erc.eu/data/id/lemma/95522" ana="v3piia---">concinnabant</w>
-          <w n="w20" lemma="dolus" lemmaRef="http://lila-erc.eu/data/id/lemma/100037"> ana="n-p---ma-">dolos</w>
+          <w n="w20" lemma="dolus" lemmaRef="http://lila-erc.eu/data/id/lemma/100037" ana="n-p---ma-">dolos</w>
           <pc n="pc21" lemma="punc1" ana="u--------">.</pc>
         </s>
         <s n="s4">
@@ -3176,7 +3176,7 @@
             </w>
           <w n="w3" lemma="moderatus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/27538" ana="a-s---ngs">moderatissimi</w>
           <pc n="pc4" lemma="punc1" ana="u--------">,</pc>
-          <w n="w5" lemma="somnulentia" lemmaRef="http://lila-erc.eu/data/id/lemma/125127" ana="n-s---fg-">somnolentiae</w>
+          <w n="w5" lemma="somnolentia" lemmaRef="http://lila-erc.eu/data/id/lemma/125127" ana="n-s---fg-">somnolentiae</w>
           <w n="w6" lemma="nullus" lemmaRef="http://lila-erc.eu/data/id/lemma/114081" ana="a-s---fg-">nullius</w>
           <pc n="pc7" lemma="punc1" ana="u--------">,</pc>
           <w n="w8" lemma="immo" lemmaRef="http://lila-erc.eu/data/id/lemma/106420" ana="d--------">immo</w>
@@ -5159,7 +5159,7 @@
               <w n="w5" lemma="aspicio" lemmaRef="http://lila-erc.eu/data/id/lemma/90262" ana="v2spma---">aspice</w>
               <pc n="pc2">,</pc>
               <w n="w8" lemma="lector" lemmaRef="http://lila-erc.eu/data/id/lemma/110136" ana="n-s---mv-">lector</w>
-              <w n="w9" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-s---ma-">Quem</w>
+              <w n="w9" lemma="qui2" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" ana="p-s---ma-">Quem</w>
               <w n="w10" lemma="prius" lemmaRef="http://lila-erc.eu/data/id/lemma/136134" ana="d-------c">prius</w>
               <w n="w11" lemma="odi" lemmaRef="http://lila-erc.eu/data/id/lemma/114724" ana="v2sria---">odisti</w>
               <pc n="pc3">,</pc>
