@@ -1862,10 +1862,10 @@
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/113981" n="w6" lemma="numerus" ana="n-s---ma-">numerum</w>
           <w n="w7" lemma="neque" lemmaRef="http://lila-erc.eu/data/id/lemma/114120" ana="c--------">nec</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/114945" n="w8" lemma="omnino" ana="d--------">omnino</w>
-          <w n="w9" lemma="quis2" ana="p-s---na-">quid</w>
+          <w n="w9" lemma="quis2" lemmaRef="https://lila-erc.eu/data/id/lemma/121165" ana="p-s---na-">quid</w>
           <w n="w10" lemma="habeo" lemmaRef="http://lila-erc.eu/data/id/lemma/105044" ana="v3sisa---">haberet</w>
           <w n="w11" lemma="aut" lemmaRef="http://lila-erc.eu/data/id/lemma/90827" ana="c--------">aut</w>
-          <w n="w12" lemma="quis2" ana="p-s---na-">quid</w>
+          <w n="w12" lemma="quis2" lemmaRef="https://lila-erc.eu/data/id/lemma/121165" ana="p-s---na-">quid</w>
           <w n="w13" lemma="impendo" lemmaRef="http://lila-erc.eu/data/id/lemma/106504" ana="v3sisa---">impenderet</w>
           <w lemmaRef="http://lila-erc.eu/data/id/lemma/113840" n="w14" lemma="nosco" ana="v--rna---">nosse</w>
           <w n="w15" lemma="volo1" lemmaRef="http://lila-erc.eu/data/id/lemma/130745" ana="v3siia---">uolebat</w>
@@ -4773,8 +4773,7 @@
           <w n="w1" lemma="ego" lemmaRef="http://lila-erc.eu/data/id/lemma/100712" ana="p-s---mn-">Ego</w>
           <w n="w2" lemma="quoque" lemmaRef="http://lila-erc.eu/data/id/hypolemma/110467" ana="d--------">quoque</w>
           <pc n="pc3" lemma="punc1" ana="u--------">,</pc>
-          <w n="w4" lemma="si" lemmaRef="http://lila-erc.eu/data/id/lemma/124676" ana="c--------">si</w>
-          <w n="w5" lemma="quis2" ana="p-s---mn-">quis</w>
+          <w n="w4" lemma="siquis" lemmaRef="https://lila-erc.eu/data/id/lemma/127505" ana="p-s---mn-">si quis</w>
           <w n="w6" lemma="morior" lemmaRef="http://lila-erc.eu/data/id/lemma/112796" ana="v-prpdmdp">mortuis</w>
           <w n="w7" lemma="sum1" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" ana="v3sfia---">erit</w>
           <w n="w8" lemma="sensus2" lemmaRef="http://lila-erc.eu/data/id/lemma/124355" ana="n-s---mn-">sensus</w>
