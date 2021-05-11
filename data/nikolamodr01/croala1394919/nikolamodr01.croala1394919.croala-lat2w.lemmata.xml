@@ -349,14 +349,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/104536"
                      ana="v-prppnb-">gestis</w>
                   <w n="46" ana="compositum">
-                     <w n="w51a"
+                     <w n="46a"
                         lemma="virtus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/130356"
                         ana="n-p---fg-">uirtutum</w>
-                     <w lemma="que"
+                     <w n="46b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w51b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="47"
                      lemma="ipse"
@@ -713,14 +713,14 @@
                      ana="n-s---fa-">benignitatem</w>
                   <pc n="6">,</pc>          
                   <w n="13" ana="compositum">
-                     <w n="w19a"
+                     <w n="13a"
                         lemma="liberalitas"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/110385"
                         ana="n-s---fa-">liberalitatem</w>
-                     <w lemma="que"
+                     <w n="13b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w19b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="14"
                      lemma="cottidie"
@@ -1807,14 +1807,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105645"
                      ana="a-p---fbs">honestissimis</w>          
                   <w n="46" ana="compositum">
-                     <w n="w52a"
+                     <w n="46a"
                         lemma="nobilis"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/113751"
                         ana="a-p---fbs">nobilissimis</w>
-                     <w lemma="que"
+                     <w n="46b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w52b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="47"
                      lemma="civitas"
@@ -1846,14 +1846,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/93313"
                      ana="a-s---nbs">celeberrimo</w>
                   <w n="54" ana="compositum">
-                     <w lemma="vetustus"
+                     <w n="54a"
+                        lemma="vetustus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/130074"
-                        ana="a-s---nb-"
-                        n="w61a">uetusto</w>
-                     <w lemma="que"
+                        ana="a-s---nb-">uetusto</w>
+                     <w n="54b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w61b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="55"
                      lemma="Ligur"
@@ -1918,14 +1918,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/115196"
                      ana="n-s---mb-">orbe</w>
                   <w n="71" ana="compositum">
-                     <w lemma="extremus"
+                     <w n="71a"
+                        lemma="extremus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/102414"
-                        ana="a-p---mb-"
-                        n="w71a">extremis</w>
-                     <w lemma="que"
+                        ana="a-p---mb-">extremis</w>
+                     <w n="71b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w71b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="72"
                      lemma="terra"
@@ -1944,14 +1944,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110103"
                      ana="n-p---fb-">laudibus</w>
                   <w n="76" ana="compositum">
-                     <w lemma="superus"
+                     <w n="76a"
+                        lemma="superus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/126999"
-                        ana="a-s---fbs"
-                        n="w76a">summa</w>
-                     <w lemma="que"
+                        ana="a-s---fbs">summa</w>
+                     <w n="76b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w76b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="77"
                      lemma="gloria"
@@ -2139,14 +2139,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103696"
                      ana="n-s---fg-">fortunae</w>
                   <w n="35" ana="compositum">
-                     <w lemma="corpus"
+                     <w n="35a"
+                        lemma="corpus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/96667"
-                        ana="n-s---ng-"
-                        n="w37a">corporis</w>
-                     <w lemma="que"
+                        ana="n-s---ng-">corporis</w>
+                     <w n="35b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w37b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="36"
                      lemma="quilibet"
@@ -2279,14 +2279,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
                      ana="v3srsa---">fuerit</w>
                   <w n="8" ana="compositum">
-                     <w n="w8a"
+                     <w n="8a"
                         lemma="quam"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/74492"
                         ana="d--------">quam</w>
-                     <w lemma="que"
+                     <w n="8b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w8b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="9"
                      lemma="magnificus"
@@ -2494,14 +2494,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121716"
                      ana="a-s---mgs">religiosissimi</w>
                   <w n="7" ana="compositum">
-                     <w n="w7a"
+                     <w n="7a"
                         lemma="doctus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/5182"
                         ana="a-s---mgs">doctissimi</w>
-                     <w lemma="que"
+                     <w n="7b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w7b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="8"
                      lemma="vir"
@@ -2909,14 +2909,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111688"
                      ana="n-s---fg-">matris</w>
                   <w n="31" ana="compositum">
-                     <w n="w33a"
+                     <w n="31a"
                         lemma="frater"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/103739"
                         ana="n-p---mg-">fratrum</w>
-                     <w lemma="que"
+                     <w n="31b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w33b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="32"
                      lemma="cura"
@@ -3104,14 +3104,14 @@
                      ana="v3sria---">initiauit</w>
                   <pc n="7">,</pc>
                   <w n="29" ana="compositum">
-                     <w n="w36a"
+                     <w n="29a"
                         lemma="servo"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/124551"
                         ana="v-prppfb-">seruatis</w>
-                     <w lemma="que"
+                     <w n="29b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w36b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="30"
                      lemma="pro1"
@@ -3177,14 +3177,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110402"
                      ana="v-spp-mn-">libens</w>          
                   <w n="8" ana="compositum">
-                     <w n="w8a"
+                     <w n="8a"
                         lemma="promptus2"
                         lemmaRef="http://lila-erc.eu/data/id/hypolemma/35758"
                         ana="a-s---mn-">promptus</w>
-                     <w lemma="que"
+                     <w n="8b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w8b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="9"
                      lemma="et"
@@ -3349,14 +3349,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/71730"
                      ana="a-s---nbs">piissimo</w>
                   <w n="22" ana="compositum">
-                     <w ana="a-s---mbs"
+                     <w n="22a"
+                        ana="a-s---mbs"
                         lemma="sanctus"
-                        lemmaRef="http://lila-erc.eu/data/id/lemma/78250"
-                        n="w22a">sanctissimo</w>
-                     <w lemma="que"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/78250">sanctissimo</w>
+                     <w n="22b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w22b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="23"
                      lemma="is"
@@ -3515,14 +3515,14 @@
                      ana="n-s---fa-">Senam</w>
                   <pc n="7">,</pc>          
                   <w n="24" ana="compositum">
-                     <w n="w31a"
+                     <w n="24a"
                         lemma="Ferraria"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/7182"
                         ana="n-s---fa-">Ferrariam</w>
-                     <w lemma="que"
+                     <w n="24b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w31b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="25"
                      lemma="mitto"
@@ -3849,14 +3849,14 @@
                      ana="d--------">adeo</w>
                   <w n="21" lemma="acute" ana="d-------p">acute</w>          
                   <w n="22" ana="compositum">
-                     <w n="w25a"
+                     <w n="22a"
                         lemma="adeo2"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/87420"
                         ana="d--------">adeo</w>
-                     <w lemma="que"
+                     <w n="22b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w25b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="23"
                      lemma="prompte"
@@ -3899,14 +3899,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99334"
                      ana="n-s---fb-">die</w>
                   <w n="33" ana="compositum">
-                     <w n="w36a"
+                     <w n="33a"
                         lemma="noctu"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/113771"
                         ana="d-------p">noctu</w>
-                     <w lemma="que"
+                     <w n="33b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w36b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="34"
                      lemma="nullus"
@@ -3937,14 +3937,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/128116"
                      ana="n-p---mg-">theologorum</w>
                   <w n="41" ana="compositum">
-                     <w n="w44a"
+                     <w n="41a"
                         lemma="philosophus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/118059"
                         ana="n-p---mg-">philosophorum</w>
-                     <w lemma="que"
+                     <w n="41b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w44b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="42"
                      lemma="liber4"
@@ -4136,14 +4136,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95359"
                      ana="a-p---ma-">complures</w>
                   <w n="34" ana="compositum">
-                     <w n="w37a"
+                     <w n="34a"
                         lemma="multus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/112998"
                         ana="a-p---ma-">multos</w>
-                     <w lemma="que"
+                     <w n="34b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w37b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="35"
                      lemma="grammatica"
@@ -4337,14 +4337,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99940"
                      ana="n-s---fn-">diuinitas</w>
                   <w n="9" ana="compositum">
-                     <w n="w9a"
+                     <w n="9a"
                         lemma="complurimi"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/95361"
                         ana="a-p---nas">complurima</w>
-                     <w lemma="que"
+                     <w n="9b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w9b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <pc n="1">,</pc>
                   <w n="10"
@@ -5047,14 +5047,14 @@
                      lemma="illustro"
                      ana="v--pna---">illustrare</w>
                   <w n="78" ana="compositum">
-                     <w n="w82a"
+                     <w n="78a"
                         lemma="omnis"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/114954"
                         ana="a-p---md-">omnibus</w>
-                     <w lemma="que"
+                     <w n="78b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w82b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="79"
                      lemma="mundus2"
@@ -5142,14 +5142,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129978"
                      ana="a-s---fa-">ueram</w>
                   <w n="100" ana="compositum">
-                     <w n="w105a"
+                     <w n="100a"
                         lemma="certus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/93581"
                         ana="a-s---fa-">certam</w>
-                     <w lemma="que"
+                     <w n="100b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w105b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="101"
                      lemma="sum1"
@@ -5476,14 +5476,14 @@
                      ana="a-p---ma-">dignos</w>
                   <pc n="1">,</pc>
                   <w n="14" ana="compositum">
-                     <w lemmaRef="http://lila-erc.eu/data/id/lemma/124857"
-                        n="w15a"
+                     <w n="14a"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/124857"
                         lemma="simul"
                         ana="d--------">simul</w>
-                     <w lemma="que"
+                     <w n="14b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w15b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="15"
                      lemma="cum"
@@ -5612,14 +5612,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113387"
                      ana="v-srpdmnp">natus</w>
                   <w n="45" ana="compositum">
-                     <w n="w52a"
+                     <w n="45a"
                         lemma="educo2"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/100588"
                         ana="v-srppmn-">educatus</w>
-                     <w lemma="que"
+                     <w n="45b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w52b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="46"
                      lemma="sum1"
@@ -5648,14 +5648,14 @@
                      ana="n-p---nn-">aedificia</w>
                   <pc n="9">,</pc>
                   <w n="52" ana="compositum">
-                     <w lemmaRef="http://lila-erc.eu/data/id/lemma/128477"
-                        n="w61a"
+                     <w n="52a"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/128477"
                         lemma="tot"
                         ana="a-p---nn_">tot</w>
-                     <w lemma="que"
+                     <w n="52b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w61b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="53"
                      lemma="magnificentissimus"
@@ -5897,14 +5897,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127165"
                      ana="a-s---fb-">sua</w>
                   <w n="49" ana="compositum">
-                     <w n="w56a"
+                     <w n="49a"
                         lemma="ipse"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/108945"
                         ana="p-p---mg-">ipsorum</w>
-                     <w lemma="que"
+                     <w n="49b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w56b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="50"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99402"
@@ -6610,14 +6610,14 @@
                      ana="v3siip---">uidebatur</w>
                   <pc n="1">,</pc>
                   <w n="14" ana="compositum">
-                     <w n="w15a"
+                     <w n="14a"
                         lemma="tantum"
                         lemmaRef="http://lila-erc.eu/data/id/hypolemma/110679"
                         ana="d-------p">tantum</w>
-                     <w lemma="que"
+                     <w n="14b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w15b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="15"
                      lemma="ab"
@@ -6847,14 +6847,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113047"
                      ana="n-s---fg-">munificentiae</w>          
                   <w n="3" ana="compositum">
-                     <w n="w3a"
+                     <w n="3a"
                         lemma="liberalitas"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/110385"
                         ana="n-s---fg-">liberalitatis</w>
-                     <w lemma="que"
+                     <w n="3b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w3b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="4"
                      lemma="is"
@@ -7096,14 +7096,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/12447"
                      ana="a-s---fbs">diligentissima</w>          
                   <w n="11" ana="compositum">
-                     <w n="w12a"
+                     <w n="11a"
                         lemma="fidus1"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/103275"
                         ana="a-s---fbs">fidissima</w>
-                     <w lemma="que"
+                     <w n="11b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w12b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="12"
                      lemma="cura"
@@ -7794,14 +7794,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105647"
                      ana="n-s---mg-">honoris</w>
                   <w n="8" ana="compositum">
-                     <w n="w10a"
+                     <w n="8a"
                         lemma="comparo2"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/97455"
                         ana="v-s-g-fg-">comparandae</w>
-                     <w lemma="que"
+                     <w n="8b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w10b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="9"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/92062"
@@ -8089,14 +8089,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/91782"
                      ana="a-s---mas">optimum</w>
                   <w n="18" ana="compositum">
-                     <w n="w18a"
+                     <w n="18a"
                         lemma="magnus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/111319"
                         ana="a-s---mas">maximum</w>
-                     <w lemma="que"
+                     <w n="18b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w18b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="19"
                      lemma="testis1"
@@ -8124,14 +8124,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/94739"
                      ana="v3sisa---">cogeret</w>
                   <w n="25" ana="compositum">
-                     <w n="w26a"
+                     <w n="25a"
                         lemma="minime"
                         lemmaRef="http://lila-erc.eu/data/id/hypolemma/27351"
                         ana="d--------">minime</w>
-                     <w lemma="que"
+                     <w n="25b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w26b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="26"
                      lemma="is"
@@ -8167,14 +8167,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/131255"
                      ana="p-s---ma-">se</w>
                   <w n="34" ana="compositum">
-                     <w n="w36a"
+                     <w n="34a"
                         lemma="caput"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/92796"
                         ana="n-s---na-">caput</w>
-                     <w lemma="que"
+                     <w n="34b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w36b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="35"
                      lemma="suus"
@@ -8267,14 +8267,14 @@
                      ana="v3ppip---">noscuntur</w>
                   <pc n="3">,</pc>
                   <w n="58" ana="compositum">
-                     <w n="w61a"
+                     <w n="58a"
                         lemma="sui"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131255"
                         ana="p-s---ma-">se</w>
-                     <w lemma="que"
+                     <w n="58b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w61b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="59"
                      lemma="ab"
@@ -8566,14 +8566,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/3086"
                      ana="n-s---mg-">Christi</w>
                   <w n="32" ana="compositum">
-                     <w n="w35a"
+                     <w n="32a"
                         lemma="frater"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/103739"
                         ana="n-p---mg-">fratrum</w>
-                     <w lemma="que"
+                     <w n="32b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w35b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="33"
                      lemma="is"
@@ -9374,14 +9374,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118463"
                      ana="n-p---mn-">populi</w>
                   <w n="12" ana="compositum">
-                     <w n="w12a"
+                     <w n="12a"
                         lemma="singulus"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/123320"
                         ana="a-p---mn-">singuli</w>
-                     <w lemma="que"
+                     <w n="12b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w12b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="13"
                      lemma="ipse"
@@ -9433,14 +9433,14 @@
                      ana="v3sisd---">prosequeretur</w>
                   <pc n="1">,</pc>
                   <w n="25" ana="compositum">
-                     <w lemma="ille"
+                     <w n="25a"
+                        lemma="ille"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/106221"
-                        ana="p-s---mn-"
-                        n="w26a">ille</w>
-                     <w lemma="que"
+                        ana="p-s---mn-">ille</w>
+                     <w n="25b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w26b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="26"
                      lemma="sui"
@@ -9673,14 +9673,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/91653"
                      ana="d--------">bis</w>
                   <w n="3" ana="compositum">
-                     <w n="w3a"
+                     <w n="3a"
                         lemma="ter"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/127860"
                         ana="d--------">ter</w>
-                     <w lemma="que"
+                     <w n="3b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w3b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="4"
                      lemma="per"
@@ -9886,14 +9886,14 @@
                      ana="v3slia---">conuerterat</w>
                   <pc n="7">,</pc>
                   <w n="53" ana="compositum">
-                     <w n="w60a"
+                     <w n="53a"
                         lemma="facio"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/102758"
                         ana="v3slsa---">fecisset</w>
-                     <w lemma="que"
+                     <w n="53b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w60b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="54"
                      lemma="votum"
@@ -10088,14 +10088,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99334"
                      ana="n-s---fb-">die</w>
                   <w n="4" ana="compositum">
-                     <w n="w4a"
+                     <w n="4a"
                         lemma="noctu"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/113771"
                         ana="d-------p">noctu</w>
-                     <w lemma="que"
+                     <w n="4b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w4b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="5"
                      lemma="inservio"
@@ -10140,14 +10140,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126757"
                      ana="a-s---ma-">superbum</w>
                   <w n="15" ana="compositum">
-                     <w n="w17a"
+                     <w n="15a"
                         lemma="difficilis"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/99345"
                         ana="a-s---ma-">difficilem</w>
-                     <w lemma="que"
+                     <w n="15b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w17b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="16"
                      lemma="ingratus"
@@ -10538,14 +10538,14 @@
                      lemma="cibus"
                      ana="n-s---mg-">Cibi</w>
                   <w n="2" ana="compositum">
-                     <w n="w2a"
+                     <w n="2a"
                         lemma="vinum"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/130275"
                         ana="n-s---ng-">uini</w>
-                     <w lemma="que"
+                     <w n="2b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w2b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="3"
                      lemma="moderatus"
@@ -11440,14 +11440,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100047"
                      ana="n-p---mg-">domesticorum</w>
                   <w n="5" ana="compositum">
-                     <w n="w5a"
+                     <w n="5a"
                         lemma="amicus2"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/88684"
                         ana="n-p---mg-">amicorum</w>
-                     <w lemma="que"
+                     <w n="5b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w5b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="6"
                      lemma="evinco"
@@ -11831,14 +11831,14 @@
                      lemma="justus"
                      ana="a-s---na-">iustum</w>          
                   <w n="17" ana="compositum">
-                     <w n="w18a"
+                     <w n="17a"
                         lemma="honestum"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/105646"
                         ana="n-s---na-">honestum</w>
-                     <w lemma="que"
+                     <w n="17b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w18b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="18"
                      lemma="fio"
@@ -12611,14 +12611,14 @@
                      ana="v3sria---">decessit</w>
                   <pc n="13">,</pc>
                   <w n="64" ana="compositum">
-                     <w lemmaRef="http://lila-erc.eu/data/id/lemma/124294"
-                        n="w77a"
+                     <w n="64a"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/124294"
                         lemma="semper"
                         ana="d--------">semper</w>
-                     <w lemma="que"
+                     <w n="64b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w77b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="65"
                      lemma="ut"
@@ -14130,14 +14130,14 @@
                      lemma="miseratio"
                      ana="n-s---fg-">miserationis</w>
                   <w n="3" ana="compositum">
-                     <w lemmaRef="http://lila-erc.eu/data/id/lemma/99458"
-                        n="w3a"
+                     <w n="3a"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/99458"
                         lemma="dilectio"
                         ana="n-s---fg-">dilectionis</w>
-                     <w lemma="que"
+                     <w n="3b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w3b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="4"
                      lemma="certus"
@@ -14290,14 +14290,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/123106"
                      ana="d-------c">saepius</w>
                   <w n="15" ana="compositum">
-                     <w n="w17a"
+                     <w n="15a"
                         lemma="diligenter"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/47414"
                         ana="d-------c">diligentius</w>
-                     <w lemma="que"
+                     <w n="15b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w17b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="16"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/120546"
@@ -14362,14 +14362,14 @@
                </s>
                <s n="s4">
                   <w n="1" ana="compositum">
-                     <w lemma="jam"
+                     <w n="1a"
+                        lemma="jam"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/106025"
-                        ana="d--------"
-                        n="w1a">Iam</w>
-                     <w lemma="que"
+                        ana="d--------">Iam</w>
+                     <w n="1b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w1b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="2"
                      lemma="vicinus"
@@ -14550,14 +14550,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111319"
                      ana="a-s---nb-">magno</w>
                   <w n="45" ana="compositum">
-                     <w lemmaRef="http://lila-erc.eu/data/id/lemma/96151"
-                        n="w51a"
+                     <w n="45a"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/96151"
                         lemma="consto"
                         ana="v-spp-nb-">constanti</w>
-                     <w lemma="que"
+                     <w n="45b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w51b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="46"
                      lemma="pectus"
@@ -14578,14 +14578,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103307"
                      ana="n-p---mv-">filii</w>
                   <w n="50" ana="compositum">
-                     <w n="w58a"
+                     <w n="50a"
                         lemma="frater"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/103739"
                         ana="n-p---mv-">fratres</w>
-                     <w lemma="que"
+                     <w n="50b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w58b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="51"
                      lemma="meus"
@@ -14618,14 +14618,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130745"
                      ana="v-spp-mn-">uolens</w>
                   <w n="58" ana="compositum">
-                     <w n="w68a"
+                     <w n="58a"
                         lemma="libens"
                         lemmaRef="http://lila-erc.eu/data/id/hypolemma/25590"
                         ana="a-s---mnp">lubens</w>
-                     <w lemma="que"
+                     <w n="58b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w68b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="59"
                      lemma="is"
@@ -14789,14 +14789,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127130"
                      ana="v-srppnn-">suspectum</w>
                   <w n="9" ana="compositum">
-                     <w lemmaRef="http://lila-erc.eu/data/id/lemma/112260"
-                        n="w11a"
+                     <w n="9a"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/112260"
                         lemma="metuo"
                         ana="v-s-g-nn-">metuendum</w>
-                     <w lemma="que"
+                     <w n="9b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w11b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="10"
                      lemma="sum1"
@@ -15235,14 +15235,14 @@
                      ana="v2ppsa---">inducatis</w>
                   <pc n="1">,</pc>
                   <w n="27" ana="compositum">
-                     <w n="w28a"
+                     <w n="27a"
                         lemma="ne1"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/113491"
                         ana="c--------">ne</w>
-                     <w lemma="ue"
+                     <w n="27b"
+                        lemma="ue"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131456"
-                        ana="c--------"
-                        n="w28b">ue</w>
+                        ana="c--------">ue</w>
                   </w>
                   <w n="28"
                      lemma="in"
@@ -15294,14 +15294,14 @@
                      lemma="fluo"
                      ana="v-prppfn-">fluxae</w>
                   <w n="40" ana="compositum">
-                     <w n="w42a"
+                     <w n="40a"
                         lemma="quam"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/74492"
                         ana="d-------p">quam</w>
-                     <w lemma="que"
+                     <w n="40b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w42b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="41"
                      lemma="fallax"
@@ -16077,14 +16077,14 @@
                      lemma="fleo"
                      ana="v-ppp-ma-">flentes</w>
                   <w n="13" ana="compositum">
-                     <w lemmaRef="http://lila-erc.eu/data/id/lemma/100733"
-                        n="w13"
+                     <w n="13a"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/100733"
                         lemma="ejulo"
                         ana="v-ppp-ma-">eiulantes</w>
-                     <w lemma="que"
+                     <w n="13b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w13b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="14"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/98672"
@@ -16171,14 +16171,14 @@
                </s>
                <s n="s3">
                   <w n="1" ana="compositum">
-                     <w n="w1a"
+                     <w n="1a"
                         lemma="cum"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/97202"
                         ana="c--------">Cum</w>
-                     <w lemma="que"
+                     <w n="1b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w1b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="2"
                      lemma="jam"
@@ -16473,14 +16473,14 @@
                      ana="n-p---nn-">euangelia</w>
                   <pc n="2">,</pc>          
                   <w n="14" ana="compositum">
-                     <w lemmaRef="http://lila-erc.eu/data/id/lemma/124294"
-                        n="w16a"
+                     <w n="14a"
+                        lemmaRef="http://lila-erc.eu/data/id/lemma/124294"
                         lemma="semper"
                         ana="d--------">semper</w>
-                     <w lemma="que"
+                     <w n="14b"
+                        lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                        ana="c--------"
-                        n="w16b">que</w>
+                        ana="c--------">que</w>
                   </w>
                   <w n="15"
                      lemma="intendo"
@@ -17243,14 +17243,14 @@
                         ana="n-s---ma-">fastum</w>
                      <pc n="2">,</pc>
                      <w n="9" ana="compositum">
-                        <w n="w9a"
+                        <w n="9a"
                            lemma="luxuries"
                            lemmaRef="http://lila-erc.eu/data/id/lemma/109975"
                            ana="n-s---fa-">luxuriem</w>
-                        <w lemma="que"
+                        <w n="9b"
+                           lemma="que"
                            lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
-                           ana="c--------"
-                           n="w9b">que</w>
+                           ana="c--------">que</w>
                      </w>
                      <w n="10"
                         lemma="simul"
