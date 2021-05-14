@@ -321,7 +321,7 @@ agam tamen ut potero et minus temeritatis quam ingratitudinis notam subire uereb
  xml:id="p-f3-biblia">
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Tobias</title>
+   <title ref="http://viaf.org/viaf/292395001">Tobias</title>
    <biblScope>5, 23</biblScope>
   </bibl>: <quote>baculum senectutis nostrae, solatium vitae nostrae</quote>
          
@@ -602,7 +602,7 @@ memoriae mandasse existimares.
  xml:id="p-f5a-horatius">
   <bibl>
    <author ref="http://viaf.org/viaf/100227522">Horatius</author>
-   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0893.phi001">carmina</title>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0893.phi001">Carmina</title>
    <biblScope>4, 27–32</biblScope>
   </bibl>: <quote>ego apis Matinae / more modoque, / grata carpentis thyma per laborem / plurimum, circa nemus uvidique / Tiburis ripas operosa parvos / carmina fingo.</quote>
    </note>
@@ -748,7 +748,7 @@ ut fortia quaeque confundat,
       </quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
-   <title>I Cor</title>
+   <title ref="http://viaf.org/viaf/179420235">Epistula ad Corinthios I</title>
    <biblScope>1, 27</biblScope>
   </bibl>
       <note type="source" xml:id="p-f6b-biblia-s">
@@ -815,7 +815,7 @@ aut dicere illi »quare sic fecisti«.
    </quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Daniel</title>
+   <title ref="http://viaf.org/viaf/177460782">Daniel</title>
    <biblScope>4, 31–32</biblScope>
   </bibl>
 <note type="source" xml:id="p-f7-biblia-s">
@@ -833,7 +833,7 @@ et dicat ei: “Quid facis?”.</quote>
    <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6a-firmicus">
   <bibl>
    <author ref="http://viaf.org/viaf/5015147967361884200009">Firmicus Maternus</author>
-   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0123a.stoa002">mathesis</title>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0123a.stoa002">Mathesis</title>
    <biblScope>8, 21, 4</biblScope>
   </bibl>: <quote>In Ofiucho qui nati fuerint erunt audaces, enthei, praesago diuinitatis instinctu futura noscentes.</quote>
    </note>
@@ -841,7 +841,7 @@ et dicat ei: “Quid facis?”.</quote>
 Petrus igitur per hunc modum in principatu constitutus, qui <cit><quote>solet uiros ostendere</quote>
   <bibl>
    <author ref="http://viaf.org/viaf/7524651">Aristoteles</author>
-   <title>Ethica ad Nicomachum</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg010">Ethica ad Nicomachum</title>
    <biblScope>3, 1330, a 1-2</biblScope>
   </bibl>
 <note type="source" xml:id="p-f8-aristoteles-s"><quote>principatus virum ostendit</quote></note>
@@ -947,7 +947,7 @@ prophetici tamen documenti memor
 <cit><quote>minime ad ea cor apponebat</quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Psalmi</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
    <biblScope>61, 11</biblScope>
   </bibl>
 <note type="source" target="#modrusiensis-riario06" xml:id="p-f9-biblia">
@@ -1083,12 +1083,12 @@ et nunc omnium infortunatissimos quibus tam crudeli fato
    <note type="parallel" target="#modrusiensis-riario08" xml:id="p-f8a-cicero">
       Nihil in se fictum, nihil subdolum aut simulatum esse uolebat: 
   <bibl>
-   <author ref="https://catalog.perseus.org/catalog/urn:cite:perseus:author.364">Cicero</author>
-   <title ref="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi0474.phi052.perseus-lat2:26">de amicitia</title>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi0474.phi052.perseus-lat2:26">De amicitia</title>
    <biblScope>26</biblScope>
   </bibl>: <quote>in amicitia autem nihil fictum, nihil simulatum est</quote>
       <bibl>
-   <author ref="https://catalog.perseus.org/catalog/urn:cite:perseus:author.364">Sallustius</author>
+   <author ref="http://viaf.org/viaf/104162705">Sallustius</author>
    <title ref="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi0631.phi001.perseus-lat4:5">Catilinae coniuratio</title>
    <biblScope>5</biblScope>
   </bibl>: <quote>Animus audax, subdolus, varius, quoius rei lubet simulator ac dissimulator</quote>
@@ -1096,7 +1096,7 @@ et nunc omnium infortunatissimos quibus tam crudeli fato
    <note type="parallel" target="#modrusiensis-riario08" xml:id="p-f8a-hieronymus">
       meliorem se foris ostendere quam gerere domi: 
   <bibl>
-   <author ref="http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.785">Hieronymus Stridonensis</author>
+   <author ref="http://viaf.org/viaf/102461101">Hieronymus Stridonensis</author>
    <title ref="http://viaf.org/viaf/185346274">Commentaria in Matthaeum</title>
    <biblScope>PL 26, 171D</biblScope>
   </bibl>: <quote>arguit Pharisaeos simulationis atque mendacii, quod aliud ostentent hominibus foris, aliud domi agant.</quote>
@@ -1220,7 +1220,7 @@ qui inexpiabili temeritate ausi sunt
 <cit><quote>os suum in caelo ponere</quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Psalmi</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
    <biblScope>72 (73), 9</biblScope>
   </bibl>
 <note type="source" target="#modrusiensis-riario12" xml:id="p-f10-biblia-s"><quote>Posuerunt in caelum os suum, et lingua eorum transivit in terra</quote>
@@ -1244,7 +1244,7 @@ electi sunt,
    <quote>a quo sunt omnium regnorum potestates</quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
-   <title>Epistula ad Romanos</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg006">Epistula ad Romanos</title>
    <biblScope>13, 1</biblScope>
   </bibl>
    <note type="source" target="#modrusiensis-riario12" xml:id="p-f11-biblia"><quote>non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt</quote>
@@ -1270,7 +1270,7 @@ te, et emigret te de tabernaculo tuo, et radicem tuam de terra uiuentium!</quote
 
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Psalmi</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
    <biblScope>52, 5 (51, 7)</biblScope>
   </bibl>
    <note type="source" target="#modrusiensis-riario12" xml:id="p-f12-biblia">
@@ -1286,7 +1286,7 @@ qui
 <cit><quote>fecerunt linguam suam nouaculam acutam</quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Psalmi</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
    <biblScope>52, 2 (51, 4)</biblScope>
   </bibl>
 <note type="source" target="#modrusiensis-riario12" xml:id="p-f13-biblia">
@@ -1303,7 +1303,7 @@ et
 die concinnabant dolos.</quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Psalmi</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
    <biblScope>49, 19-20</biblScope>
   </bibl>
 <note type="source" target="#modrusiensis-riario12" xml:id="p-f14-biblia"><quote>Os tuum abundavit malitia, et lingua tua concinnabat dolos. Sedens adversus fratrem tuum loquebaris</quote>
@@ -1720,7 +1720,7 @@ semperque,
 lateri haesit</ref>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Tobias</title>
+   <title ref="http://viaf.org/viaf/292395001">Tobias</title>
    <biblScope>5–12</biblScope>
   </bibl>
 </cit>; 
@@ -1750,7 +1750,7 @@ posset:
 <cit><quote>Domine, dilexi decorem domus tuae et gloriam habitationis tuae.</quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Psalmi</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
    <biblScope>26, 8 (25, 8)</biblScope>
   </bibl>
 <note type="source" target="#modrusiensis-riario19" xml:id="p-f17-biblia">
@@ -2059,7 +2059,7 @@ licet
 </app></quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
-   <title>Epistula ad Philippenses</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg011">Epistula ad Philippenses</title>
    <biblScope>1, 23–24</biblScope>
   </bibl>
 <note type="source" target="#modrusiensis-riario20" xml:id="p-f21-biblia">
@@ -2116,7 +2116,7 @@ Credite quoniam
 <cit><quote>puluis et umbra sumus</quote>
   <bibl>
    <author ref="http://viaf.org/viaf/100227522">Horatius</author>
-   <title>carmina</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0893.phi001">Carmina</title>
    <biblScope>4, 7, 16</biblScope>
   </bibl>
 </cit> 
@@ -2157,21 +2157,21 @@ immortalitati.
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f18-biblia">
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>1 Samuel</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg011">1 Samuel</title>
    <biblScope>5, 6</biblScope>
   </bibl>: <quote>Aggravata est autem manus Domini super Azotios</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f19-seneca">
   <bibl>
    <author ref="http://viaf.org/viaf/90637919">Seneca</author>
-   <title>epistulae</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1017.phi015">Epistulae</title>
    <biblScope>4, 37, 2</biblScope>
   </bibl>: <quote>ut volens libensque patiaris</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f20-cicero">
   <bibl>
    <author ref="http://viaf.org/viaf/78769600">Cicero</author>
-   <title>pro Marcello</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0474.phi032">Pro Marcello</title>
    <biblScope>25</biblScope>
   </bibl>: <quote>Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi: »Satis diu vel naturae vixi vel gloriae.«</quote>
    </note>
@@ -2194,14 +2194,14 @@ immortalitati.
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f23-biblia">
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
-   <title>Iohannes</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg004">Iohannes</title>
    <biblScope>14, 2</biblScope>
   </bibl>: <quote>in domo Patris mei mansiones multae sunt</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f24-biblia">
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Sapientia</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg033">Sapientia</title>
    <biblScope>10, 17</biblScope>
   </bibl>: <quote>reddidit iustis mercedem laborum suorum</quote>
    </note>
@@ -2234,34 +2234,34 @@ quam caduca sit huius mundi felicitas, uel meo exemplo
    <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-biblia">
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
-   <title>Lucas</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg003">Lucas</title>
    <biblScope>1, 78</biblScope>
   </bibl>: <quote>per viscera misericordiae Dei nostri in quibus visitavit nos oriens ex alto</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-seneca">
   <bibl>
    <author ref="http://viaf.org/viaf/90637919">Seneca</author>
-   <title>De brevitate vitae</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0255.stoa004">De brevitate vitae</title>
    <biblScope>18, 5</biblScope>
   </bibl>: <quote>Modo modo intra paucos illos dies, quibus C. Caesar perit, si quis inferis sensus est, hoc gravissime ferens</quote>
       <bibl>
    <author ref="http://viaf.org/viaf/90637919">Seneca</author>
-   <title>De consolatione ad Polybium</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0255.stoa008">De consolatione ad Polybium</title>
    <biblScope>9, 2</biblScope>
   </bibl>: <quote>Quid itaque iuvat dolori intabescere, quem, si quis defunctis sensus est, finiri frater tuus cupit?</quote>
       <bibl>
    <author ref="http://viaf.org/viaf/90637919">Seneca</author>
-   <title>Octavia</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1017.phi010">Octavia</title>
    <biblScope>10–13</biblScope>
   </bibl>: <quote>semper, genetrix, deflenda mihi, / prima meorum causa malorum, / tristes questus natae exaudi, / si quis remanet sensus in umbris</quote>
       <bibl>
    <author ref="http://viaf.org/viaf/100904338">Statius</author>
-   <title>Thebais</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1020.phi001">Thebais</title>
    <biblScope>12, 214–215</biblScope>
   </bibl>: <quote>et nunc me duram, si quis tibi sensus ad umbras, / me tardam Stygiis quereris, fidissime, divis.</quote>
       <bibl>
    <author ref="http://viaf.org/viaf/24616821">Marcus Iunianus Iustinus</author>
-   <title>Epitoma historiarum Philippicarum</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0167.stoa001">Epitoma historiarum Philippicarum</title>
    <biblScope>6, 1, 17</biblScope>
   </bibl>: <quote>Quamobrem etiam Philippum Alexandrumque, si quis manium sensus est, non interfectores suos ac stirpis suae, sed ultores eorum Macedoniae regnum tenere malle.</quote>
    </note>
@@ -2291,7 +2291,7 @@ conuersus ad Viterbiensem praesulem »Ecce«, inquit, <cit>
 </app> hora</quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
-   <title>Matthaeus</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg001">Matthaeus</title>
    <biblScope>26, 45</biblScope>
   </bibl>
    <note type="source" xml:id="p-f26-biblia"><quote>ecce appropinquavit hora</quote>
@@ -2340,7 +2340,7 @@ emisit spiritum.
    </quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
-   <title>Iohannes</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg004">Iohannes</title>
    <biblScope>19, 30</biblScope>
   </bibl>
    <note type="source" xml:id="p-f27-biblia">
@@ -2395,7 +2395,7 @@ gratias illi agamus atque dicamus:
 <quote>Dominus dedit, Dominus abstulit; sicut Domino placuit ita factum est; sit nomen Domini benedictum.</quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
-   <title>Iob</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg032">Iob</title>
    <biblScope>1, 21</biblScope>
   </bibl>
    <note type="parallel" target="#modrusiensis-riario23" xml:id="p-f29-biblia">
