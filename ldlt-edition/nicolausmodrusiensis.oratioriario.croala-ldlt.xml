@@ -208,7 +208,7 @@ praestare possim uel polliceri.
 qua oratione aut quibus rationibus
 etiam illi quidem, qui principes eloquentiae
 sunt habiti, hanc tam grauem sacrosancti senatus uestri iacturam 
-et hunc publicum totius curiae luctum ulla ex parte leuare possent. 
+et hunc publicum totius Curiae luctum ulla ex parte leuare possent. 
          </p>
    <note type="parallel" target="#modrusiensis-riario01"
  xml:id="p-f1-cicero">
@@ -233,8 +233,8 @@ quotidie experiebamini, cuius
 ingenii dexteritatem 
 et incredibilem consilii prudentiam 
 <app>
-<lem>indies</lem>
-<rdg wit="#R #Gd #P #m #va #pa" type="orthographia">in dies</rdg>
+<lem>in dies</lem>
+<rdg wit="#V #Ge #C #ve #co #o" type="orthographia">indies</rdg>
 </app> 
 magis admirabamini. Amisistis summi pontificis, patris uestri piissimi, 
 singulare solacium et sacrae eius senectutis optatissimum baculum, 
@@ -255,7 +255,7 @@ amator, interiit omnium
 <lem>studiosorum</lem>
 <rdg wit="#Ge #va #o" type="lexicographice" cause="haplographia">studiorum</rdg>
 </app> 
-praecipuus fautor, cultor bonorum, curiae splendor, 
+praecipuus fautor, cultor bonorum, Curiae splendor, 
 ornamentum ciuitatis, 
 et huius 
 <app>
@@ -357,7 +357,7 @@ uerum quod ipse illis tanto decori ac ornamento fuerit
 ut toto in orbe extremisque terrarum finibus 
 amplissimis laudibus summaque gloria 
 et celebrantur nunc 
-et omnibus futuris seculis non desinent celebrari. 
+et omnibus futuris saeculis non desinent celebrari. 
 Quae quidem tametsi satis grandis eius gloria sit, 
 <app>
 <lem>qui</lem>
@@ -611,8 +611,9 @@ memoriae mandasse existimares.
   <bibl>
    <author ref="http://viaf.org/viaf/303814984">Plato</author>
    <author role="vertit" ref="http://viaf.org/viaf/120697563">Marsilius Ficinus</author>
-   <title ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0059.tlg011">Symposium (tr. Ficinus, c. 1460)</title>
-   <biblScope>TKTK</biblScope>
+   <title ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0059.tlg011">Symposium (tr. Ficinus, c. 1460), in Plato / Ficinus, Marsilius / Medici, Lorenzo de': Opera, Venetiis, 1491.08.13 [BSB-Ink P-569 - GW M33918]</title>
+   <biblScope>p. 150r</biblScope>
+     <ptr target="https://daten.digitale-sammlungen.de/bsb00059968/image_315"/>
   </bibl>: <quote>perinde ac tu nunc, qui quodlibet aliud agendum censes potius quam philosophandum</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario04"
@@ -922,7 +923,7 @@ ad quam
 imperatores, reges, et cuncti ferme principes terrarum uentitare solent, 
 non talem esse supellectilem, non talia 
 <app>
-<lem>extare palatia</lem>
+<lem>exstare palatia</lem>
 <rdg wit="#P" type="lexicographice">ortare pallacis</rdg>
 </app>, 
 quibus eos summus pontifex et suscipere honorifice posset 
@@ -1079,6 +1080,27 @@ et nunc omnium infortunatissimos quibus tam crudeli fato
 <rdg wit="#C" type="lexicographice">arrepta</rdg>
 </app> est! 
 </p>
+   <note type="parallel" target="#modrusiensis-riario08" xml:id="p-f8a-cicero">
+      Nihil in se fictum, nihil subdolum aut simulatum esse uolebat: 
+  <bibl>
+   <author ref="https://catalog.perseus.org/catalog/urn:cite:perseus:author.364">Cicero</author>
+   <title ref="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi0474.phi052.perseus-lat2:26">de amicitia</title>
+   <biblScope>26</biblScope>
+  </bibl>: <quote>in amicitia autem nihil fictum, nihil simulatum est</quote>
+      <bibl>
+   <author ref="https://catalog.perseus.org/catalog/urn:cite:perseus:author.364">Sallustius</author>
+   <title ref="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi0631.phi001.perseus-lat4:5">Catilinae coniuratio</title>
+   <biblScope>5</biblScope>
+  </bibl>: <quote>Animus audax, subdolus, varius, quoius rei lubet simulator ac dissimulator</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario08" xml:id="p-f8a-hieronymus">
+      meliorem se foris ostendere quam gerere domi: 
+  <bibl>
+   <author ref="http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.785">Hieronymus Stridonensis</author>
+   <title ref="http://viaf.org/viaf/185346274">Commentaria in Matthaeum</title>
+   <biblScope>PL 26, 171D</biblScope>
+  </bibl>: <quote>arguit Pharisaeos simulationis atque mendacii, quod aliud ostentent hominibus foris, aliud domi agant.</quote>
+   </note>
 <p n="9" xml:id="modrusiensis-riario09">
 Quingentos ferme pascebat familiares, partim illustri, partim nobili, omnes honesto loco natos; 
 praelatos, milites, doctores, oratores, poetas, aut alicui alii honestae arti deditos; 
