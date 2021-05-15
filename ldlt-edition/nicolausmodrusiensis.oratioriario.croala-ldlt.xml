@@ -183,7 +183,7 @@
 <lem>amici</lem>
 <rdg wit="#ve" type="grammatice">amicis</rdg>
 </app>
-uita suauissima extitit, 
+uita suauissima exstitit, 
 mors ipsa iocunda esse non potuit, 
 alterum quo 
 extremum amici munus 
@@ -748,7 +748,7 @@ ut fortia quaeque confundat,
       </quote>
   <bibl>
    <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
-   <title ref="http://viaf.org/viaf/179420235">Epistula ad Corinthios I</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg007">Epistula ad Corinthios I</title>
    <biblScope>1, 27</biblScope>
   </bibl>
       <note type="source" xml:id="p-f6b-biblia-s">
@@ -1084,12 +1084,12 @@ et nunc omnium infortunatissimos quibus tam crudeli fato
       Nihil in se fictum, nihil subdolum aut simulatum esse uolebat: 
   <bibl>
    <author ref="http://viaf.org/viaf/78769600">Cicero</author>
-   <title ref="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi0474.phi052.perseus-lat2:26">De amicitia</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0474.phi052">De amicitia</title>
    <biblScope>26</biblScope>
   </bibl>: <quote>in amicitia autem nihil fictum, nihil simulatum est</quote>
       <bibl>
    <author ref="http://viaf.org/viaf/104162705">Sallustius</author>
-   <title ref="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi0631.phi001.perseus-lat4:5">Catilinae coniuratio</title>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0631.phi001">Catilinae coniuratio</title>
    <biblScope>5</biblScope>
   </bibl>: <quote>Animus audax, subdolus, varius, quoius rei lubet simulator ac dissimulator</quote>
    </note>
@@ -1423,7 +1423,7 @@ et tamen a nonnullis negligentiae
 <lem>accusabatur</lem>
 <rdg wit="#Gd #P" type="grammatice">accusabantur</rdg>
 </app>; 
-quin tamquam 
+quin tanquam 
 superbum 
 <app>
 <lem>difficilemque</lem>
@@ -1580,7 +1580,7 @@ neque Imolam nisi eo uolente redimere uoluit.
 Magistratus hortabatur ius suum absque ullo respectu cuique administrare. 
 Et licet 
 <app>
-<lem>nonnumquam</lem>
+<lem>nonnunquam</lem>
 <rdg wit="#co" type="error">nonniquam</rdg>
 </app>, 
 domesticorum amicorumque 
@@ -1615,7 +1615,7 @@ qui
 <rdg wit="#P" type="orthographia" cause="divisio">in iustam</rdg>
 </app> 
 causam fouentes tamen ipsius nomine commendabantur, 
-»Illud« inquit »ut iustitiam mearum precum gratia minime 
+»Illud«, inquit, »ut iustitiam mearum precum gratia minime 
 <app>
 <lem>uioles</lem>
 <rdg wit="#P #m" type="grammatice">uiolet</rdg>
@@ -1650,7 +1650,7 @@ faciebat
 <lem>atque</lem>
 <rdg wit="#P" type="orthographia">adque</rdg>
 </app>, 
-ne cui ministrorum peccandi daretur occasio, omnium decretorum suorum, similiter et litterarum, exemplaria apud notarios extare iusserat.  
+ne cui ministrorum peccandi daretur occasio, omnium decretorum suorum, similiter et litterarum, exemplaria apud notarios exstare iusserat.  
 Huius praeclarissimae uirtutis nec moriens obliuisci potuit; 
 nam, cum hortaretur ab amicis testamentum condere, 
 »Nihil«, inquit, »meum habeo; omnia sunt ecclesiae. 
@@ -1833,7 +1833,10 @@ nunc splendore et
 </app>  
 apparatu uincat uniuersa. 
 Testatur 
-<sic>Papie</sic> 
+<app>
+<lem>Papiae</lem>
+<rdg wit="#C #V #Gd #Ge #P #R #m #co #o #pa #va #ve" type="orthographia">Papie</rdg>
+</app>  
 Maioli 
 <sic>phanum</sic> 
 in quo ne unum quidem uasculum in sacrificium reperit, 
@@ -1992,7 +1995,7 @@ acceperat, diuinam uoluntatem accinctus praestolabatur.
 <rdg wit="#R" type="lexicographice">Iam enim</rdg>
 </app>  
 uicinus morti domesticos ac familiares accersiri iubet, 
-quibus praesto existentibus in nullos prorupit fletus, 
+quibus praesto exsistentibus in nullos prorupit fletus, 
 <app>
 <lem>nullis</lem>
 <rdg wit="#P #m" type="lexicographice" cause="antonymum">multis</rdg>
@@ -2264,6 +2267,14 @@ quam caduca sit huius mundi felicitas, uel meo exemplo
    <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0167.stoa001">Epitoma historiarum Philippicarum</title>
    <biblScope>6, 1, 17</biblScope>
   </bibl>: <quote>Quamobrem etiam Philippum Alexandrumque, si quis manium sensus est, non interfectores suos ac stirpis suae, sed ultores eorum Macedoniae regnum tenere malle.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-curtius">
+  <bibl>
+     quam caduca sit huius mundi felicitas: 
+   <author ref="http://viaf.org/viaf/73866222">Curtius Rufus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0860.phi001">Historiae Alexandri Magni</title>
+   <biblScope>8, 14, 44; 63</biblScope>
+  </bibl>: <quote>expertus es, quam caduca felicitas esset.</quote>
    </note>
 <p n="22" xml:id="modrusiensis-riario22">
 His atque aliis huiusmodi plerisque summa cum religione sanctissime monitos singulos 
