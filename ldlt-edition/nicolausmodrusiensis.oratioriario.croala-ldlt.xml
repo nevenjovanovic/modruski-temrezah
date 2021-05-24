@@ -138,6 +138,37 @@
                   </listWit>
                </div>
             </div>
+            <div type="section"
+               xml:id="preface-section-2">
+               <head>Orationis conspectus</head>
+               <interpGrp n="interpGrp1">
+                  <interp n="interp1" xml:id="PROOEMIUM" corresp="#modrusiensis-riario01">Prooemium</interp>
+                  <interp n="interp1a" xml:id="PROOEMIUM-IACTURA" corresp="#modrusiensis-riario02">Prooemium: luctus iacturae, laudatio mortui</interp>
+                  <interp n="interp2" xml:id="NARRATIO" corresp="#modrusiensis-riario03">Narratio</interp>
+                  <interp n="interp3" xml:id="NARRATIO-PATRIA" corresp="#modrusiensis-riario03">Narratio: patria, gloria, virtutum ordo</interp>
+                  <interp n="interp4" xml:id="NARRATIO-PIETAS-PUERITIA" corresp="#modrusiensis-riario04">Narratio: pietas et religio in pueritia; cum avunculo primus congressus; tirocinium Franciscanum; studia; prudentia: scientiarum notitia, memoria, ingenii acumen</interp>
+                  <interp n="interp5" xml:id="NARRATIO-REDITUS-DIVINITAS" corresp="#modrusiensis-riario05">Narratio: reditus ad avunculum; providentia: praesaga divinitas futurorum; Romam profectus; Sixti pontificatus; Petri cardinalatus</interp>
+                  <interp n="interp6" xml:id="NARRATIO-OFFICIUM-MAGNIFICENTIA" corresp="#modrusiensis-riario06">Narratio: Petrus in officio cardinalis; magnificentia non sibi, sed pontificibus; opes et contemptus earum</interp>
+                  <interp n="interp7" xml:id="NARRATIO-OFFICIUM-MAGNANIMITAS" corresp="#modrusiensis-riario07">Narratio: officium - negotia, magnanimitas, benevolentia</interp>
+                  <interp n="interp8" xml:id="NARRATIO-OFFICIUM-HONESTAS" corresp="#modrusiensis-riario08">Narratio: officium - honestas, munificentia</interp>
+                  <interp n="interp9" xml:id="NARRATIO-CURIA" corresp="#modrusiensis-riario09">Narratio: curia</interp>
+                  <interp n="interp10" xml:id="NARRATIO-MUNERA" corresp="#modrusiensis-riario10">Narratio: munera, officiorum vicissitudo</interp>
+                  <interp n="interp11" xml:id="NARRATIO-ACCUSATIO" corresp="#modrusiensis-riario11">Narratio: accusationes Simoniae</interp>
+                  <interp n="interp12" xml:id="INVECTIVA-INVIDI-HYPOSTROPHE" corresp="#modrusiensis-riario12">Invehit in invidos; in hypostropha redit ad argumentum</interp>
+                  <interp n="interp13" xml:id="NARRATIO-PRUDENTIA-LEGATIO" corresp="#modrusiensis-riario13">Narratio: prudentia inter principes Christianos, in legatione Italica</interp>
+                  <interp n="interp14" xml:id="NARRATIO-PRUDENTIA-CONTEMPLATIO" corresp="#modrusiensis-riario14">Narratio: prudentia in contemplatione pacis Italiae; rei publicae curae praecipua Petri voluptas; iniustae accusationes negligentiae et superbiae</interp>
+                  <interp n="interp15" xml:id="NARRATIO-MODERATIO"  corresp="#modrusiensis-riario15">Narratio: animi moderatio</interp>
+                  <interp n="interp16" xml:id="NARRATIO-MODERATIO-VIGILIA-IMOLA" corresp="#modrusiensis-riario16">Narratio: moderatio cibi vinique, vigilia, in cognatos parcus erat; Imolae restitutio munifica</interp>
+                  <interp n="interp17" xml:id="NARRATIO-IUSTITIA" corresp="#modrusiensis-riario17">Narratio: iustitia in Imola restituenda; iustitia et commendationes apud magistratus; rescripta sanctissima; testamentum non conditum</interp>
+                  <interp n="interp18" xml:id="PRAETERMISSIO" corresp="#modrusiensis-riario18">Praetermissio. Pietas in pontificem</interp>
+                  <interp n="interp19" xml:id="NARRATIO-ECCLESIAE" corresp="#modrusiensis-riario19">Narratio: pietas in ecclesiis restituendis, munificentia in ecclesiis exornandis; mors Petri praemium</interp>
+                  <interp n="interp20" xml:id="NARRATIO-MORS" corresp="#modrusiensis-riario20">Narratio: mors</interp>
+                  <interp n="interp20a" xml:id="NARRATIO-MORS-ORATIO" corresp="#modrusiensis-riario20">Mortis intrepida expectatio, confessio; ultima oratio ad domesticos: constantia, excusatio, voluntas ultima, adhortatio ad virtutem et pietatem</interp>
+                  <interp n="interp21" xml:id="NARRATIO-MORS-PAENITENTIA" corresp="#modrusiensis-riario21">Ultima oratio: paenitentia; misericordiae expectatio; caduca huius mundi felicitas</interp>
+                  <interp n="interp22" xml:id="MORS-HORA" corresp="#modrusiensis-riario22">Hora mortis; sacra unctio; recitatio psalmorum et Evangelii; punctum mortis</interp>
+                  <interp n="interp23" xml:id="LAUDATIO-CONSOLATIO" corresp="#modrusiensis-riario23">Mortis felicitas; laudatio mortui; consolatio amicorum viventium; oratio brevissima verbis Iob</interp>
+               </interpGrp>
+            </div>
          </div>
          <div type="section" xml:id="bibliography">
             <head>Conspectus librorum</head>
@@ -605,6 +636,28 @@ memoriae mandasse existimares.
    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0893.phi001">Carmina</title>
    <biblScope>4, 27–32</biblScope>
   </bibl>: <quote>ego apis Matinae / more modoque, / grata carpentis thyma per laborem / plurimum, circa nemus uvidique / Tiburis ripas operosa parvos / carmina fingo.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario04"
+ xml:id="p-f5b-hieronymus">
+      in sacram pectoris sui cellulam diligenter reconderet: 
+  <bibl>
+   <author ref="http://viaf.org/viaf/102461101">Hieronymus Stridonensis</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0162.stoa004">Epistulae</title>
+   <biblScope>[CSEL], 107, 12, 2</biblScope>
+  </bibl>: <quote>cumque pectoris sui cellarium his opus locupletarit, mandet memoriae Prophetas et Heptateuchum et Regum ac Paralipomenon libros</quote>
+      <bibl><author ref="http://viaf.org/viaf/64362670">Thomas Capuanus</author>
+         <title>Summa dictaminis</title>
+      <biblScope>63; 2</biblScope></bibl>: 
+      <quote>dum mendax interpres de pectoris cella, quod elicit, ori non solvit</quote>
+<bibl><author ref="http://viaf.org/viaf/64362670">Thomas Capuanus</author>
+   <title>Summa dictaminis</title>
+   <biblScope>124; 1</biblScope></bibl>:
+<quote>De fecundi pectoris cellula progrediens epistola, quam misistis</quote>
+<bibl>
+   <author ref="http://viaf.org/viaf/105133420">Vincentius Bellovacensis</author> 
+   <title ref="http://viaf.org/viaf/175807599">Speculum doctrinale</title>
+   <biblScope>7, 19; 24</biblScope></bibl>:
+<quote>amorem, qui patrie et parentibus precipue debetur, pater transfundit in filios et filialis affectus paterni pectoris cellam solus exhaurit</quote>
    </note>
    <note type="parallel" target="#modrusiensis-riario04"
  xml:id="p-f5b-cicero">
