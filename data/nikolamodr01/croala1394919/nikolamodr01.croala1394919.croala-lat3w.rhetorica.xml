@@ -537,7 +537,8 @@
                      lemma="possum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
                      ana="v1sisa---">possem</w>
-                  <phr ana="#sonus #PARONOMASIA #bimembre"><w n="10"
+                  <phr ana="#comparatio">
+                     <phr ana="#sonus #PARONOMASIA #bimembre"><w n="10"
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---fb-">qua</w>
@@ -662,7 +663,7 @@
                   <w n="40"
                      lemma="possum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
-                     ana="v3pisa---">possent</w>
+                     ana="v3pisa---">possent</w></phr>
                   <pc n="4">.</pc>
                </s>
             </p>
@@ -2016,7 +2017,7 @@
                   <pc n="8">.</pc>
                </s>
                <s n="s2">
-                  <w n="1"
+                  <phr ana="#aversio"><w n="1"
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---fn-">Quae</w>
@@ -2119,7 +2120,7 @@
                      lemma="alius"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/88481"
                      ana="a-p---fap">alias</w>
-                  <w n="26"
+                  <phr ana="#bimembre"><w n="26"
                      lemma="immortalis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106439"
                      ana="a-p---fa-">immortales</w>
@@ -2134,7 +2135,7 @@
                   <w n="29"
                      lemma="divinus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99944"
-                     ana="a-p---fa-">diuinas</w>
+                     ana="a-p---fa-">diuinas</w></phr>
                   <w n="30"
                      lemma="animus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89094"
@@ -2147,13 +2148,13 @@
                      lemma="laus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110103"
                      ana="n-p---fa-">laudes</w>
-                  <phr ana="#parenthesis">
+                  <phr ana="#parenthesis #praeteritio">
                      <pc n="3">(</pc>
                   <w n="33"
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
-                  <w n="34"
+                  <phr ana="#comparatio #enthymema"><w n="34"
                      lemma="fortuna"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103696"
                      ana="n-s---fg-">fortunae</w>
@@ -2186,12 +2187,12 @@
                   <w n="40"
                      lemma="alienus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/88330"
-                     ana="a-p---na-">aliena</w>
+                     ana="a-p---na-">aliena</w></phr>
                   <w n="41"
                      lemma="relinquo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/122569"
                      ana="v1spsa---">relinquam</w>
-                  <pc n="4">)</pc></phr>
+                  <pc n="4">)</pc></phr></phr>
                   <pc n="5">:</pc>
                   <w n="42"
                      lemma="pietas1"
@@ -2231,7 +2232,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109264"
                      ana="n-s---fa-">iustitiam</w>
                   <pc n="11">;</pc>
-                  <w n="50"
+                  <phr ana="#transitio"><w n="50"
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-p---fn-">quae</w>
@@ -2263,7 +2264,7 @@
                   <w n="57"
                      lemma="conor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95962"
-                     ana="v1sfid---">conabor</w>
+                     ana="v1sfid---">conabor</w></phr>
                   <pc n="13">.</pc>
                </s>
             </p>
@@ -5144,8 +5145,7 @@
                      lemma="utor"
                      ana="v--pnp---">uti</w>
                   <pc n="5">,</pc>
-                  <!-- exemplum, auctoritas -->
-                  <w n="96"
+                  <phr ana="#exemplum #auctoritas"><w n="96"
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
@@ -5349,7 +5349,7 @@
                   <w n="144"
                      lemma="facio"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102758"
-                     ana="v2sria---">fecisti</w>
+                     ana="v2sria---">fecisti</w></phr>
                   <pc n="9">.</pc>
                </s>
             </p>
@@ -5375,7 +5375,7 @@
                      lemma="modus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112553"
                      ana="n-s---ma-">modum</w>
-                  <w n="6"
+                  <phr ana="#argumentum #enthymema"><w n="6"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -5403,9 +5403,9 @@
                   <w n="12"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/115363"
                      lemma="ostendo"
-                     ana="v--pna---">ostendere</w>
+                     ana="v--pna---">ostendere</w></phr>
                   <pc n="2">,</pc>
-                  <w n="13"
+                  <phr ana="#comparatio"><w n="13"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127592"
                      lemma="talis"
                      ana="a-s---ma-">talem</w>
@@ -5441,7 +5441,7 @@
                   <w n="21"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/125334"
                      lemma="spero"
-                     ana="v--pna---">sperare</w>
+                     ana="v--pna---">sperare</w></phr>
                   <pc n="4">.</pc>
                </s>
                <s n="s2">
@@ -5540,7 +5540,7 @@
                      lemma="ceterus"
                      ana="a-p---fa-">ceteras</w>
                   <pc n="5">,</pc>
-                  <w n="22"
+                  <phr ana="#parenthesis"><w n="22"
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-p---fa-">quas</w>
@@ -5551,7 +5551,7 @@
                   <w n="24"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95097"
                      lemma="commemoro"
-                     ana="v1pria---">commemorauimus</w>
+                     ana="v1pria---">commemorauimus</w></phr>
                   <pc n="6">,</pc>
                   <w n="25"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106539"
@@ -5602,7 +5602,7 @@
                      lemma="gloria"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/104703"
                      ana="n-s---fb-">gloria</w>
-                  <w n="37"
+                  <phr ana="#comparatio"><w n="37"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
@@ -5647,13 +5647,13 @@
                   <w n="46"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
-                     ana="v3slsa---">fuisset</w>
+                     ana="v3slsa---">fuisset</w></phr>
                   <pc n="8">,</pc>
-                  <w n="47"
+                  <phr ana="#probatio-signum"><w n="47"
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
-                  <phr ana="#hyperbaton #METAPHORA"><w n="48"
+                  <phr ana="#hyperbaton #METAPHORA #personificatio"><w n="48"
                      lemma="coepi"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/94695"
                      ana="v-prppnnp">coepta</w>
@@ -5716,11 +5716,11 @@
                   <w n="61"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99407"
                      lemma="dignus"
-                     ana="a-s---fn-">digna</w>
+                     ana="a-s---fn-">digna</w></phr>
                   <pc n="11">.</pc>
                </s>
                <s n="s3">
-                  <phr ana="#SYNONYMIA"><w n="1"
+                  <phr ana="#SYNONYMIA #bimembre"><w n="1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129288"
                      lemma="turpis"
                      ana="a-s---nn-">Turpe</w>
@@ -5744,7 +5744,8 @@
                      lemma="duco"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100196"
                      ana="v3siia---">ducebat</w>
-                  <phr ana="#METAPHORA"><w n="7"
+                  <phr ana="#PARALLELISMUS #bimembre #ANAPHORA #asyndeton">
+                     <phr ana="#METAPHORA"><w n="7"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -5788,7 +5789,7 @@
                   <w n="17"
                      lemma="sedes"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/124005"
-                     ana="n-s---fb-">sede</w>
+                     ana="n-s---fb-">sede</w></phr>
                   <pc n="2">,</pc>
                   <w n="18"
                      lemma="ad"
@@ -5802,7 +5803,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87634"
                      lemma="adoro"
                      ana="v-s-g-fa-">adorandam</w>
-                  <w n="21"
+                  <phr ana="#trimembre"><w n="21"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106515"
                      lemma="imperator"
                      ana="n-p---mn-">imperatores</w>
@@ -5831,7 +5832,7 @@
                   <w n="27"
                      lemma="terra"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127912"
-                     ana="n-p---fg-">terrarum</w>
+                     ana="n-p---fg-">terrarum</w></phr>
                   <w n="28"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129802"
                      lemma="ventito"
@@ -5841,7 +5842,8 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/125051"
                      ana="v3ppia---">solent</w>
                   <pc n="5">,</pc>
-                  <phr ana="#ANAPHORA #dicolon"><w n="30"
+                  <phr ana="#comparatio">
+                     <phr ana="#ANAPHORA #dicolon #asyndeton"><w n="30"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
@@ -5891,7 +5893,7 @@
                      lemma="pontifex"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118418"
                      ana="n-s---mn-">pontifex</w>
-                  <phr ana="#dicolon #SYNONYMIA"><w n="42"
+                  <phr ana="#dicolon #SYNONYMIA #ANAPHORA"><w n="42"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -5940,11 +5942,11 @@
                   <w n="52"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105658"
                      lemma="honoro"
-                     ana="v--pna---">honorare</w></phr>
+                     ana="v--pna---">honorare</w></phr></phr>
                   <pc n="8">.</pc>
                </s>
                <s n="s4">
-                  <w n="1"
+                  <phr ana="#probatio-signum"><w n="1"
                      lemma="unde"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130603"
                      ana="d-------p">Vnde</w>
@@ -6019,11 +6021,11 @@
                   <w n="18"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95367"
                      lemma="compono"
-                     ana="v--pna---">componere</w>
+                     ana="v--pna---">componere</w></phr>
                   <pc n="5">.</pc>
                </s>
                <s n="s5">
-                  <phr ana="#METAPHORA"><w n="1"
+                  <phr ana="#dicolon #chiasmus"><phr ana="#METAPHORA"><w n="1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/88030"
                      lemma="affluo"
                      ana="v3piia---">Affluebant</w>
@@ -6074,7 +6076,7 @@
                   <w n="13"
                      lemma="offero"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114795"
-                     ana="v3piip---">offerebantur</w>
+                     ana="v3piip---">offerebantur</w></phr>
                   <pc n="1">;</pc>
                   <w n="14"
                      lemma="qui2"
@@ -6115,7 +6117,7 @@
                      lemma="usus2"
                      ana="n-p---ma-">usus</w></phr>
                   <pc n="4">,</pc>
-                  <w n="23"
+                  <phr ana="#dicolon"><phr ana="#argumentum #auctoritas"><w n="23"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/119945"
                      lemma="propheticus"
                      ana="a-s---ng-">prophetici</w>
@@ -6150,7 +6152,7 @@
                   <w n="31"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89613"
                      lemma="appono"
-                     ana="v3siia---">apponebat</w></phr>
+                     ana="v3siia---">apponebat</w></phr></phr>
                   <w n="32"
                      lemma="neque"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114120"
@@ -6170,7 +6172,7 @@
                   <w n="36"
                      lemma="affectus2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87975"
-                     ana="n-s---mb-">affectu</w></phr>
+                     ana="n-s---mb-">affectu</w></phr></phr>
                   <pc n="5">.</pc>
                </s>
                <s n="s6">
@@ -6235,7 +6237,8 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130745"
                      ana="v3siia---">uolebat</w></phr>
                   <pc n="1">;</pc>
-                  <phr ana=" #chiasmus #homoioteleuton"><phr ana="#hyperbaton"><w n="16"
+                  <phr ana="#chiasmus #homoioteleuton #dicolon #asyndeton">
+                     <phr ana="#hyperbaton"><w n="16"
                      lemma="nullus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114081"
                      ana="a-p---fa-">nullas</w>
@@ -6309,7 +6312,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/96293"
                      ana="v3slsa---">contigisset</w>
                   <pc n="1">,</pc>
-                  <w n="9"
+                  <phr ana="#comparatio"><w n="9"
                      lemma="culpa"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97183"
                      ana="n-s---fa-">culpam</w>
@@ -6328,7 +6331,7 @@
                   <w n="13"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97898"
                      lemma="damnum"
-                     ana="n-s---na-">damnum</w>
+                     ana="n-s---na-">damnum</w></phr>
                   <pc n="2">.</pc>
                </s>
             </p>
@@ -6338,19 +6341,19 @@
                      lemma="ab"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/86824"
                      ana="r--------">A</w>
-                  <w n="2"
+                  <phr ana="#ALLITERATIO"><w n="2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127111"
                      lemma="suscipio"
                      ana="v-srppnb-">suscepto</w>
                   <w n="3"
                      lemma="semel"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/124090"
-                     ana="d--------">semel</w>
+                     ana="d--------">semel</w></phr>
                   <w n="4"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113566"
                      lemma="negotium"
                      ana="n-s---nb-">negotio</w>
-                  <phr ana="#ANAPHORA #dicolon"><w n="5"
+                  <phr ana="#ANAPHORA #dicolon #PARALLELISMUS"><w n="5"
                      lemma="nullus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114081"
                      ana="a-s---mb-">nullo</w>
@@ -6382,7 +6385,8 @@
                   <pc n="2">.</pc>
                </s>
                <s n="s2">
-                  <phr ana="#chiasmus"><w n="1"
+                  <phr ana="#chiasmus">
+                     <phr ana="#poetice"><w n="1"
                      lemma="verax"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129837"
                      ana="a-s---mn-">Verax</w>
@@ -6393,7 +6397,7 @@
                   <w n="3"
                      lemma="sermo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/124494"
-                     ana="n-s---mb-">sermone</w>
+                     ana="n-s---mb-">sermone</w></phr>
                   <pc n="1">,</pc>
                   <w n="4"
                      lemma="in"
@@ -6408,7 +6412,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103256"
                      ana="a-s---mn-">fidelis</w></phr>
                   <pc n="2">,</pc>
-                  <phr ana="#dicolon #ANAPHORA"><w n="7"
+                  <phr ana="#dicolon #ANAPHORA #PARALLELISMUS"><w n="7"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -6434,7 +6438,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/125810"
                      ana="a-s---mn-">strenuus</w></phr>
                   <pc n="4">,</pc>
-                  <phr ana="#homoioteleuton"><w n="13"
+                  <phr ana="#homoioteleuton #bimembre #PARALLELISMUS"><w n="13"
                      lemma="secretum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/79660"
                      ana="n-p---ng-">secretorum</w>
@@ -6552,7 +6556,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130163"
                      ana="v3siip---">uidebatur</w></phr>
                   <pc n="2">,</pc>
-                  <w n="16"
+                  <phr ana="#comparatio"><w n="16"
                      lemma="neque"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114120"
                      ana="c--------">nec</w>
@@ -6579,11 +6583,12 @@
                   <w n="22"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114290"
                      lemma="obliviscor"
-                     ana="v3siip---">obliuiscebatur</w>
+                     ana="v3siip---">obliuiscebatur</w></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s5">
-                  <w n="1" lemma="floccipendo" ana="v3siia---">Floccipendebat</w>
+                  <phr ana="#poetice">
+                     <w n="1" lemma="floccipendo" ana="v3siia---">Floccipendebat</w></phr>
                   <w n="2"
                      lemma="aemulus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87807"
@@ -6596,7 +6601,7 @@
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
-                  <w n="5"
+                  <phr ana="#comparatio"><w n="5"
                      lemma="nullus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114081"
                      ana="a-s---fa-">nullam</w>
@@ -6631,9 +6636,9 @@
                   <w n="13"
                      lemma="video"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130163"
-                     ana="v3siip---">uidebatur</w>
+                     ana="v3siip---">uidebatur</w></phr>
                   <pc n="1">,</pc>
-                  <w n="14" ana="compositum">
+                  <phr ana="#comparatio"><w n="14" ana="compositum">
                      <w n="14a"
                         lemma="tantum"
                         lemmaRef="http://lila-erc.eu/data/id/hypolemma/110679"
@@ -6643,7 +6648,7 @@
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
                   </w>
-                  <w n="15"
+                  <phr ana="#METAPHORA"><w n="15"
                      lemma="ab"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/86824"
                      ana="r--------">ab</w>
@@ -6655,14 +6660,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130484"
                      lemma="ulciscor"
                      ana="v3spdd-g-">ulciscendi</w>
-                  <w n="18"
+                  <phr ana="#ALLITERATIO"><w n="18"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89904"
                      lemma="ardor"
                      ana="n-s---mb-">ardore</w>
                   <w n="19"
                      lemma="absum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87040"
-                     ana="v3siia---">aberat</w>
+                     ana="v3siia---">aberat</w></phr></phr>
                   <w n="20"
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
@@ -6682,7 +6687,7 @@
                   <w n="24"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/104365"
                      lemma="gaudeo"
-                     ana="v3sisa---">gauderet</w>
+                     ana="v3sisa---">gauderet</w></phr>
                   <pc n="2">.</pc>
                </s>
             </p>
@@ -6730,7 +6735,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130745"
                      ana="v3siia---">uolebat</w>
                   <pc n="2">,</pc>
-                  <w n="11"
+                  <phr ana="#comparatio"><w n="11"
                      lemma="neque"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114120"
                      ana="c--------">nec</w>
@@ -6757,11 +6762,12 @@
                   <w n="17"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/119560"
                      lemma="probitas"
-                     ana="n-s---fa-">probitatem</w>
+                     ana="n-s---fa-">probitatem</w></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s2">
-                  <phr ana="#SYNONYMIA"><w n="1"
+                  <phr ana="#probatio-signum">
+                     <phr ana="#SYNONYMIA"><w n="1"
                      lemma="malus1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111418"
                      ana="a-s---mg-">Mali</w>
@@ -6789,7 +6795,7 @@
                      lemma="dico2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99302"
                      ana="v3siia---">dicebat</w>
-                  <w n="8"
+                  <phr ana="#comparatio"><w n="8"
                      lemma="bonus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/91782"
                      ana="a-s---mac">meliorem</w>
@@ -6816,7 +6822,7 @@
                   <w n="14"
                      lemma="domus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100071"
-                     ana="d-------p">domi</w></phr>
+                     ana="d-------p">domi</w></phr></phr>
                   <pc n="1">,</pc>
                   <w n="15"
                      lemma="probus1"
@@ -6858,11 +6864,11 @@
                   <w n="24"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126911"
                      lemma="supero"
-                     ana="v--pna---">superare</w>
+                     ana="v--pna---">superare</w></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s3">
-                  <w n="1"
+                  <phr ana="#interrogatio #probatio-testes"><w n="1"
                      lemma="sane"
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/39381"
                      ana="d-------p">Sane</w>
@@ -6917,7 +6923,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130923"
                      lemma="utor"
                      ana="v--pnd---">uti</w>
-                  <w n="14"
+                  <phr ana="#bimembre #ANAPHORA #homoioteleuton"><w n="14"
                      lemma="vel"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129695"
                      ana="c--------">uel</w>
@@ -6932,7 +6938,7 @@
                   <w n="17"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113625"
                      lemma="nescio"
-                     ana="v3srsa---">nescierit</w>
+                     ana="v3srsa---">nescierit</w></phr></phr>
                   <pc n="1">?</pc>
                </s>
                <s n="s4">
@@ -7002,18 +7008,18 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/115284"
                      lemma="orno"
                      ana="v--pna---">ornare</w>
-                  <w n="17"
+                  <phr ana="#litotes"><w n="17"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
                   <w n="18"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/93611"
                      lemma="cesso"
-                     ana="v3sisa---">cessaret</w>
+                     ana="v3sisa---">cessaret</w></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s5">
-                  <w n="1"
+                  <phr ana="#probatio-testes"><w n="1"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">Non</w>
@@ -7073,7 +7079,7 @@
                   <w n="15"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100087"
                      lemma="dono"
-                     ana="v3sria---">donauit</w>
+                     ana="v3sria---">donauit</w></phr>
                   <pc n="2">.</pc>
                </s>
                <s n="s6">
@@ -7081,7 +7087,7 @@
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">Et</w>
-                  <w n="2"
+                  <phr ana="#probatio-signum"><w n="2"
                      lemma="cum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97202"
                      ana="c--------">cum</w>
@@ -7195,7 +7201,7 @@
                      lemma="respondeo"
                      ana="v3sria---">respondit</w>
                   <pc n="4">:</pc>
-                  <w n="28"
+                  <phr ana="#ANTITHESIS"><w n="28"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129328"
                      lemma="tuus"
                      ana="a-s---nn-">Tuum</w>
@@ -7267,7 +7273,7 @@
                   <w n="45"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/88003"
                      lemma="afficio"
-                     ana="v--pna---">afficere</w>
+                     ana="v--pna---">afficere</w></phr>
                   <pc n="6">;</pc>
                   <w n="46"
                      lemma="is"
@@ -7304,7 +7310,7 @@
                   <w n="54"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
-                     ana="v3sfia---">erit</w>
+                     ana="v3sfia---">erit</w></phr>
                   <pc n="7">.</pc>
                </s>
                <s n="s7">
@@ -7343,7 +7349,7 @@
                      lemma="dignus"
                      ana="a-s---fa-">dignam</w></phr>
                   <pc n="2">;</pc>
-                  <w n="9"
+                  <phr ana="#dicolon #PARALLELISMUS"><w n="9"
                      lemma="neque"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114120"
                      ana="c--------">nec</w>
@@ -7399,10 +7405,10 @@
                   <w n="22"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
-                     ana="v3spia---">est</w>
+                     ana="v3spia---">est</w></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s8" ana="#EXCLAMATIO">
+               <s n="s8" ana="#EXCLAMATIO #ANTITHESIS #dicolon #PARALLELISMUS">
                   <w n="1"
                      lemma="felix1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103068"
@@ -7600,7 +7606,7 @@
                   <pc n="12">.</pc>
                </s>
                <s n="s2">
-                  <phr ana="#METAPHORA"><w n="1"
+                  <phr ana="#METAPHORA #probatio-signum"><w n="1"
                      lemma="hospes"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105736"
                      ana="n-s---ma-">Hospitem</w>
@@ -7656,7 +7662,7 @@
                   <pc n="2">.</pc>
                </s>
                <s n="s3">
-                  <w n="1"
+                  <phr ana="#enthymema"><w n="1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113344"
                      lemma="nam"
                      ana="c--------">Nam</w>
@@ -7782,7 +7788,7 @@
                   <w n="32"
                      lemma="licet"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110432"
-                     ana="v3spia---">licet</w></phr>
+                     ana="v3spia---">licet</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
             </p>
@@ -7892,7 +7898,7 @@
                   <pc n="4">.</pc>
                </s>
                <s n="s2">
-                  <w n="1"
+                  <phr ana="#probatio-testes"><w n="1"
                      lemma="testis1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127994"
                      ana="n-p---mn-">Testes</w>
@@ -7935,11 +7941,11 @@
                   <w n="11"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130766"
                      lemma="volvo"
-                     ana="v3pria---">uoluerunt</w>
+                     ana="v3pria---">uoluerunt</w></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s3">
-                  <w n="1"
+                  <phr ana="#probatio-testes"><w n="1"
                      lemma="complures"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95359"
                      ana="a-p---ma-">Complures</w>
@@ -7959,15 +7965,15 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/90423"
                      lemma="asto"
                      ana="v--pna---">astare</w>
-                  <w n="6"
+                  <phr ana="#litotes"><w n="6"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
                   <w n="7"
                      lemma="dubito"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100176"
-                     ana="v1spia---">dubito</w>
-                  <w n="8"
+                     ana="v1spia---">dubito</w></phr>
+                  <phr ana="#dicolon #ANAPHORA #homoioteleuton"><w n="8"
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---mn-">qui</w>
@@ -8011,7 +8017,7 @@
                      lemma="is"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109083"
                      ana="p-s---mb-">eo</w>
-                  <w n="19"
+                  <phr ana="#litotes"><w n="19"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
@@ -8022,7 +8028,7 @@
                   <w n="21"
                      lemma="honor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105647"
-                     ana="n-p---ma-">honores</w>
+                     ana="n-p---ma-">honores</w></phr>
                   <w n="22"
                      lemma="multus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112998"
@@ -8038,13 +8044,13 @@
                   <w n="25"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103126"
                      lemma="fero"
-                     ana="v3pria---">tulerunt</w>
+                     ana="v3pria---">tulerunt</w></phr></phr>
                   <pc n="1">.</pc>
                </s>
             </p>
             <p n="p11" xml:id="modrusiensis-riario11morphlemma">
                <s n="s1">
-                  <w n="1"
+                  <phr ana="#probatio-testes"><w n="1"
                      lemma="video"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130163"
                      ana="v1sria---">Vidi</w>
@@ -8060,7 +8066,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130000"
                      lemma="vesper"
                      ana="n-s---mb-">uesperi</w>
-                  <w n="5"
+                  <phr ana="#litotes"><w n="5"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
@@ -8075,7 +8081,7 @@
                   <w n="8"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/125757"
                      lemma="stomachus"
-                     ana="n-s---mb-">stomacho</w>
+                     ana="n-s---mb-">stomacho</w></phr>
                   <w n="9"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109669"
                      lemma="lacrima"
@@ -8186,7 +8192,7 @@
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
-                  <w n="33"
+                  <phr ana="#hendiadyoin"><w n="33"
                      lemma="sui"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/131255"
                      ana="p-s---ma-">se</w>
@@ -8203,7 +8209,7 @@
                   <w n="35"
                      lemma="suus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127165"
-                     ana="a-s---na-">suum</w>
+                     ana="a-s---na-">suum</w></phr>
                   <w n="36"
                      lemma="impetro"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106573"
@@ -8212,7 +8218,7 @@
                      lemma="si"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/124676"
                      ana="c--------">si</w>
-                  <w n="38"
+                  <phr ana="#bimembre #POLYPTOTON #PARALLELISMUS"><w n="38"
                      lemma="ullus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130494"
                      ana="a-p---fa-">ullas</w>
@@ -8236,7 +8242,7 @@
                   <w n="44"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/119037"
                      lemma="praemium"
-                     ana="n-p---na-">praemia</w>
+                     ana="n-p---na-">praemia</w></phr>
                   <w n="45"
                      lemma="ab"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/86824"
@@ -8300,7 +8306,7 @@
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
                   </w>
-                  <phr ana="#SYNONYMIA"><w n="59"
+                  <phr ana="#SYNONYMIA #bimembre"><w n="59"
                      lemma="ab"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/86824"
                      ana="r--------">ab</w>
@@ -8316,7 +8322,7 @@
                      lemma="malignus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111384"
                      ana="a-p---mb-">malignis</w></phr>
-                  <phr ana="#SYNONYMIA"><w n="63"
+                  <phr ana="#SYNONYMIA #bimembre"><w n="63"
                      lemma="impie"
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/20011"
                      ana="d--------">impie</w>
@@ -8347,11 +8353,12 @@
                   <w n="70"
                      lemma="juro"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109249"
-                     ana="v3siia---">iurabat</w>
+                     ana="v3siia---">iurabat</w></phr>
                   <pc n="4">.</pc>
                </s>
                <s n="s2">
-                  <phr ana="#METAPHORA"><w n="1"
+                  <phr ana="#probatio-signum">
+                     <phr ana="#METAPHORA #chiasmus"><w n="1"
                      lemma="ango"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89023"
                      ana="v--pnp---">Angi</w>
@@ -8396,16 +8403,16 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/131255"
                      ana="p-s---md-">sibi</w>
                   <pc n="1">,</pc>
-                  <w n="12"
+                  <phr ana="#parenthesis"><w n="12"
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
                   <w n="13"
                      lemma="dico2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99302"
-                     ana="v3siia---">dicebat</w>
+                     ana="v3siia---">dicebat</w></phr>
                   <pc n="2">,</pc>
-                  <phr ana="#METAPHORA"><w n="14"
+                  <phr ana="#METONYMIA"><w n="14"
                      lemma="per"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/116569"
                      ana="r--------">per</w>
@@ -8433,7 +8440,7 @@
                      lemma="vir"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130300"
                      ana="n-p---ma-">uiros</w>
-                  <w n="21"
+                  <phr ana="#bimembre"><w n="21"
                      lemma="praestans"
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/35027"
                      ana="a-ppp-ma-">praestantes</w>
@@ -8448,7 +8455,7 @@
                   <w n="24"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112108"
                      lemma="mereor"
-                     ana="v-prppma-">meritos</w>
+                     ana="v-prppma-">meritos</w></phr>
                   <w n="25"
                      lemma="officiosus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114808"
@@ -8456,13 +8463,14 @@
                   <w n="26"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
-                     ana="v--pna---">esse</w>
+                     ana="v--pna---">esse</w></phr>
                   <pc n="3">.</pc>
                </s>
             </p>
             <p n="p12" xml:id="modrusiensis-riario12morphlemma">
                <s n="s1">
-                  <w n="1"
+                  <phr ana="#interrogatio">
+                     <phr ana="#TRICOLON-CRESCENS #ANAPHORA"><w n="1"
                      lemma="ubi"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129639"
                      ana="d-------p">Vbi</w>
@@ -8499,7 +8507,7 @@
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
                      ana="v3ppia---">sunt</w>
-                  <phr ana="#METAPHORA"><w n="10"
+                  <phr ana="#METAPHORA #poetice"><w n="10"
                      lemma="dirus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99555"
                      ana="a-s---nbs">dirissimo</w>
@@ -8520,7 +8528,7 @@
                      lemma="ubi"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129639"
                      ana="d--------">ubi</w>
-                  <phr ana="#METAPHORA"><w n="15"
+                  <phr ana="#METAPHORA #poetice"><w n="15"
                      lemma="rabidus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121357"
                      ana="a-p---mg-">rabidorum</w>
@@ -8535,7 +8543,7 @@
                   <w n="18"
                      lemma="dens"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/98621"
-                     ana="n-p---mn-">dentes</w></phr>
+                     ana="n-p---mn-">dentes</w></phr></phr>
                   <pc n="3">,</pc>
                   <w n="19"
                      lemma="qui2"
@@ -8549,7 +8557,7 @@
                      lemma="temeritas"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127755"
                      ana="n-s---fb-">temeritate</w>
-                  <phr ana="#METAPHORA"><w n="22"
+                  <w n="22"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/90638"
                      lemma="audeo"
                      ana="v-prppmn-">ausi</w>
@@ -8557,7 +8565,8 @@
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
                      ana="v3ppia---">sunt</w>
-                  <w n="24"
+                  <phr ana="#TRICOLON-CRESCENS #homoioteleuton">
+                     <phr ana="#METAPHORA"><w n="24"
                      lemma="os2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/115327"
                      ana="n-s---na-">os</w>
@@ -8725,7 +8734,7 @@
                   <w n="62"
                      lemma="lacero"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109652"
-                     ana="v--pna---">lacerare</w></phr>
+                     ana="v--pna---">lacerare</w></phr></phr></phr>
                   <pc n="11">?</pc>
                </s>
                <s n="s2">
@@ -8740,12 +8749,12 @@
                      lemma="caveo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/93200"
                      ana="v2spma---">caue</w></phr>
-                  <phr ana="#synecdocha"><w n="3"
+                  <w n="3"
                      lemma="tu"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/29131"
                      ana="p-s---md-">tibi</w>
                   <pc n="2">,</pc>
-                  <w n="4"
+                  <phr ana="#synecdocha"><w n="4"
                      lemma="lingua"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110562"
                      ana="n-s---fv-">lingua</w>
@@ -8754,11 +8763,11 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100036"
                      ana="a-s---fv-">dolosa</w></phr>
                   <pc n="3">,</pc>
-                  <w n="6"
+                  <phr ana="#TRICOLON-CRESCENS"><w n="6"
                      lemma="ne1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113491"
                      ana="c--------">ne</w>
-                  <w n="7"
+                  <phr ana="#ALLITERATIO"><w n="7"
                      lemma="deus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/4810"
                      ana="n-s---mn-">Deus</w>
@@ -8769,7 +8778,7 @@
                   <w n="9"
                      lemma="tu"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/29131"
-                     ana="p-s---fa-">te</w>
+                     ana="p-s---fa-">te</w></phr>
                   <w n="10"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
@@ -8804,14 +8813,14 @@
                      lemma="de"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97932"
                      ana="r--------">de</w>
-                  <w n="18"
+                  <phr ana="#ALLITERATIO"><w n="18"
                      lemma="tabernaculum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127524"
                      ana="n-s---nb-">tabernaculo</w>
                   <w n="19"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129328"
                      lemma="tuus"
-                     ana="a-s---nb-">tuo</w>
+                     ana="a-s---nb-">tuo</w></phr>
                   <pc n="6">,</pc>
                   <w n="20"
                      lemma="et"
@@ -8836,7 +8845,7 @@
                   <w n="25"
                      lemma="vivo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130476"
-                     ana="v-ppp-mg-">uiuentium</w></phr></phr>
+                     ana="v-ppp-mg-">uiuentium</w></phr></phr></phr>
                   <pc n="7">!</pc>
                </s>
                <s n="s3" ana="#ANAPHORA">
@@ -9039,14 +9048,14 @@
                      lemma="quamvis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121355"
                      ana="c--------">quamuis</w>
-                  <w n="11"
+                  <phr ana="#ALLITERATIO"><w n="11"
                      lemma="is"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109083"
                      ana="p-s---mg-">eius</w>
                   <w n="12"
                      lemma="excellentia"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102698"
-                     ana="n-s---fn-">excellentia</w>
+                     ana="n-s---fn-">excellentia</w></phr>
                   <w n="13"
                      lemma="jam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106025"
@@ -9077,14 +9086,14 @@
                      lemma="ex"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101716"
                      ana="r--------">ex</w>
-                  <w n="20"
+                  <phr ana="#ALLITERATIO"><w n="20"
                      lemma="pars"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/116084"
                      ana="n-s---fb-">parte</w>
                   <w n="21"
                      lemma="possum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
-                     ana="v3sria---">potuit</w>
+                     ana="v3sria---">potuit</w></phr>
                   <w n="22"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
@@ -9120,7 +9129,7 @@
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---fb-">qua</w>
-                  <w n="7"
+                  <phr ana="#comparatio"><w n="7"
                      lemma="ita"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109126"
                      ana="d--------">ita</w>
@@ -9193,11 +9202,12 @@
                   <w n="24"
                      lemma="dilectus"
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/12446"
-                     ana="a-s---ma-">dilectum</w>
+                     ana="a-s---ma-">dilectum</w></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s3">
-                  <phr ana="#METAPHORA"><w n="1"
+                  <phr ana="#argumentum #enthymema">
+                     <phr ana="#METAPHORA"><w n="1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110351"
                      lemma="lex"
                      ana="n-s---fn-">Lex</w>
@@ -9229,14 +9239,14 @@
                      lemma="inimicus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/107882"
                      ana="n-p---mg-">inimicorum</w>
-                  <w n="9"
+                  <phr ana="#litotes"><w n="9"
                      lemma="minime"
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/27351"
                      ana="d--------">minime</w>
                   <w n="10"
                      lemma="diligo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99463"
-                     ana="v1ppsa---">diligamus</w>
+                     ana="v1ppsa---">diligamus</w></phr>
                   <pc n="1">;</pc>
                   <w n="11"
                      lemma="hic"
@@ -9266,7 +9276,7 @@
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
-                  <w n="18"
+                  <phr ana="#dicolon"><w n="18"
                      lemma="aeque"
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/56943"
                      ana="d--------">aeque</w>
@@ -9299,7 +9309,7 @@
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---mn-">qui</w>
-                  <w n="26"
+                  <phr ana="#dicolon #epanalepsis"><w n="26"
                      lemma="is"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109083"
                      ana="p-s---mg-">eius</w>
@@ -9351,11 +9361,11 @@
                   <w n="38"
                      lemma="foveo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103717"
-                     ana="v3sisa---">foueret</w></phr>
+                     ana="v3sisa---">foueret</w></phr></phr></phr></phr>
                   <pc n="4">.</pc>
                </s>
                <s n="s4">
-                  <w n="1"
+                  <phr ana="#probatio-signum"><w n="1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/115363"
                      lemma="ostendo"
                      ana="v3spia---">Ostendit</w>
@@ -9388,7 +9398,7 @@
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---fb-">qua</w>
-                  <w n="9"
+                  <phr ana="#bimembre #PARALLELISMUS"><w n="9"
                      lemma="omnis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114954"
                      ana="a-p---mn-">omnes</w>
@@ -9417,7 +9427,7 @@
                   <w n="14"
                      lemma="princeps"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/73416"
-                     ana="n-p---mn-">principes</w>
+                     ana="n-p---mn-">principes</w></phr>
                   <phr ana="#hyperbaton"><w n="15"
                      lemma="superus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126999"
@@ -9504,7 +9514,7 @@
                   <w n="34"
                      lemma="confero"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95728"
-                     ana="v3slsa---">contulisset</w></phr>
+                     ana="v3slsa---">contulisset</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s5">
@@ -9520,7 +9530,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87102"
                      lemma="accepto"
                      ana="v-p-g-nb-">acceptandis</w>
-                  <w n="4"
+                  <phr ana="#probatio-signum"><w n="4"
                      lemma="adeo2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87420"
                      ana="d--------">adeo</w>
@@ -9541,7 +9551,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
                   <pc n="1">,</pc>
-                  <w n="9"
+                  <phr ana="#ANTITHESIS"><w n="9"
                      lemma="cum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97202"
                      ana="c--------">cum</w>
@@ -9585,7 +9595,7 @@
                   <w n="19"
                      lemma="puto"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/120610"
-                     ana="v3piia---">putabant</w>
+                     ana="v3piia---">putabant</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s6">
@@ -9593,7 +9603,8 @@
                      lemma="unde"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130603"
                      ana="d-------p">Vnde</w>
-                  <phr ana="#hyperbaton"><w n="2"
+                  <phr ana="#dicolon #GRADATIO">
+                     <phr ana="#hyperbaton"><w n="2"
                      lemma="suus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127165"
                      ana="a-p---na-">sua</w>
@@ -9625,7 +9636,7 @@
                      lemma="summa"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126706"
                      ana="n-s---fa-">summam</w></phr>
-                  <w n="10"
+                  <phr ana="#METONYMIA"><w n="10"
                      lemma="fides1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103260"
                      ana="n-s---fd-">fidei</w>
@@ -9640,7 +9651,7 @@
                   <w n="13"
                      lemma="committo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95164"
-                     ana="v3piia---">committebant</w>
+                     ana="v3piia---">committebant</w></phr></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s7">
@@ -9657,7 +9668,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
                   <pc n="1">,</pc>
-                  <w n="4"
+                  <phr ana="#ANTITHESIS"><w n="4"
                      lemma="communis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97171"
                      ana="a-s---fa-">communem</w>
@@ -9685,7 +9696,7 @@
                   <w n="10"
                      lemma="advocatus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87679"
-                     ana="n-s---mn-">aduocatus</w></phr>
+                     ana="n-s---mn-">aduocatus</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
             </p>
@@ -9717,7 +9728,7 @@
                      lemma="dies"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99334"
                      ana="n-s---ma-">diem</w>
-                  <w n="6"
+                  <phr ana="#bimembre"><w n="6"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -9744,7 +9755,7 @@
                   <w n="12"
                      lemma="locus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110019"
-                     ana="n-s---ma-">locum</w>
+                     ana="n-s---ma-">locum</w></phr>
                   <pc n="1">,</pc>
                   <w n="13"
                      lemma="in"
@@ -9833,7 +9844,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/122463"
                      ana="v3slia---">redierat</w>
                   <pc n="4">,</pc>
-                  <w n="34"
+                  <phr ana="#bimembre #chiasmus"><w n="34"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -9864,7 +9875,7 @@
                   <w n="41"
                      lemma="exitus2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102639"
-                     ana="n-s---ma-">exitum</w>
+                     ana="n-s---ma-">exitum</w></phr>
                   <w n="42"
                      lemma="intendo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/108382"
@@ -9975,7 +9986,7 @@
                   <pc n="9">.</pc>
                </s>
                <s n="s2">
-                  <w n="1"
+                  <phr ana="#METAPHORA"><w n="1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130232"
                      lemma="vinco"
                      ana="v3siia---">Vincebat</w>
@@ -9990,7 +10001,7 @@
                   <w n="4"
                      lemma="consilium"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/96060"
-                     ana="n-p---na-">consilia</w>
+                     ana="n-p---na-">consilia</w></phr>
                   <w n="5"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
@@ -10020,7 +10031,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130163"
                      ana="v3siip---">uidebatur</w>
                   <pc n="1">;</pc>
-                  <w n="12"
+                  <phr ana="#comparatio"><w n="12"
                      lemma="hic"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105455"
                      ana="p-s---fn-">haec</w>
@@ -10068,7 +10079,7 @@
                   <w n="23"
                      lemma="divello"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99912"
-                     ana="v--pnp---">diuelli</w></phr>
+                     ana="v--pnp---">diuelli</w></phr></phr>
                   <pc n="3">;</pc>
                   <phr ana="#ANAPHORA #dicolon #chiasmus #METAPHORA"><w n="24"
                      lemma="hic"
@@ -10102,7 +10113,8 @@
                   <pc n="5">.</pc>
                </s>
                <s n="s3">
-                  <phr ana="#METAPHORA #HYPERBOLE"><w n="1"
+                  <phr ana="#refutatio">
+                     <phr ana="#METAPHORA #HYPERBOLE"><w n="1"
                      lemma="omnis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114954"
                      ana="a-p---mg-">Omnium</w>
@@ -10162,7 +10174,7 @@
                      lemma="tamquam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127617"
                      ana="d--------">tanquam</w>
-                  <w n="14"
+                  <phr ana="#bimembre"><w n="14"
                      lemma="superbus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126757"
                      ana="a-s---ma-">superbum</w>
@@ -10175,7 +10187,7 @@
                         lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
-                  </w>
+                  </w></phr>
                   <w n="16"
                      lemma="ingratus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/107816"
@@ -10193,7 +10205,7 @@
                      lemma="tamen"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127607"
                      ana="d--------">tamen</w>
-                  <w n="20"
+                  <phr ana="#bimembre #ANAPHORA #homoioteleuton"><w n="20"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -10212,11 +10224,11 @@
                   <w n="24"
                      lemma="facilis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102754"
-                     ana="a-s---mns">facillimus</w>
+                     ana="a-s---mns">facillimus</w></phr></phr>
                   <pc n="4">.</pc>
                </s>
                <s n="s4">
-                  <w n="1"
+                  <phr ana="#refutatio-testes"><phr ana="#dicolon #POLYPTOTON"><w n="1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113840"
                      lemma="nosco"
                      ana="v3sria---">Nouit</w>
@@ -10245,7 +10257,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113840"
                      lemma="nosco"
                      ana="v3pria---">norunt</w>
-                  <w n="8"
+                  <phr ana="#bimembre"><w n="8"
                      lemma="amicus2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/88684"
                      ana="n-p---mn-">amici</w>
@@ -10281,7 +10293,7 @@
                   <w n="16"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
-                     ana="v3pria---">fuerunt</w>
+                     ana="v3pria---">fuerunt</w></phr></phr>
                   <pc n="3">,</pc>
                   <w n="17"
                      lemma="qui2"
@@ -10341,7 +10353,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/91494"
                      ana="a-s---ma-">benignum</w></phr>
                   <pc n="9">,</pc>
-                  <w n="30"
+                  <phr ana="#comparatio"><w n="30"
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
@@ -10361,13 +10373,13 @@
                   <w n="34"
                      lemma="dominus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/98084"
-                     ana="n-s---ma-">dominum</w>
+                     ana="n-s---ma-">dominum</w></phr></phr>
                   <pc n="11">.</pc>
                </s>
             </p>
             <p n="p15" xml:id="modrusiensis-riario15morphlemma">
                <s n="s1">
-                  <w n="1"
+                  <phr ana="#comparatio"><w n="1"
                      lemma="tantus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127630"
                      ana="a-s---fb-">Tanta</w>
@@ -10391,7 +10403,7 @@
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
-                  <w n="7"
+                  <phr ana="#epanalepsis"><w n="7"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/108954"
                      lemma="irascor"
                      ana="v3sisd---">irasceretur</w>
@@ -10409,7 +10421,7 @@
                      lemma="extemplo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102400"
                      ana="d--------">extemplo</w>
-                  <w n="12"
+                  <phr ana="#METAPHORA"><w n="12"
                      lemma="animus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89094"
                      ana="n-s---ma-">animum</w>
@@ -10424,11 +10436,11 @@
                   <w n="15"
                      lemma="revoco"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/122823"
-                     ana="v3sisa---">reuocaret</w>
+                     ana="v3sisa---">reuocaret</w></phr></phr></phr>
                   <pc n="2">.</pc>
                </s>
                <s n="s2">
-                  <phr ana="#chiasmus"><w n="1"
+                  <phr ana="#chiasmus #asyndeton"><w n="1"
                      lemma="de"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97932"
                      ana="r--------">De</w>
@@ -10476,7 +10488,7 @@
                      lemma="vita"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130393"
                      ana="n-s---fg-">uitae</w>
-                  <w n="12"
+                  <phr ana="#litotes"><w n="12"
                      lemma="minime"
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/27351"
                      ana="d--------">minime</w>
@@ -10487,7 +10499,7 @@
                   <w n="14"
                      lemma="curiosus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97337"
-                     ana="a-s---mn-">curiosus</w>
+                     ana="a-s---mn-">curiosus</w></phr>
                   <pc n="5">.</pc>
                </s>
                <s n="s3">
@@ -10516,7 +10528,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---ma-">quem</w>
                   <pc n="1">,</pc>
-                  <w n="7"
+                  <phr ana="#parenthesis"><w n="7"
                      lemma="quod"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/74854"
                      ana="c--------">quod</w>
@@ -10531,7 +10543,7 @@
                   <w n="10"
                      lemma="fio"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103328"
-                     ana="v3s-ia---">fiebat</w>
+                     ana="v3s-ia---">fiebat</w></phr>
                   <pc n="2">,</pc>
                   <w n="11"
                      lemma="per"
@@ -10622,10 +10634,10 @@
                      lemma="hora1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105663"
                      ana="n-p---fb-">horis</w>
-                  <w n="14"
+                  <phr ana="#poetice"><w n="14"
                      lemma="aurora"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/90792"
-                     ana="n-s---fa-">auroram</w>
+                     ana="n-s---fa-">auroram</w></phr>
                   <w n="15"
                      lemma="soleo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/125051"
@@ -10688,11 +10700,11 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/94952"
                      ana="v3slia---">consueuerat</w>
                   <pc n="4">,</pc>
-                  <w n="30"
+                  <phr ana="#comparatio"><w n="30"
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-p---fn-">quae</w>
-                  <w n="31"
+                  <phr ana="#comparatio"><w n="31"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127592"
                      lemma="talis"
                      ana="a-p---fn-">tales</w>
@@ -10716,7 +10728,7 @@
                      lemma="qualis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121068"
                      ana="a-p---fn-">quales</w>
-                  <w n="37"
+                  <phr ana="#poetice"><w n="37"
                      lemma="mortalis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/135850"
                      ana="a-p---mg-">mortalium</w>
@@ -10732,14 +10744,14 @@
                      lemma="illabor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106190"
                      ana="v--pnp---">illabi</w>
-                  <w n="41"
+                  <phr ana="#ALLITERATIO"><w n="41"
                      lemma="possum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
                      ana="v--pna---">posse</w>
                   <w n="42"
                      lemma="puto"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/120610"
-                     ana="v2sisa---">putares</w>
+                     ana="v2sisa---">putares</w></phr></phr></phr></phr>
                   <pc n="5">.</pc>
                </s>
                <s n="s2">
@@ -10759,7 +10771,7 @@
                      lemma="necessarius"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113504"
                      ana="n-p---ma-">necessarios</w>
-                  <w n="5"
+                  <phr ana="#comparatio"><w n="5"
                      lemma="nequaquam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114118"
                      ana="d--------">nequaquam</w>
@@ -10783,7 +10795,7 @@
                   <w n="10"
                      lemma="parcus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/116002"
-                     ana="a-s---mn-">parcus</w>
+                     ana="a-s---mn-">parcus</w></phr>
                   <pc n="2">,</pc>
                   <w n="11"
                      lemma="excipio"
@@ -10882,14 +10894,15 @@
                      lemma="res"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121868"
                      ana="n-s---fb-">re</w>
-                  <w n="4"
+                  <phr ana="#comparatio">
+                     <phr ana="#ALLITERATIO"><w n="4"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127592"
                      lemma="talis"
                      ana="a-s---na-">tale</w>
                   <w n="5"
                      lemma="temperamentum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127766"
-                     ana="n-s---na-">temperamentum</w>
+                     ana="n-s---na-">temperamentum</w></phr>
                   <w n="6"
                      lemma="adhibeo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87433"
@@ -10910,7 +10923,7 @@
                      lemma="ingens"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/107799"
                      ana="a-s---mb-">ingenti</w>
-                  <w n="11"
+                  <phr ana="#bimembre #SYNONYMIA"><w n="11"
                      lemma="honor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105647"
                      ana="n-s---mb-">honore</w>
@@ -10921,7 +10934,7 @@
                   <w n="13"
                      lemma="laus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110103"
-                     ana="n-s---fb-">laude</w>
+                     ana="n-s---fb-">laude</w></phr>
                   <w n="14"
                      lemma="sedes"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/124005"
@@ -10933,7 +10946,7 @@
                   <w n="16"
                      lemma="contingo1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/96293"
-                     ana="v3sisa---">contingeret</w>
+                     ana="v3sisa---">contingeret</w></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s4">
@@ -11031,7 +11044,7 @@
                      lemma="exaugeo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101808"
                      ana="v3spda-g-">exaugendi</w>
-                  <phr ana="#hyperbaton #METAPHORA"><w n="3"
+                  <phr ana="#comparatio"><phr ana="#hyperbaton #METAPHORA"><w n="3"
                      lemma="tantus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127630"
                      ana="a-s---nb-">tanto</w>
@@ -11074,7 +11087,7 @@
                   <w n="13"
                      lemma="patior"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/116222"
-                     ana="v3sisd---">pateretur</w>
+                     ana="v3sisd---">pateretur</w></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s6">
@@ -11155,7 +11168,7 @@
                      lemma="quod"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/74854"
                      ana="c--------">quod</w>
-                  <w n="9"
+                  <phr ana="#probatio-signum"><w n="9"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -11175,7 +11188,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/96146"
                      lemma="constituo"
                      ana="v-srppmn-">constitutus</w>
-                  <phr ana="#dicolon"><w n="14"
+                  <phr ana="#dicolon #asyndeton #POLYPTOTON"><w n="14"
                      lemma="nemo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/67324"
                      ana="n-s---md-">nemini</w>
@@ -11199,11 +11212,11 @@
                   <w n="19"
                      lemma="opprimo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/115131"
-                     ana="v3sria---">oppressit</w></phr>
+                     ana="v3sria---">oppressit</w></phr></phr>
                   <pc n="2">.</pc>
                </s>
                <s n="s2">
-                  <w n="1"
+                  <phr ana="#probatio-signum #exemplum"><w n="1"
                      lemma="unde"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130603"
                      ana="d-------p">Vnde</w>
@@ -11282,7 +11295,7 @@
                   <w n="20"
                      lemma="curo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97341"
-                     ana="v3sria---">curauit</w>
+                     ana="v3sria---">curauit</w></phr>
                   <pc n="4">.</pc>
                </s>
                <s n="s3">
@@ -11410,7 +11423,7 @@
                   <pc n="3">.</pc>
                </s>
                <s n="s4">
-                  <w n="1"
+                  <phr ana="#probatio-signum"><w n="1"
                      lemma="magistratus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111283"
                      ana="n-p---ma-">Magistratus</w>
@@ -11445,7 +11458,7 @@
                   <w n="9"
                      lemma="administro"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87535"
-                     ana="v--pna---">administrare</w>
+                     ana="v--pna---">administrare</w></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s5">
@@ -11462,7 +11475,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114156"
                      ana="d--------">nonnunquam</w>
                   <pc n="1">,</pc>
-                  <w n="4"
+                  <phr ana="#bimembre"><w n="4"
                      lemma="domestici"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100047"
                      ana="n-p---mg-">domesticorum</w>
@@ -11475,7 +11488,7 @@
                         lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
-                  </w>
+                  </w></phr>
                   <w n="6"
                      lemma="evinco"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101641"
@@ -11485,7 +11498,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/119456"
                      ana="n-p---fb-">precibus</w>
                   <pc n="2">,</pc>
-                  <w n="8"
+                  <phr ana="#bimembre #ANAPHORA"><w n="8"
                      lemma="aut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/90827"
                      ana="c--------">aut</w>
@@ -11500,7 +11513,7 @@
                   <w n="11"
                      lemma="nuntius"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113734"
-                     ana="n-p---mb-">nuntiis</w>
+                     ana="n-p---mb-">nuntiis</w></phr>
                   <w n="12"
                      lemma="multus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112998"
@@ -11545,7 +11558,7 @@
                   <pc n="4">.</pc>
                </s>
                <s n="s6">
-                  <w n="1"
+                  <phr ana="#probatio-testes #exemplum"><w n="1"
                      lemma="unde"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130603"
                      ana="d-------p">Vnde</w>
@@ -11720,11 +11733,11 @@
                   <w n="43"
                      lemma="precor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/119429"
-                     ana="v3sfid---">precabitur</w>
+                     ana="v3sfid---">precabitur</w></phr>
                   <pc n="5">.</pc>
                </s>
                <s n="s7">
-                  <w n="1"
+                  <phr ana="#probatio-testes #ANAPHORA #dicolon"><w n="1"
                      lemma="hic"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105455"
                      ana="p-s---na-">Hoc</w>
@@ -11798,11 +11811,11 @@
                   <w n="18"
                      lemma="mando1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111470"
-                     ana="v3siia---">mandabat</w>
+                     ana="v3siia---">mandabat</w></phr>
                   <pc n="4">.</pc>
                </s>
                <s n="s8">
-                  <w n="1"
+                  <phr ana="#probatio-signum"><w n="1"
                      lemma="dico2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99302"
                      ana="v3siia---">Dicebat</w>
@@ -11888,11 +11901,11 @@
                   <w n="20"
                      lemma="volo1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130745"
-                     ana="v--pna---">uelle</w>
+                     ana="v--pna---">uelle</w></phr>
                   <pc n="2">.</pc>
                </s>
                <s n="s9">
-                  <w n="1"
+                  <phr ana="#probatio-signum"><w n="1"
                      lemma="hinc"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105454"
                      ana="d--------">Hinc</w>
@@ -11996,7 +12009,7 @@
                   <w n="25"
                      lemma="jubeo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109152"
-                     ana="v3slia---">iusserat</w>
+                     ana="v3slia---">iusserat</w></phr>
                   <pc n="6">.</pc>
                </s>
                <s n="s10">
@@ -12029,7 +12042,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
                      ana="v3sria---">potuit</w>
                   <pc n="1">;</pc>
-                  <w n="8"
+                  <phr ana="#probatio-signum"><w n="8"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113344"
                      lemma="nam"
                      ana="c--------">nam</w>
@@ -12089,7 +12102,7 @@
                   <w n="21"
                      lemma="ecclesia"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100517"
-                     ana="n-s---fg-">ecclesiae</w>
+                     ana="n-s---fg-">ecclesiae</w></phr>
                   <pc n="7">.</pc>
                </s>
                <s n="s11">
@@ -12184,7 +12197,7 @@
             </p>
             <p n="p18" xml:id="modrusiensis-riario18morphlemma">
                <s n="s1">
-                  <w n="1"
+                  <phr ana="#aversio #praeteritio"><w n="1"
                      lemma="cogo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/94739"
                      ana="v1spip---">Cogor</w>
@@ -12213,7 +12226,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/110103"
                      ana="n-p---fa-">laudes</w></phr>
                   <pc n="1">,</pc>
-                  <phr ana="#chiasmus #METAPHORA"><w n="8"
+                  <phr ana="#chiasmus #METAPHORA #dicolon"><w n="8"
                      lemma="cum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97202"
                      ana="c--------">cum</w>
@@ -12249,11 +12262,11 @@
                   <w n="16"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126911"
                      lemma="supero"
-                     ana="v-srppmn-">superatus</w></phr>
+                     ana="v-srppmn-">superatus</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s2">
-                  <phr ana="#ANAPHORA #TRICOLON-CRESCENS"><w n="1"
+                  <phr ana="#ANAPHORA #TRICOLON-CRESCENS #percursio"><w n="1"
                      lemma="qualis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121068"
                      ana="a-s---ma-">Qualem</w>
@@ -12316,7 +12329,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/104536"
                      ana="v3srsa---">gesserit</w>
                   <pc n="3">,</pc>
-                  <w n="16"
+                  <phr ana="#praeteritio"><w n="16"
                      lemma="malo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111408"
                      ana="v1spia---">malo</w>
@@ -12379,7 +12392,7 @@
                   <w n="31"
                      lemma="vitio"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130426"
-                     ana="v--pna---">uitiare</w></phr>
+                     ana="v--pna---">uitiare</w></phr></phr>
                   <pc n="4">.</pc>
                </s>
                <s n="s3">
@@ -12396,7 +12409,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99302"
                      ana="v1sfia---">dicam</w>
                   <pc n="1">,</pc>
-                  <w n="4"
+                  <phr ana="#probatio-testes"><w n="4"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97250"
                      lemma="cunctus"
                      ana="a-p---mb-">cunctis</w>
@@ -12421,9 +12434,9 @@
                   <w n="9"
                      lemma="attestor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/90544"
-                     ana="v-pppdmbp">attestantibus</w>
+                     ana="v-pppdmbp">attestantibus</w></phr>
                   <pc n="4">,</pc>
-                  <phr ana="#ANAPHORA #dicolon"><w n="10"
+                  <phr ana="#comparatio"><phr ana="#ANAPHORA #dicolon"><w n="10"
                      lemma="nullus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114081"
                      ana="a-s---ma-">nullum</w>
@@ -12473,7 +12486,7 @@
                      lemma="magnus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111319"
                      ana="a-s---fnc">maior</w>
-                  <w n="22"
+                  <phr ana="#bimembre #ANAPHORA"><w n="22"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -12488,7 +12501,7 @@
                   <w n="25"
                      lemma="honor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105647"
-                     ana="n-s---mg-">honoris</w>
+                     ana="n-s---mg-">honoris</w></phr>
                   <w n="26"
                      lemma="genitor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/104485"
@@ -12569,9 +12582,9 @@
                   <w n="45"
                      lemma="exitus2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102639"
-                     ana="n-s---ma-">exitum</w></phr></phr>
+                     ana="n-s---ma-">exitum</w></phr></phr></phr>
                   <pc n="8">;</pc>
-                  <phr ana="#ANAPHORA #dicolon #chiasmus"><phr ana="#hyperbaton"><w n="46"
+                  <phr ana="#ANAPHORA #dicolon #chiasmus #asyndeton"><phr ana="#hyperbaton"><w n="46"
                      lemma="nullus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114081"
                      ana="a-p---ma-">nullos</w>
@@ -12695,7 +12708,7 @@
                      lemma="haereo"
                      ana="v3sria---">haesit</w></phr></phr>
                   <pc n="17">;</pc>
-                  <phr ana="#chiasmus"><w n="73"
+                  <phr ana="#comparatio"><phr ana="#chiasmus"><w n="73"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89311"
                      lemma="adversum2"
                      ana="n-p---na-">aduersa</w>
@@ -12803,13 +12816,13 @@
                   <w n="98"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112848"
                      lemma="moveo"
-                     ana="v3spsp---">moueatur</w></phr>
+                     ana="v3spsp---">moueatur</w></phr></phr>
                   <pc n="23">.</pc>
                </s>
             </p>
             <p n="p19" xml:id="modrusiensis-riario19morphlemma">
                <s n="s1">
-                  <w n="1"
+                  <phr ana="#aversio"><w n="1"
                      lemma="finis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103321"
                      ana="n-s---ma-">Finem</w>
@@ -12820,8 +12833,8 @@
                   <w n="3"
                      lemma="facio"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102758"
-                     ana="v1sfia---">faciam</w>
-                  <w n="4"
+                     ana="v1sfia---">faciam</w></phr>
+                  <phr ana="#correctio #transitio"><w n="4"
                      lemma="si"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/124676"
                      ana="c--------">si</w>
@@ -12856,7 +12869,7 @@
                   <w n="12"
                      lemma="explico"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102202"
-                     ana="v1stia---">explicauero</w>
+                     ana="v1stia---">explicauero</w></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s2">
@@ -12892,7 +12905,7 @@
                      lemma="converto"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/96446"
                      ana="v3slia---">conuerterat</w>
-                  <w n="9"
+                  <phr ana="#auctoritas"><w n="9"
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
@@ -12953,7 +12966,7 @@
                   <w n="23"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129328"
                      lemma="tuus"
-                     ana="a-s---fg-">tuae</w></phr>
+                     ana="a-s---fg-">tuae</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
                <s n="s3">
@@ -12961,14 +12974,14 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/119776"
                      lemma="proinde"
                      ana="d--------">Proinde</w>
-                  <w n="2"
+                  <phr ana="#litotes"><w n="2"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
                   <w n="3"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/93611"
                      lemma="cesso"
-                     ana="v3siia---">cessabat</w>
+                     ana="v3siia---">cessabat</w></phr>
                   <w n="4"
                      lemma="ecclesia"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100517"
@@ -13137,7 +13150,7 @@
                   <pc n="10">.</pc>
                </s>
                <s n="s4">
-                  <phr ana="#personificatio"><w n="1"
+                  <phr ana="#personificatio #probatio-testes"><w n="1"
                      lemma="testor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127996"
                      ana="v3spid---">Testatur</w>
@@ -13218,7 +13231,7 @@
                      lemma="instauro"
                      ana="v-srppnn-">instauratum</w></phr>
                   <pc n="1">,</pc>
-                  <phr ana="#personificatio"><w n="21"
+                  <phr ana="#personificatio #probatio-testes"><w n="21"
                      lemma="testor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127996"
                      ana="v3spid---">testatur</w>
@@ -13271,7 +13284,7 @@
                      lemma="illustro"
                      ana="v-srppfn-">illustrata</w></phr>
                   <pc n="2">,</pc>
-                  <phr ana="#personificatio"><w n="34"
+                  <phr ana="#personificatio #probatio-testes"><w n="34"
                      lemma="testor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127996"
                      ana="v3spid---">testatur</w>
@@ -13313,7 +13326,7 @@
                      lemma="spolio"
                      ana="v-srppnn-">spoliatum</w>
                   <pc n="4">,</pc>
-                  <phr ana="#hyperbaton"><w n="44"
+                  <phr ana="#comparatio"><phr ana="#hyperbaton"><w n="44"
                      lemma="tam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129151"
                      ana="d--------">tam</w>
@@ -13371,7 +13384,7 @@
                      lemma="nunc"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113990"
                      ana="d--------">nunc</w>
-                  <w n="58"
+                  <phr ana="#METAPHORA"><w n="58"
                      lemma="splendor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/125427"
                      ana="n-s---mb-">splendore</w>
@@ -13394,11 +13407,11 @@
                   <w n="63"
                      lemma="universus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130700"
-                     ana="a-p---na-">uniuersa</w></phr>
+                     ana="a-p---na-">uniuersa</w></phr></phr></phr>
                   <pc n="7">.</pc>
                </s>
                <s n="s5">
-                  <phr ana="#personificatio"><w n="1"
+                  <phr ana="#personificatio #probatio-testes"><w n="1"
                      lemma="testor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127996"
                      ana="v3spid---">Testatur</w>
@@ -13411,7 +13424,7 @@
                      lemma="fanum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102911"
                      ana="n-s---nn-">phanum</w></phr>
-                  <w n="5"
+                  <phr ana="#comparatio"><w n="5"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -13627,7 +13640,7 @@
                   <w n="56"
                      lemma="accipio"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87119"
-                     ana="v3ppsa---">accipiant</w>
+                     ana="v3ppsa---">accipiant</w></phr>
                   <pc n="10">.</pc>
                </s>
                <s n="s6">
@@ -13740,7 +13753,7 @@
                   <pc n="3">.</pc>
                </s>
                <s n="s7">
-                  <phr ana="#personificatio #homoioteleuton"><w n="1"
+                  <phr ana="#personificatio #homoioteleuton #probatio-testes"><w n="1"
                      lemma="hic"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105455"
                      ana="p-s---fn-">Haec</w>
@@ -13815,7 +13828,7 @@
                      lemma="decerno"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/98047"
                      ana="v3slia---">decreuerat</w>
-                  <phr ana="#dicolon #ANAPHORA"><w n="4"
+                  <phr ana="#bimembre #ANAPHORA"><w n="4"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -13843,7 +13856,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87931"
                      lemma="aestas"
                      ana="n-s---fb-">aestate</w>
-                  <w n="11"
+                  <phr ana="#comparatio"><w n="11"
                      lemma="ita"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109126"
                      ana="d--------">ita</w>
@@ -13867,7 +13880,7 @@
                      lemma="frater"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103739"
                      ana="n-p---md-">fratribus</w>
-                  <phr ana="#bimembre #ANAPHORA"><w n="17"
+                  <phr ana="#bimembre #ANAPHORA #PARALLELISMUS"><w n="17"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -13902,7 +13915,7 @@
                   <w n="25"
                      lemma="possum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
-                     ana="v3sisa---">posset</w></phr>
+                     ana="v3sisa---">posset</w></phr></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s9">
@@ -13995,7 +14008,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
                      ana="v3spia---">est</w>
                   <pc n="1">;</pc>
-                  <w n="9"
+                  <phr ana="#correctio"><w n="9"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
@@ -14033,7 +14046,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/111485"
                      ana="c--------">uerum</w>
                   <pc n="3">,</pc>
-                  <w n="18"
+                  <phr ana="#parenthesis"><w n="18"
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---na-">quod</w>
@@ -14044,7 +14057,7 @@
                   <w n="20"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/117401"
                      lemma="pertimesco"
-                     ana="v1spia---">pertimesco</w>
+                     ana="v1spia---">pertimesco</w></phr>
                   <pc n="4">,</pc>
                   <w n="21"
                      lemma="ut"
@@ -14153,7 +14166,7 @@
                   <w n="46"
                      lemma="differo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99342"
-                     ana="v3si-a---">differret</w>
+                     ana="v3si-a---">differret</w></phr>
                   <pc n="9">.</pc>
                </s>
             </p>
@@ -14163,7 +14176,7 @@
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---fg-">Cuius</w>
-                  <w n="2"
+                  <phr ana="#bimembre"><w n="2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112454"
                      lemma="miseratio"
                      ana="n-s---fg-">miserationis</w>
@@ -14176,7 +14189,7 @@
                         lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
-                  </w>
+                  </w></phr>
                   <w n="4"
                      lemma="certus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/93581"
@@ -14278,7 +14291,7 @@
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-p---na-">quae</w>
-                  <w n="3"
+                  <phr ana="#bimembre #ANAPHORA"><w n="3"
                      lemma="vel"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129695"
                      ana="c--------">uel</w>
@@ -14297,7 +14310,7 @@
                   <w n="7"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130432"
                      lemma="vitium"
-                     ana="n-s---nb-">uitio</w>
+                     ana="n-s---nb-">uitio</w></phr>
                   <w n="8"
                      lemma="pro1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118468"
@@ -14323,7 +14336,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95735"
                      lemma="confessio"
                      ana="n-s---fb-">confessione</w>
-                  <w n="14"
+                  <phr ana="#bimembre"><w n="14"
                      lemma="saepe"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/123106"
                      ana="d-------c">saepius</w>
@@ -14336,7 +14349,7 @@
                         lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
-                  </w>
+                  </w></phr>
                   <w n="16"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/120546"
                      lemma="purgo"
@@ -14408,15 +14421,15 @@
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
                   </w>
-                  <w n="2"
+                  <phr ana="#METAPHORA"><w n="2"
                      lemma="vicinus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130137"
                      ana="a-s---mn-">uicinus</w>
                   <w n="3"
                      lemma="mors"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112807"
-                     ana="n-s---fd-">morti</w>
-                  <w n="4"
+                     ana="n-s---fd-">morti</w></phr>
+                  <phr ana="#bimembre"><w n="4"
                      lemma="domestici"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100047"
                      ana="n-p---ma-">domesticos</w>
@@ -14427,7 +14440,7 @@
                   <w n="6"
                      lemma="familiaris"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102888"
-                     ana="n-p---ma-">familiares</w>
+                     ana="n-p---ma-">familiares</w></phr>
                   <w n="7"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89811"
                      lemma="arcesso"
@@ -14449,7 +14462,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102361"
                      lemma="exsisto"
                      ana="v-ppp-mb-">exsistentibus</w>
-                  <phr ana="#chiasmus #ANAPHORA">
+                  <phr ana="#chiasmus #ANAPHORA #asyndeton">
                      <phr ana="#METAPHORA"><w n="12"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
@@ -14488,7 +14501,7 @@
                      lemma="ingemo"
                      ana="v3sria---">ingemuit</w></phr>
                   <pc n="3">,</pc>
-                  <w n="21"
+                  <phr ana="#bimembre #asyndeton #ANAPHORA"><w n="21"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
@@ -14504,7 +14517,7 @@
                   <w n="24"
                      lemma="fortuna"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103696"
-                     ana="n-s---fa-">fortunam</w>
+                     ana="n-s---fa-">fortunam</w></phr>
                   <w n="25"
                      lemma="accuso"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87175"
@@ -14533,7 +14546,7 @@
                      lemma="flos"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103489"
                      ana="n-s---mb-">flore</w></phr>
-                  <w n="32"
+                  <phr ana="#bimembre #ANAPHORA"><w n="32"
                      lemma="ex"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101716"
                      ana="r--------">ex</w>
@@ -14560,7 +14573,7 @@
                   <w n="38"
                      lemma="opus1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/115170"
-                     ana="n-p---nb-">operibus</w>
+                     ana="n-p---nb-">operibus</w></phr>
                   <w n="39"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126466"
                      lemma="subtraho"
@@ -14582,7 +14595,7 @@
                      lemma="quin"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121181"
                      ana="d--------">quin</w>
-                  <w n="44"
+                  <phr ana="#bimembre"><w n="44"
                      lemma="magnus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111319"
                      ana="a-s---nb-">magno</w>
@@ -14595,7 +14608,7 @@
                         lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
-                  </w>
+                  </w></phr>
                   <w n="46"
                      lemma="pectus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/116348"
@@ -14610,7 +14623,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/108034"
                      ana="v3spia---">inquit</w>
                   <pc n="7">,</pc>
-                  <w n="49"
+                  <phr ana="#bimembre #ALLITERATIO"><w n="49"
                      lemma="filius"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103307"
                      ana="n-p---mv-">filii</w>
@@ -14627,7 +14640,7 @@
                   <w n="51"
                      lemma="meus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112262"
-                     ana="a-p---mv-">mei</w>
+                     ana="a-p---mv-">mei</w></phr>
                   <pc n="8">,</pc>
                   <phr ana="#METAPHORA"><w n="52"
                      lemma="manus1"
@@ -14650,7 +14663,7 @@
                      lemma="aggravo"
                      ana="v--pnp---">aggrauari</w></phr>
                   <pc n="9">;</pc>
-                  <w n="57"
+                  <phr ana="#bimembre #sonus"><w n="57"
                      lemma="volo1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130745"
                      ana="v-spp-mn-">uolens</w>
@@ -14663,7 +14676,7 @@
                         lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
-                  </w>
+                  </w></phr>
                   <phr ana="#hyperbaton"><w n="59"
                      lemma="is"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109083"
@@ -14701,7 +14714,7 @@
                      lemma="ego"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100712"
                      ana="p-s---ma-">me</w>
-                  <phr ana="#ANAPHORA #SYNONYMIA"><w n="68"
+                  <phr ana="#ANAPHORA #SYNONYMIA #bimembre"><w n="68"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -14736,7 +14749,7 @@
                   <pc n="11">.</pc>
                </s>
                <s n="s5">
-                  <phr ana="#hyperbaton #METAPHORA"><w n="1"
+                  <phr ana="#comparatio"><phr ana="#hyperbaton #METAPHORA"><w n="1"
                      lemma="capio"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/92686"
                      ana="v1sria---">Cepi</w>
@@ -14787,7 +14800,7 @@
                   <w n="13"
                      lemma="possum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
-                     ana="v3sria---">potuit</w>
+                     ana="v3sria---">potuit</w></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s6">
@@ -14821,7 +14834,7 @@
                      lemma="ego"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100712"
                      ana="p-s---md-">mihi</w>
-                  <w n="8"
+                  <phr ana="#bimembre"><w n="8"
                      lemma="suspicio1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127130"
                      ana="v-srppnn-">suspectum</w>
@@ -14834,7 +14847,7 @@
                         lemma="que"
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131416"
                         ana="c--------">que</w>
-                  </w>
+                  </w></phr>
                   <w n="10"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
@@ -14854,7 +14867,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97287"
                      lemma="cupio"
                      ana="v1spsa---">cupiam</w>
-                  <w n="4"
+                  <phr ana="#bimembre"><w n="4"
                      lemma="dissolvo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99822"
                      ana="v--pnp---">dissolui</w></phr>
@@ -14873,7 +14886,7 @@
                   <w n="8"
                      lemma="Christus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/3086"
-                     ana="n-s---mb-">Christo</w>
+                     ana="n-s---mb-">Christo</w></phr>
                   <pc n="1">,</pc>
                   <phr ana="#METAPHORA"><w n="9"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130847"
@@ -14943,7 +14956,7 @@
                      lemma="tametsi"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129157"
                      ana="c--------">tametsi</w>
-                  <phr ana="#bimembre #homoioteleuton"><w n="11"
+                  <phr ana="#bimembre #homoioteleuton #sonus"><w n="11"
                      lemma="numquam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114084"
                      ana="d--------">nunquam</w>
@@ -14979,7 +14992,7 @@
                      lemma="nisi"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113704"
                      ana="c--------">nisi</w>
-                  <w n="3"
+                  <phr ana="#ALLITERATIO #sonus"><w n="3"
                      lemma="tantus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/127630"
                      ana="a-s---fb-">tanta</w>
@@ -14990,7 +15003,7 @@
                   <w n="5"
                      lemma="angustia"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89049"
-                     ana="n-s---fb-">angustia</w>
+                     ana="n-s---fb-">angustia</w></phr>
                   <w n="6"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/119765"
                      lemma="prohibeo"
@@ -15119,7 +15132,7 @@
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
-                  <phr ana="#dicolon #ANAPHORA #chiasmus #litotes"><w n="16"
+                  <phr ana="#bimembre #ANAPHORA #chiasmus #PARALLELISMUS"><w n="16"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -15174,7 +15187,7 @@
                      lemma="hic"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105455"
                      ana="p-p---na-">haec</w>
-                  <phr ana="#SYNONYMIA"><w n="3"
+                  <phr ana="#SYNONYMIA #dicolon"><w n="3"
                      lemma="compello1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95289"
                      ana="v3spia---">compellit</w>
@@ -15222,7 +15235,7 @@
                      lemma="tu"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/29131"
                      ana="p-p---ma-">uos</w>
-                  <phr ana="#SYNONYMIA"><w n="15"
+                  <phr ana="#SYNONYMIA #bimembre"><w n="15"
                      lemma="hortor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105727"
                      ana="v1spsd---">horter</w>
@@ -15238,7 +15251,7 @@
                      lemma="ne1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113491"
                      ana="c--------">ne</w>
-                  <phr ana="#SYNONYMIA #METAPHORA"><w n="19"
+                  <phr ana="#SYNONYMIA #METAPHORA #bimembre"><w n="19"
                      lemma="hic"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105455"
                      ana="p-s---mg-">huius</w>
@@ -15281,7 +15294,7 @@
                         lemmaRef="http://lila-erc.eu/data/id/lemma/131456"
                         ana="c--------">ue</w>
                   </w>
-                  <phr ana="#SYNONYMIA"><w n="28"
+                  <phr ana="#SYNONYMIA #bimembre"><w n="28"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -15322,7 +15335,7 @@
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-p---fn-">quae</w>
-                  <phr ana="#SYNONYMIA #ANAPHORA #dicolon #personificatio #METAPHORA"><w n="38"
+                  <phr ana="#SYNONYMIA #ANAPHORA #bimembre #personificatio #METAPHORA"><w n="38"
                      lemma="quam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/74492"
                      ana="d--------">quam</w>
@@ -15388,7 +15401,7 @@
                      lemma="quoniam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121289"
                      ana="c--------">quoniam</w>
-                  <phr ana="#METAPHORA"><w n="3"
+                  <phr ana="#METAPHORA #bimembre"><w n="3"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/120499"
                      lemma="pulvis"
                      ana="n-s---mn-">puluis</w>
@@ -15442,7 +15455,8 @@
                      lemma="ubi"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129639"
                      ana="c--------">ubi</w>
-                  <phr ana="#SYNONYMIA #ANAPHORA #dicolon"><w n="16"
+                  <phr ana="#ANTITHESIS #bimembre">
+                     <phr ana="#pleonasmus #SYNONYMIA #ANAPHORA #bimembre"><w n="16"
                      lemma="nihil"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114071"
                      ana="p-s---n--">nihil</w>
@@ -15451,7 +15465,7 @@
                      lemma="corruptibilis"
                      ana="a-s---nn-">corruptibile</w>
                   <pc n="3">,</pc>
-                  <phr ana="#pleonasmus"><w n="18"
+                  <w n="18"
                      lemma="nihil"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114071"
                      ana="p-s---n--">nihil</w>
@@ -15472,7 +15486,7 @@
                      lemma="sed"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/123994"
                      ana="c--------">sed</w>
-                  <phr ana="#dicolon #ANAPHORA #SYNONYMIA"><w n="23"
+                  <phr ana="#bimembre #ANAPHORA #SYNONYMIA"><w n="23"
                      lemma="omnis"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114954"
                      ana="a-p---nn-">omnia</w>
@@ -15496,7 +15510,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/119776"
                      lemma="proinde"
                      ana="d--------">Proinde</w>
-                  <phr ana="#chiasmus #pleonasmus"><w n="2"
+                  <phr ana="#chiasmus #pleonasmus #dicolon"><w n="2"
                      lemma="do"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99970"
                      ana="v2ppma---">date</w>
@@ -15531,7 +15545,7 @@
                   <pc n="1">.</pc>
                </s>
                <s n="s15">
-                  <phr ana="#chiasmus"><w n="1"
+                  <phr ana="#chiasmus #dicolon"><w n="1"
                      lemma="colo1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/94916"
                      ana="v2ppma---">Colite</w>
@@ -15556,7 +15570,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/123732"
                      lemma="scio"
                      ana="v-ppp-mn-">scientes</w>
-                  <w n="7"
+                  <phr ana="#METAPHORA"><w n="7"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/131027"
                      lemma="unusquisque"
                      ana="p-s---md-">unicuique</w>
@@ -15591,13 +15605,13 @@
                   <w n="15"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112100"
                      lemma="merces1"
-                     ana="n-s---fa-">mercedem</w>
+                     ana="n-s---fa-">mercedem</w></phr>
                   <pc n="2">;</pc>
                   <w n="16"
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---fn-">quae</w>
-                  <w n="17"
+                  <phr ana="#enthymema"><w n="17"
                      lemma="etiam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101554"
                      ana="c--------">etiam</w>
@@ -15639,7 +15653,7 @@
                      lemma="vivo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130476"
                      ana="v--rna---">uixisse</w>
-                  <w n="28"
+                  <phr ana="#METAPHORA"><w n="28"
                      lemma="magnus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111319"
                      ana="a-s---fns">maxima</w>
@@ -15662,7 +15676,7 @@
                   <w n="33"
                      lemma="debeo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97963"
-                     ana="v3spia---">debet</w>
+                     ana="v3spia---">debet</w></phr>
                   <pc n="4">,</pc>
                   <w n="34"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121267"
@@ -15676,7 +15690,7 @@
                      lemma="beneficium"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/91483"
                      ana="n-s---nb-">beneficio</w>
-                  <w n="37"
+                  <phr ana="#dicolon"><w n="37"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105624"
                      lemma="homo"
                      ana="n-p---mn-">homines</w>
@@ -15715,7 +15729,7 @@
                   <w n="46"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106440"
                      lemma="immortalitas"
-                     ana="n-s---fd-">immortalitati</w></phr>
+                     ana="n-s---fd-">immortalitati</w></phr></phr></phr>
                   <pc n="5">.</pc>
                </s>
             </p>
@@ -15802,7 +15816,7 @@
                   <pc n="3">.</pc>
                </s>
                <s n="s2">
-                  <w n="1"
+                  <phr ana="#litotes"><w n="1"
                      lemma="parve"
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/31133"
                      ana="d-------c">Minus</w>
@@ -15810,7 +15824,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121267"
                      lemma="quippe"
                      ana="d--------">quippe</w>
-                  <w n="3"
+                  <phr ana="#METONYMIA"><w n="3"
                      lemma="meus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112262"
                      ana="a-s---fg-">meae</w>
@@ -15821,20 +15835,20 @@
                   <w n="5"
                      lemma="possum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
-                     ana="v-spp-mn-">potens</w>
+                     ana="v-spp-mn-">potens</w></phr>
                   <w n="6"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
-                     ana="v1sria---">fui</w>
+                     ana="v1sria---">fui</w></phr>
                   <w n="7"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
-                  <w n="8"
+                  <phr ana="#litotes"><w n="8"
                      lemma="nonnumquam"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114156"
-                     ana="d--------">nonnunquam</w>
-                  <w n="9"
+                     ana="d--------">nonnunquam</w></phr>
+                  <phr ana="#bimembre #ANAPHORA"><w n="9"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/116111"
                      lemma="partim"
                      ana="d-------p">partim</w>
@@ -15854,7 +15868,7 @@
                   <w n="13"
                      lemma="vester"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130009"
-                     ana="a-p---fa-">uestras</w>
+                     ana="a-p---fa-">uestras</w></phr>
                   <w n="14"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
@@ -15878,7 +15892,7 @@
                      lemma="is"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/109083"
                      ana="p-p---mg-">eorum</w>
-                  <w n="3"
+                  <phr ana="#comparatio"><w n="3"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/131446"
                      lemma="tanto"
                      ana="d--------">tanto</w>
@@ -15901,15 +15915,15 @@
                   <w n="8"
                      lemma="misericordia"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/112460"
-                     ana="n-p---fg-">misericordiarum</w>
-                  <w n="9"
+                     ana="n-s---fa-">misericordiam</w>
+                  <phr ana="#ALLITERATIO"><w n="9"
                      lemma="consequor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/96035"
                      ana="v-sfpdmap">consecuturum</w>
                   <w n="10"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/95749"
                      lemma="confido"
-                     ana="v1spia---">confido</w>
+                     ana="v1spia---">confido</w></phr>
                   <w n="11"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/131414"
                      lemma="quanto"
@@ -15934,14 +15948,14 @@
                      lemma="ego"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100712"
                      ana="p-s---mb-">me</w>
-                  <w n="17"
+                  <phr ana="#ALLITERATIO"><w n="17"
                      lemma="dominus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/5227"
                      ana="n-s---ma-">Dominum</w>
                   <w n="18"
                      lemma="deprecor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/98779"
-                     ana="v2pfid---">deprecabimini</w>
+                     ana="v2pfid---">deprecabimini</w></phr></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s4">
@@ -15954,7 +15968,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/hypolemma/110467"
                      ana="d--------">quoque</w>
                   <pc n="1">,</pc>
-                  <phr ana="#hyperbaton"><w n="3"
+                  <phr ana="#hyperbaton #parenthesis"><w n="3"
                      lemma="siquis"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/127505"
                      ana="p-s---mn-">si quis</w>
@@ -16002,14 +16016,14 @@
                      lemma="vivo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130476"
                      ana="v2ppma---">Viuite</w>
-                  <w n="2"
+                  <phr ana="#ALLITERATIO"><w n="2"
                      lemma="ego"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100712"
                      ana="p-s---mg-">mei</w>
                   <w n="3"
                      lemma="memor1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/135857"
-                     ana="a-p---mn-">memores</w>
+                     ana="a-p---mn-">memores</w></phr>
                   <w n="4"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
@@ -16061,7 +16075,7 @@
             </p>
             <p n="p22" xml:id="modrusiensis-riario22morphlemma">
                <s n="s1">
-                  <w n="1"
+                  <phr ana="#bimembre #pleonasmus"><w n="1"
                      lemma="hic"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/105455"
                      ana="p-p---nb-">His</w>
@@ -16080,7 +16094,7 @@
                   <w n="5"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118148"
                      lemma="plerusque"
-                     ana="a-p---nbp">plerisque</w>
+                     ana="a-p---nbp">plerisque</w></phr>
                   <w n="6"
                      lemma="superus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126999"
@@ -16310,7 +16324,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/107649"
                      lemma="infero"
                      ana="v-srppna-">illatum</w>
-                  <w n="5"
+                  <phr ana="#bimembre"><w n="5"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113944"
                      lemma="nudo"
                      ana="v-srppnb-">nudato</w>
@@ -16321,16 +16335,16 @@
                   <w n="7"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/128357"
                      lemma="tollo"
-                     ana="v-srppnb-">sublato</w>
+                     ana="v-srppnb-">sublato</w></phr>
                   <pc n="1">,</pc>
-                  <w n="8"
+                  <phr ana="#parenthesis"><w n="8"
                      lemma="ut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130906"
                      ana="c--------">ut</w>
                   <w n="9"
                      lemma="possum"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/118569"
-                     ana="v3siia---">poterat</w>
+                     ana="v3siia---">poterat</w></phr>
                   <pc n="2">,</pc>
                   <w n="10"
                      lemma="caput"
@@ -16358,7 +16372,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/102017"
                      lemma="exhibeo"
                      ana="v-prppmb-">exhibitis</w>
-                  <w n="16"
+                  <phr ana="#bimembre"><w n="16"
                      lemma="manus1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111585"
                      ana="n-p---fb-">manibus</w>
@@ -16369,7 +16383,7 @@
                   <w n="18"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/117499"
                      lemma="pes"
-                     ana="n-p---mb-">pedibus</w>
+                     ana="n-p---mb-">pedibus</w></phr>
                   <w n="19"
                      lemma="rite"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/122117"
@@ -16472,14 +16486,15 @@
                      lemma="lux"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111048"
                      ana="n-s---fa-">lucem</w>
-                  <phr ana="#chiasmus"><w n="7"
+                  <phr ana="#chiasmus #dicolon #ANAPHORA">
+                     <phr ana="#ALLITERATIO"><w n="7"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/116111"
                      lemma="partim"
                      ana="d-------p">partim</w>
                   <w n="8"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/120248"
                      lemma="psalmus"
-                     ana="n-p---mn-">psalmi</w>
+                     ana="n-p---mn-">psalmi</w></phr>
                   <w n="9"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/97994"
                      lemma="decanto"
@@ -16516,7 +16531,7 @@
                      lemma="intendo"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/108382"
                      ana="v-srppmn-">intentus</w>
-                  <w n="16"
+                  <phr ana="#bimembre"><w n="16"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/90784"
                      lemma="auris"
                      ana="n-p---fb-">auribus</w>
@@ -16527,7 +16542,7 @@
                   <w n="18"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114716"
                      lemma="oculus"
-                     ana="n-p---mb-">oculis</w>
+                     ana="n-p---mb-">oculis</w></phr>
                   <w n="19"
                      lemma="in"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/106748"
@@ -16658,7 +16673,7 @@
                      lemma="anima"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/89075"
                      ana="n-s---fn-">anima</w>
-                  <w n="8"
+                  <phr ana="#comparatio"><w n="8"
                      lemma="velut"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/129732"
                      ana="d--------">ueluti</w>
@@ -16673,7 +16688,7 @@
                   <w n="11"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/124767"
                      lemma="signum"
-                     ana="n-s---nb-">signo</w>
+                     ana="n-s---nb-">signo</w></phr>
                   <w n="12"
                      lemma="ad"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/87344"
@@ -16703,7 +16718,7 @@
                      lemma="o"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114172"
                      ana="e--------">O</w>
-                  <phr ana="#epanalepsis"><w n="2"
+                  <phr ana="#epanalepsis #DIACOPE"><w n="2"
                      lemma="felix1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/103068"
                      ana="a-s---mv-">felix</w>
@@ -16723,7 +16738,7 @@
                      lemma="qui2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121354"
                      ana="p-s---md-">cui</w>
-                  <phr ana="#chiasmus"><w n="7"
+                  <phr ana="#chiasmus #PARALLELISMUS #ANAPHORA"><w n="7"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -16836,7 +16851,9 @@
                      lemma="compleo"
                      ana="v3sria---">compleuit</w></phr>
                   <pc n="2">;</pc>
-                  <phr ana="#litotes"><phr ana="#ANAPHORA #bimembre"><w n="16"
+                  <phr ana="#comparatio">
+                     <phr ana="#litotes">
+                        <phr ana="#ANAPHORA #bimembre"><w n="16"
                      lemma="neque"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114120"
                      ana="c--------">nec</w>
@@ -16905,7 +16922,7 @@
                   <w n="32"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
-                     ana="v3spia---">est</w>
+                     ana="v3spia---">est</w></phr>
                   <pc n="5">.</pc>
                </s>
                <s n="s3">
@@ -16942,7 +16959,7 @@
                      lemma="magnus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/111319"
                      ana="a-s---nd-">magno</w>
-                  <w n="9"
+                  <phr ana="#bimembre"><w n="9"
                      lemma="et"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
                      ana="c--------">et</w>
@@ -16957,7 +16974,7 @@
                   <w n="12"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/130918"
                      lemma="utilitas"
-                     ana="n-s---fd-">utilitati</w>
+                     ana="n-s---fd-">utilitati</w></phr>
                   <pc n="2">.</pc>
                </s>
                <s n="s4">
@@ -16965,7 +16982,7 @@
                      lemma="sed"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/123994"
                      ana="c--------">Sed</w>
-                  <w n="2"
+                  <phr ana="#argumentum #enthymema"><w n="2"
                      lemma="non"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/114108"
                      ana="d--------">non</w>
@@ -17004,11 +17021,11 @@
                   <w n="11"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/107046"
                      lemma="incommodum"
-                     ana="n-p---nb-">incommodis</w></phr></phr>
+                     ana="n-p---nb-">incommodis</w></phr></phr></phr>
                   <pc n="1">.</pc>
                </s>
                <s n="s5">
-                  <phr ana="#epanalepsis"><w n="1"
+                  <phr ana="#epanalepsis #distinctio"><w n="1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/121322"
                      lemma="quisquis"
                      ana="p-s---na-">Quicquid</w>
@@ -17017,7 +17034,7 @@
                      lemma="supervivo"
                      ana="v3slsa---">superuixisset</w>
                   <pc n="1">,</pc>
-                  <phr ana="#hyperbaton"><w n="3"
+                  <phr ana="#hyperbaton #bimembre"><w n="3"
                      lemma="dolor"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/100034"
                      ana="n-p---md-">doloribus</w>
@@ -17063,7 +17080,7 @@
                      lemma="subduco"
                      ana="v3sria---">subduxit</w>
                   <pc n="3">,</pc>
-                  <w n="14"
+                  <phr ana="#bimembre"><w n="14"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/104869"
                      lemma="gratia"
                      ana="n-p---fa-">gratias</w>
@@ -17082,8 +17099,8 @@
                   <w n="18"
                      lemma="dico2"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/99302"
-                     ana="v1ppsa---">dicamus</w>
-                  <phr ana="#ANAPHORA"><w n="19"
+                     ana="v1ppsa---">dicamus</w></phr>
+                  <phr ana="#ANAPHORA #ANTITHESIS"><w n="19"
                      lemma="dominus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/5227"
                      ana="n-s---mn-">Dominus</w>
@@ -17101,7 +17118,7 @@
                      lemmaRef="http://lila-erc.eu/data/id/lemma/90671"
                      ana="v3sria---">abstulit</w></phr>
                   <pc n="5">;</pc>
-                  <w n="23"
+                  <phr ana="#comparatio"><w n="23"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/124723"
                      lemma="sicut"
                      ana="c--------">sicut</w>
@@ -17125,20 +17142,20 @@
                   <w n="28"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
-                     ana="v3spia---">est</w>
+                     ana="v3spia---">est</w></phr>
                   <pc n="7">;</pc>
                   <phr ana="#hyperbaton"><w n="29"
                      lemma="sum1"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/126689"
                      ana="v3spsa---">sit</w>
-                  <w n="30"
+                  <phr ana="#synecdocha"><w n="30"
                      lemma="nomen"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/113797"
                      ana="n-s---nn-">nomen</w>
                   <w n="31"
                      lemma="dominus"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/5227"
-                     ana="n-s---mg-">Domini</w>
+                     ana="n-s---mg-">Domini</w></phr>
                   <w n="32"
                      lemmaRef="http://lila-erc.eu/data/id/lemma/92087"
                      lemma="benedico"
@@ -17423,28 +17440,38 @@
            <interp n="interp4" xml:id="ANTITHESIS">Figura antithesis</interp>
            <interp n="interp5" xml:id="ALLITERATIO">Figura alliteratio</interp>
            <interp n="interp6" xml:id="APOSTROPHE">Figura apostrophe</interp>
-           <interp n="interp6a" xml:id="asyndeton">Figura asyndeton</interp>
-           <interp n="interp6b" xml:id="bimembre">Colon bimembre</interp>
+           <interp n="interp6a" xml:id="argumentum">Argumentum (quod probatione non eget)</interp>
+           <interp n="interp6b" xml:id="asyndeton">Figura asyndeton</interp>
+           <interp n="interp6c" xml:id="auctoritas">Exemplum auctoritatis</interp>
+           <interp n="interp6d" xml:id="aversio">Aversio a proposito abducit audientem</interp>
+           <interp n="interp6e" xml:id="bimembre">Phrasis bimembris, duo commata continens</interp>
            <interp n="interp7" xml:id="COACERVATIO">Figura coacervatio</interp>
            <interp n="interp7a" xml:id="comparatio">Comparatio (gradus)</interp>
-           <interp n="interp7b" xml:id="chiasmus">Figura chiasmus</interp>
+           <interp n="interp7b" xml:id="correctio">Correctio (propositi)</interp>
+           <interp n="interp7c" xml:id="chiasmus">Figura chiasmus</interp>
            <interp n="interp8" xml:id="DIACOPE">Figura diacope (repetitio cum singulo verbo interposito)</interp>
            <interp n="interp8a" xml:id="deminutiva">Deminutiva</interp>
            <interp n="interp8b" xml:id="dicolon">Figura dicolon</interp>
-           <interp n="interp8c" xml:id="epanalepsis">Figura epanalepsis</interp>
-           <interp n="interp8d" xml:id="epistrophe">Figura epistrophe</interp>
+           <interp n="interp8c" xml:id="distinctio">Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</interp>
+           <interp n="interp8d" xml:id="enthymema">Enthymema</interp>
+           <interp n="interp8e" xml:id="epanalepsis">Figura epanalepsis</interp>
+           <interp n="interp8f" xml:id="epistrophe">Figura epistrophe</interp>
            <interp n="interp9" xml:id="EPITHETON-ORNANS">Figura epitheton ornans</interp>
            <interp n="interp10" xml:id="EXCLAMATIO">Figura exclamatio</interp>
-           <interp n="interp11" xml:id="GRADATIO">Figura gradatio</interp>
-           <interp n="interp11a" xml:id="homoioteleuton">Figura homoioteleuton</interp>
+           <interp n="interp10a" xml:id="exemplum">Figura exemplum</interp>
+           <interp n="interp11" xml:id="hendiadyoin">Figura hendiadyoin</interp>
+           <interp n="interp11a" xml:id="GRADATIO">Figura gradatio</interp>
+           <interp n="interp11b" xml:id="homoioteleuton">Figura homoioteleuton</interp>
            <interp n="interp12" xml:id="HYPERBOLE">Figura hyperbole</interp>
            <interp n="interp12a" xml:id="hyperbaton">Figura hyperbaton</interp>
-           <interp n="interp12b" xml:id="litotes">Figura litotes</interp>
+           <interp n="interp12b" xml:id="interrogatio">Figura interrogatio</interp>
+           <interp n="interp12c" xml:id="litotes">Figura litotes</interp>
            <interp n="interp13" xml:id="PARONOMASIA">Figura paronomasia (sonat similiter)</interp>
            <interp n="interp14" xml:id="POLYPTOTON">Figura polyptoton</interp>
            <interp n="interp15" xml:id="SIMILE">Figura simile</interp>
            <interp n="interp16" xml:id="TRICOLON-CRESCENS">Figura tricolon crescens</interp>
            <interp n="interp17" xml:id="TRICOLON-CRESCENS-GRADATIO">Figura tricolon crescens cum gradatione</interp>
+           <interp n="interp17a" xml:id="trimembre">Phrasis trimembris, tria commata contines</interp>
            <interp n="interp18" xml:id="TETRACOLON">Figura tetracolon</interp>
            <interp n="interp19" xml:id="TETRACOLON-CHIASMUS">Figura tetracolon cum chiasmo</interp>
            <interp n="interp20" xml:id="TETRACOLON-CRESCENS">Figura tetracolon crescens</interp>
@@ -17459,14 +17486,20 @@
            <interp n="interp27" xml:id="PARALLELISMUS-CRESCENS">Figura parallelismus crescens</interp>
            <interp n="interp28" xml:id="PARALLELISMUS-POLYPTOTON">Figura parallelismus cum polyptoto</interp>
            <interp n="interp28a" xml:id="parenthesis">Figura parenthesis</interp>
-           <interp n="interp28b" xml:id="personificatio">Figura personificatio</interp>
-           <interp n="interp28c" xml:id="pleonasmus">Figura pleonasmus</interp>
-           <interp n="interp28d" xml:id="poetice">Modus poeticus</interp>
-           <interp n="interp28e" xml:id="probatio-testes">Probatio per testes</interp>
-           <interp n="interp28f" xml:id="sonus">Verba simile sonantia (Klangfiguren)</interp>
+           <interp n="interp28b" xml:id="percursio">Percursio: paucis comprehensa brevitas, multarum rerum expeditio</interp>
+           <interp n="interp28c" xml:id="personificatio">Figura personificatio</interp>
+           <interp n="interp28d" xml:id="pleonasmus">Figura pleonasmus</interp>
+           <interp n="interp28e" xml:id="poetice">Modus poeticus</interp>
+           <interp n="interp28f" xml:id="praeteritio">Figura praeteritio</interp>
+           <interp n="interp28f" xml:id="probatio-signum">Probatio per signa</interp>
+           <interp n="interp28g" xml:id="probatio-testes">Probatio per testes</interp>
+           <interp n="interp28h" xml:id="refutatio">Refutatio</interp>
+           <interp n="interp28i" xml:id="refutatio-testes">Refutatio per testes</interp>
+           <interp n="interp28j" xml:id="sonus">Verba simile sonantia (Klangfiguren)</interp>
            <interp n="interp29" xml:id="SYNONYMIA">Figura synonymia (idem repetitur aliis verbis)</interp>
            <interp n="interp30" xml:id="SYNONYMIA-PARALLELISMUS">Figura synonymia cum parallelismo ordinis verborum</interp>
            <interp n="interp30" xml:id="synecdocha">Figura synecdocha</interp>
+           <interp n="interp31" xml:id="transitio">Transitio ostendit breviter quid actum sit, proponit item brevi quid consequatur</interp>
         </interpGrp>
      </back>
   </text>
