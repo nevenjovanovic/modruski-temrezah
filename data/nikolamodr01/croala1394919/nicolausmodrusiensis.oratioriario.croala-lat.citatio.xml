@@ -1,8 +1,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <fileDesc xml:id="modr-n-oratio-riar">
+       <fileDesc xml:id="nicolausmodrusiensis.oratioriario.croala-lat.citatio">
          <titleStmt>
-            <title>Oratio in funere Petri Riarii, versio electronica</title>
+            <title>Oratio in funere Petri Riarii (1474) cum notatis fontibus, versio electronica</title>
             <author ref="nikolamodr01">
                <persName xml:lang="hr">Nikola Modruški</persName>
                <date>c. 1427-1480</date>
@@ -79,7 +79,12 @@
       </encodingDesc>
       <profileDesc>
          <abstract>
-            <p/>
+             <p>Editio critica correcta orationis in funere Petri Riarii, cardinalis S. Sixti (Romae 1474). 
+                 Edidit Neven Jovanović.
+                 Editor addidit notas cum citationibus et fontibus (quote, note).
+                 Editor divisit orationem in paragraphos (p).
+                 
+             </p>
          </abstract>
          <settingDesc>
             <p/>
@@ -119,7 +124,7 @@
          </change>
       </revisionDesc>
    </teiHeader>
-   <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1.quote:" xml:lang="lat" type="prosa-oratio">
+   <text xml:base="urn:cts:croala:nicolausmodrusiensis.oratioriario.croala-lat.citatio:" xml:lang="lat" type="prosa-oratio">
         <body n="body1">
 
             <!-- 2 -->

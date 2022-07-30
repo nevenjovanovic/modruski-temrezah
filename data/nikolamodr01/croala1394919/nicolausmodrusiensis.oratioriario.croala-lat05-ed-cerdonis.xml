@@ -1,8 +1,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
-                <fileDesc xml:id="nikolamodr01.croala1394919.croala-lat5.ed-cerdonis">
+                <fileDesc xml:id="nicolausmodrusiensis.oratioriario.croala-lat05-ed-cerdonis">
                         <titleStmt>
-                                <title>Oratio in funere Petri Riarii (ed. M. Cerdonis 1482), versio
+                                <title>Oratio in funere Petri Riarii (ed. M. Cerdonis, Patavii 1482), versio
                                         electronica</title>
                                 <author ref="nikolamodr01">
                                         <persName xml:lang="hr">Nikola Modruški</persName>
@@ -76,7 +76,14 @@
                 </encodingDesc>
                 <profileDesc>
                         <abstract>
-                                <p/>
+                                <p>Transcriptio orationis in funere Petri Riarii, cardinalis S. Sixti (Patavii, Cerdonis 1482). 
+                                        Transcriptum ex exemplari Monacensi (Bayerische Staatsbibliothek).
+                                        Transcripsit Neven Jovanović.
+                                        In transcribendo divisum in verba et signa interpungendi.
+                                        Lectiones commentatae (sic, orig).
+                                        Fines versuum notati (lb).
+                                        Fines paginarum notati (pb).
+                                </p>
                         </abstract>
                         <settingDesc>
                                 <p/>
@@ -114,7 +121,7 @@
                                 Označeni krajevi redaka. Segmentirano u riječi. </change>
                 </revisionDesc>
         </teiHeader>
-        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat5.ed-cerdonis:" xml:lang="lat" type="prosa-oratio">
+        <text xml:base="urn:cts:croala:nicolausmodrusiensis.oratioriario.croala-lat05-ed-cerdonis:" xml:lang="lat" type="prosa-oratio">
                 <body n="body1">
                         <head n="head1">
                                 <pb n="pb1"/>

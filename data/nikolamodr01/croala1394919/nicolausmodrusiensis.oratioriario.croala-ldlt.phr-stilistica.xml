@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <fileDesc xml:id="nicolausmodrusiensis.oratioriario.croala-ldlt.verba.stilistica">
+      <fileDesc xml:id="nicolausmodrusiensis.oratioriario.croala-ldlt.phr-stilistica">
          <titleStmt>
-            <title>Oratio in funere Petri Riarii, verba cum lemmatibus et rhetoricis annotationibus, versio electronica</title>
+            <title>Oratio in funere Petri Riarii, cum phrasis stilistice annotatis, versio electronica</title>
             <author ref="nikolamodr01">
                <persName xml:lang="hr">Nikola Modruški</persName>
                <date>c. 1427-1480</date>
@@ -39,7 +39,14 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-            <p/>
+            <p>Editio critica correcta orationis in funere Petri Riarii, cardinalis S. Sixti (Romae 1474). 
+               Edidit Neven Jovanović
+               Editor addidit argumenta in p/@ana, s/@ana.
+               Editor addidit annotationes stilisticas in phr/@ana.
+               Tabula annotationum in back/interpGrp/@type=stilistica.
+               Tabula argumentorum in back/interpGrp/@type=argumentum.
+            
+            </p>
          </abstract>
          <settingDesc>
             <p/>
@@ -101,7 +108,7 @@
       </revisionDesc>
    </teiHeader>
    <text type="prosa-oratio"
-      xml:base="urn:cts:croala:nicolausmodrusiensis.oratioriario.croala-ldlt.verba.stilistica:"
+      xml:base="urn:cts:croala:nicolausmodrusiensis.oratioriario.croala-ldlt.phr-stilistica:"
       xml:lang="lat">
       <body n="body1">
          <div type="textpart" n="1" xml:id="part1">

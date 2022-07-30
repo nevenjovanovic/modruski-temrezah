@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
-                <fileDesc xml:id="nikolamodr01.croala1394919.croala-lat10.ms-clm461">
+                <fileDesc xml:id="nicolausmodrusiensis.oratioriario.croala-lat10-ms-clm461">
                         <titleStmt>
                                 <title>Oratio in funere Petri Riarii (e ms. CLM 461), versio
                                         electronica</title>
@@ -36,6 +36,7 @@
                         <sourceDesc>
                                 <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
                                 <bibl>CLM 461
+                                        <ref target="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00124265-8">BSB imagines digitales p. 129r-138r</ref>
                                 </bibl>
                         </sourceDesc>
                 </fileDesc>
@@ -70,7 +71,14 @@
                 </encodingDesc>
                 <profileDesc>
                         <abstract>
-                                <p/>
+                                <p>Transcriptio orationis in funere Petri Riarii, cardinalis S. Sixti (MS Monacensis CLM 461).
+                                        Transcripsit ex imaginibus digitalibus Neven Jovanović.
+                                        In transcriptione divisum in verba et signa interpungendi.
+                                        Lectiones commentatae (sic, orig).
+                                        Verba abbreviata explicata (expan).
+                                        Fines versuum notati (lb).
+                                        Fines paginarum notati (pb).
+                                </p>
                         </abstract>
                         <settingDesc>
                                 <p/>
@@ -108,7 +116,7 @@
                                 krajevi redaka. Segmentirano u riječi. </change>
                 </revisionDesc>
         </teiHeader>
-        <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat10.ms-clm461:" xml:lang="lat" type="prosa-oratio">
+        <text xml:base="urn:cts:croala:nicolausmodrusiensis.oratioriario.croala-lat10-ms-clm461:" xml:lang="lat" type="prosa-oratio">
                 <body n="body1">
                         <head n="head1">
                                 <pb n="pb1"/>
