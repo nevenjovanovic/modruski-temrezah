@@ -1,0 +1,2523 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="nicolausmodrusiensis.oratioriario.croala-ldlt">
+      <titleStmt>
+         <title>Oratio in funere Petri Riarii, versio electronica</title>
+         <author><persName xml:lang="hr">Nikola Modruški</persName>
+            <date>c. 1427-1480</date></author>
+         <editor><persName>
+            <ref type="viaf" target="6913774">Neven Jovanović</ref>
+         </persName></editor>
+      </titleStmt>
+      <editionStmt>
+         <edition>Editio altera electronica critica</edition>
+      </editionStmt>
+      <publicationStmt>
+         <publisher>Renaissance Society of America</publisher>
+         <distributor>Digital Latin Library</distributor>
+         <date>2020</date>
+         <availability>
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0
+               International License.</licence>
+         </availability>
+      </publicationStmt>
+      <seriesStmt>
+         <title level="s">Library of Digital Latin Texts</title>
+         <biblScope unit="vol">1</biblScope>
+      </seriesStmt>
+      <sourceDesc>
+         <p>Born digital.</p>
+      </sourceDesc>
+      </fileDesc>
+      
+                  
+   </teiHeader>
+   <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1:" xml:lang="lat" type="prosa-oratio">
+      <front xml:id="front">
+         <div type="section" xml:id="preface">
+            <head>Praefatio</head>
+            <p>TBA.</p>
+            <div type="section"
+               xml:id="preface-section-1">
+               <head>Fontes lectionum</head>
+               <p>
+                  Oratio Nicolai episcopi Modrusiensis in funere Petri Riarii ante annum 1500. septies prelo commissa est; praeter libros impressos ad nos venerunt etiam sex codices manu scripti, omnes contemporanei; quorundam archetypa impressa erant. Nullus codex autographus sive ab auctore emendatus hodie exstat. Suggerunt cum ipsius orationis argumentum, tum vitae impressorum eius, libros typis exscriptos in lucem fuisse editos ante papae Sixti IV mortem (die 12 Augusti, anno 1484). <!-- Jovanović 2018 -->
+               </p>
+               <p>Hic primum libros typis editos, deinde codices manu scriptos breviter designabimus.</p>
+               <div type="subsection"
+                  xml:id="preface-subsection-1">
+                  <head>Libri impressi</head>
+                  <p>Numerus post siglum GW notam in collectione <orgName ref="http://www.wikidata.org/entity/Q1421256">Gesamtkatalog der Wiegendrucke</orgName> designat.</p><!-- GW -->
+                  <listWit>
+                     <witness xml:id="V">
+                        <abbr type="siglum">V</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>In domo Antonii et Raphaelis de Vulterris</publisher>,
+                           <date>[1474]</date></bibl>.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26710.htm">GW M26710</ref>. Fratres de Vulterris libros excudebant annis 1472–1474.
+                        <ref type="url" target="http://digital.wlb-stuttgart.de/purl/bsz348289790">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q317950">Württembergische Landesbibliothek Stuttgart</orgName></ref>
+                     </witness>
+                     <witness xml:id="Ge">
+                        <abbr type="siglum">Ge</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>Johannes Gensberg</publisher>,
+                           <date>[1474]</date></bibl>.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26707.htm">GW M26707</ref>. Johannes Gensberg libros excudebat 1473–1474.
+                        <ref type="url" target="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00063779-4">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q256507">Bayerische Staatsbibliothek München</orgName></ref>
+                     </witness>
+                     <witness xml:id="R">
+                        <abbr type="siglum">R</abbr>
+                        <bibl>
+                           <pubPlace>Rostochii</pubPlace>:
+                           <publisher>Fratres Domus Horti Viridis ad S. Michaelem</publisher>,
+                           <date>[1474]</date></bibl>.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26712.htm">GW M26712</ref>. Fratres Domus Horti Viridis ad S. Michaelem libros excudebant 1476–1531.
+                        <ref type="url" target="https://soeg.kb.dk/permalink/45KBDK_KGL/1pioq0f/alma99122732114905763">Facsimile exemplaris <orgName ref="http://www.wikidata.org/entity/Q867885">Det Kgl. Bibliotek, Copenhagen</orgName></ref>
+                     </witness>
+                     <witness xml:id="C">
+                        <abbr type="siglum">C</abbr>
+                        <bibl>
+                           <pubPlace>Paduae</pubPlace>:
+                           <publisher>Matthaeus Cerdonis</publisher>,
+                           <date>die 30. Augusti 1482</date></bibl>.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26706.htm">GW M26706</ref>. Matthaeus Cerdonis libros excudebat 1482–1487.
+                        <ref type="url" target="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00067886-4">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q256507">Bayerische Staatsbibliothek München</orgName></ref>
+                     </witness>
+                     <witness xml:id="P">
+                        <abbr type="siglum">P</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>Stephanus Plannck</publisher>,
+                           <date>[1482]</date></bibl>.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26709.htm">GW M26709</ref>. Stephanus Plannck libros excudebat 1479–1501.
+                        <ref type="url" target="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00063782-7">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q256507">Bayerische Staatsbibliothek München</orgName></ref>
+                     </witness>
+                     <witness xml:id="Gd">
+                        <abbr type="siglum">Gd</abbr>
+                        <bibl>
+                           <pubPlace>Romae</pubPlace>:
+                           <publisher>Bartholomaeus Guldinbeck</publisher>,
+                           <date>[1482]</date></bibl>.
+                        <ref type="url" target="http://gesamtkatalogderwiegendrucke.de/docs/M26708.htm">GW M26708</ref>. Bartholomaeus Guldinbeck libros excudebat 1475–1488.
+                        <ref type="url" target="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb00063784-8">Facsimile exemplaris, <orgName ref="http://www.wikidata.org/entity/Q256507">Bayerische Staatsbibliothek München</orgName></ref>
+                     </witness>
+                  </listWit>
+                  <p>Impressores orationis Nicolai plerique breviores et occasioni accomodatos libros edebant; plerique etiam brevi tantum tempore negotium edendi gerebant (non ultra quinque annis fratres de Vulterris, Gensberg, Cerdonis). Antonius de Vulterris impressor familiaris erat gentis Riariorum, sicut et ipse Nicolaus episcopus Modrusiensis; ea de causa probabile videtur editionem principem orationis in funere Petri Riarii apud fratres de Vulterris typis editam esse. <!-- Farenga 1986 Na vezu tiskara i urotnika upozorila je Farenga, n. dj, 214, bilj. 95. --></p>
+               </div>
+               <div type="subsection"
+                  xml:id="preface-subsection-2">
+                  <head>Codices</head>
+                  <listWit>
+                     <witness xml:id="ve">
+                        <abbr type="siglum">ve</abbr>
+                        <name>Codex Venetus bibliothecae Marcianae; Marc. Lat. cl. XIV, 180
+                           (4667)</name>, <date>saec. XV</date>, ff. 9r–19v.</witness>
+                     <witness xml:id="va">
+                        <abbr type="siglum">va</abbr>
+                        <name>Codex Vaticanus Bibliothecae apostolicae Vaticanae; Vat. lat.
+                           8750</name>, <date>saec. XV desinente – saec. XVI incipiente</date>, ff.
+                        205r–212v. In hoc codice descripta est etiam oratio Nicolai Perotti
+                        (1429–1480) in funere eiusdem cardinalis Riarii (ff. 162r–172v).</witness>
+                     <witness xml:id="co">
+                        <abbr type="siglum">co</abbr>
+                        <name>Codex Romanus Bibliothecae Corsinianae; Accademia Nazionale dei Lincei, Biblioteca dell'Accademia dei Lincei e Corsiniana, fondo principale, cart. misc., Corsin. 583 (45 C 18)</name>, <date>saec. XV</date>, ff. 117r–123r. Descriptus a Tommaso Baldinotti (Pistoia, 1451–1511), ut reperit Petrucci 1956. Codex continet alias orationes apud Sixtum IV, unam Naldi Naldi (1436 – post 1513), ff. 113v–116v et alteram Donati Accaiuoli (1429–1478), ff. 123v–125v.
+                     </witness>
+                     <witness xml:id="pa">
+                        <abbr type="siglum">pa</abbr>
+                        <name>Codex Panormitanus, Biblioteca centrale della Regione siciliana, I.B.6</name>, <date>saec. XV</date>. Tempus scribendi in catalogo ab ipsa oratione Nicolai definitum est.</witness>
+                     <witness xml:id="m">
+                        <abbr type="siglum">m</abbr>
+                        <name>Codex Monacensis , Bayerische Staatsbibliothek; CLM 461</name>, <date>saec. XV desinente – saec. XVI incipiente</date>; ff.~129r–138r. Codex manu Hartmanni Schedel (1440–1514) exaratus est, opere ibidem recentissimo anno 1492 concinnato. Insunt in codice plures apud Sixtum IV orationes et orationes in funeribus cardinalium, auctoribus Bernardi Iustiniani (1408–1489), Ladislai Vetesii (n. circa 1460), Lodovici Imolensis (floruit 1462–1479) in funere Petri Ferrici (m. 1478), oratio anonymi in funere cardinalis Spoletani et oratio Johannis Antonii episcopi S. Palatii auditoris (Gianantonio de San Giorgio, 1439–1509) in exsequiis Cardinalis Tornacensis (Ferri de Clugny) habita a. 1483.
+                     </witness>
+                     <witness xml:id="o">
+                        <abbr type="siglum">o</abbr>
+                        <name>Codex Olomoucensis, Olomouc, Vědecká knihovna; Textus uarii; Historia Bohemica; M I 159</name>, <date>circa 1476–1480</date>, Litomericii scriptus, ff. 170r–174v.
+                     </witness><!-- Truhlář 1892 -->
+                  </listWit>
+               </div>
+            </div>
+            <div type="section"
+               xml:id="preface-section-2">
+               <head>Orationis conspectus</head>
+               <interpGrp n="interpGrp1">
+                  <interp n="interp1" xml:id="PROOEMIUM" corresp="#modrusiensis-riario01">Prooemium</interp>
+                  <interp n="interp1a" xml:id="PROOEMIUM-IACTURA" corresp="#modrusiensis-riario02">Prooemium: luctus iacturae, laudatio mortui</interp>
+                  <interp n="interp2" xml:id="NARRATIO" corresp="#modrusiensis-riario03">Narratio</interp>
+                  <interp n="interp3" xml:id="NARRATIO-PATRIA" corresp="#modrusiensis-riario03">Narratio: patria, gloria, virtutum ordo</interp>
+                  <interp n="interp4" xml:id="NARRATIO-PIETAS-PUERITIA" corresp="#modrusiensis-riario04">Narratio: pietas et religio in pueritia; cum avunculo primus congressus; tirocinium Franciscanum; studia; prudentia: scientiarum notitia, memoria, ingenii acumen</interp>
+                  <interp n="interp5" xml:id="NARRATIO-REDITUS-DIVINITAS" corresp="#modrusiensis-riario05">Narratio: reditus ad avunculum; providentia: praesaga divinitas futurorum; Romam profectus; Sixti pontificatus; Petri cardinalatus</interp>
+                  <interp n="interp6" xml:id="NARRATIO-OFFICIUM-MAGNIFICENTIA" corresp="#modrusiensis-riario06">Narratio: Petrus in officio cardinalis; magnificentia non sibi, sed pontificibus; opes et contemptus earum</interp>
+                  <interp n="interp7" xml:id="NARRATIO-OFFICIUM-MAGNANIMITAS" corresp="#modrusiensis-riario07">Narratio: officium - negotia, magnanimitas, benevolentia</interp>
+                  <interp n="interp8" xml:id="NARRATIO-OFFICIUM-HONESTAS" corresp="#modrusiensis-riario08">Narratio: officium - honestas, munificentia</interp>
+                  <interp n="interp9" xml:id="NARRATIO-CURIA" corresp="#modrusiensis-riario09">Narratio: curia</interp>
+                  <interp n="interp10" xml:id="NARRATIO-MUNERA" corresp="#modrusiensis-riario10">Narratio: munera, officiorum vicissitudo</interp>
+                  <interp n="interp11" xml:id="NARRATIO-ACCUSATIO" corresp="#modrusiensis-riario11">Narratio: accusationes Simoniae</interp>
+                  <interp n="interp12" xml:id="INVECTIVA-INVIDI-HYPOSTROPHE" corresp="#modrusiensis-riario12">Invehit in invidos; in hypostropha redit ad argumentum</interp>
+                  <interp n="interp13" xml:id="NARRATIO-PRUDENTIA-LEGATIO" corresp="#modrusiensis-riario13">Narratio: prudentia inter principes Christianos, in legatione Italica</interp>
+                  <interp n="interp14" xml:id="NARRATIO-PRUDENTIA-CONTEMPLATIO" corresp="#modrusiensis-riario14">Narratio: prudentia in contemplatione pacis Italiae; rei publicae curae praecipua Petri voluptas; iniustae accusationes negligentiae et superbiae</interp>
+                  <interp n="interp15" xml:id="NARRATIO-MODERATIO"  corresp="#modrusiensis-riario15">Narratio: animi moderatio</interp>
+                  <interp n="interp16" xml:id="NARRATIO-MODERATIO-VIGILIA-IMOLA" corresp="#modrusiensis-riario16">Narratio: moderatio cibi vinique, vigilia, in cognatos parcus erat; Imolae restitutio munifica</interp>
+                  <interp n="interp17" xml:id="NARRATIO-IUSTITIA" corresp="#modrusiensis-riario17">Narratio: iustitia in Imola restituenda; iustitia et commendationes apud magistratus; rescripta sanctissima; testamentum non conditum</interp>
+                  <interp n="interp18" xml:id="PRAETERMISSIO" corresp="#modrusiensis-riario18">Praetermissio. Pietas in pontificem</interp>
+                  <interp n="interp19" xml:id="NARRATIO-ECCLESIAE" corresp="#modrusiensis-riario19">Narratio: pietas in ecclesiis restituendis, munificentia in ecclesiis exornandis; mors Petri praemium</interp>
+                  <interp n="interp20" xml:id="NARRATIO-MORS" corresp="#modrusiensis-riario20">Narratio: mors</interp>
+                  <interp n="interp20a" xml:id="NARRATIO-MORS-ORATIO" corresp="#modrusiensis-riario20">Mortis intrepida expectatio, confessio; ultima oratio ad domesticos: constantia, excusatio, voluntas ultima, adhortatio ad virtutem et pietatem</interp>
+                  <interp n="interp21" xml:id="NARRATIO-MORS-PAENITENTIA" corresp="#modrusiensis-riario21">Ultima oratio: paenitentia; misericordiae expectatio; caduca huius mundi felicitas</interp>
+                  <interp n="interp22" xml:id="MORS-HORA" corresp="#modrusiensis-riario22">Hora mortis; sacra unctio; recitatio psalmorum et Evangelii; punctum mortis</interp>
+                  <interp n="interp23" xml:id="LAUDATIO-CONSOLATIO" corresp="#modrusiensis-riario23">Mortis felicitas; laudatio mortui; consolatio amicorum viventium; oratio brevissima verbis Iob</interp>
+               </interpGrp>
+            </div>
+         </div>
+         <div type="section" xml:id="bibliography">
+            <head>Conspectus librorum</head>
+            <!--This is where the bibliography for the edition is listed, including manuscript
+                                        descriptions, and lists of early editions, modern editions, and other sources cited
+                                        in the current edition. For more information on encoding the items in the bibliography
+                                        see "Bibliography" below. -->
+            <p>Mladen Bošnjak, »Dvije značajne hrvatske knjižice«, Hrvatska revija: Jubilarni zbornik 1951–1975, Knjižnica Hrvatske revije, Barcelona, 1976, 590–598</p>
+            <p>Mladen Bošnjak, »Zwei unbekannte Inkunabelausgaben«, Beiträge zur Inkunabelkunde 3 (1983), 8, 91–93.</p>
+            <p>Paola Farenga, »’Monumenta memoriae’ – Pietro Riario fra mito e storia«, in Massimo Miglio, Francesca Niutta, Diego Quaglioni, Concetta Ranieri (ed.), Un pontificato ed una città – Sisto IV (1471–1484), Associazione Roma nel Rinascimento, Città del Vaticano, 1986, 179–216.</p>
+            <p>Staatsbibliothek zu Berlin, Gesamtkatalog der Wiegendrucke / Inkunabelsammlung, www.gesamtkatalogderwiegendrucke.de/. In rete accessi 29. Novembris 2019.</p>
+            <p>Neven Jovanović, »Nadgrobni govor Nikole Modruškog za Pietra Riarija« Colloquia Maruliana XXVII (2018), str.~123–141.}</p>
+            <p>Armando Petrucci, »Alcuni codici Corsiniani di mano di Tommaso e Antonio Baldinotti«, Rendiconti dell' Accademia nazionale dei Lincei, classe di scienze morali, storiche e filologiche, serie 8, XI (1956), str.~252–263.</p>
+            <p>Josef Truhlář, Počátky humanismu v Cechách, V Praze: Nákladem České akademie císaře Františka Josefa pro vědy, slovesnost a umění, 1892, p. 507.</p>
+         </div>
+      </front>
+      <body n="body1">
+         <div type="edition" xml:id="edition-text"
+   xml:space="preserve">
+<div type="textpart" n="1" xml:id="part1">
+   <head>ORATIO IN FVNERE REVERENDISSIMI DOMINI 
+         DOMINI PETRI CARDINALIS SANCTI SIXTI 
+         <app>
+            <lem>HABITA</lem>
+            <rdg wit="#co" type="addidit">habita Romę</rdg>
+         </app> A REVERENDO PATRE 
+         DOMINO NICOLAO EPISCOPO 
+         <app>
+            <lem>MODRVSIENSI</lem>
+            <rdg wit="#Ge" type="addidit">Modrusiensi 1475</rdg>
+            <rdg wit="#ve" type="error" cause="lectioFalsa">Modnisiensi</rdg>
+            <rdg wit="#co" type="error" cause="lectioFalsa">Modrisiensi</rdg>
+         </app>
+    </head>
+         
+         <p n="1" xml:id="modrusiensis-riario01">
+         Cum in <app>
+<lem>omni</lem>
+<rdg wit="#R #ve #pa #co" type="omisit">Omiserunt.</rdg>
+</app>funebri celebratione duo praecipue dicendi genera a maioribus nostris usurpari soleant, 
+            amplissimi patres, alterum quo tristes amicorum animos maerore leuarent, quibus cum 
+<app>
+<lem>amici</lem>
+<rdg wit="#ve" type="grammatice">amicis</rdg>
+</app>
+uita suauissima exstitit, 
+mors ipsa iocunda esse non potuit, 
+alterum quo 
+extremum amici munus 
+rebus ab eo bene gestis uirtutumque ipsius copia ac splendore amplissimis laudibus 
+<app>
+<lem>exornarent</lem>
+<rdg wit="#Ge #o" type="grammatice">exornaret</rdg>
+</app> – 
+illud ego prius consolationis genus ita prorsus in omne tempus perdidi ut magis ipse solatio egeam 
+quam ut illud cuiquam uel 
+praestare possim uel polliceri. 
+<app>
+<lem>Quod</lem>
+<rdg wit="#R" type="lexicographice">Quid</rdg>
+</app> etiam si 
+         minime perdidissem, 
+<app>
+<lem>numquam tamen dispicere possem</lem>
+<rdg wit="#Gd" type="orthographia">numquam tamen despicere possem</rdg>
+<rdg wit="#pa1" ana="#addiditpostea" type="addidit" cause="addiditPostea">numquam tamen dispicere possem</rdg>
+</app>
+qua oratione aut quibus rationibus
+etiam illi quidem, qui principes eloquentiae
+sunt habiti, hanc tam grauem sacrosancti senatus uestri iacturam 
+et hunc publicum totius Curiae luctum ulla ex parte leuare possent. 
+         </p>
+   <note type="parallel" target="#modrusiensis-riario01"
+ xml:id="p-f1-cicero">
+  <bibl>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi056">Ad familiares</title>
+   <biblScope>5, 16, 1</biblScope>
+  </bibl>: <quote>Etsi unus ex omnibus minime sum ad te consolandum accommodatus, quod tantum ex tuis molestiis cepi doloris ut consolatione ipse egerem.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario01"
+ xml:id="p-f2-cicero">
+  <bibl>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi055">De officiis</title>
+   <biblScope>1, 50</biblScope>
+  </bibl>: <quote>Eius (i. e. societatis) autem vinculum est ratio et oratio.</quote>
+   </note>
+<p n="2" xml:id="modrusiensis-riario02">
+Perdidistis enim, patres amplissimi, praestantissimum collegam uestrum, cuius suauissimam consuetudinem, 
+comitatem, benignitatem, liberalitatemque 
+quotidie experiebamini, cuius 
+ingenii dexteritatem 
+et incredibilem consilii prudentiam 
+<app>
+<lem>in dies</lem>
+<rdg wit="#V #Ge #C #ve #co #o" type="orthographia">indies</rdg>
+</app> 
+magis admirabamini. Amisistis summi pontificis, patris uestri piissimi, 
+singulare solacium et sacrae eius senectutis optatissimum baculum, 
+participem secretorum, 
+laborum socium, peregrinationis comitem, 
+leuamen curarum, 
+et per quem totius orbis principibus fidissima responsa et reddere consueuerat et accipere. 
+Absit uero inuidia et 
+liuor edax
+saltem parcat cineribus. 
+<app>
+<lem>Extinctus</lem>
+<rdg wit="#Gd #P" type="grammatice">Extinctis</rdg>
+</app> 
+iacet optimarum artium deditissimus
+amator, interiit omnium 
+<app>
+<lem>studiosorum</lem>
+<rdg wit="#Ge #va #o" type="lexicographice" cause="haplographia">studiorum</rdg>
+</app> 
+praecipuus fautor, cultor bonorum, Curiae splendor, 
+ornamentum ciuitatis, 
+et huius 
+<app>
+<lem>urbis</lem>
+<rdg wit="#va" type="lexicographice">orbis</rdg>
+</app> 
+diligentissimus restaurator. 
+Corruit praeclarum magnanimitatis exemplar; cecidit 
+<app>
+<lem>munificentiae</lem>
+<rdg wit="#pa" type="lexicographice" cause="lectioFalsa">manificentie</rdg>
+</app>, 
+<app>
+<lem>gratitudinis</lem>
+<rdg wit="#C" type="error" cause="haplographia">gratitudis</rdg>
+</app>, 
+et totius liberalitatis 
+<app>
+<lem>alumnus</lem>
+<rdg wit="#V #Gd #P #m" type="orthographia">alumpnus</rdg>
+</app>. 
+Cuius iactura cum uniuersis lugenda sit, 
+tum mihi praecipue atque 
+<app>
+<lem>his</lem>
+<rdg wit="#va" type="orthographia">iis</rdg>
+</app> infelicissimis conseruis meis 
+quibus haec crudelis et dira mors 
+tam benignissimum abstulit dominum, 
+interuertit benefactorem, 
+ademit praesidium, 
+et unico atque eodem piissimo patre 
+nos acerba orbauit. 
+<app>
+<lem>Nolite igitur, nolite</lem>
+<rdg wit="#Gd #P #m" type="omisit">Nolite igitur</rdg>
+</app> 
+expectare, praestantissimi patres, 
+ut luctum 
+<app>
+<lem>ac</lem>
+<rdg wit="#m" type="synonymon">et</rdg>
+</app> 
+maerorem, in quo et 
+<app>
+<lem>uos</lem>
+<rdg wit="#va" type="lexicographice" cause="scriptura">nos</rdg>
+</app> 
+nunc esse intueor 
+et me ac totam hanc miserandam familiam, 
+quoad uixerimus, fore necesse est, 
+<app>
+<lem>uobis</lem>
+<rdg wit="#va" type="lexicographice">nobis</rdg>
+</app> adimam. 
+Quin potius pro uestra clementia dabitis dolori meo ueniam si eius acerbitate abductus 
+nec rerum ordinem seruare ualeam nec uerborum tenere modum, 
+praesertim cum ea culpa libentius ego carere uellem quam illam a uobis deprecari 
+si mihi impositum onus detractare licuisset; 
+agam tamen ut potero et minus temeritatis quam ingratitudinis notam subire uerebor.
+</p>
+   <note type="parallel" target="#modrusiensis-riario02"
+ xml:id="p-f3-biblia">
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="http://viaf.org/viaf/292395001">Tobias</title>
+   <biblScope>5, 23</biblScope>
+  </bibl>: <quote>baculum senectutis nostrae, solatium vitae nostrae</quote>
+         
+   </note>
+<p n="3" xml:id="modrusiensis-riario03">
+Dicturus igitur 
+de laudibus reuerendissimi domini domini Petri cardinalis Sancti Sixti, 
+cuius miserandum funus hodierna die 
+<app>
+<lem>celebratur</lem>
+<rdg wit="#va" type="grammatice">celebrantur</rdg>
+</app>, 
+eas laudes, 
+quas uel a parentibus uel a patria ipsius colligere poteram, 
+hoc loco praetermittendas putaui; 
+non quod illas aut obscuras aut tenues fore 
+<app>
+<lem>duxerim</lem>
+<rdg wit="#Ge #C #va #o" type="lexicographice" cause="scriptura">duxerim</rdg>
+<rdg wit="#V #R #Gd #P #m #ve #pa #co" type="lexicographice" cause="scriptura">dixerim</rdg>
+</app>, 
+quoniam et honestissimis nobilissimisque ciuitatis suae parentibus est ortus et celeberrimo uetustoque 
+<app>
+<lem>Ligurum</lem>
+<rdg wit="#P" type="grammatice">Ligurorum</rdg>
+</app> 
+oppido 
+<app>
+<lem>Saona</lem>
+<rdg wit="#P #m" type="error">Soana</rdg>
+</app>, 
+uerum quod ipse illis tanto decori ac ornamento fuerit 
+ut toto in orbe extremisque terrarum finibus 
+amplissimis laudibus summaque gloria 
+et celebrantur nunc 
+et omnibus futuris saeculis non desinent celebrari. 
+Quae quidem tametsi satis grandis eius gloria sit, 
+<app>
+<lem>qui</lem>
+<rdg wit="#R" type="grammatice">quis</rdg>
+</app> 
+maioribus suis tam insignia uirtutis ornamenta dederit 
+potius quam ab illis 
+<app>
+<lem>acceperit</lem>
+<rdg wit="#va" type="grammatice">accepit</rdg>
+</app>, 
+habeo tamen et alias immortales ac propemodum diuinas animi ipsius laudes (ut 
+fortunae corporisque quaelibet ingentia bona tamquam aliena
+relinquam): 
+pietatem, magnitudinem animi, munificentiam, prudentiam, modestiam, atque iustitiam; 
+quae quales in eo fuerint, breuiter explicare conabor. 
+</p>
+   <note type="parallel" target="#modrusiensis-riario03" xml:id="p-f4-cicero-valla">
+  <bibl>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi049">Tusculanae disputationes</title>
+   <biblScope>5, 30, 85</biblScope>
+  </bibl>: <quote>tria genera bonorum, maxuma animi, secunda corporis, externa tertia, ut Peripatetici nec multo veteres Academici secus</quote>
+         <bibl>
+   <author ref="http://viaf.org/viaf/29541502">Laurentius Valla</author>
+   <title ref="http://viaf.org/viaf/174927538">De voluptate sive de vero bono</title>
+   <biblScope>1, 16, 1</biblScope>
+  </bibl>: <quote>ipsa testatur consensio communis que vulgato sermone appellat bona animi, bona corporis, bona fortune</quote>
+   </note>
+<p n="4" xml:id="modrusiensis-riario04">
+<app>
+<lem>Qua</lem>
+<rdg wit="#ve" type="grammatice">Qui</rdg>
+</app> 
+igitur pietate primum erga Deum fuerit 
+quamque magnificus cultor ipsius, si aduixisset, futurus erat, 
+in primo uitae suae limine clarissime demonstrauit. 
+Annos natus duodecim cum orbatam patre familiam tanta prudentia regeret 
+ut nec mater, matronarum praestantissima, 
+nec fratres eius parentis sentirent desiderium, 
+coepit Deo dicatum pectus zelo religionis feruescere. 
+<app>
+<lem>Clarescebat</lem>
+<rdg wit="#Gd #P #m" type="grammatice">Clarescat</rdg> 
+<rdg wit="#C" type="divisio" cause="emendatioFalsa">Clare sciebat</rdg>
+</app> 
+autem iam tunc nomen 
+<app>
+<lem>religiosissimi</lem>
+<rdg wit="#R" type="error" cause="scriptura">religisissimi</rdg>
+</app> 
+doctissimique uiri, 
+<app>
+<lem>magistri Francisci</lem>
+<rdg wit="#R" type="orthographia">maijstri Francissi</rdg>
+</app>, 
+conciuis et auunculi sui, nunc summi 
+<app>
+<lem>pontificis</lem>
+<rdg wit="#va" type="lexicographice">pontificatus</rdg>
+</app> 
+papae Sixti, qui per id tempus Senis suis fratribus Sacras Scripturas interpretabatur. 
+Hunc optimum Christianae militiae magistrum optimus futurus discipulus, 
+quamuis puerili aetate, uirili tamen sensu sibi delegit; 
+ad quem a religioso quodam sene multis exorato precibus, 
+inscia matre, perductus est; 
+diuino, ut 
+<app>
+<lem>opinor</lem>
+<rdg wit="#Ge" type="orthographia">oppinor</rdg>
+</app>, 
+nutu futurus ad apostolatum tam strenuus minister ad futurum sedis apostolicae mittitur antistitem. 
+Quem ubi conspexisset Franciscus iam 
+<app>
+<lem>religionis</lem>
+<rdg wit="#R" type="lexicographice">religiosus</rdg>
+</app>  
+<app>
+<lem>ueste</lem>
+<rdg wit="#Gd #P" type="lexicographice" cause="lectioFalsa">iuste</rdg>
+</app> 
+indutum, quam idcirco iuuenis in itinere assumpserat quo se facilius 
+<app>
+<lem>magistro</lem>
+<rdg wit="#R" type="orthographia">maijstro</rdg>
+</app>  
+suo insinuaret, multis eum hortatus est ut ad suos remearet 
+et matris fratrumque curam, ut coeperat, ageret, 
+uel maturiorem 
+<app>
+<lem>domi</lem>
+<rdg wit="#Ge #C #R #va #o #ve #pa #co" type="lexicographice" cause="lectioFalsa">domini</rdg>
+</app>  
+praestolaretur aetatem, 
+<app>
+<lem>quae</lem>
+<rdg wit="#o" type="grammatice">qua</rdg>
+</app>  
+pati melius iugum Christi posset. 
+Sed cum pueri constantiam nullis blanditiis, 
+nullis persuasionibus, 
+nullis denique minis euincere 
+<app>
+<lem>posset</lem>
+<rdg wit="#C" type="grammatice">possent</rdg>
+</app>, 
+diuinum, ut erat, in eo aliquod munus arbitratus, 
+hortantibus fratribus, 
+diui eum Francisci sacris initiauit, 
+seruatisque pro more religionis rite caerimoniis uestem Christi induit. 
+Qua assumpta ita omnia tirocinii rudimenta libens promptusque et perdiscebat et exsequebatur 
+ut nemo dubitaret et prudentiam illi et uires ante aetatem non nisi diuinitus subministrari. 
+Quas ob res omnibus carus, omnibus dilectus esse coepit, 
+praecipue autem ipsi 
+<app>
+<lem>auunculo</lem>
+<rdg wit="#pa" type="orthographia">auunclo</rdg>
+</app>  
+suo 
+qui, diuina eius indole mirifice delectatus, piissimo sanctissimoque eum 
+<app>
+<lem>amplectebatur</lem>
+<rdg wit="#m" type="synonymon">amplexabatur</rdg>
+</app>  
+affectu. 
+Vnde sibi curandum statuit ut tam excellens ingenium per bonas artes excoleretur. 
+Itaque docto cuidam grammatico Latinis eum litteris Vicheriae imbuendum tradidit; 
+quibus mira celeritate perceptis mox Ticinium, deinde Patauium, subinde Venetias, 
+<app>
+<lem>Bononiam</lem>
+<rdg wit="#m" type="grammatice">Bononia</rdg>
+</app>, 
+Perusium, Senam, 
+<app>
+<lem>Ferrariamque</lem>
+<rdg wit="#Gd #C #va #m #pa" type="orthographia">Ferrariamque</rdg>
+<rdg wit="#V #Ge #R #ve #o #co" type="orthographia">Ferariamque </rdg>
+<rdg wit="#P" type="orthographia">Ferreriamque</rdg>
+</app>  
+misit ut, quaecumque in tam celeberrimis Italiae 
+<app>
+<lem>gymnasiis</lem>
+<rdg wit="#ve" type="orthographia">gymnasijs</rdg>
+<rdg wit="#V #Ge #R #C #P #Gd #va #o #pa" type="orthographia">ginnasiis</rdg>
+<rdg wit="#m" type="orthographia">gynasiis</rdg>
+<rdg wit="#co" type="orthographia">gynnasijs</rdg>
+</app>  
+aut liberalium artium aut sacrarum litterarum dogmata florerent, 
+ipse uelut operosa apis undique colligeret et in sacram pectoris sui cellulam diligenter reconderet. 
+Quod quidem intra breues annos adeo consecutus est ut credibile non sit uirum 
+ad agendum magis quam ad philosophandum
+natum 
+<app>
+<lem>tantam</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+<rdg wit="#va" type="lexicographice">tantum</rdg>
+</app>  
+omnium scientiarum notitiam adeo breuiter percipere 
+<app>
+<lem>potuisse</lem>
+<rdg wit="#C #pa" type="grammatice">potuisset</rdg>
+</app>. 
+Habeo hic testes complures, familiares eius, 
+<app>
+<lem>uiros</lem>
+<rdg wit="#P #m" type="lexicographice">ueros</rdg>
+</app>  
+quidem doctissimos, 
+<app>
+<lem>quibuscum</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">quibus cum</rdg>
+</app>  
+inter cenandum de uariis disciplinarum studiis frequenter disserere consueuerat 
+adeo acute adeoque prompte ac subtiliter de quaestione 
+<app>
+<lem>proposita</lem>
+<rdg wit="#pa" type="lexicographice">preposita</rdg>
+</app> 
+ut eum 
+<app>
+<lem>putares</lem>
+<rdg wit="Ge #C #o" type="grammatice">putaret</rdg> 
+<rdg wit="#V #Gd #P #m" type="grammatice">putare</rdg>
+</app>  
+<app>
+<lem>die</lem>
+<rdg wit="#C" type="lexicographice">diu</rdg>
+</app>  
+noctuque nulli 
+<app>
+<lem>adeo</lem>
+<rdg wit="#ve #pa" type="omisit">Omisit.</rdg>
+</app>  
+alii rei quam euoluendis theologorum philosophorumque libris uacare. 
+Tenebat fixa memoriae 
+quaecumque ab ineunte aetate 
+<app>
+<lem>a</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+</app>  
+praeceptoribus audierat. 
+Vigebat praeterea stupendo ingenii acumine 
+cuius perspicacitate facile in abditissima quaeque naturae secreta penetrabat 
+et ex perceptis semel principiis difficillima quaeuis uel philosophiae 
+<app>
+<lem>uel theologiae</lem>
+<rdg wit="#V #Gd #P #m" type="omisit">Omiserunt.</rdg>
+</app> 
+<app>
+<lem>problemata</lem>
+<rdg wit="#o" type="orthographia">probleumata</rdg>
+<rdg wit="#m" type="orthographia">propleumata</rdg>
+</app>  
+<app>
+<lem>summa</lem>
+<rdg wit="#R" type="grammatice">summam</rdg>
+<rdg wit="#o" type="grammatice">summe</rdg>
+</app>  
+cum omnium admiratione absoluebat; 
+uersus complures multosque grammaticae textus, quos olim 
+<app>
+<lem>puer</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+</app>  
+<app>
+<lem>edidicerat</lem>
+<rdg wit="#P #m" type="lexicographice" cause="haplographia">edicerat</rdg>
+</app>, 
+ita memoriter recitabat ut ea 
+<app>
+<lem>illum</lem>
+<rdg wit="#o" type="synonymon">eum</rdg>
+</app>  
+heri aut 
+<app>
+<lem>nudiustertius</lem>
+<rdg wit="#co" type="orthographia">nudius tertius</rdg>
+</app>  
+memoriae mandasse existimares. 
+</p>
+   <note type="parallel" target="#modrusiensis-riario04"
+ xml:id="p-f5a-horatius">
+  <bibl>
+   <author ref="http://viaf.org/viaf/100227522">Horatius</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0893.phi001">Carmina</title>
+   <biblScope>4, 27–32</biblScope>
+  </bibl>: <quote>ego apis Matinae / more modoque, / grata carpentis thyma per laborem / plurimum, circa nemus uvidique / Tiburis ripas operosa parvos / carmina fingo.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario04"
+ xml:id="p-f5b-hieronymus">
+      in sacram pectoris sui cellulam diligenter reconderet: 
+  <bibl>
+   <author ref="http://viaf.org/viaf/102461101">Hieronymus Stridonensis</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0162.stoa004">Epistulae</title>
+   <biblScope>[CSEL], 107, 12, 2</biblScope>
+  </bibl>: <quote>cumque pectoris sui cellarium his opus locupletarit, mandet memoriae Prophetas et Heptateuchum et Regum ac Paralipomenon libros</quote>
+      <bibl><author ref="http://viaf.org/viaf/64362670">Thomas Capuanus</author>
+         <title>Summa dictaminis</title>
+      <biblScope>63; 2</biblScope></bibl>: 
+      <quote>dum mendax interpres de pectoris cella, quod elicit, ori non solvit</quote>
+<bibl><author ref="http://viaf.org/viaf/64362670">Thomas Capuanus</author>
+   <title>Summa dictaminis</title>
+   <biblScope>124; 1</biblScope></bibl>:
+<quote>De fecundi pectoris cellula progrediens epistola, quam misistis</quote>
+<bibl>
+   <author ref="http://viaf.org/viaf/105133420">Vincentius Bellovacensis</author> 
+   <title ref="http://viaf.org/viaf/175807599">Speculum doctrinale</title>
+   <biblScope>7, 19; 24</biblScope></bibl>:
+<quote>amorem, qui patrie et parentibus precipue debetur, pater transfundit in filios et filialis affectus paterni pectoris cellam solus exhaurit</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario04"
+ xml:id="p-f5b-cicero">
+  <bibl>
+   <author ref="http://viaf.org/viaf/303814984">Plato</author>
+   <author role="vertit" ref="http://viaf.org/viaf/120697563">Marsilius Ficinus</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0059.tlg011">Symposium (tr. Ficinus, c. 1460), in Plato / Ficinus, Marsilius / Medici, Lorenzo de': Opera, Venetiis, 1491.08.13 [BSB-Ink P-569 - GW M33918]</title>
+   <biblScope>p. 150r</biblScope>
+     <ptr target="https://daten.digitale-sammlungen.de/bsb00059968/image_315"/>
+  </bibl>: <quote>perinde ac tu nunc, qui quodlibet aliud agendum censes potius quam philosophandum</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario04"
+ xml:id="p-f5c-cicero">
+  <bibl>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi039">Brutus</title>
+   <biblScope>154</biblScope>
+  </bibl>: <quote>Galli hominis acuti et exercitati promptam et paratam in agendo et in respondendo celeritatem subtilitate diligentiaque superavit</quote>
+   </note>
+<p n="5" xml:id="modrusiensis-riario05">
+Perfectis igitur 
+<app>
+<lem>quam celerrime</lem>
+<rdg wit="#m" type="lexicographice" cause="dormitat">quam celeberrime</rdg>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>
+omnium bonarum artium studiis rediit sollicitus ad magistrum, 
+munus, cui caelitus destinatus erat, optime impleturus.  
+Inerat enim menti eius praesaga quaedam futurorum diuinitas 
+complurimaque, 
+<app>
+<lem>antequam</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">ante quam</rdg>
+</app> 
+<app>
+<lem>contigissent</lem>
+<rdg wit="#ve" type="grammatice">contigisset</rdg>
+</app>, 
+per quietem discebat
+ita ut 
+<app>
+<lem>insomnia</lem>
+<rdg wit="#Gd #P" type="orthographia">insonia</rdg>
+</app>
+ipsius non uisa solum, 
+sed certa uiderentur oracula. 
+Quibus uarie sollicitatus coepit auunculum suum hortari, 
+<app>
+<lem>coepit</lem>
+<rdg wit="#R" type="lexicographice">cedit</rdg>
+</app> 
+<app>
+<lem>importunius</lem>
+<rdg wit="#V #P #m" type="grammatice">importunis</rdg>
+<rdg wit="#co" type="grammatice">importunus</rdg>
+</app> 
+<app>
+<lem>compellere</lem>
+<rdg wit="#Gd #P #m" type="lexicographice">complere</rdg>
+</app> 
+Romam peteret atque in ea urbe uersari uellet 
+in qua a maximo omnium 
+<app>
+<lem>rectore Deo</lem>
+<rdg wit="#va" type="transpositio">Deo rectore</rdg>
+</app> 
+futurus summus pontifex 
+<app>
+<lem>erat designatus</lem>
+<rdg wit="#va" type="transpositio">designatus erat</rdg>
+</app>, 
+ubi et 
+<app>
+<lem>seipsum</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">se ipsum</rdg>
+</app> 
+accepturum ab eo cardinalatus decus et alios uniuersos honores, 
+quibus eum functum uidimus, mira asseueratione praedicebat. 
+Cerno hic 
+<app>
+<lem>nonnullos</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">non nullos</rdg>
+</app> 
+praelatos et ex aliis ordinibus 
+<app>
+<lem>uiros</lem>
+<rdg wit="#Gd" type="lexicographice" cause="lectioFalsa">unos</rdg>
+</app> 
+<app>
+<lem>praestantes</lem>
+<rdg wit="#P #m" type="grammatice">praestante</rdg>
+</app> 
+a quibus magna cum 
+<app>
+<lem>attestatione</lem>
+<rdg wit="#pa" type="orthographia">actestatione</rdg>
+</app> 
+audiui singula haec, quae gessit, multis ante annis ab ipso praedicta fuisse.  
+Itaque repugnantem 
+<app>
+<lem>magistrum</lem>
+<rdg wit="#R" type="orthographia">maijstrum</rdg>
+</app> 
+et se tanto fastigio indignum reclamantem urgere non destitit 
+donec multis et signis et prodigiis euictum perpulit Romam proficisci; 
+in qua constitutus minime conquieuit 
+<app>
+<lem>antequam</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">ante quam</rdg>
+</app> 
+demandatum ab altissimi prouidentia munus uiriliter absolueret et 
+<app>
+<lem>magistrum</lem>
+<rdg wit="#R" type="orthographia">maijstrum</rdg>
+</app> 
+suum per uaria 
+<app>
+<lem>bonorum</lem>
+<rdg wit="#va" type="lexicographice" cause="lectioFalsa">honorum</rdg>
+</app> 
+incrementa ad summum 
+<app>
+<lem>apostolatus culmen</lem>
+<rdg wit="#va" type="transpositio">culmen apostolatus</rdg>
+</app> 
+conscendisse uideret; 
+pro quibus laboribus et pro tam diligenti nauata opera eadem ipsa diuina prouidentia, 
+quae 
+<app>
+<lem>semper</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+</app>
+   <cit>
+      <quote>
+<app>
+<lem>infirma mundi</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>
+eligere consueuit 
+ut fortia quaeque confundat, 
+      </quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg007">Epistula ad Corinthios I</title>
+   <biblScope>1, 27</biblScope>
+  </bibl>
+      <note type="source" xml:id="p-f6b-biblia-s">
+         <quote>infirma mundi elegit Deus ut confundat fortia</quote>
+   </note>
+   </cit>
+<app>
+<lem>cardinalis</lem>
+<rdg wit="#C" type="lexicographice">cardinalatus</rdg>
+</app> 
+eum dignitatis splendore uoluit illustrare 
+omnibusque mundi principibus ostendere quo ministro et ex quam humili loco 
+<app>
+<lem>accepto</lem>
+<rdg wit="#pa1" ana="inmargine" type="omisit" cause="addiditPostea">Postea addidit in margine: accepto</rdg>
+</app> 
+uoluerit in sui uicarii 
+<app>
+<lem>assumptione</lem>
+<rdg wit="#pa" type="orthographia">assuptione</rdg>
+</app> 
+uti, ut discerent uniuersi 
+<app>
+<lem>ueram</lem>
+<rdg wit="#pa" type="omisit">Omisit.</rdg>
+</app> 
+certamque esse illam 
+<app>
+<lem>Nabuchdenosoris</lem>
+<rdg wit="#Ge" type="orthographia">Nabuchdenosori</rdg>
+<rdg wit="#C" type="orthographia">Nabuchodenosoris</rdg>
+<rdg wit="#o" type="orthographia">Nabuchodenosori</rdg>
+<rdg wit="#va" type="orthographia">Nabuchodonosor</rdg>
+</app> 
+confessionem in quam et regno et sensui restitutus supplex prorupit dicens 
+<cit>
+   <quote>
+in manu solius omnipotentis Dei esse omnia regna terrarum atque illa, quibus ipse 
+<app>
+<lem>uoluerit</lem>
+<rdg wit="#P #m" type="grammatice">uoluerint</rdg>
+</app>, 
+tradi, nec 
+<app>
+<lem>esse</lem>
+<rdg wit="#Ge #o" type="lexicographice">eā</rdg>
+<rdg wit="#va" type="lexicographice">ea</rdg>
+</app> 
+<app>
+<lem>alium</lem>
+<rdg wit="#o" type="grammatice">aliud</rdg>
+</app> 
+quemquam 
+<app>
+<lem>qui eius</lem>
+<rdg wit="#o" type="transpositio">eius qui</rdg>
+</app> 
+possit obsistere 
+<app>
+<lem>uoluntati</lem>
+<rdg wit="#va" type="orthographia">uolunptati</rdg>
+</app> 
+aut dicere illi »quare sic fecisti«.
+   </quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="http://viaf.org/viaf/177460782">Daniel</title>
+   <biblScope>4, 31–32</biblScope>
+  </bibl>
+<note type="source" xml:id="p-f7-biblia-s">
+   <quote>Igitur post finem dierum ego Nabuchodonosor oculos meos ad caelum levavi, et sensus meus redditus est mihi, et Altissimo benedixi et Viventem in sempiternum laudavi et glorificavi,
+quia potestas eius potestas sempiterna,
+et regnum eius in generationem et generationem;
+et omnes habitatores terrae apud eum in nihilum reputati sunt:
+iuxta voluntatem enim suam facit
+tam in virtutibus caeli quam in habitatoribus terrae,
+et non est qui resistat manui eius
+et dicat ei: “Quid facis?”.</quote>
+   </note>
+</cit>
+         </p>
+   <note type="parallel" target="#modrusiensis-riario05" xml:id="p-f6a-firmicus">
+  <bibl>
+   <author ref="http://viaf.org/viaf/5015147967361884200009">Firmicus Maternus</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0123a.stoa002">Mathesis</title>
+   <biblScope>8, 21, 4</biblScope>
+  </bibl>: <quote>In Ofiucho qui nati fuerint erunt audaces, enthei, praesago diuinitatis instinctu futura noscentes.</quote>
+   </note>
+<p n="6" xml:id="modrusiensis-riario06">
+Petrus igitur per hunc modum in principatu constitutus, qui <cit><quote>solet uiros ostendere</quote>
+  <bibl>
+   <author ref="http://viaf.org/viaf/7524651">Aristoteles</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg010">Ethica ad Nicomachum</title>
+   <biblScope>3, 1330, a 1-2</biblScope>
+  </bibl>
+<note type="source" xml:id="p-f8-aristoteles-s"><quote>principatus virum ostendit</quote></note>
+   </cit>, 
+talem 
+<app>
+<lem>sese</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">se se</rdg>
+<rdg wit="#ve" type="lexicographice">se</rdg>
+</app>  
+exhibuit qualem uix optare poteramus, non sperare. 
+Assumpsit enim cum sublimi magistratu sublimes animos et spiritus tanti imperii 
+<app>
+<lem>maiestate</lem>
+<rdg wit="#V" type="error" cause="dittographia">maiestatate</rdg>
+<rdg wit="#va" type="addidit">et maiestate</rdg>
+</app>  
+dignos 
+<app>
+<lem>simulque</lem>
+<rdg wit="#Ge #C #va #o" type="addidit">et simulque</rdg>
+</app>  
+cum eis 
+<app>
+<lem>magnanimitatem</lem>
+<rdg wit="#V" type="error" cause="haplographia">magnimitatem</rdg>
+</app>, 
+clementiam, munificentiam, et 
+<app>
+<lem>ceteras</lem>
+<rdg wit="#Ge" type="error" cause="dormitat">cetaras</rdg>
+</app>, 
+<app>
+<lem>quas prius</lem>
+<rdg wit="#V #P #m" type="error" cause="dittographia">prius quas prius</rdg>
+</app>  
+commemorauimus, 
+<app>
+<lem>imperantium</lem>
+<rdg wit="#ve" type="omisit">Omisit.</rdg>
+<rdg wit="#co" type="lexicographice" cause="lectioFalsa">in p-tium</rdg>
+<rdg wit="#pa" type="lexicographice" cause="lectioFalsa">in partium</rdg>
+</app>  
+uirtutes, quibus et ausus est cum regibus et 
+<app>
+<lem>principibus</lem>
+<rdg wit="#C" type="error" cause="haplographia">princibus</rdg>
+</app>  
+magna gloria non segnius contendere quam si in illis natus educatusque fuisset, 
+ut coepta 
+<app>
+<lem>eius</lem>
+<rdg wit="#R #va" type="omisit">Omiserunt.</rdg>
+</app>  
+declarant aedificia, 
+totque magnificentissimo cultu celebrata conuiuia, et 
+<app>
+<lem>supellex</lem>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">suppllex</rdg>
+</app>  
+imperialibus 
+<app>
+<lem>fastibus</lem>
+<rdg wit="#Ge #C #va #o #m #pa" type="lexicographice">fascibus</rdg>
+</app>  
+digna. 
+Turpe enim et 
+<app>
+<lem>indecorum</lem>
+<rdg wit="#Gd" type="lexicographice" cause="divisio">inde eorum</rdg>
+</app>  
+merito ducebat in hoc totius orbis capite, 
+in hac prima Christianae religionis sede, 
+ad quam 
+<app>
+<lem>adorandam</lem>
+<rdg wit="#m" type="lexicographice">adornandam</rdg>
+</app>  
+imperatores, reges, et cuncti ferme principes terrarum uentitare solent, 
+non talem esse supellectilem, non talia 
+<app>
+<lem>exstare palatia</lem>
+<rdg wit="#P" type="lexicographice">ortare pallacis</rdg>
+</app>, 
+quibus eos summus pontifex et suscipere honorifice posset 
+et pro sua ipsorumque dignitate splendide honorare. 
+Vnde et in hos usus omnia illa se 
+<app>
+<lem>comparare</lem>
+<rdg wit="#Ge #C #Gd #o" type="lexicographice">comperare</rdg>
+</app>  
+affirmabat, nec sibi, sed summis pontificibus, 
+quicquid 
+<app>
+<lem>praeparabat, componere</lem>
+<rdg wit="#Ge #o" type="grammatice">praeparabat, componeret</rdg>
+   <rdg wit="#va" type="transpositio">componeret, praeparabat</rdg>
+</app>. 
+Affluebant quotidie opes 
+et ab omnibus ferme Christianis principibus magni prouentus ultro offerebantur; 
+quos licet ipse in illos, quos diximus, acceptaret usus, 
+prophetici tamen documenti memor 
+<cit><quote>minime ad ea cor apponebat</quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
+   <biblScope>61, 11</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario06" xml:id="p-f9-biblia">
+   <quote>diuitiae si affluant, nolite cor apponere</quote>; cf. etiam 
+      <bibl>
+   <author ref="http://viaf.org/viaf/23432692">Nicolaus Modrussiensis</author>
+   <title>De consolatione</title>
+   <biblScope>II, 15, 24</biblScope>
+  </bibl>
+   </note>
+</cit>, 
+neque <app>
+<lem>illis</lem>
+<rdg wit="#C" type="lexicographice">ullo</rdg>
+</app>  
+auaro 
+<app>
+<lem>deuincebatur</lem>
+<rdg wit="#ve" type="lexicographice">euincebatur</rdg>
+</app> 
+affectu. 
+Hinc est quod nec sciebat numerum 
+nec omnino quid haberet aut quid impenderet nosse 
+<app>
+<lem>uolebat</lem>
+<rdg wit="#Gd #P" type="lexicographice">ualebat</rdg>
+</app>; 
+nullas a ministris impensarum exigebat rationes, nulla 
+<app>
+<lem>computa</lem>
+<rdg wit="#P" type="error">comput</rdg>
+</app>  
+exigere uolebat. 
+Iactura rerum ea dumtaxat mouebatur quae negligentia contigisset, 
+culpam magis dolens quam 
+<app>
+<lem>damnum</lem>
+<rdg wit="#V #C #Gd #m" type="orthographia">dampnum</rdg>
+</app>. 
+</p>
+   
+   
+<p n="7" xml:id="modrusiensis-riario07">
+A suscepto semel negotio nullo metu absterreri potuerat, 
+nullo periculo depelli. 
+Verax in sermone, 
+in 
+<app>
+<lem>facto</lem>
+<rdg wit="#P" type="error" cause="scriptura">faco</rdg>
+</app> 
+fidelis, 
+in proposito constans, in peragendo strenuus, secretorum tenacissimus, 
+et promissorum firmissimus 
+<app>
+<lem>obseruator</lem>
+<rdg wit="#ve" type="orthographia">osservator</rdg>
+</app>. 
+Insignia 
+<app>
+<lem>haec</lem>
+<rdg wit="#P #m" type="grammatice">hic</rdg>
+</app>  
+sunt magnanimitatis eius testimonia.  
+Sed illud mea sententia uincit uniuersa quod nullis mouebatur iniuriis, 
+nullis offensis laedi posse uidebatur, 
+nec 
+<app>
+<lem>ullius</lem>
+<rdg wit="#P" type="lexicographice">uillius</rdg>
+</app>  
+rei facilius quam inimicitiarum obliuiscebatur. 
+Floccipendebat aemulos quoscumque et nullam in rem pronior quam in supplicium ueniam uidebatur, 
+tantumque ab omni ulciscendi ardore aberat ut inimicis suis benefacere gauderet. 
+</p>
+<p n="8" xml:id="modrusiensis-riario08">
+Nihil in se fictum, nihil subdolum aut simulatum esse uolebat, 
+nec quicquam magis detestabatur quam mentitam probitatem. 
+Mali quippe et iniqui hominis esse dicebat meliorem se 
+<app>
+<lem>foris</lem>
+<rdg wit="#Ge #C" type="grammatice">fori</rdg>
+   <rdg wit="#V #P #m" type="grammatice">fortis</rdg>
+</app>  
+ostendere quam gerere domi, 
+proborum autem uirorum esse non simulatione, 
+sed integritate uiros superare. 
+Sane munificentiae liberalitatisque eius largitatem quis est qui ignoret, 
+nisi qui illa uti uel 
+<app>
+<lem>noluerit</lem>
+<rdg wit="#o" type="lexicographice" cause="antonymum">uoluerit</rdg>
+</app>  
+uel nescierit? 
+Ea ipse ita flagrabat ut illos etiam, 
+quibus iustis de causis aliquando irascebatur, 
+muneribus tamen ornare non cessaret. 
+Non semel neque solus interfui cum quosdam familiarium merito obiurgasset, 
+deinde uestimentis et magistratu donauit. 
+Et cum aliquando a magistro domus suae, 
+in cuius diligentissima fidissimaque cura merito conquiescebat, 
+liberius argueretur quod nimia 
+<app>
+<lem>indulgentia et</lem>
+<rdg wit="#P #m" type="transpositio">indulgenti et a</rdg>
+</app>  
+largitate domesticos faceret insolentiores, 
+<app>
+<lem>placida</lem>
+<rdg wit="#P #m" type="lexicographice">placenda</rdg>
+</app>  
+uoce respondit: »Tuum est familiares meos pro neglecto officio 
+<app>
+<lem>corrigere</lem>
+<rdg wit="#Gd" type="error">corriger</rdg>
+</app>, 
+meum autem <app>
+<lem>pro</lem>
+<rdg wit="#P #m" type="omisit">Omiserunt.</rdg>
+</app>  
+illorum in me amore congruis praemiis afficere; 
+id faciendo uterque nostrum suo munere optime functus erit.« 
+O praeclaram uocem, o sententiam summo principe dignam; 
+nec impunitatem erratorum laudauit, 
+nec liberalitatem suam ullis male merentium factis occludi passus est. 
+Felices quibus illa perfrui licuit, 
+et nunc omnium infortunatissimos quibus tam crudeli fato 
+<app>
+<lem>erepta</lem>
+<rdg wit="#C" type="lexicographice">arrepta</rdg>
+</app> est! 
+</p>
+   <note type="parallel" target="#modrusiensis-riario08" xml:id="p-f8a-cicero">
+      Nihil in se fictum, nihil subdolum aut simulatum esse uolebat: 
+  <bibl>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0474.phi052">De amicitia</title>
+   <biblScope>26</biblScope>
+  </bibl>: <quote>in amicitia autem nihil fictum, nihil simulatum est</quote>
+      <bibl>
+   <author ref="http://viaf.org/viaf/104162705">Sallustius</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0631.phi001">Catilinae coniuratio</title>
+   <biblScope>5</biblScope>
+  </bibl>: <quote>Animus audax, subdolus, varius, quoius rei lubet simulator ac dissimulator</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario08" xml:id="p-f8a-hieronymus">
+      meliorem se foris ostendere quam gerere domi: 
+  <bibl>
+   <author ref="http://viaf.org/viaf/102461101">Hieronymus Stridonensis</author>
+   <title ref="http://viaf.org/viaf/185346274">Commentaria in Matthaeum</title>
+   <biblScope>PL 26, 171D</biblScope>
+  </bibl>: <quote>arguit Pharisaeos simulationis atque mendacii, quod aliud ostentent hominibus foris, aliud domi agant.</quote>
+   </note>
+<p n="9" xml:id="modrusiensis-riario09">
+Quingentos ferme pascebat familiares, partim illustri, partim nobili, omnes honesto loco natos; 
+praelatos, milites, doctores, oratores, poetas, aut alicui alii honestae arti deditos; 
+nullis tantorum sumptibus, nullis grauabatur impensis. 
+Hospitem enim 
+<app>
+<lem>sese</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">se se</rdg>
+</app>  
+<app>
+<lem>omnium</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>  
+honestorum uirorum esse dicebat; 
+quod ipsa 
+ueritate erat uerius. 
+Nam si quis diligentius rem ipsam consideret, comperiet proculdubio omnes cardinalium domos nihil aliud esse quam 
+honesta hospitia, 
+in quae proborum uirorum 
+<app>
+<lem>liberis</lem>
+<rdg wit="#va" type="grammatice">liberi</rdg>
+</app>  
+uel necessitatis uel bonorum morum gratia diuersari licet. 
+</p>
+<p n="10" xml:id="modrusiensis-riario10">
+Accipiebat praeterea munera, non auaritiae, sed honoris 
+<app>
+<lem>comparandaeque</lem>
+<rdg wit="#Gd" type="grammatice">comperandique</rdg>
+<rdg wit="#P #m" type="grammatice">comparandique</rdg>
+</app>  
+<app>
+<lem>beniuolentiae</lem>
+<rdg wit="#co" type="orthographia">beneuolentię</rdg>
+<rdg wit="#C" type="orthographia">beniuolencie</rdg>
+</app>  
+gratia; 
+quibus tamen in acceptandis ea lege utebatur ut multo ampliora rependeret quam acciperet. 
+Testes sunt omnes qui hac 
+officiorum uicissitudine 
+cum eo decertare uoluerunt. 
+Complures in hoc coetu astare non dubito qui me uera praedicare nouerunt 
+et qui post acceptos ab eo non paruos honores multa insuper dona tulerunt.
+</p>
+<p n="11" xml:id="modrusiensis-riario11">
+Vidi illum 
+<app>
+<lem>quodam</lem>
+<rdg wit="#co" type="lexicographice">quondam</rdg>
+</app>  
+uesperi non sine graui stomacho 
+lacrimis 
+<app>
+<lem>suffusum</lem>
+<rdg wit="#C" type="grammatice">suffusos</rdg>
+</app>  
+<app>
+<lem>oculos</lem>
+<rdg wit="#ve" type="omisit">Omisit.</rdg>
+</app>  
+<app>
+<lem>et</lem>
+<rdg wit="#Gd #P #m" type="lexicographice" cause="transpositio">te</rdg>
+</app>  
+cum multa indignatione Deum optimum maximumque testem citare atque, 
+cum nemo cogeret minimeque ea re opus esset, 
+<app>
+<lem>dirissima</lem>
+<rdg wit="#C" type="lexicographice">durissima</rdg>
+</app>  
+quaeque in se caputque suum 
+<app>
+<lem>impetrantem</lem>
+<rdg wit="#co" type="lexicographice">imprecantem</rdg>
+</app>, 
+si ullas pecunias aut ulla 
+Symoniacae 
+<app>
+<lem>perfidiae</lem>
+<rdg wit="#R" type="addidit">perfidiaeque</rdg>
+</app>  
+<app>
+<lem>praemia</lem>
+<rdg wit="#V #Ge #P" type="lexicographice">praemis</rdg>
+</app>   
+<app>
+<lem>abs</lem>
+<rdg wit="#pa" type="synonymon">ab</rdg>
+</app>  
+quoquam eorum accepisset, 
+qui nuper in hunc sacrosanctum senatum apostolicum lecti noscuntur, 
+seque ab 
+<app>
+<lem>inuidis</lem>
+<rdg wit="#V #P #m" type="lexicographice">infidiis</rdg>
+   <rdg wit="#Gd" type="lexicographice">inuidiis</rdg>
+</app>  
+atque malignis impie ac flagitiose eius criminis insimulari persancte iurabat. 
+Angi eum uehementer et summis animi cruciatibus torqueri uideres quod sibi, 
+ut dicebat, per detrahentium liuorem non liceret in uiros praestantes 
+<app>
+<lem>ac</lem>
+<rdg wit="#P" type="lexicographice">ab</rdg>
+   <rdg wit="#m" type="lexicographice">ad</rdg>
+</app> 
+bene meritos officiosum esse.
+</p>
+<p n="12" xml:id="modrusiensis-riario12">
+Vbi nunc sunt 
+rubiginosa illa 
+<sic>maliuolorum</sic> 
+pectora, 
+ubi sunt dirissimo felle manantia praecordia, 
+ubi rabidorum canum pestiferi dentes, 
+qui inexpiabili temeritate ausi sunt 
+<cit><quote>os suum in caelo ponere</quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
+   <biblScope>72 (73), 9</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario12" xml:id="p-f10-biblia-s"><quote>Posuerunt in caelum os suum, et lingua eorum transivit in terra</quote>
+   </note>
+</cit>  
+et uicarii Christi fratrumque eius, 
+tam excellentissimorum patrum, 
+factum 
+<app>
+<lem>damnare</lem>
+<rdg wit="#pa" type="orthographia">dampnare</rdg>
+</app>, 
+atque illos praestantissimos uiros, 
+qui prius a 
+<app>
+<lem>Domino</lem>
+<rdg wit="#R" type="error" cause="transpositio">donimo</rdg>
+</app>  
+electi sunt, 
+<cit>
+   <quote>a quo sunt omnium regnorum potestates</quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg006">Epistula ad Romanos</title>
+   <biblScope>13, 1</biblScope>
+  </bibl>
+   <note type="source" target="#modrusiensis-riario12" xml:id="p-f11-biblia"><quote>non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt</quote>
+   </note>
+</cit>, 
+quam a summo pontifice declarati, 
+perditissima audacia lacerare? 
+<app>
+<lem>Caue,</lem>
+<rdg wit="#Ge #C #Gd #va #o" type="omisit">Omiserunt.</rdg>
+</app>  
+caue tibi, lingua dolosa, ne <cit><quote>Deus
+<app>
+<lem>destruat</lem>
+<rdg wit="#pa" type="grammatice">destruet</rdg>
+</app>  
+te in finem, 
+<app>
+<lem>euellet</lem>
+<rdg wit="#ve1" type="grammatice" cause="correctio">euellet corr. scriba ipse in euellat</rdg>
+</app>  
+te, et emigret te de tabernaculo tuo, et radicem tuam de terra uiuentium!</quote>
+
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
+   <biblScope>52, 5 (51, 7)</biblScope>
+  </bibl>
+   <note type="source" target="#modrusiensis-riario12" xml:id="p-f12-biblia">
+      <quote>sed Deus destruet te in sempiternum terrebit et euellet te de tabernaculo et eradicabit te de terra uiuentium semper</quote>; in versione antiqua: <quote>Deus destruet te in finem, euellat te, et emigret te de tabernaculo suo, et radicem tuam de terra uiuentium</quote>
+   </note>
+</cit> 
+Sed haec illi 
+<app>
+<lem>uiderunt</lem>
+<rdg wit="#ve" type="grammatice">uiderint</rdg>
+</app>  
+qui 
+<cit><quote>fecerunt linguam suam nouaculam acutam</quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
+   <biblScope>52, 2 (51, 4)</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario12" xml:id="p-f13-biblia">
+   <quote>insidias cogitat lingua tua quasi nouacula acuta faciens dolum</quote>
+   </note>
+</cit> 
+et 
+<cit>
+   <quote>sedentes aduersus fratrem suum 
+<app>
+<lem>tota</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>   
+die concinnabant dolos.</quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
+   <biblScope>49, 19-20</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario12" xml:id="p-f14-biblia"><quote>Os tuum abundavit malitia, et lingua tua concinnabat dolos. Sedens adversus fratrem tuum loquebaris</quote>
+   </note>
+</cit> 
+Sed haec illi uiderunt; 
+nos interea reliquas Petri uirtutes, 
+non quibus debemus, sed quibus possumus, laudibus 
+<app>
+<lem>prosequamur</lem>
+<rdg wit="#V #C #P" type="lexicographice" cause="abbreviatio">p-sequamur</rdg>
+</app>.
+         </p>
+   <p n="13" xml:id="modrusiensis-riario13">
+Itaque, ut propositus ordo postulat, nunc ipsius prudentiam contemplemur, 
+quamuis eius excellentia iam per ea, quae narrauimus, 
+magna ex parte potuit esse manifesta. 
+Quamobrem tantum eam 
+<app>
+<lem>partem</lem>
+<rdg wit="#Ge" type="lexicographice" cause="transpositio">patrem</rdg>
+</app>  
+<app>
+<lem>attingam</lem>
+<rdg wit="#C" type="grammatice">attingat</rdg>
+</app>  
+   qua ita 
+<app>
+<lem>sese</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">se se</rdg>
+</app>  
+inter principes Christianos gessit ut, cum unius erga 
+<app>
+<lem>eum</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+</app>  
+<app>
+<lem><sic>beniuolentiam</sic></lem>
+<rdg wit="#co" type="orthographia">beneuolentiam</rdg>
+</app>  
+consideres, 
+credas ab aliis minime dilectum. 
+Lex quippe amicitiae ita habet ut amicos inimicorum minime diligamus; 
+hic tamen sua prudentia consecutus est ut aeque carus omnibus haberetur, 
+nec ullus esset qui eius amicitiam ultro non expeteret, 
+et adeptam studiis omnibus non coleret atque foueret. 
+Ostendit id nouissima haec ipsius legatio, 
+in qua 
+<app>
+<lem>omnes</lem>
+<rdg wit="#o" type="lexicographice">habes</rdg>
+</app>  
+Italiae populi singulique ipsorum principes summis decertarunt studiis quisnam eum amplioribus honoribus exciperet et prosequeretur, 
+illeque se uicisse putabat qui plurima in eum ornamenta contulisset. 
+In quibus acceptandis 
+<app>
+<lem>adeo</lem>
+<rdg wit="#R" type="lexicographice" cause="divisio">a Deo</rdg>
+</app>  
+prudens temperamentum inibat ut, cum omnium communis esset amicus, singuli tamen sibi eum 
+<sic>uendicasse</sic>
+putabant. 
+Vnde sua illi negotia credebant et rerum omnium summam fidei ipsius ultro committebant. 
+Fallebat neminem et, communem rem gerendo, singulorum tamen uidebatur aduocatus. 
+</p>
+   <note type="parallel" target="#modrusiensis-riario13" xml:id="p-f15-augustinus">
+  <bibl>
+   <author ref="http://viaf.org/viaf/66806872">Augustinus</author>
+   <title>Sermones de Scripturis</title>
+   <biblScope>49, 6, 6</biblScope>
+  </bibl>: <quote>Incipiunt esse de tribus amicis duo inter se inimici, quid faciat medius qui remansit? Vult, exigit, flagitat a te ut oderis cum illo quem odisse coepit, et haec verba tibi dicit: Non es amicus meus, quia es amicus inimici mei.</quote>
+   </note>
+<p n="14" xml:id="modrusiensis-riario14">
+Secedebat bis terque per diem in cubiculum aut in aliquem secretiorem locum, in quo ad multam horam <app>
+<lem>deambulando</lem>
+<rdg wit="#pa" type="error">deamulando</rdg>
+</app>  
+summas reipublicae Christianae rationes tacitus secum computabat; totas enim 
+<app>
+<lem>animi</lem>
+<rdg wit="#ve" type="lexicographice">anni</rdg>
+</app>
+uires, postquam a legatione redierat, in pacem Italiae et perfidi hostis 
+<app>
+<lem>Christiani</lem>
+<rdg wit="#pa" type="grammatice">Christiane</rdg>
+</app>  
+<app>
+<lem>exitum</lem>
+<rdg wit="#V #ve #co" type="lexicographice">exitium</rdg>
+</app>  
+intenderat; id unum 
+<app>
+<lem>moliebatur</lem>
+<rdg wit="#V #P" type="lexicographice">muliebatur</rdg>
+</app>, 
+id parabat, illuc omnia sua studia conuerterat, fecissetque uotis satis 
+<app>
+<lem>ni</lem>
+<rdg wit="#Ge" type="lexicographice" cause="transpositio">in</rdg>
+</app>  
+eum nobis haec dira atque crudelis mors tam repente praeripuisset. 
+Vincebat ingenio humana consilia et tantum grauioribus reipublicae curis natus <app>
+<lem>uidebatur</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+</app>; 
+haec erat praecipua eius 
+<app>
+<lem>uoluptas</lem>
+<rdg wit="#co" type="lexicographice">uoluntas</rdg>
+</app>  
+a qua nullis aliis oblectamentis poterat diuelli; 
+huius delectabatur gustu, huius solius escis pascebatur. 
+Omnium saluti die noctuque inseruiebat, 
+et tamen a nonnullis negligentiae 
+<app>
+<lem>accusabatur</lem>
+<rdg wit="#Gd #P" type="grammatice">accusabantur</rdg>
+</app>; 
+quin tanquam 
+superbum 
+<app>
+<lem>difficilemque</lem>
+<rdg wit="#V" type="error">difficlemque</rdg>
+</app>  
+ingrati criminabantur, 
+cum tamen et mitissimus esset et 
+<app>
+<lem>facillimus</lem>
+<rdg wit="#va" type="grammatice">facillissimus</rdg>
+</app>. 
+Nouit hoc tantus domesticorum eius numerus, 
+norunt amici et alii omnes, 
+qui eius familiaritate usi fuerunt, 
+quibus semper, 
+cum per publicas licuisset curas, 
+placidum 
+<app>
+<lem>sese</lem>
+<rdg wit="#co" type="orthographia" cause="divisio">se se</rdg>
+</app>  
+exhibebat, 
+affabilem, comem, benignum, ut socium crederes, non dominum.
+</p>
+<p n="15" xml:id="modrusiensis-riario15">
+Tanta uero animi moderatione erat ut irasceretur perraro, iratus autem <app>
+<lem>extemplo</lem>
+<rdg wit="#Ge #C #P #m #o" type="lexicographice">exemplo</rdg>
+</app>   
+animum ad tranquillitatem reuocaret. 
+De nullo obloquebatur, detrahebat nemini, 
+et, nisi familiarium suorum, aliorum 
+uitae minime erat curiosus. 
+Maximum eius conuicium putabatur si quem, 
+quod tamen parcissime fiebat, 
+per iocum aliquo 
+<app>
+<lem>urbanitatis</lem>
+<rdg wit="#pa" type="grammatice">urbanitate</rdg>
+</app>   
+sale respersisset.
+</p>
+<p n="16" xml:id="modrusiensis-riario16">
+Cibi uinique 
+<app>
+<lem>moderatissimi</lem>
+<rdg wit="#ve" type="grammatice">moderatissimus</rdg>
+</app>, 
+somnolentiae nullius, immo uero peruigil et qui multis quotidie horis auroram solitus esset praeoccupare; 
+quod totum tempus usque ad solis exortum 
+<app>
+<lem>grauioribus</lem>
+<rdg wit="#P" type="error" cause="scriptura">grouioribus</rdg>
+</app> 
+reipublicae cogitationibus impendere consueuerat, 
+quae 
+<app>
+<lem>tales</lem>
+<rdg wit="#m" type="lexicographice">quales</rdg>
+</app> 
+menti eius assidue obuersabantur quales mortalium animis uix illabi posse putares. 
+In cognatos 
+<app>
+<lem>ac</lem>
+<rdg wit="#m" type="synonymon">et</rdg>
+</app> 
+necessarios nequaquam prodigus, immo uero maxime parcus, 
+excepto hoc piissimo fratre comite Hieronymo; 
+quem quoniam ab inclito duce 
+<app>
+<lem>Mediolani</lem>
+<rdg wit="#m" type="lexicographice">Mediolanensi</rdg>
+</app> 
+<app>
+<lem>connubio</lem>
+<rdg wit="#Gd #P #m" type="grammatice">connubia</rdg>
+</app> 
+filiae dignatum 
+<app>
+<lem>cernebat</lem>
+<rdg wit="#va" type="lexicographice">retinebat</rdg>
+</app>, 
+uoluit 
+<app>
+<lem>fraterna</lem>
+<rdg wit="#va" type="lexicographice" cause="divisio">frater ita</rdg>
+</app> 
+munificentia illustrare. 
+Qua in re tale temperamentum adhibuit ut id cum ingenti honore ac laude sedis <app>
+<lem>apostolicae</lem>
+<rdg wit="#C #Gd" type="orthographia">appostolice</rdg>
+</app> 
+contingeret. 
+Vrbem 
+<app>
+<lem>enim</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app> 
+Imolam, quae iam praefecti eius culpa ad alios 
+<app>
+<lem>deuenerat</lem>
+<rdg wit="#R" type="error">deuenetra</rdg>
+</app>, 
+quadraginta milibus ducatorum de propriis facultatibus redemptam 
+<app>
+<lem>imperio</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+</app> 
+ecclesiae restituit. 
+Cuius exaugendi tanto flagrabat studio 
+ut ne 
+<app>
+<lem>minimam</lem>
+<rdg wit="#Ge" type="lexicographice" cause="antonymum">nimiam</rdg>
+</app> 
+quidem eius particulam deperire pateretur. 
+<app>
+<lem>Vnde</lem>
+<rdg wit="#Ge #o" type="lexicographice">Vade</rdg>
+</app> 
+urbem illam magis ecclesiae quam fratris gratia uoluit 
+<sic>uendicare</sic>.
+</p>
+<p n="17" xml:id="modrusiensis-riario17">
+Porro iustitiam ipsius ex illo spectare licet 
+quod in tanta 
+<app>
+<lem>rerum</lem>
+<rdg wit="#va" type="error" cause="dittographia">rerum rerum</rdg>
+</app>  
+potestate constitutus nemini uim attulit, nullum uiolenter oppressit. 
+Vnde et uicario illi Imolae, 
+quamuis de ecclesia male merito, 
+non solum uictum, sed nihil prioribus minores fortunas dari curauit. 
+Quattuordecim 
+<app>
+<lem>enim</lem>
+<rdg wit="#pa" type="omisit">Omisit.</rdg>
+</app> 
+milia ducatorum accepit 
+<app>
+<lem>et</lem>
+<rdg wit="#V" type="lexicographice">ec</rdg>
+<rdg wit="#P #m" type="lexicographice">hec</rdg>
+</app> 
+<app>
+<lem>opulentissimum</lem>
+<rdg wit="#C" type="error" cause="dittographia">opulenlentissimum</rdg>
+</app> 
+oppidum Bosti, 
+ex quo et aliis a duce adiectis praediis 
+plus quam quinque milia ducatorum quotannis capere poterit, 
+neque Imolam nisi eo uolente redimere uoluit. 
+Magistratus hortabatur ius suum absque ullo respectu cuique administrare. 
+Et licet 
+<app>
+<lem>nonnunquam</lem>
+<rdg wit="#co" type="error">nonniquam</rdg>
+</app>, 
+domesticorum amicorumque 
+<app>
+<lem>euictus</lem>
+<rdg wit="#pa" type="lexicographice">euectus</rdg>
+</app>  
+precibus, aut litteris aut nuntiis multos iudicibus commendaret, id tamen 
+<app>
+<lem>citra</lem>
+<rdg wit="#V #Gd #P" type="lexicographice">circa</rdg>
+<rdg wit="#m" type="variantes">circa al. citra</rdg>
+</app> 
+<app>
+<lem>cuiusque</lem>
+<rdg wit="#Gd" type="lexicographice" cause="lectioFalsa">cuiusq-m</rdg>
+</app> 
+iniuriam fieri uolebat. 
+Vnde et cum 
+<app>
+<lem>a</lem>
+<rdg wit="#P" type="error">o</rdg>
+</app> 
+gubernatore Vrbis aliquando interrogaretur quidnam de illis 
+<app>
+<lem>fieri uellet</lem>
+<rdg wit="#V #Gd #P #m #ve #pa #co" type="omisit">Omiserunt.</rdg>
+</app> 
+qui 
+<app>
+<lem>iniustam</lem>
+<rdg wit="#P" type="orthographia" cause="divisio">in iustam</rdg>
+</app> 
+causam fouentes tamen ipsius nomine commendabantur, 
+»Illud«, inquit, »ut iustitiam mearum precum gratia minime 
+<app>
+<lem>uioles</lem>
+<rdg wit="#P #m" type="grammatice">uiolet</rdg>
+</app>, 
+nec secus feceris etiam si te germanus meus 
+<app>
+<lem>Hieronymus</lem>
+<rdg wit="#P" type="orthographia">Hironimus</rdg>
+</app> 
+nomine meo aliud precabitur«.  
+Hoc ipsum et senatori Vrbis 
+<app>
+<lem>interrogatus respondit</lem>
+<rdg wit="#va" type="transpositio">respondit interrogatus</rdg>
+</app>, 
+hoc gubernatoribus, 
+hoc praefectis, 
+hoc omnibus legationis suae iudicibus saepe mandabat.  
+Dicebat enim se amicis operam suam rogantibus negare non posse, 
+sed illius causa non nisi iustum honestumque fieri permaxime uelle.  
+<app>
+<lem>Hinc</lem>
+<rdg wit="#C" type="lexicographice">Hic</rdg>
+</app> 
+et rescripta non nisi 
+<app>
+<lem>sanctissima</lem>
+<rdg wit="#pa" type="orthographia">sanctassima</rdg>
+</app> 
+faciebat 
+<app>
+<lem>atque</lem>
+<rdg wit="#P" type="orthographia">adque</rdg>
+</app>, 
+ne cui ministrorum peccandi daretur occasio, omnium decretorum suorum, similiter et litterarum, exemplaria apud notarios exstare iusserat.  
+Huius praeclarissimae uirtutis nec moriens obliuisci potuit; 
+nam, cum hortaretur ab amicis testamentum condere, 
+»Nihil«, inquit, »meum habeo; omnia sunt ecclesiae. 
+Supplicabitis tamen meo nomine summo pontifici ut aes alienum, cuius maiorem partem pro 
+<app>
+<lem>redimendis</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+</app> 
+ecclesiae rebus contraxi, 
+pro sua benignitate dissoluat.«
+</p>
+<p n="18" xml:id="modrusiensis-riario18">
+Cogor hoc loco potissimas eius 
+<app>
+<lem>praetermittere</lem>
+<rdg wit="#m" type="lexicographice" cause="haplographia">premittere</rdg>
+</app> 
+laudes, 
+<app>
+<lem>cum</lem>
+<rdg wit="#R" type="omisit">Omisit.</rdg>
+</app>  
+temporis exclusus angustia, 
+<app>
+<lem>tum</lem>
+<rdg wit="#Gd" type="ambigitur">t-n</rdg>
+</app>  
+<app>
+<lem>ipsarum</lem>
+<rdg wit="#co" type="grammatice">ipsa</rdg>
+</app>  
+rerum multitudine superatus.  
+Qualem se erga amicos, 
+<app>
+<lem>qualem</lem>
+<rdg wit="#m" type="addidit" cause="repetitio">qualem se</rdg>
+</app>  
+erga parentes, 
+et praesertim qualem erga ipsum summum pontificem gesserit, 
+malo haec 
+<app>
+<lem>omnia</lem>
+<rdg wit="#P" type="grammatice">omnis</rdg>
+</app>  
+in aliud tempus differre 
+quam adeo felicem meritorum ipsius copiam pauca dicendo uitiare.  
+Illud unum dicam, cunctis, qui eius consuetudinem nouerunt, attestantibus, 
+nullum fuisse tam piissimum filium, 
+nullum adeo parenti deditum, 
+aut cui maior et salutis et honoris genitoris sui cura fuit, 
+quam huic uni summi pontificis nostri 
+a prima eius familiaritatis die usque ad ultimum uitae exitum; 
+nullos pro eo recusauit subire labores, 
+nulla pericula deuitauit; 
+laborantem, aegrotantem, peregrinantem nunquam deseruit, 
+nunquam ab 
+<app>
+<lem>officio</lem>
+<rdg wit="#P" type="error" cause="dormitat">offico</rdg>
+</app>  
+<app>
+<lem>decessit</lem>
+<rdg wit="#R" type="lexicographice">discessit</rdg>
+</app>, 
+semperque, 
+<cit><ref>ut datus a Domino Tobiae angelus, 
+lateri haesit</ref>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="http://viaf.org/viaf/292395001">Tobias</title>
+   <biblScope>5–12</biblScope>
+  </bibl>
+</cit>; 
+aduersa procurauit, accersiuit prospera; 
+pia sedulitate fouit, coluit, ueneratus est, 
+ut nemini mirum uideri debeat 
+si aut uiuentem tantum dilexit 
+aut nunc mortui desiderio adeo moueatur.
+</p>
+<p n="19" xml:id="modrusiensis-riario19">
+Finem dicendi faciam si 
+<app>
+<lem>prius illud summum</lem>
+<rdg wit="#o" type="omisit">Omisit.</rdg>
+</app>  
+<app>
+<lem>eius</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>  
+pietatis munus paucis explicauero.  
+Compositis rebus suis totam mentem ad illud conuerterat ut dicere cum psalmista 
+<app>
+<lem>libere</lem>
+<rdg wit="#co" type="synonymon">libenter</rdg>
+</app>  
+posset: 
+<cit><quote>Domine, dilexi decorem domus tuae et gloriam habitationis tuae.</quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg035">Psalmi</title>
+   <biblScope>26, 8 (25, 8)</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario19" xml:id="p-f17-biblia">
+   <quote>Domine dilexi habitaculum domus tuae et locum tabernaculi gloriae tuae</quote>
+   </note>
+</cit>
+Proinde non 
+<app>
+<lem>cessabat</lem>
+<rdg wit="#P #m" type="grammatice">cessat</rdg>
+</app>  
+ecclesias suae curae commendatas collapsas erigere, 
+exornare 
+<app>
+<lem>deformes</lem>
+<rdg wit="#R" type="orthographia">difformes</rdg>
+</app>; 
+praedia occupata 
+<app>
+<lem>uendicare</lem>
+<rdg wit="#va" type="grammatice">uendicata</rdg>
+</app>, 
+bona priorum rectorum distracta negligentia 
+<app>
+<lem>propriis</lem>
+<rdg wit="#pa" type="error" cause="dormitat">propiis</rdg>
+</app>  
+pecuniis recuperare; 
+uestimenta, libros, 
+<app>
+<lem>uasa</lem>
+<rdg wit="#Gd #P" type="grammatice">uaso</rdg>
+</app>  
+sacra, et caetera ad splendorem diuini cultus spectantia maximis sumptibus coemere et, 
+quam praestantiora haberi 
+<app>
+<lem>poterant</lem>
+<rdg wit="#va" type="grammatice">potuerant</rdg>
+</app>, 
+comparare.  
+Testatur hanc eius munificentiam in hac Romana urbe diui Gregorii 
+<app>
+<lem>templum</lem>
+<rdg wit="#R" type="addidit" cause="amplificatio">sacratissimum templum</rdg>
+</app>  
+et prouentibus optime auctum et aedificiis perquam magnifice instauratum, 
+testatur 
+<app>
+<lem>Taruisii</lem>
+<rdg wit="#V Gd P m" type="orthographia">Taruixit</rdg>
+   <rdg wit="#co" type="orthographia">Taruixij</rdg>
+</app>  
+maior basilica 
+<app>
+<lem>non paruis</lem>
+<rdg wit="#V #Gd #P" type="grammatice">non parua</rdg>
+   <rdg wit="#R" type="addidit" cause="amplificatio">non paruis immo permultis opulentissime</rdg>
+</app>  
+ditata uectigalibus et diuino cultu maxime illustrata, 
+testatur Mediolani Ambrosii monasterium quod, 
+cum accepisset omnibus 
+<app>
+<lem>ornamentis</lem>
+<rdg wit="#R" type="addidit" cause="amplificatio">ornamentis, calicibus, libris, uasis sacris</rdg>
+</app>  
+spoliatum, tam praeclara instruxit suppellectili ut, quod 
+<app>
+<lem>prius</lem>
+<rdg wit="#R" type="addidit" cause="amplificatio">prius et non longis ante temporibus</rdg>
+</app>  
+<app>
+<lem>caeteris</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>  
+illius urbis obscurius esse consueuerat, 
+nunc splendore et 
+<app>
+<lem>omnifario</lem>
+<rdg wit="#C" type="orthographia">omniuario</rdg>
+</app>  
+apparatu uincat uniuersa. 
+Testatur 
+<app>
+<lem>Papiae</lem>
+<rdg wit="#C #V #Gd #Ge #P #R #m #co #o #pa #va #ve" type="orthographia">Papie</rdg>
+</app>  
+Maioli 
+<sic>phanum</sic> 
+in quo ne unum quidem uasculum in sacrificium reperit, 
+libros autem prorsus nullos, 
+adeo ut, quotiens diuina res 
+<app>
+<lem>patranda erat</lem>
+<rdg wit="#R" type="addidit" cause="amplificatio">patranda erat ac summo et immortali Deo sacrificandum</rdg>
+</app>, 
+opus esset ab aliis sacris aedibus 
+<app>
+<lem>omnia</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>  
+mutuari, nunc tanta 
+<app>
+<lem>cum</lem>
+<rdg wit="#R" type="synonymon">tum</rdg>
+</app>  
+omnium, tum praecipue 
+<app>
+<lem>libellorum</lem>
+<rdg wit="#Ge #R #va #o #ve #pa #co" type="synonymon">librorum</rdg>
+</app>, 
+calicum ac uestimentorum 
+<app>
+<lem>copia abundat</lem>
+<rdg wit="#V #Ge #R #P #m #va #ve #pa" type="orthographia">copia habundat</rdg>
+<rdg wit="#co" type="transpositio">habundat copia</rdg>
+</app>  
+ut aliae ecclesiae mutuum, quod praestare solebant, ab 
+<app>
+<lem>hac una</lem>
+<rdg wit="#va" type="transpositio">una hac</rdg>
+</app>  
+omnes 
+<app>
+<lem>accipiant</lem>
+<rdg wit="#R" type="addidit" cause="amplificatio">mutuo accipiant</rdg>
+</app>.  
+Huius 
+<app>
+<lem>eiusdem</lem>
+<rdg wit="#P" type="grammatice">eisdem</rdg>
+</app>  
+<sic>phani</sic> 
+distracta praedia multis laboribus, 
+sed multo 
+<app>
+<lem>maioribus</lem>
+<rdg wit="#P" type="error">maicabus</rdg>
+</app>  
+impensis, 
+omnia recuperauit et intra biennium plus quam decem milia ducatorum pro exaugendis rebus 
+<app>
+<lem>eius</lem>
+<rdg wit="#V #R #Gd #P #m" type="omisit">Omiserunt.</rdg>
+</app>  
+exposuit.  
+Haec quoque sacra apostolorum 
+<app>
+<lem>aedes</lem>
+<rdg wit="#co" type="delevit" cause="correctio"><del resp="#co1">eius</del> ędes</rdg>
+</app>  
+beneficentiam eius testari potuisset 
+<app>
+<lem>si</lem>
+<rdg wit="#Ge #C #va #o" type="addidit">et si</rdg>
+</app>  
+tantum quattuor mensibus superstitem uidisset. 
+Iam enim decreuerat et aedificiis et prouentibus hac proxima aestate ita 
+<app>
+<lem>eam</lem>
+<rdg wit="#C" type="grammatice" cause="dormitat">eum</rdg>
+</app>  
+instruere ut quinquaginta fratribus et commodae mansiones et 
+<app>
+<lem>necessarius</lem>
+<rdg wit="#R" type="grammatice">necessarios</rdg>
+<rdg wit="#va" type="grammatice">necessarium</rdg>
+</app>  
+uictus perpetuo suppetere posset.  
+Insuper et bibliothecam his proximis diebus adiecturus erat praestantissimis omnium scientiarum libris 
+<app>
+<lem>egregie</lem>
+<rdg wit="#C" type="orthographia">eggregie</rdg>
+</app>  
+refertam.  Sed Dei 
+<app>
+<lem>uoluntate</lem>
+<rdg wit="#va" type="orthographia">uolunptate</rdg>
+</app>  
+nobis tam repente 
+<app>
+<lem>ademptus</lem>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">adeptus</rdg>
+</app>  
+est; non quod tam piis operibus non delectaretur Deus, uerum, quod ualde pertimesco, ut eum calamitatibus, quibus forsan in nostra crimina 
+<app>
+<lem>desaeuire</lem>
+<rdg wit="#C" type="grammatice">deseuiere</rdg>
+</app>  
+decreuit, 
+<app>
+<lem>immeritum</lem>
+<rdg wit="#R" type="lexicographice" cause="lectioFalsa">interitum</rdg>
+</app>  
+subtraheret et 
+pro adimpleto bene 
+<app>
+<lem>ministerio</lem>
+<rdg wit="#P #o" type="orthographia">misterio</rdg>
+</app>, 
+cuius gratia eum procreauerat, congruis praemiis 
+<app>
+<lem>afficere</lem>
+<rdg wit="#C" type="lexicographice">efficere</rdg>
+</app>  
+non differret.</p>
+   
+<p n="20" xml:id="modrusiensis-riario20">
+Cuius miserationis dilectionisque certa indicia 
+<app>
+<lem>in</lem>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">iam</rdg>
+</app>  
+ipsius uidimus morte 
+quam, cum multis ante diebus aduentare praesentiret, 
+intrepidus tamen expectauit.  
+<app>
+<lem>Languoris</lem>
+<rdg wit="#C #Gd" type="grammatice">Languor</rdg>
+</app>  
+dolores 
+mira patientia pertulit.  
+Delicta, quae 
+<app>
+<lem>uel</lem>
+<rdg wit="#o" type="omisit">Omisit.</rdg>
+</app>  
+aetatis uel fortunae uitio pro fragilitate humana contraxerat, 
+pia confessione saepius diligentiusque purgauit et 
+<app>
+<lem>munitus</lem>
+<rdg wit="#V #Gd #P" type="lexicographice" cause="transpositioLitterarum">minutus</rdg>
+</app>  
+caelesti uiatico, 
+quod summa cum 
+<app>
+<lem>deuotione</lem>
+<rdg wit="#P" type="orthographia" cause="error">douotione</rdg>
+</app>  
+acceperat, diuinam uoluntatem accinctus praestolabatur.  
+<app>
+<lem>Iamque</lem>
+<rdg wit="#R" type="lexicographice">Iam enim</rdg>
+</app>  
+uicinus morti domesticos ac familiares accersiri iubet, 
+quibus praesto exsistentibus in nullos prorupit fletus, 
+<app>
+<lem>nullis</lem>
+<rdg wit="#P #m" type="lexicographice" cause="antonymum">multis</rdg>
+</app>  
+mundanarum cupiditatum desideriis ingemuit, non Deum, non fortunam 
+<app>
+<lem>accusauit</lem>
+<rdg wit="#o" type="grammatice">accusat</rdg>
+</app>  
+nec se in medio iuuentutis flore ex tanto imperio et ex 
+<app>
+<lem>talibus</lem>
+<rdg wit="#va" type="lexicographice">tantis</rdg>
+</app>  
+<app>
+<lem>opibus</lem>
+<rdg wit="#V #Gd #P #m" type="lexicographice" cause="lectioFalsa">operibus</rdg>
+</app>  
+subtrahi uel 
+<app>
+<lem>leuiter</lem>
+<rdg wit="#va" type="error" cause="transpositioLitterarum">ueliter</rdg>
+</app>  
+indoluit; 
+quin magno constantique pectore 
+»Sentio,« inquit, »filii fratresque mei, 
+manum Domini super me aggrauari; 
+<app>
+<lem>uolens</lem>
+<rdg wit="#V #Gd #P #m #pa" type="lexicographice" cause="antonymum">nolens</rdg>
+</app>  
+<app>
+<lem>lubensque</lem>
+<rdg wit="#R" type="orthographia">libensque</rdg>
+</app> 
+eius praesto 
+<app>
+<lem>sum</lem>
+<rdg wit="#o" type="omisit">Omisit.</rdg>
+</app>  
+uoluntati, 
+<app>
+<lem>eo</lem>
+<rdg wit="#co" type="lexicographice">Ego</rdg>
+</app>  
+quidem 
+<app>
+<lem>libentior</lem>
+<rdg wit="#va" type="synonymon">liberior</rdg>
+</app>  
+quo me 
+et famae et gloriae meae satis uixisse scio.  
+Cepi enim illum ex hac mortalitate fructum quem maximum mea fortuna capere potuit.  
+Maius restabat nihil; quicquid supererat, merito mihi suspectum metuendumque fuisset.  
+<app>
+<lem>Proinde</lem>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">Prouide</rdg>
+</app>  
+licet 
+<cit><quote>cupiam dissolui et esse cum Christo, uror tamen sola uestrarum 
+<app>
+<lem>rerum cura</lem>
+<rdg wit="#o" type="transpositio">cura rerum</rdg>
+</app></quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg011">Epistula ad Philippenses</title>
+   <biblScope>1, 23–24</biblScope>
+  </bibl>
+<note type="source" target="#modrusiensis-riario20" xml:id="p-f21-biblia">
+   <quote>coartor autem e duobus desiderium habens dissolui et cum Christo esse multo magis melius permanere autem in carne magis necessarium est propter uos</quote></note>
+</cit>.  Cognosco enim me tenuem uobis 
+<app>
+<lem>mercedem</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>  
+pro meritis 
+<app>
+<lem>exhibuisse</lem>
+<rdg wit="#Gd #P" type="orthographia">exipuisse</rdg>
+</app>, 
+tametsi 
+<app>
+<lem>nunquam mihi uoluntas</lem>
+<rdg wit="#va" type="transpositio">mihi nunquam uolunptas</rdg>
+</app>  
+defuerit, sed facultas.  
+Et, nisi tanta temporis angustia prohibitus fuissem, nullus uestrum meae gratitudinis uices doleret.  
+Meritum, quod potui, moriens uobis persolui.  
+<app>
+<lem>Supplicaui</lem>
+<rdg wit="#o" type="grammatice">Supplicat</rdg>
+</app>  
+summo pontifici ut beneficia, 
+quae in me contulerat, 
+sua clementia inter uos partiatur, 
+ut et uos meritorum uestrorum et me non praestiti officii 
+<app>
+<lem>minus</lem>
+<rdg wit="#m" type="lexicographice" cause="lectioFalsa">munus</rdg>
+</app>  
+paeniteat.  
+Ad haec compellit me et uehementius urget mea erga uos incredibilis caritas ut uos horter atque obtester ne huius mundi illecebris atque lenociniis animum uestrum inducatis neue in luxu ac 
+<app>
+<lem>inanibus</lem>
+<rdg wit="#Gd #P" type="lexicographice" cause="lectioFalsa">manibus</rdg>
+<rdg wit="#va" type="lexicographice" cause="divisio">in anibus</rdg>
+</app>  
+eius diuitiis spem 
+<app>
+<lem>ullam</lem>
+<rdg wit="#o" type="lexicographice">aliam</rdg>
+</app>  
+ponatis; quae 
+<app>
+<lem>quam fluxae quamque fallaces</lem>
+<rdg wit="#ve" type="lexicographice" cause="lectioFalsa">quamquam fluxae quamquam fallaces</rdg>
+</app>  
+sint, ego unus uobis maximo possum esse documento.  
+Credite quoniam 
+<cit><quote>puluis et umbra sumus</quote>
+  <bibl>
+   <author ref="http://viaf.org/viaf/100227522">Horatius</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0893.phi001">Carmina</title>
+   <biblScope>4, 7, 16</biblScope>
+  </bibl>
+</cit> 
+et non hic, sed 
+alibi permanentes habemus mansiones, 
+ubi nihil corruptibile, nihil caducum esse potest, sed omnia incorruptibilia, omnia sempiterna.  Proinde date operam probitati et uirtuti totis uiribus incumbite.  
+Colite pietatem, 
+<app>
+<lem>integritati</lem>
+<rdg wit="#Ge #R #C #Gd #va #o #ve #pa #co" type="addidit">et integritati</rdg>
+</app>  
+nihil anteponite scientes unicuique uestrum 
+propositam 
+<app>
+<lem>esse a Domino</lem>
+<rdg wit="#va" type="omisit" cause="lectioFalsa">a Deo</rdg>
+</app>  
+laborum suorum mercedem; 
+quae etiam si nulla esset, hoc tamen ipsum 
+pie et sancte uixisse 
+<app>
+<lem>maxima</lem>
+<rdg wit="#R" type="grammatice">maxime</rdg>
+</app>  
+uiro bono merces esse debet, 
+quippe cuius 
+<app>
+<lem>beneficio</lem>
+<rdg wit="#va" type="omisit">Omisit.</rdg>
+</app>  
+homines a brutis secernuntur et nomen suum sempiternae 
+<app>
+<lem>consecrant</lem>
+<rdg wit="#P" type="grammatice">consecrauit</rdg>
+</app>  
+immortalitati.
+</p>
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f18-biblia">
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg011">1 Samuel</title>
+   <biblScope>5, 6</biblScope>
+  </bibl>: <quote>Aggravata est autem manus Domini super Azotios</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f19-seneca">
+  <bibl>
+   <author ref="http://viaf.org/viaf/90637919">Seneca</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1017.phi015">Epistulae</title>
+   <biblScope>4, 37, 2</biblScope>
+  </bibl>: <quote>ut volens libensque patiaris</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f20-cicero">
+  <bibl>
+   <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0474.phi032">Pro Marcello</title>
+   <biblScope>25</biblScope>
+  </bibl>: <quote>Itaque illam tuam praeclarissimam et sapientissimam vocem invitus audivi: »Satis diu vel naturae vixi vel gloriae.«</quote>
+   </note>
+   
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f21-petrusdamiani">
+   <bibl>
+   <author ref="http://viaf.org/viaf/50018008">Petrus Damianus</author>
+   <title>De ordine eremitarum et facultatibus eremi Fontis Avellani</title>
+   <biblScope>PL145, 0334B</biblScope>
+  </bibl>: <quote>Non itaque ad monasterialem laxitudinem ab eremitica vos libeat districtione descendere: et, relicta lege spiritus, carnis illecebris et lenociniis consentire.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f21-sidonius">
+   <bibl>
+   <author ref="http://viaf.org/viaf/89203537">Sidonius Apollinaris</author>
+   <title>Epistulae</title>
+   <biblScope>2, 13, 3</biblScope>
+  </bibl>: <quote>solus iste peculiaris tuus Maximus maximo nobis documento poterit esse</quote>
+   </note>
+   
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f23-biblia">
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg004">Iohannes</title>
+   <biblScope>14, 2</biblScope>
+  </bibl>: <quote>in domo Patris mei mansiones multae sunt</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario20" xml:id="p-f24-biblia">
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg033">Sapientia</title>
+   <biblScope>10, 17</biblScope>
+  </bibl>: <quote>reddidit iustis mercedem laborum suorum</quote>
+   </note>
+<p n="21" xml:id="modrusiensis-riario21">
+Reliquum est quod uos 
+per uiscera misericordiae Saluatoris nostri 
+supplex deprecor ut mihi, quaecumque in uos deliqui, condonare dignemini.  
+Minus quippe meae iuuentutis potens fui et nonnunquam partim oculos, 
+partim aures uestras in multis offendi.  
+<app>
+<lem>Sed eorum tanto facilius me a Domino misericordiam 
+consecuturum confido quanto uos modestius uiuentes pro me Dominum deprecabimini.</lem>
+<rdg wit="#V #Ge #ve #o" type="grammatice">Sed eorum tanto facilius me a Domino misericordiarum consecuturum confido quanto uos modestius uiuentes pro me Dominum deprecabimini.</rdg>
+<rdg wit="#R" type="grammatice">Sed eorum tanto facilius me a Domino misericordiam 
+consecuturum confido quanto uos modestius uiuentes pro me Dominum Deum immortalem deprecabimini.</rdg>
+<rdg wit="#P #m" type="omisit">Omiserunt.</rdg>
+</app>  
+Ego quoque, si quis mortuis erit sensus, idem pro uobis me spondeo facturum.
+<app>
+<lem>Viuite</lem>
+<rdg wit="#P" type="lexicographice" cause="haplographia">Uite</rdg>
+</app> 
+mei memores et, 
+quam caduca sit huius mundi felicitas, uel meo exemplo 
+<app>
+<lem>discite</lem>
+<rdg wit="#C" type="synonymon">addiscite</rdg>
+</app>.«
+         </p>
+   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-biblia">
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg003">Lucas</title>
+   <biblScope>1, 78</biblScope>
+  </bibl>: <quote>per viscera misericordiae Dei nostri in quibus visitavit nos oriens ex alto</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-seneca">
+  <bibl>
+   <author ref="http://viaf.org/viaf/90637919">Seneca</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0255.stoa004">De brevitate vitae</title>
+   <biblScope>18, 5</biblScope>
+  </bibl>: <quote>Modo modo intra paucos illos dies, quibus C. Caesar perit, si quis inferis sensus est, hoc gravissime ferens</quote>
+      <bibl>
+   <author ref="http://viaf.org/viaf/90637919">Seneca</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0255.stoa008">De consolatione ad Polybium</title>
+   <biblScope>9, 2</biblScope>
+  </bibl>: <quote>Quid itaque iuvat dolori intabescere, quem, si quis defunctis sensus est, finiri frater tuus cupit?</quote>
+      <bibl>
+   <author ref="http://viaf.org/viaf/90637919">Seneca</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1017.phi010">Octavia</title>
+   <biblScope>10–13</biblScope>
+  </bibl>: <quote>semper, genetrix, deflenda mihi, / prima meorum causa malorum, / tristes questus natae exaudi, / si quis remanet sensus in umbris</quote>
+      <bibl>
+   <author ref="http://viaf.org/viaf/100904338">Statius</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1020.phi001">Thebais</title>
+   <biblScope>12, 214–215</biblScope>
+  </bibl>: <quote>et nunc me duram, si quis tibi sensus ad umbras, / me tardam Stygiis quereris, fidissime, divis.</quote>
+      <bibl>
+   <author ref="http://viaf.org/viaf/24616821">Marcus Iunianus Iustinus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:stoa0167.stoa001">Epitoma historiarum Philippicarum</title>
+   <biblScope>6, 1, 17</biblScope>
+  </bibl>: <quote>Quamobrem etiam Philippum Alexandrumque, si quis manium sensus est, non interfectores suos ac stirpis suae, sed ultores eorum Macedoniae regnum tenere malle.</quote>
+   </note>
+   <note type="parallel" target="#modrusiensis-riario21" xml:id="p-f25-curtius">
+  <bibl>
+     quam caduca sit huius mundi felicitas: 
+   <author ref="http://viaf.org/viaf/73866222">Curtius Rufus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0860.phi001">Historiae Alexandri Magni</title>
+   <biblScope>8, 14, 44; 63</biblScope>
+  </bibl>: <quote>expertus es, quam caduca felicitas esset.</quote>
+   </note>
+<p n="22" xml:id="modrusiensis-riario22">
+His atque aliis huiusmodi plerisque summa cum religione sanctissime monitos singulos 
+flentes eiulantesque 
+<app>
+<lem>deosculatus</lem>
+<rdg wit="#C" type="grammatice">deosculatos</rdg>
+</app> 
+dimisit.  
+Se autem in lectulo componens 
+intentis iugiter in caelum oculis 
+misericordiam peccatorum suorum supplex 
+<app>
+<lem>a</lem>
+<rdg wit="#ve" type="omisit">Omisit.</rdg>
+</app> 
+Domino precabatur.  
+Cumque iam nox intempesta medium cursum peregisset, 
+conuersus ad Viterbiensem praesulem »Ecce«, inquit, <cit>
+   <quote>
+      appropinquat
+<app>
+<lem>iam</lem>
+<rdg wit="#C" type="omisit">Omisit.</rdg>
+</app> hora</quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg001">Matthaeus</title>
+   <biblScope>26, 45</biblScope>
+  </bibl>
+   <note type="source" xml:id="p-f26-biblia"><quote>ecce appropinquavit hora</quote>
+   </note></cit>; 
+affer mihi sacrae unctionis oleum.«  
+Quod confestim cubiculo illatum nudato ac sublato, 
+ut poterat, capite religiose ueneratus est, 
+deinde exhibitis manibus ac pedibus rite perunctus; 
+quo 
+<app>
+<lem>facto</lem>
+<rdg wit="#co" type="orthographia">fatto</rdg>
+</app> 
+<app>
+<lem>»Proferte«, inquit</lem>
+<rdg wit="#va" type="transpositio">inquit: »Proferte</rdg>
+</app>, 
+»sacros codices et aliquid de diuinis 
+<app>
+<lem>mysteriis</lem>
+<rdg wit="#V #Ge #R #C #P #Gd #ve #va #pa #m #o" type="orthographia">misteriis</rdg>
+</app> 
+meam Domino animam commendantes 
+<app>
+<lem>recitate</lem>
+<rdg wit="#C" type="grammatice">recitare</rdg>
+</app>.«  
+Quibus mox prolatis usque in lucem partim psalmi decantati sunt, partim 
+<app>
+<lem>lecta</lem>
+<rdg wit="#o" type="synonymon">electa</rdg>
+</app> 
+euangelia; 
+semperque intentus auribus atque oculis in ea, 
+quae legebantur, etiam deficiente spiritu perstitit, 
+donec lector Dominicae passionis ad illum locum peruenit 
+ubi scriptura inquit 
+<cit>
+   <quote>
+et inclinato 
+<app>
+<lem>capite</lem>
+<rdg wit="#pa" type="error" cause="dormitat">capito</rdg>
+</app> 
+emisit spiritum.
+   </quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/223078470">Biblia, Testamentum Novum</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0031.tlg004">Iohannes</title>
+   <biblScope>19, 30</biblScope>
+  </bibl>
+   <note type="source" xml:id="p-f27-biblia">
+      <quote>et inclinato capite tradidit spiritum</quote>
+   </note>
+</cit>
+<app>
+<lem type="potissimum">Ad hanc uocem illa dilecta Deo anima ueluti certo accepto signo ad Dominum suum confestim euolauit.</lem>
+<rdg wit="#Ge #C #va #o" type="omisit">Omiserunt.</rdg>
+</app>
+</p>
+   
+<p n="23" xml:id="modrusiensis-riario23">
+O felix atque iterum felix 
+cui et 
+<app>
+<lem>uita</lem>
+<rdg wit="#pa" type="grammatice">uitae</rdg>
+</app> 
+summam dedit gloriam et mors ipsa meritam diuinitatem non denegauit!  
+Non est ergo quod eius casu ingemiscere 
+<app>
+<lem>habeamus</lem>
+<rdg wit="#ve" type="lexicographice">debeamus</rdg>
+</app>, 
+quoniam 
+in paucis annis maximam aetatem compleuit; 
+nec sibi nec gloriae suae parum uixit qui, quaecumque 
+unius hominis fortuna capere potuit, 
+<app>
+<lem>abunde</lem>
+<rdg wit="#va" type="orthographia">habunde</rdg>
+</app> 
+consecutus est.  
+Nobis forsan amplius 
+<app>
+<lem>uiuere</lem>
+<rdg wit="#R #ve #pa #co" type="omisit">Omiserunt.</rdg>
+</app> 
+poterat, et nimirum magno 
+et ornamento et utilitati. 
+Sed non est amicorum officium 
+sua commoda ex amici 
+<app>
+<lem>spectare</lem>
+<rdg wit="#va" type="synonymon">expectare</rdg>
+</app> incommodis.  
+Quicquid superuixisset, doloribus superuixisset et laboribus; 
+quibus quoniam eum diuina clementia misericorditer subduxit, 
+gratias illi agamus atque dicamus: 
+<cit>
+<quote>Dominus dedit, Dominus abstulit; sicut Domino placuit ita factum est; sit nomen Domini benedictum.</quote>
+  <bibl>
+   <author role="opus" ref="http://viaf.org/viaf/8394148997616159870005">Biblia, Testamentum Vetus</author>
+   <title ref="https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0527.tlg032">Iob</title>
+   <biblScope>1, 21</biblScope>
+  </bibl>
+   <note type="parallel" target="#modrusiensis-riario23" xml:id="p-f29-biblia">
+    Cf.  <bibl>
+   <author ref="http://viaf.org/viaf/23432692">Nicolaus Modrussiensis</author>
+   <title>De consolatione</title>
+   <biblScope>II, 6, 7</biblScope>
+  </bibl>
+   </note>
+</cit>
+<app>
+<lem>Amen.</lem>
+   <rdg wit="#Ge #o" type="addidit">Amen. ET SIC EST FINIS.</rdg>
+<rdg wit="#C" type="addidit">Amen. Laus Deo. Impressum Padue die penultima Augusti 1482 per Matheum Cerdonis.</rdg><rdg wit="#m" type="addidit">Amen. Laus Deo. I. H. S.</rdg>
+</app>
+</p>
+   <note type="parallel" target="#modrusiensis-riario23" xml:id="p-f28-terentius">
+  <bibl>
+   <author ref="http://viaf.org/viaf/66462384">Terentius</author>
+   <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0134.phi001">Andria</title>
+   <biblScope>627–628</biblScope>
+  </bibl>: <quote>ex incommodis alterius sua ut comparent commoda</quote>
+   </note>
+   
+                                    </div>
+            <div type="textpart" n="2" xml:id="epigrammata">
+            <app>
+            <lem type="potissimum">
+                  <div n="e1" xml:id="modrusiensis-riario-epigr1">
+                     <head>In laudem libelli</head>
+                     <l>Ęloquio uires quantę sint, aspice, lector</l>
+                     <l>Quem prius odisti, protinus hunc peramas.</l>
+                  </div>
+                  <div n="e2" xml:id="modrusiensis-riario-epigr2">
+                     <head><sic>Epithaphion</sic></head>
+                     <l>Nemo magis docuit perituri temnere sęcli</l>
+                     <l>Diuitias, fastum, luxuriemque simul.</l>
+                  </div>
+                  <div n="e3" xml:id="modrusiensis-riario-epigr3">
+                     <head>Aliud.</head>
+                     <l>Quam celeris fugiat ruituri gloria mundi</l>
+                     <l>Me speculum cernas quisque uiator ades.</l>
+                  </div>
+                  <div n="e4" xml:id="modrusiensis-riario-epigr4">
+                     <head>Aliud.</head>
+                     <l>Sorte humili natum qui me cognouerit ante</l>
+                     <l>Fortunę uarios rideat ille iocos.</l>
+                  </div>
+               </lem>
+            <rdg wit="#V #R #P #C #Gd #Ge #co #m #va #pa #o" type="omisit">
+               Versus leguntur tantummodo in ve. Alii omiserunt.
+            </rdg>
+         </app>
+         </div>
+         </div>
+      </body>
+      <back>
+         
+      </back>
+   </text>
+</TEI>

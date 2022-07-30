@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="nicolausmodrusiensis.oratioriario.croala-ldlt.verba.stilistica">
+         <titleStmt>
+            <title>Oratio in funere Petri Riarii, verba cum lemmatibus et rhetoricis annotationibus, versio electronica</title>
+            <author ref="nikolamodr01">
+               <persName xml:lang="hr">Nikola Modruški</persName>
+               <date>c. 1427-1480</date>
+            </author>
+            <editor xml:id="v6913774">
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Altera editio electronica.</edition>
+         </editionStmt>
+         <extent ana="C">Mg:C Verborum 4115</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Neolatina Croatica, znanstveni projekt na<orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u
+                     Zagrebu</ref>
+               </orgName>,<placeName ref="3186886">Zagreb</placeName>Hrvatska.<date>srpanj
+                  2021</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+         </sourceDesc>
+         <!-- Lemmatized, connected with LiLa; 31 word without LiLa URI -->
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <p/>
+         </settingDesc>
+         <particDesc>
+            <p/>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1474" period="14xx_3_third">1474</date>
+            <placeName>Rim</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 15 (1401-1500)</term>
+               <term>1451-1500</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - oratio</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2022-04-09</date> 
+            Added topical annotation to p and s elements, described the annotation in interpGrp 2.
+            Corrections to annotations (change of names, transferred some from s to phr).
+         </change>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2022-03-26</date> Further revision of sylistic annotations.</change>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2021-05-24</date> Add annotation of rhetorical figures inside the phr element.</change>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2021-05-10</date> Lemmatized, reviewed, corrected POS.</change>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <persName>Luka Špoljarić</persName>
+            <date>2012-02-15</date>Novo, unificirano zaglavlje.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="prosa-oratio"
+      xml:base="urn:cts:croala:nicolausmodrusiensis.oratioriario.croala-ldlt.verba.stilistica:"
+      xml:lang="lat">
+      <body n="body1">
+         <div type="textpart" n="1" xml:id="part1">
+            <head n="head1">
+               <s n="s1"> Oratio in funere reuerendissimi domini domini Petri cardinalis sancti
+                  Sixti habita a reuerendo patre domino Nicolao episcopo Modrusiensi . </s>
+            </head>
+            <p n="p1" xml:id="modrusiensis-riario01stilistica" ana="#arg-exordium">
+               <s n="s1">
+                  <phr rendition="#hang" ana="#divisio">Cum in omni funebri celebratione duo
+                     praecipue dicendi genera a maioribus nostris usurpari soleant , amplissimi
+                     patres , alterum quo tristes amicorum animos maerore leuarent , <phr
+                        rendition="#hang" ana="#antithesis">quibus cum amici uita suauissima
+                        exstitit , mors ipsa <phr rendition="#hang" ana="#litotes"> iocunda esse non
+                           potuit</phr>
+                     </phr> , alterum quo extremum amici munus rebus ab eo bene gestis uirtutum que
+                     ipsius <phr rendition="#hang" ana="#bimembre">copia ac splendore</phr>
+                     amplissimis laudibus exornarent , <phr rendition="#hang" ana="#incrementum">
+                        <phr rendition="#hang" ana="#hyperbaton"> illud ego prius consolationis
+                           genus </phr> ita prorsus in omne tempus perdidi ut <phr rendition="#hang"
+                           ana="#hyperbaton"> magis ipse solacio egeam</phr> quam ut illud cuique
+                           <phr rendition="#hang" ana="#parallelismus #bimembre #anaphora">uel
+                           praestare possim uel polliceri</phr>
+                     </phr>
+                  </phr> . </s>
+               <s n="s2">
+                  <phr rendition="#hang" ana="#incrementum"> Quod etiam si <phr rendition="#hang"
+                        ana="#synecdocha #synecdocha-specie-genus">minime perdidissem</phr> ,
+                     nunquam tamen dispicere possem <phr rendition="#hang"
+                        ana="#sonus #paronomasia #bimembre #polyptoton">qua oratione aut quibus
+                        rationibus</phr> etiam illi quidem , qui principes eloquentiae sunt habiti ,
+                        <phr rendition="#hang" ana="#dicolon #parallelismus">hanc tam grauem
+                        sacrosancti senatus uestri iacturam et hunc publicum totius Curiae
+                        luctum</phr>
+                     <phr rendition="#hang" ana="#anastrophe">ulla ex parte</phr> leuari possent
+                     .</phr>
+               </s>
+            </p>
+            <p n="p2" xml:id="modrusiensis-riario02stilistica" ana="#arg-exordium">
+               <s n="s1"> Perdidistis enim , patres amplissimi , praestantissimum collegam uestrum ,
+                     <phr rendition="#hang" ana="#parallelismus #dicolon #homoioteleuton">cuius
+                     suauissimam consuetudinem , comitatem , benignitatem , liberalitatem que
+                     quotidie experiebamini , cuius ingenii dexteritatem et incredibilem consilii
+                     prudentiam in dies magis admirabamini</phr> . </s>
+               <s n="s2"> Amisistis <phr rendition="#hang" ana="#metonymia">summi pontificis ,
+                     patris uestri piissimi , <phr rendition="#hang" ana="#alliteratio">singulare
+                        solacium</phr>
+                  </phr> et <phr rendition="#hang" ana="#metaphora #poetice">
+                     <phr rendition="#hang" ana="#metonymia #synecdocha #abstractum">sacrae eius
+                        senectutis</phr> optatissimum baculum</phr> , <phr rendition="#hang"
+                     ana="#chiasmus">participem secretorum , laborum socium</phr> , <phr
+                     rendition="#hang" ana="#chiasmus">peregrinationis comitem , <phr
+                        rendition="#hang" ana="#abstractum #metonymia">leuamen curarum</phr>
+                  </phr> , et per quem totius orbis principibus fidissima responsa <phr
+                     rendition="#hang" ana="#bimembre #anaphora #anastrophe">et reddere consueuerat
+                     et accipere</phr> . </s>
+               <s n="s3">
+                  <phr rendition="#hang" ana="#chiasmus #exclamatio">Absit uero inuidia et <phr
+                        rendition="#hang" ana="#synecdocha #abstractum #personificatio #poetice">
+                        liuor edax saltem <phr rendition="#hang" ana="#synecdocha">parcat</phr>
+                        cineribus</phr>
+                  </phr> . </s>
+               <s n="s4">
+                  <phr rendition="#hang" ana="#dicolon #homoioteleuton #parallelismus">
+                     <phr rendition="#hang" ana="#metaphora">Extinctus iacet</phr> optimarum artium
+                     deditissimus amator ; interiit omnium studiosorum praecipuus fautor</phr> ,
+                     <phr rendition="#hang" ana="#chiasmus">cultor bonorum , <phr rendition="#hang"
+                        ana="#abstractum #metonymia">Curiae splendor</phr>
+                  </phr> , <phr rendition="#hang" ana="#chiasmus">
+                     <phr rendition="#hang" ana="#metonymia #abstractum">ornamentum ciuitatis</phr>
+                     , et huius urbis diligentissimus restaurator</phr> . </s>
+               <s n="s5">
+                  <phr rendition="#hang" ana="#dicolon #parallelismus #poetice">
+                     <phr rendition="#hang" ana="#metaphora">Corruit <phr rendition="#hang"
+                           ana="#metonymia #abstractum">praeclarum magnanimitatis exemplar</phr>
+                     </phr> ; <phr rendition="#hang" ana="#metaphora">cecidit munificentiae ,
+                        gratitudinis , et totius liberalitatis alumnus</phr>
+                  </phr> . </s>
+               <s n="s6"> Cuius iactura <phr rendition="#hang" ana="#incrementum"> cum uniuersis
+                     lugenda sit , tum mihi praecipue atque his infelicissimis conseruis meis</phr>
+                  quibus <phr rendition="#hang" ana="#personificatio">haec <phr rendition="#hang"
+                        ana="#synonymia">crudelis et dira</phr> mors tam <phr rendition="#hang"
+                        ana="#hyperbaton">benignissimum abstulit dominum</phr> , interuertit
+                     benefactorem , ademit praesidium , et unico atque eodem piissimo patre nos <phr
+                        rendition="#hang" ana="#sonus">acerba orbauit</phr>
+                  </phr> . </s>
+               <s n="s7">
+                  <phr rendition="#hang" ana="#epanalepsis #diacope">Nolite igitur , nolite</phr>
+                  exspectare , praestantissimi patres , ut <phr rendition="#hang"
+                     ana="#synonymia #bimembre">luctum ac maerorem</phr> , in quo et uos nunc esse
+                  intueor et me ac totam hanc miserandam familiam , quoad uixerimus , fore necesse
+                  est , uobis adimam . </s>
+               <s n="s8"> Quin potius pro uestra clementia <phr rendition="#hang"
+                     ana="#abstractum #metonymia">
+                     <phr rendition="#hang" ana="#alliteratio">dabitis dolori</phr> meo ueniam</phr>
+                  si eius <phr rendition="#hang" ana="#alliteratio">acerbitate abductus</phr>
+                  <phr rendition="#hang" ana="#dicolon #anaphora #chiasmus"> nec rerum ordinem
+                     seruare ualeam nec <phr rendition="#hang" ana="#hyperbaton">uerborum tenere
+                        modum</phr>
+                  </phr> , praesertim cum <phr rendition="#hang" ana="#incrementum"> ea culpa
+                     libentius ego carere uellem quam illam a uobis deprecari si <phr
+                        rendition="#hang" ana="#metaphora">mihi impositum onus detractare</phr>
+                     licuisset</phr> ; <phr rendition="#hang" ana="#dicolon"> agam tamen ut potero
+                     et <phr rendition="#hang" ana="#incrementum"> minus temeritatis quam
+                        ingratitudinis <phr rendition="#hang" ana="#metaphora">notam subire</phr>
+                        uerebor</phr> .</phr>
+               </s>
+            </p>
+            <p n="p3" xml:id="modrusiensis-riario03stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-genus"> Dicturus igitur de laudibus reuerendissimi domini domini
+                  Petri cardinalis Sancti Sixti , cuius miserandum funus hodierna die celebratur ,
+                  eas laudes , quas <phr rendition="#hang" ana="#bimembre #anaphora">uel a
+                     parentibus uel a patria ipsius</phr> colligere poteram , hoc loco <phr
+                     rendition="#hang" ana="#alliteratio">praetermittendas putaui</phr> ; non quod
+                  illas <phr rendition="#hang" ana="#anaphora #bimembre">aut obscuras aut
+                     tenues</phr> fore duxerim , quoniam <phr rendition="#hang"
+                     ana="#dicolon #parallelismus">et honestissimis nobilissimis que ciuitatis suae
+                     parentibus est ortus et celeberrimo uetusto que Ligurum oppido Saona</phr> ,
+                  uerum quod <phr rendition="#hang" ana="#incrementum"> ipse illis tanto <phr
+                        rendition="#hang" ana="#synonymia #pleonasmus #bimembre"> decori ac
+                        ornamento</phr> fuerit ut <phr rendition="#hang"
+                        ana="#pleonasmus #synonymia #bimembre">
+                        <phr rendition="#hang" ana="#anastrophe">toto in orbe</phr> extremis que
+                        terrarum finibus</phr>
+                     <phr rendition="#hang" ana="#pleonasmus #synonymia #bimembre">amplissimis
+                        laudibus summa que gloria</phr>
+                     <phr rendition="#hang" ana="#anaphora #polyptoton">et celebrantur nunc et
+                        omnibus futuris saeculis <phr rendition="#hang" ana="#litotes">non desinent
+                           celebrari</phr>
+                     </phr>
+                  </phr> . </s>
+               <s n="s2" ana="#arg-virtutes">
+                  <phr rendition="#hang" ana="#aversio">Quae quidem tametsi satis grandis eius
+                     gloria sit , <phr rendition="#hang" ana="#incrementum"> qui maioribus suis tam
+                        insignia uirtutis ornamenta dederit potius quam ab illis acceperit</phr> ,
+                     habeo tamen et alias <phr rendition="#hang" ana="#bimembre">immortales ac
+                        propemodum diuinas</phr> animi ipsius laudes <phr rendition="#hang"
+                        ana="#parenthesis #praeteritio"> ( ut <phr rendition="#hang"
+                           ana="#comparatio #enthymema">fortunae corporis que quaelibet ingentia
+                           bona tanquam aliena</phr> relinquam )</phr>
+                  </phr> : pietatem , magnitudinem animi , munificentiam , prudentiam , modestiam ,
+                  atque iustitiam ; <phr rendition="#hang" ana="#transitio">quae quales in eo
+                     fuerint , breuiter explicare conabor</phr> . </s>
+            </p>
+            <p n="p4" xml:id="modrusiensis-riario04stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-pueritia">
+                  <phr rendition="#hang" ana="#dicolon">Qua igitur pietate primum erga Deum fuerit
+                     quam que magnificus cultor ipsius , si aduixisset , futurus erat</phr> , <phr
+                     rendition="#hang" ana="#metaphora">in primo uitae suae limine</phr> clarissime
+                  demonstrauit . </s>
+               <s n="s2" ana="#arg-pueritia"> Annos natus duodecim , <phr rendition="#hang"
+                     ana="#comparatio">cum orbatam patre familiam tanta prudentia regeret ut nec
+                        <phr rendition="#hang" ana="#alliteratio">mater , matronarum
+                        praestantissima</phr> , nec fratres eius <phr rendition="#hang"
+                        ana="#hyperbaton">parentis sentirent desiderium</phr>
+                  </phr> , <phr rendition="#hang" ana="#hyperbaton">coepit <phr rendition="#hang"
+                        ana="#alliteratio">Deo dicatum</phr> pectus <phr rendition="#hang"
+                        ana="#metaphora">zelo religionis feruescere</phr>
+                  </phr> . </s>
+               <s n="s3" ana="#arg-pueritia"> Clarescebat autem iam tunc nomen <phr
+                     rendition="#hang" ana="#bimembre">religiosissimi doctissimi que</phr> uiri
+                  magistri Francisci , conciuis et auunculi sui , nunc summi <phr rendition="#hang"
+                     ana="#alliteratio">pontificis papae</phr> Sixti , qui per id tempus <phr
+                     rendition="#hang" ana="#alliteratio">Senis suis fratribus Sacras
+                     Scripturas</phr> interpretabatur . </s>
+               <s n="s4" ana="#arg-pueritia">
+                  <phr rendition="#hang" ana="#polyptoton #parallelismus #dicolon">Hunc optimum <phr
+                        rendition="#hang" ana="#metaphora">Christianae militiae</phr> magistrum
+                     optimus futurus discipulus</phr> , <phr rendition="#hang"
+                     ana="#antithesis #homoioteleuton">quamuis puerili aetate , uirili tamen
+                     sensu</phr> sibi delegit ; ad quem a religioso quodam <phr rendition="#hang"
+                     ana="#hyperbaton">sene multis exorato precibus</phr> , inscia matre , perductus
+                  est ; <phr rendition="#hang" ana="#metaphora">diuino , <phr rendition="#hang"
+                        ana="#parenthesis">ut opinor</phr> , nutu</phr>
+                  <phr rendition="#hang" ana="#polyptoton #dicolon #parallelismus">futurus ad
+                     apostolatum tam strenuus minister <phr rendition="#hang" ana="#hyperbaton">ad
+                        futurum sedis apostolicae mittitur antistitem</phr>
+                  </phr> . </s>
+               <s n="s5" ana="#arg-pueritia"> Quem ubi conspexisset Franciscus <phr
+                     rendition="#hang" ana="#hyperbaton">iam religionis ueste indutum , quam idcirco
+                     iuuenis in itinere assumpserat</phr>
+                  <phr rendition="#hang" ana="#metaphora">quo se facilius magistro suo
+                     insinuaret</phr> , multis eum hortatus est ut <phr rendition="#hang"
+                     ana="#poetice">ad suos remearet</phr> et matris fratrum que curam , ut coeperat
+                  , ageret uel <phr rendition="#hang" ana="#hyperbaton">maturiorem domi
+                     praestolaretur aetatem</phr> , quae <phr rendition="#hang" ana="#metaphora"
+                     >pati melius iugum Christi</phr> posset . </s>
+               <s n="s6" ana="#arg-pueritia"> Sed cum pueri constantiam <phr rendition="#hang"
+                     ana="#anaphora #tricolon-crescens #incrementum">nullis blanditiis , nullis
+                     persuasionibus , nullis denique minis</phr> euincere posset , <phr
+                     rendition="#hang" ana="#hyperbaton">diuinum , <phr rendition="#hang"
+                        ana="#parenthesis">ut erat</phr> , in eo aliquod munus</phr> arbitratus ,
+                     <phr rendition="#hang" ana="#dicolon #parallelismus">hortantibus fratribus ,
+                        <phr rendition="#hang" ana="#hyperbaton">diui eum Francisci</phr> sacris
+                     initiauit , seruatis que pro more religionis rite caerimoniis <phr
+                        rendition="#hang" ana="#metaphora">uestem Christi induit</phr>
+                  </phr> . </s>
+               <s n="s7" ana="#arg-pueritia"> Qua assumpta <phr rendition="#hang" ana="#comparatio"
+                     >ita omnia tyrocinii rudimenta <phr rendition="#hang"
+                        ana="#bimembre #synonymia">libens promptus que</phr>
+                     <phr rendition="#hang" ana="#bimembre #parallelismus #anaphora">et perdiscebat
+                        et exsequebatur</phr> ut nemo dubitaret <phr rendition="#hang"
+                        ana="#bimembre #anaphora">et prudentiam illi et uires</phr> ante aetatem non
+                     nisi diuinitus subministrari</phr> . </s>
+               <s n="s8" ana="#arg-pueritia">
+                  <phr rendition="#hang" ana="#anastrophe">Quas ob res</phr>
+                  <phr rendition="#hang" ana="#anaphora #bimembre #synonymia">omnibus carus ,
+                     omnibus dilectus</phr> esse coepit , praecipue autem ipsi auunculo suo qui ,
+                  diuina eius indole mirifice delectatus , <phr rendition="#hang"
+                     ana="#hyperbaton #metaphora">
+                     <phr rendition="#hang" ana="#bimembre">piissimo sanctissimo que</phr> eum <phr
+                        rendition="#hang" ana="#alliteratio">amplectebatur affectu</phr>
+                  </phr> . </s>
+               <s n="s9" ana="#arg-pueritia"> Vnde sibi curandum statuit ut tam excellens ingenium
+                  per bonas artes excoleretur . </s>
+               <s n="s10" ana="#arg-pueritia"> Itaque docto cuidam grammatico <phr rendition="#hang"
+                     ana="#metaphora">
+                     <phr rendition="#hang" ana="#hyperbaton">Latinis eum litteris</phr> Vicheriae
+                     imbuendum</phr> tradidit ; quibus mira celeritate perceptis <phr
+                     rendition="#hang" ana="#percursio">mox Ticinium , deinde Patauium , subinde
+                     Venetias , Bononiam , Perusium , Senam , Ferrariam que misit</phr> ut , <phr
+                     rendition="#hang" ana="#hyperbaton">quaecumque in tam celeberrimis Italiae
+                     gymnasiis <phr rendition="#hang" ana="#bimembre #parallelismus #anaphora">aut
+                        liberalium artium aut sacrarum litterarum</phr>
+                     <phr rendition="#hang" ana="#metaphora">dogmata</phr> florerent</phr> , <phr
+                     rendition="#hang" ana="#simile">ipse uelut operosa apis undique colligeret et
+                        <phr rendition="#hang" ana="#metaphora">in sacram pectoris sui
+                        cellulam</phr> diligenter reconderet</phr> . </s>
+               <s n="s11" ana="#arg-pueritia"> Quod quidem intra breues annos <phr rendition="#hang"
+                     ana="#incrementum">adeo consecutus est ut <phr rendition="#hang"
+                        ana="#anastrophe #litotes">credibile non sit</phr>
+                     <phr rendition="#hang" ana="#homoioteleuton #anaphora #comparatio">uirum ad
+                        agendum magis quam ad philosophandum natum</phr> tantam omnium scientiarum
+                     notitiam adeo breuiter <phr rendition="#hang" ana="#alliteratio">percipere
+                        potuisse</phr>
+                  </phr> . </s>
+               <s n="s12" ana="#arg-pueritia">
+                  <phr rendition="#hang" ana="#probatio-testes">
+                     <phr rendition="#hang" ana="#alliteratio">Habeo hic</phr> testes complures ,
+                     familiares eius , uiros quidem doctissimos , quibuscum inter cenandum de uariis
+                     disciplinarum studiis frequenter disserere consueuerat <phr rendition="#hang"
+                        ana="#incrementum">
+                        <phr rendition="#hang" ana="#anaphora #bimembre">adeo acute adeo que prompte
+                           ac subtiliter</phr> de quaestione proposita ut eum putares <phr
+                           rendition="#hang" ana="#bimembre">die noctu que</phr> nulli adeo alii rei
+                        quam euoluendis <phr rendition="#hang" ana="#bimembre">theologorum
+                           philosophorum que</phr> libris uacare</phr>
+                  </phr> . </s>
+               <s n="s13" ana="#arg-pueritia"> Tenebat fixa memoriae quaecunque ab ineunte aetate a
+                  praeceptoribus audierat . </s>
+               <s n="s14" ana="#arg-pueritia">
+                  <phr rendition="#hang" ana="#metaphora">Vigebat praeterea stupendo ingenii acumine
+                     cuius perspicacitate facile in abditissima quaeque naturae secreta
+                     penetrabat</phr> et ex perceptis semel principiis difficillima quaeuis <phr
+                     rendition="#hang" ana="#bimembre">uel philosophiae uel theologiae</phr>
+                  problemata <phr rendition="#hang" ana="#anastrophe">summa cum omnium <phr
+                        rendition="#hang" ana="#alliteratio">admiratione absoluebat</phr>
+                  </phr> ; <phr rendition="#hang" ana="#bimembre #chiasmus">uersus complures multos
+                     que grammaticae textus</phr> , quos olim puer edidicerat , <phr
+                     rendition="#hang" ana="#incrementum">ita memoriter recitabat ut ea illum <phr
+                        rendition="#hang" ana="#bimembre">heri aut nudiustertius</phr>
+                     <phr rendition="#hang" ana="#sonus">
+                        <phr rendition="#hang" ana="#alliteratio">memoriae mandasse</phr>
+                        existimares</phr>
+                  </phr> . </s>
+            </p>
+            <p n="p5" xml:id="modrusiensis-riario05stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-pueritia"> Perfectis igitur quam celerrime omnium bonarum artium
+                  studiis , rediit sollicitus ad magistrum , munus , cui caelitus destinatus erat ,
+                  optime impleturus . </s>
+               <s n="s2" ana="#arg-pueritia"> Inerat enim menti eius <phr rendition="#hang"
+                     ana="#poetice">praesaga quaedam futurorum diuinitas</phr> complurima que ,
+                  antequam contigissent , <phr rendition="#hang" ana="#metonymia">per quietem</phr>
+                  discebat <phr rendition="#hang" ana="#incrementum">ita ut insomnia ipsius non uisa
+                     solum , sed <phr rendition="#hang" ana="#hyperbaton">certa uiderentur
+                        oracula</phr>
+                  </phr> . </s>
+               <s n="s3" ana="#arg-pueritia"> Quibus uarie sollicitatus <phr rendition="#hang"
+                     ana="#anaphora #incrementum #dicolon #asyndeton">coepit auunculum suum hortari
+                     , coepit importunius compellere</phr>
+                  <phr rendition="#hang" ana="#dicolon">Romam peteret atque in ea urbe <phr
+                        rendition="#hang" ana="#alliteratio">uersari uellet</phr>
+                  </phr> in qua a maximo omnium rectore Deo futurus summus pontifex erat designatus
+                  , ubi et seipsum accepturum ab eo cardinalatus decus et alios uniuersos honores ,
+                  quibus eum functum uidimus , mira asseueratione praedicebat . </s>
+               <s n="s4" ana="#arg-pueritia">
+                  <phr rendition="#hang" ana="#probatio-testes">Cerno hic <phr rendition="#hang"
+                        ana="#bimembre">nonnullos praelatos et ex aliis ordinibus uiros
+                        praestantes</phr> a quibus <phr rendition="#hang" ana="#anastrophe">magna
+                        cum <phr rendition="#hang" ana="#alliteratio">attestatione audiui</phr>
+                     </phr> singula haec , quae gessit , <phr rendition="#hang" ana="#anastrophe"
+                        >multis ante annis</phr> ab ipso praedicta fuisse</phr> . </s>
+               <s n="s5" ana="#arg-pueritia"> Itaque <phr rendition="#hang"
+                     ana="#bimembre #chiasmus">
+                     <phr rendition="#hang" ana="#metaphora">repugnantem magistrum et se <phr
+                           rendition="#hang" ana="#metaphora">tanto fastigio indignum</phr>
+                        reclamantem</phr>
+                  </phr>
+                  <phr rendition="#hang" ana="#litotes">urgere non destitit</phr> donec multis <phr
+                     rendition="#hang" ana="#bimembre #anaphora #synonymia">et signis et
+                     prodigiis</phr> euictum propulit Romam proficisci ; in qua constitutus <phr
+                     rendition="#hang" ana="#litotes #synecdocha #synecdocha-specie-genus">minime
+                     conquieuit</phr>
+                  <phr rendition="#hang" ana="#dicolon">antequam demandatum ab altissimi prouidentia
+                     munus uiriliter absolueret et magistrum suum <phr rendition="#hang"
+                        ana="#abstractum #metonymia">per uaria bonorum incrementa</phr>
+                     <phr rendition="#hang" ana="#metaphora">ad summum apostolatus <phr
+                           rendition="#hang" ana="#alliteratio">culmen conscendisse</phr>
+                     </phr> uideret</phr> ; <phr rendition="#hang"
+                     ana="#anaphora #synonymia #bimembre">pro quibus laboribus et pro tam diligenti
+                     nauata opera</phr> eadem ipsa diuina prouidentia , quae semper <phr
+                     rendition="#hang" ana="#antithesis">infirma mundi eligere consueuit ut fortia
+                     quaeque confundat</phr> , <phr rendition="#hang" ana="#hyperbaton #metaphora"
+                     >cardinalis eum dignitatis splendore uoluit illustrare</phr> omnibus que mundi
+                  principibus ostendere <phr rendition="#hang" ana="#bimembre">quo ministro et ex
+                     quam humili loco accepto</phr> uoluerit in sui uicarii assumptione uti , <phr
+                     rendition="#hang" ana="#exemplum #auctoritas">ut discerent uniuersi <phr
+                        rendition="#hang" ana="#synonymia #bimembre">ueram certam que</phr> esse
+                     illam Nabuchodonosoris confessionem in quam <phr rendition="#hang"
+                        ana="#anaphora #parallelismus #bimembre">et regno et sensui</phr> restitutus
+                     supplex <phr rendition="#hang" ana="#metaphora">prorupit dicens</phr>
+                     <phr rendition="#hang" ana="#metaphora">in manu solius omnipotentis Dei esse
+                        omnia regna terrarum atque illa , quibus ipse uoluerit , tradi</phr> , nec
+                     esse alium quemquam qui <phr rendition="#hang" ana="#hyperbaton">eius possit
+                        obsistere uoluntati</phr> aut dicere illi quare sic fecisti</phr> . </s>
+            </p>
+            <p n="p6" xml:id="modrusiensis-riario06stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus"> Petrus igitur per hunc modum <phr
+                     rendition="#hang" ana="#argumentum #enthymema">in principatu constitutus , qui
+                     solet uiros ostendere</phr> , <phr rendition="#hang"
+                     ana="#incrementum #comparatio">talem sese exhibuit qualem <phr
+                        rendition="#hang" ana="#correctio">uix optare poteramus , non sperare</phr>
+                  </phr> . </s>
+               <s n="s2" ana="#arg-cardinalatus"> Assumpsit enim <phr rendition="#hang"
+                     ana="#polyptoton">cum sublimi magistratu sublimes animos</phr> et spiritus
+                  tanti imperii maiestate dignos , simul que cum eis magnanimitatem , clementiam ,
+                  munificentiam , et ceteras , <phr rendition="#hang" ana="#parenthesis">quas prius
+                     commemorauimus</phr> , imperantium uirtutes , quibus et ausus est cum regibus
+                  et principibus magna gloria <phr rendition="#hang" ana="#incrementum #comparatio"
+                     >non segnius contendere quam si in illis <phr rendition="#hang" ana="#bimembre"
+                        >natus educatus que</phr> fuisset</phr> , <phr rendition="#hang"
+                     ana="#probatio-signum #tricolon-crescens">ut <phr rendition="#hang"
+                        ana="#hyperbaton #metaphora #personificatio">coepta eius declarant
+                        aedificia</phr> , tot que magnificentissimo cultu celebrata conuiuia , et
+                     supellex imperialibus fastibus digna</phr> . </s>
+               <s n="s3" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#synonymia #bimembre">Turpe enim et indecorum</phr>
+                  merito ducebat <phr rendition="#hang"
+                     ana="#parallelismus #dicolon #anaphora #asyndeton">
+                     <phr rendition="#hang" ana="#metaphora">in hoc totius orbis capite</phr> , in
+                     hac prima Christianae religionis sede</phr> , ad quam adorandam <phr
+                     rendition="#hang" ana="#tricolon-crescens">imperatores , reges , et cuncti
+                     ferme principes terrarum</phr> uentitare solent , <phr rendition="#hang"
+                     ana="#comparatio">
+                     <phr rendition="#hang" ana="#anaphora #dicolon #asyndeton">non talem esse
+                        supellectilem , non talia exstare palatia</phr> , quibus eos summus pontifex
+                        <phr rendition="#hang" ana="#dicolon #synonymia #anaphora #anastrophe">et
+                        suscipere honorifice posset et pro sua ipsorum que dignitate splendide
+                        honorare</phr>
+                  </phr> . </s>
+               <s n="s4" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#probatio-signum">Vnde et in hos usus omnia illa se
+                     comparare affirmabat , nec sibi , sed summis pontificibus , quicquid
+                     praeparabat , componere</phr> . </s>
+               <s n="s5" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#dicolon #chiasmus">
+                     <phr rendition="#hang" ana="#metaphora">Affluebant quotidie opes</phr> et ab
+                     omnibus ferme Christianis principibus magni prouentus ultro offerebantur</phr>
+                  ; quos licet ipse <phr rendition="#hang" ana="#hyperbaton">in illos , <phr
+                        rendition="#hang" ana="#parenthesis">quos diximus</phr> , acceptaret
+                     usus</phr> , <phr rendition="#hang" ana="#dicolon">
+                     <phr rendition="#hang" ana="#argumentum #auctoritas">prophetici tamen documenti
+                        memor <phr rendition="#hang" ana="#synecdocha-specie-genus #synecdocha"
+                           >minime ad ea <phr rendition="#hang" ana="#metaphora">cor apponebat</phr>
+                        </phr>
+                     </phr> neque illis <phr rendition="#hang" ana="#hyperbaton">auaro deuinciebatur
+                        affectu</phr>
+                  </phr> . </s>
+               <s n="s6" ana="#arg-cardinalatus"> Hinc est quod <phr rendition="#hang"
+                     ana="#dicolon #anaphora">nec sciebat numerum nec omnino <phr rendition="#hang"
+                        ana="#dicolon #anaphora">quid haberet aut quid impenderet</phr> nosse
+                     uolebat</phr> ; <phr rendition="#hang"
+                     ana="#chiasmus #homoioteleuton #dicolon #asyndeton">
+                     <phr rendition="#hang" ana="#hyperbaton">nullas a ministris impensarum exigebat
+                        rationes</phr> , nulla computa exigere uolebat</phr> . </s>
+               <s n="s7" ana="#arg-cardinalatus"> Iactura rerum ea dumtaxat mouebatur quae
+                  negligentia contigisset , <phr rendition="#hang" ana="#incrementum">culpam magis
+                     dolens quam damnum</phr> . </s>
+            </p>
+            <p n="p7" xml:id="modrusiensis-riario07stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus"> A <phr rendition="#hang" ana="#alliteratio"
+                     >suscepto semel</phr> negotio <phr rendition="#hang"
+                     ana="#anaphora #dicolon #parallelismus #asyndeton">nullo metu absterreri
+                     potuerat , nullo periculo depelli</phr> . </s>
+               <s n="s2" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#chiasmus #dicolon #asyndeton">
+                     <phr rendition="#hang" ana="#poetice">Verax in sermone</phr> , in facto
+                     fidelis</phr> , <phr rendition="#hang"
+                     ana="#dicolon #anaphora #parallelismus #asyndeton">in proposito constans , in
+                     peragendo strenuus</phr> , <phr rendition="#hang"
+                     ana="#homoioteleuton #bimembre #parallelismus">secretorum tenacissimus , et
+                     promissorum firmissimus</phr> obseruator . </s>
+               <s n="s3" ana="#arg-cardinalatus"> Insignia haec sunt magnanimitatis eius testimonia
+                  . </s>
+               <s n="s4" ana="#arg-cardinalatus"> Sed illud <phr rendition="#hang"
+                     ana="#parenthesis">mea sententia</phr> uincit uniuersa quod <phr
+                     rendition="#hang" ana="#chiasmus #anaphora #dicolon #incrementum">
+                     <phr rendition="#hang" ana="#hyperbaton">nullis mouebatur iniuriis</phr> ,
+                     nullis offensis laedi posse uidebatur</phr> , <phr rendition="#hang"
+                     ana="#incrementum">nec ullius rei facilius quam inimicitiarum
+                     obliuiscebatur</phr> . </s>
+               <s n="s5" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#poetice"> Floccipendebat</phr> aemulos quoscumque et
+                     <phr rendition="#hang" ana="#incrementum">
+                     <phr rendition="#hang" ana="#anastrophe">nullam in rem</phr> pronior quam in
+                     supplicium ueniam uidebatur</phr> , <phr rendition="#hang" ana="#incrementum"
+                     >tantum que <phr rendition="#hang" ana="#metaphora">ab omni ulciscendi <phr
+                           rendition="#hang" ana="#alliteratio">ardore aberat</phr>
+                     </phr> ut inimicis suis benefacere gauderet</phr> . </s>
+            </p>
+            <p n="p8" xml:id="modrusiensis-riario08stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#anaphora #dicolon #incrementum #asyndeton">Nihil in
+                     se fictum , nihil <phr rendition="#hang" ana="#bimembre">subdolum aut
+                        simulatum</phr>
+                  </phr> esse uolebat , <phr rendition="#hang" ana="#incrementum">nec quicquam magis
+                     detestabatur quam mentitam probitatem</phr> . </s>
+               <s n="s2" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#probatio-signum #antithesis">
+                     <phr rendition="#hang" ana="#synonymia #bimembre">Mali quippe et iniqui</phr>
+                     hominis esse dicebat <phr rendition="#hang" ana="#incrementum">meliorem se <phr
+                           rendition="#hang" ana="#chiasmus">foris ostendere quam gerere domi</phr>
+                     </phr> , proborum autem uirorum esse non simulatione , sed integritate uiros
+                     superare</phr> . </s>
+               <s n="s3" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#interrogatio #probatio-testes">Sane <phr
+                        rendition="#hang" ana="#bimembre">munificentiae liberalitatis que</phr> eius
+                     largitatem <phr rendition="#hang" ana="#litotes #interrogatio"> quis est qui
+                        ignoret</phr> nisi qui illa uti <phr rendition="#hang"
+                        ana="#bimembre #anaphora #homoioteleuton">uel noluerit uel nescierit</phr>
+                  </phr> ? </s>
+               <s n="s4" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#metaphora">Ea ipse ita flagrabat</phr> ut illos etiam
+                  , quibus <phr rendition="#hang" ana="#anastrophe">iustis de causis</phr> aliquando
+                  irascebatur , muneribus tamen <phr rendition="#hang" ana="#litotes">ornare non
+                     cessaret</phr> . </s>
+               <s n="s5" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#probatio-testes">
+                     <phr rendition="#hang" ana="#litotes #bimembre">Non semel neque solus
+                        interfui</phr> cum quosdam familiarium merito obiurgasset , deinde <phr
+                        rendition="#hang" ana="#bimembre">uestimentis et magistratu</phr>
+                     donauit</phr> . </s>
+               <s n="s6" ana="#arg-cardinalatus"> Et <phr rendition="#hang" ana="#probatio-signum"
+                     >cum aliquando a magistro domus suae , <phr rendition="#hang"
+                        ana="#metaphora #parenthesis">in cuius <phr rendition="#hang"
+                           ana="#bimembre">diligentissima fidissima que cura</phr> merito
+                        conquiescebat</phr> , liberius argueretur quod <phr rendition="#hang"
+                        ana="#bimembre">nimia indulgentia et largitate</phr> domesticos faceret
+                     insolentiores , placida uoce respondit : <phr rendition="#hang"
+                        ana="#antithesis">Tuum est familiares meos pro neglecto officio corrigere ,
+                        meum autem pro illorum in me amore congruis praemiis afficere</phr> ; id
+                     faciendo uterque nostrum suo munere optime functus erit</phr> . </s>
+               <s n="s7" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#asyndeton #chiasmus #anaphora #dicolon #exclamatio">
+                     O praeclaram uocem , o sententiam summo principe dignam</phr> ; <phr
+                     rendition="#hang" ana="#dicolon #parallelismus">nec impunitatem erratorum
+                     laudauit , nec <phr rendition="#hang" ana="#metaphora">liberalitatem suam ullis
+                        male merentium factis occludi</phr> passus est</phr> . </s>
+               <s n="s8" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#exclamatio #antithesis #dicolon #parallelismus">
+                     Felices quibus <phr rendition="#hang" ana="#metaphora">illa perfrui</phr>
+                     licuit , et nunc omnium infortunatissimos quibus <phr rendition="#hang"
+                        ana="#metaphora">tam crudeli fato erepta est</phr> ! </phr>
+               </s>
+            </p>
+            <p n="p9" xml:id="modrusiensis-riario09stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#hyperbaton #metaphora">Quingentos ferme pascebat
+                     familiares</phr> , <phr rendition="#hang" ana="#tricolon-crescens #correctio">
+                     <phr rendition="#hang" ana="#anaphora #bimembre #asyndeton">partim illustri ,
+                        partim nobili</phr> , omnes honesto loco</phr> natos ; <phr
+                     rendition="#hang" ana="#coacervatio #asyndeton">praelatos , milites , doctores
+                     , oratores , poetas</phr> , <phr rendition="#hang" ana="#alliteratio">aut
+                     alicui alii honestae arti</phr> deditos ; <phr rendition="#hang"
+                     ana="#anaphora #asyndeton #dicolon #metaphora">nullis tantorum sumptibus , <phr
+                        rendition="#hang" ana="#hyperbaton">nullis grauabatur impensis</phr>
+                  </phr> . </s>
+               <s n="s2" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#metaphora #probatio-signum">Hospitem enim sese omnium
+                     honestorum uirorum esse dicebat</phr> ; quod <phr rendition="#hang"
+                     ana="#hyperbole">ipsa ueritate erat uerius</phr> . </s>
+               <s n="s3" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#enthymema">Nam si quis diligentius rem ipsam <phr
+                        rendition="#hang" ana="#alliteratio">consideret , comperiet</phr> procul
+                     dubio <phr rendition="#hang" ana="#metaphora">omnes cardinalium domos nihil
+                        aliud esse quam <phr rendition="#hang" ana="#alliteratio">honesta
+                           hospitia</phr> , in quae proborum uirorum liberis <phr rendition="#hang"
+                           ana="#bimembre #anaphora">uel necessitatis uel bonorum morum gratia</phr>
+                        diuersari licet</phr>
+                  </phr> . </s>
+            </p>
+            <p n="p10" xml:id="modrusiensis-riario10stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#anastrophe">Accipiebat praeterea munera</phr> , non
+                  auaritiae , sed <phr rendition="#hang" ana="#bimembre">honoris comparandae que
+                     beniuolentiae gratia</phr> ; <phr rendition="#hang" ana="#anastrophe">quibus
+                     tamen in acceptandis</phr>
+                  <phr rendition="#hang" ana="#metaphora">ea lege utebatur</phr>
+                  <phr rendition="#hang" ana="#incrementum">ut multo ampliora rependeret quam
+                     acciperet</phr> . </s>
+               <s n="s2" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#probatio-testes">Testes sunt omnes qui hac officiorum
+                     uicissitudine cum eo decertare uoluerunt</phr> . </s>
+               <s n="s3" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#probatio-testes">Complures in hoc coetu <phr
+                        rendition="#hang" ana="#litotes">astare non dubito</phr>
+                     <phr rendition="#hang" ana="#dicolon #anaphora #homoioteleuton">qui me uera
+                        praedicare nouerunt et qui post acceptos ab eo <phr rendition="#hang"
+                           ana="#litotes">non paruos honores</phr>
+                        <phr rendition="#hang" ana="#hyperbaton">multa insuper dona tulerunt</phr>
+                     </phr>
+                  </phr> . </s>
+            </p>
+            <p n="p11" xml:id="modrusiensis-riario11stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#probatio-testes">Vidi illum quodam uesperi <phr
+                        rendition="#hang" ana="#litotes">non sine graui stomacho</phr> lacrimis
+                     suffusum oculos et cum multa indignatione <phr rendition="#hang"
+                        ana="#bimembre">Deum optimum maximum que</phr> testem citare atque , cum
+                     nemo cogeret <phr rendition="#hang" ana="#synecdocha #synecdocha-specie-genus"
+                        >minime que ea re opus esset</phr> , dirissima quaeque in <phr
+                        rendition="#hang" ana="#hendiadyoin">se caput que suum</phr> impetrantem si
+                        <phr rendition="#hang" ana="#bimembre #polyptoton #parallelismus">ullas
+                        pecunias aut ulla Symoniacae perfidiae praemia</phr> abs quoquam eorum
+                     accepisset qui nuper in hunc sacrosanctum senatum apostolicum lecti noscuntur ,
+                     se que <phr rendition="#hang" ana="#synonymia #bimembre">ab inuidis atque
+                        malignis</phr>
+                     <phr rendition="#hang" ana="#synonymia #bimembre">impie ac flagitiose</phr>
+                     eius criminis insimulari persancte iurabat</phr> . </s>
+               <s n="s2" ana="#arg-cardinalatus">
+                  <phr rendition="#hang" ana="#probatio-signum">
+                     <phr rendition="#hang" ana="#metaphora #chiasmus #dicolon">Angi eum uehementer
+                        et summis animi cruciatibus torqueri uideres</phr> quod sibi , <phr
+                        rendition="#hang" ana="#parenthesis">ut dicebat</phr> , <phr
+                        rendition="#hang" ana="#metonymia">per detrahentium liuorem</phr> non
+                     liceret in uiros <phr rendition="#hang" ana="#bimembre">praestantes ac bene
+                        meritos</phr> officiosum esse</phr> . </s>
+            </p>
+            <p n="p12" xml:id="modrusiensis-riario12stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-excursus-in-invidos">
+                  <phr rendition="#hang" ana="#interrogatio">
+                     <phr rendition="#hang" ana="#tricolon-crescens #anaphora #asyndeton">Vbi nunc
+                        sunt <phr rendition="#hang" ana="#metaphora #poetice">rubiginosa illa
+                           maliuolorum pectora</phr> , ubi sunt <phr rendition="#hang"
+                           ana="#metaphora #poetice">dirissimo felle manantia praecordia</phr> , ubi
+                           <phr rendition="#hang" ana="#metaphora #poetice">rabidorum canum
+                           pestiferi dentes</phr>
+                     </phr> , qui inexpiabili temeritate ausi sunt <phr rendition="#hang"
+                        ana="#tricolon-crescens #homoioteleuton">
+                        <phr rendition="#hang" ana="#metaphora">os suum in caelo ponere</phr> et
+                           <phr rendition="#hang" ana="#bimembre">uicarii Christi fratrum que
+                           eius</phr> , tam excellentissimorum patrum , factum damnare , atque illos
+                        praestantissimos uiros , qui prius a Domino electi sunt , a quo sunt omnium
+                        regnorum potestates , quam a summo pontifice declarati , <phr
+                           rendition="#hang" ana="#metaphora">perditissima audacia lacerare</phr>
+                     </phr>
+                  </phr> ? </s>
+               <s n="s2" ana="#arg-excursus-in-invidos">
+                  <phr rendition="#hang" ana="#apostrophe">
+                     <phr rendition="#hang" ana="#geminatio"> Caue , caue</phr> tibi , <phr
+                        rendition="#hang" ana="#synecdocha">lingua dolosa</phr> , <phr
+                        rendition="#hang" ana="#tricolon-crescens">ne <phr rendition="#hang"
+                           ana="#alliteratio">Deus destruat te</phr> in finem , <phr
+                           rendition="#hang" ana="#metaphora">euellet te , et emigret te de <phr
+                              rendition="#hang" ana="#alliteratio">tabernaculo tuo</phr> , et
+                           radicem tuam de terra uiuentium</phr>
+                     </phr>
+                  </phr> ! </s>
+               <s n="s3" ana="#arg-hypostrophe">
+                  <phr rendition="#hang" ana="#anaphora #aversio"> Sed haec illi uiderunt qui <phr
+                        rendition="#hang" ana="#metaphora #poetice">fecerunt linguam suam nouaculam
+                        acutam</phr> et sedentes aduersus fratrem suum <phr rendition="#hang"
+                        ana="#hyperbole">tota die concinnabant dolos</phr> . </phr>
+               </s>
+               <s n="s4" ana="#arg-hypostrophe">
+                  <phr rendition="#hang" ana="#anaphora #aversio #antithesis"> Sed haec illi
+                     uiderunt ; nos interea reliquas Petri uirtutes , <phr rendition="#hang"
+                        ana="#correctio">non quibus debemus , sed quibus possumus , <phr
+                           rendition="#hang" ana="#metaphora">laudibus prosequamur</phr>
+                     </phr> . </phr>
+               </s>
+            </p>
+            <p n="p13" xml:id="modrusiensis-riario13stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-prudentia"> Itaque , ut <phr rendition="#hang" ana="#metaphora"
+                     >propositus ordo postulat</phr> , nunc ipsius prudentiam contemplemur , quamuis
+                     <phr rendition="#hang" ana="#alliteratio">eius excellentia</phr> iam per ea ,
+                  quae narrauimus , <phr rendition="#hang" ana="#anastrophe">magna ex <phr
+                        rendition="#hang" ana="#alliteratio">parte potuit</phr>
+                  </phr> esse manifesta . </s>
+               <s n="s2" ana="#arg-prudentia"> Quamobrem tantum <phr rendition="#hang"
+                     ana="#metaphora">eam partem attingam</phr> qua <phr rendition="#hang"
+                     ana="#incrementum">ita sese inter principes Christianos gessit ut , cum unius
+                     erga eum beniuolentiam consideres , credas ab aliis <phr rendition="#hang"
+                        ana="#synecdocha #synecdocha-specie-genus">minime dilectum</phr>
+                  </phr> . </s>
+               <s n="s3" ana="#arg-prudentia">
+                  <phr rendition="#hang" ana="#argumentum #enthymema">
+                     <phr rendition="#hang" ana="#metaphora">Lex quippe amicitiae</phr> ita habet ut
+                     amicos inimicorum <phr rendition="#hang"
+                        ana="#synecdocha #synecdocha-specie-genus #litotes">minime diligamus</phr> ;
+                     hic tamen sua prudentia consecutus est ut <phr rendition="#hang" ana="#dicolon"
+                        >aeque carus omnibus haberetur , nec ullus esset qui <phr rendition="#hang"
+                           ana="#dicolon #epanalepsis">eius amicitiam ultro non expeteret , et
+                           adeptam studiis omnibus non <phr rendition="#hang"
+                              ana="#synonymia #bimembre">coleret atque foueret</phr>
+                        </phr>
+                     </phr>
+                  </phr> . </s>
+               <s n="s4" ana="#arg-prudentia">
+                  <phr rendition="#hang" ana="#probatio-signum">Ostendit id nouissima haec ipsius
+                     legatio , in qua <phr rendition="#hang" ana="#bimembre #parallelismus">omnes
+                        Italiae populi singuli que ipsorum principes</phr>
+                     <phr rendition="#hang" ana="#hyperbaton">summis decertarunt studiis</phr>
+                     quisnam eum amplioribus honoribus <phr rendition="#hang" ana="#bimembre"
+                        >exciperet et prosequeretur</phr> , ille que se uicisse putabat qui <phr
+                        rendition="#hang" ana="#hyperbaton">plurima in eum ornamenta
+                        contulisset</phr>
+                  </phr> . </s>
+               <s n="s5" ana="#arg-prudentia"> In quibus acceptandis <phr rendition="#hang"
+                     ana="#probatio-signum">adeo <phr rendition="#hang" ana="#metaphora">prudens
+                        temperamentum inibat</phr> ut , <phr rendition="#hang" ana="#antithesis">cum
+                           <phr rendition="#hang" ana="#hyperbaton">omnium communis esset
+                           amicus</phr> , singuli tamen sibi eum uendicasse putabant</phr>
+                  </phr> . </s>
+               <s n="s6" ana="#arg-prudentia"> Vnde <phr rendition="#hang"
+                     ana="#dicolon #incrementum">
+                     <phr rendition="#hang" ana="#hyperbaton">sua illi negotia credebant</phr> et
+                        <phr rendition="#hang" ana="#metaphora">rerum omnium summam</phr>
+                     <phr rendition="#hang" ana="#metonymia">fidei ipsius ultro committebant</phr>
+                  </phr> . </s>
+               <s n="s7" ana="#arg-prudentia"> Fallebat neminem et , <phr rendition="#hang"
+                     ana="#antithesis">communem rem gerendo , <phr rendition="#hang"
+                        ana="#hyperbaton">singulorum tamen uidebatur aduocatus</phr>
+                  </phr> . </s>
+            </p>
+            <p n="p14" xml:id="modrusiensis-riario14stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-prudentia"> Secedebat <phr rendition="#hang" ana="#bimembre">bis
+                     ter que</phr> per diem <phr rendition="#hang" ana="#bimembre">in cubiculum aut
+                     in aliquem secretiorem locum</phr> , in quo ad multam horam deambulando <phr
+                     rendition="#hang" ana="#metaphora">
+                     <phr rendition="#hang" ana="#metaphora">summas reipublicae Christianae
+                        rationes</phr> tacitus secum computabat</phr> ; totas enim animi uires ,
+                  postquam a legatione redierat , <phr rendition="#hang" ana="#bimembre #chiasmus"
+                     >in pacem Italiae et perfidi hostis Christiani exitum</phr> intenderat ; <phr
+                     rendition="#hang" ana="#anaphora #tricolon-crescens #asyndeton">id unum
+                     moliebatur , id parabat , illuc omnia sua studia conuerterat</phr> , fecisset
+                  que uotis satis ni eum nobis <phr rendition="#hang" ana="#personificatio">haec
+                        <phr rendition="#hang" ana="#synonymia #bimembre">dira atque crudelis</phr>
+                     mors tam repente praeripuisset</phr> . </s>
+               <s n="s2" ana="#arg-prudentia">
+                  <phr rendition="#hang" ana="#dicolon #chiasmus">
+                     <phr rendition="#hang" ana="#metaphora">Vincebat ingenio humana consilia</phr>
+                     et tantum grauioribus reipublicae curis natus uidebatur</phr> ; haec erat
+                  praecipua eius uoluptas , <phr rendition="#hang" ana="#metaphora">a qua nullis
+                     aliis oblectamentis poterat diuelli</phr> ; <phr rendition="#hang"
+                     ana="#anaphora #dicolon #chiasmus #metaphora #asyndeton">huius delectabatur
+                     gustu , huius solius escis pascebatur</phr> . </s>
+               <s n="s3" ana="#arg-prudentia">
+                  <phr rendition="#hang" ana="#refutatio">
+                     <phr rendition="#hang" ana="#metaphora #hyperbole">Omnium saluti <phr
+                           rendition="#hang" ana="#bimembre">die noctu que</phr> inseruiebat</phr> ,
+                     et tamen a nonnullis negligentiae accusabatur ; quin tanquam <phr
+                        rendition="#hang" ana="#bimembre">superbum difficilem que</phr> ingrati
+                     criminabantur , cum tamen <phr rendition="#hang"
+                        ana="#bimembre #anaphora #homoioteleuton">et mitissimus esset et
+                        facillimus</phr>
+                  </phr> . </s>
+               <s n="s4" ana="#arg-prudentia">
+                  <phr rendition="#hang" ana="#refutatio-testes">
+                     <phr rendition="#hang" ana="#dicolon #polyptoton #asyndeton">Nouit hoc tantus
+                        domesticorum eius numerus , norunt <phr rendition="#hang" ana="#bimembre"
+                           >amici et alii omnes , qui eius familiaritate usi fuerunt</phr>
+                     </phr> , quibus semper , cum <phr rendition="#hang" ana="#hyperbaton">per
+                        publicas licuisset curas</phr> , <phr rendition="#hang"
+                        ana="#tetracolon #coacervatio #asyndeton">placidum sese exhibebat ,
+                        affabilem , comem , benignum</phr> , <phr rendition="#hang"
+                        ana="#incrementum">ut socium crederes , non dominum</phr>
+                  </phr> . </s>
+            </p>
+            <p n="p15" xml:id="modrusiensis-riario15stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-moderatio">
+                  <phr rendition="#hang" ana="#incrementum">Tanta uero animi moderatione erat ut
+                        <phr rendition="#hang" ana="#epanalepsis">irasceretur perraro , iratus autem
+                        extemplo <phr rendition="#hang" ana="#metaphora">animum ad tranquillitatem
+                           reuocaret</phr>
+                     </phr>
+                  </phr> . </s>
+               <s n="s2" ana="#arg-moderatio">
+                  <phr rendition="#hang" ana="#chiasmus #asyndeton #bimembre">De nullo obloquebatur
+                     , detrahebat nemini ,</phr> et , nisi familiarium suorum , aliorum uitae <phr
+                     rendition="#hang" ana="#synecdocha #synecdocha-specie-genus #litotes">minime
+                     erat curiosus</phr> . </s>
+               <s n="s3" ana="#arg-moderatio"> Maximum eius conuicium putabatur si quem , <phr
+                     rendition="#hang" ana="#parenthesis">quod tamen parcissime fiebat</phr> , per
+                  iocum <phr rendition="#hang" ana="#metaphora">aliquo urbanitatis sale
+                     respersisset</phr> . </s>
+            </p>
+            <p n="p16" xml:id="modrusiensis-riario16stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-moderatio">
+                  <phr rendition="#hang" ana="#bimembre">Cibi uini que</phr> moderatissimi , <phr
+                     rendition="#hang" ana="#correctio">somnolentiae nullius , immo uero peruigil et
+                     qui <phr rendition="#hang" ana="#anastrophe">multis quotidie horis</phr>
+                     <phr rendition="#hang" ana="#poetice #hyperbaton">auroram</phr> solitus esset
+                     praeoccupare</phr> ; quod totum tempus usque ad solis exortum grauioribus
+                  reipublicae cogitationibus impendere consueuerat , <phr rendition="#hang"
+                     ana="#incrementum">quae <phr rendition="#hang" ana="#comparatio">tales menti
+                        eius assidue obuersabantur quales <phr rendition="#hang" ana="#poetice"
+                           >mortalium animis uix illabi <phr rendition="#hang" ana="#alliteratio"
+                              >posse putares</phr>
+                        </phr>
+                     </phr>
+                  </phr> . </s>
+               <s n="s2" ana="#arg-moderatio"> In <phr rendition="#hang" ana="#bimembre">cognatos ac
+                     necessarios</phr>
+                  <phr rendition="#hang" ana="#incrementum #correctio">nequaquam prodigus , immo
+                     uero maxime parcus</phr> , excepto hoc piissimo fratre comite Hieronymo ; <phr
+                     rendition="#hang" ana="#alliteratio">quem quoniam</phr> ab inclito duce
+                  Mediolani connubio filiae dignatum cernebat , uoluit fraterna munificentia
+                  illustrare . </s>
+               <s n="s3" ana="#arg-moderatio">
+                  <phr rendition="#hang" ana="#anastrophe">Qua in re</phr>
+                  <phr rendition="#hang" ana="#incrementum">
+                     <phr rendition="#hang" ana="#alliteratio">tale temperamentum</phr> adhibuit ut
+                     id cum ingenti <phr rendition="#hang" ana="#bimembre #synonymia">honore ac
+                        laude</phr> sedis apostolicae contingeret</phr> . </s>
+               <s n="s4" ana="#arg-moderatio"> Vrbem enim Imolam , quae iam praefecti eius culpa ad
+                  alios deuenerat , quadraginta milibus ducatorum de propriis facultatibus redemptam
+                  imperio ecclesiae restituit . </s>
+               <s n="s5" ana="#arg-moderatio"> Cuius exaugendi <phr rendition="#hang"
+                     ana="#incrementum">
+                     <phr rendition="#hang" ana="#hyperbaton #metaphora">tanto flagrabat
+                        studio</phr> ut ne minimam quidem eius particulam deperire pateretur</phr> . </s>
+               <s n="s6" ana="#arg-moderatio"> Vnde urbem illam <phr rendition="#hang"
+                     ana="#incrementum">magis ecclesiae quam fratris gratia</phr>
+                  <phr rendition="#hang" ana="#alliteratio">uoluit uendicare</phr> . </s>
+            </p>
+            <p n="p17" xml:id="modrusiensis-riario17stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-iustitia"> Porro iustitiam ipsius ex illo spectare licet quod
+                     <phr rendition="#hang" ana="#probatio-signum">in tanta rerum potestate
+                     constitutus <phr rendition="#hang"
+                        ana="#dicolon #asyndeton #polyptoton #parallelismus">nemini uim attulit ,
+                        nullum uiolenter oppressit</phr>
+                  </phr> . </s>
+               <s n="s2" ana="#arg-iustitia">
+                  <phr rendition="#hang" ana="#probatio-signum #exemplum">Vnde et uicario illi
+                     Imolae , quamuis de ecclesia <phr rendition="#hang" ana="#alliteratio">male
+                        merito</phr> , non solum uictum , sed nihil prioribus minores fortunas dari
+                     curauit</phr> . </s>
+               <s n="s3" ana="#arg-iustitia"> Quattuordecim enim milia ducatorum accepit et
+                  opulentissimum oppidum Bosti , ex quo et aliis a duce adiectis praediis plus quam
+                  quinque milia ducatorum quotannis capere poterit , neque Imolam nisi eo uolente
+                  redimere uoluit . </s>
+               <s n="s4" ana="#arg-iustitia">
+                  <phr rendition="#hang" ana="#probatio-signum">Magistratus hortabatur ius suum
+                     absque ullo respectu cuique administrare</phr> . </s>
+               <s n="s5" ana="#arg-iustitia"> Et licet nonnunquam , <phr rendition="#hang"
+                     ana="#bimembre">domesticorum amicorum que</phr> euictus precibus , <phr
+                     rendition="#hang" ana="#bimembre #anaphora">aut litteris aut nuntiis</phr>
+                  multos iudicibus commendaret , id tamen citra cuiusque iniuriam fieri uolebat . </s>
+               <s n="s6" ana="#arg-iustitia">
+                  <phr rendition="#hang" ana="#probatio-testes #exemplum">Vnde et cum a gubernatore
+                     Vrbis aliquando interrogaretur quidnam de illis fieri uellet qui iniustam
+                     causam fouentes tamen ipsius nomine commendabantur , Illud , inquit , ut <phr
+                        rendition="#hang" ana="#metaphora">iustitiam mearum precum gratia <phr
+                           rendition="#hang" ana="#synecdocha #synecdocha-specie-genus">minime
+                           uioles</phr>
+                     </phr> , nec secus feceris etiam si te germanus meus Hieronymus nomine meo
+                     aliud precabitur</phr> . </s>
+               <s n="s7" ana="#arg-iustitia">
+                  <phr rendition="#hang" ana="#probatio-testes #anaphora #dicolon">Hoc ipsum et
+                     senatori Vrbis interrogatus respondit , <phr rendition="#hang"
+                        ana="#anaphora #tricolon-crescens #asyndeton">hoc gubernatoribus , hoc
+                        praefectis , hoc omnibus legationis suae iudicibus</phr> saepe
+                     mandabat</phr> . </s>
+               <s n="s8" ana="#arg-iustitia">
+                  <phr rendition="#hang" ana="#probatio-signum">Dicebat enim se amicis operam suam
+                     rogantibus negare non posse , sed illius causa non nisi <phr rendition="#hang"
+                        ana="#bimembre">iustum honestum que</phr> fieri permaxime uelle</phr> . </s>
+               <s n="s9" ana="#arg-iustitia">
+                  <phr rendition="#hang" ana="#probatio-signum">Hinc et rescripta non nisi
+                     sanctissima faciebat , atque , ne cui ministrorum <phr rendition="#hang"
+                        ana="#hyperbaton">peccandi daretur occasio</phr> , omnium decretorum suorum
+                     , similiter et litterarum , exemplaria apud notarios exstare iusserat</phr> . </s>
+               <s n="s10" ana="#arg-iustitia"> Huius praeclarissimae uirtutis nec moriens obliuisci
+                  potuit ; <phr rendition="#hang" ana="#probatio-signum">nam , cum hortaretur ab
+                     amicis testamentum condere , Nihil , inquit , meum habeo ; omnia sunt
+                     ecclesiae</phr> . </s>
+               <s n="s11" ana="#arg-iustitia"> Supplicabitis tamen meo nomine summo pontifici ut aes
+                  alienum , cuius maiorem partem pro redimendis ecclesiae rebus contraxi , pro sua
+                  benignitate dissoluat . </s>
+            </p>
+            <p n="p18" xml:id="modrusiensis-riario18stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-praetermissio">
+                  <phr rendition="#hang" ana="#aversio #praeteritio">Cogor hoc loco <phr
+                        rendition="#hang" ana="#hyperbaton">potissimas eius praetermittere
+                        laudes</phr> , <phr rendition="#hang" ana="#chiasmus #metaphora #dicolon"
+                        >cum <phr rendition="#hang" ana="#hyperbaton #metaphora">temporis exclusus
+                           angustia</phr> , tum ipsarum rerum multitudine superatus</phr>
+                  </phr> . </s>
+               <s n="s2" ana="#arg-praetermissio">
+                  <phr rendition="#hang" ana="#anaphora #tricolon-crescens #percursio">Qualem se
+                     erga amicos , qualem erga parentes , et praesertim qualem erga ipsum summum
+                     pontificem</phr> gesserit , <phr rendition="#hang" ana="#praeteritio">malo haec
+                     omnia in aliud tempus differre quam <phr rendition="#hang"
+                        ana="#metaphora #antithesis">
+                        <phr rendition="#hang" ana="#pleonasmus">adeo felicem meritorum ipsius
+                           copiam</phr> pauca dicendo uitiare</phr>
+                  </phr> . </s>
+               <s n="s3" ana="#arg-pietas"> Illud unum dicam , <phr rendition="#hang"
+                     ana="#probatio-testes">cunctis , qui eius consuetudinem nouerunt ,
+                     attestantibus</phr> , <phr rendition="#hang" ana="#incrementum">
+                     <phr rendition="#hang" ana="#anaphora #dicolon #asyndeton">nullum fuisse tam
+                        piissimum filium , nullum adeo parenti deditum</phr> , aut cui maior <phr
+                        rendition="#hang" ana="#bimembre #anaphora">et salutis et honoris</phr>
+                     genitoris sui cura fuit , quam huic uni summi pontificis nostri <phr
+                        rendition="#hang" ana="#synecdocha">a prima eius familiaritatis die usque ad
+                           <phr rendition="#hang" ana="#pleonasmus">ultimum uitae exitum</phr>
+                     </phr>
+                  </phr> ; <phr rendition="#hang" ana="#anaphora #dicolon #chiasmus #asyndeton">
+                     <phr rendition="#hang" ana="#hyperbaton">nullos pro eo recusauit subire
+                        labores</phr> , nulla pericula deuitauit</phr> ; <phr rendition="#hang"
+                     ana="#tricolon-crescens #pleonasmus">
+                     <phr rendition="#hang" ana="#tricolon-crescens">laborantem , aegrotantem ,
+                        peregrinantem</phr>
+                     <phr rendition="#hang" ana="#anaphora #dicolon">nunquam deseruit , nunquam ab
+                        officio decessit</phr> , semper que , <phr rendition="#hang" ana="#simile"
+                        >ut datus a Domino Tobiae angelus ,</phr>
+                     <phr rendition="#hang" ana="#metaphora">lateri haesit</phr>
+                  </phr> ; <phr rendition="#hang" ana="#dicolon #chiasmus">aduersa procurauit ,
+                     accersiuit prospera</phr> , pia sedulitate <phr rendition="#hang"
+                     ana="#tricolon-crescens #asyndeton">fouit , coluit , ueneratus est</phr> , <phr
+                     rendition="#hang" ana="#comparatio">ut nemini mirum uideri debeat si <phr
+                        rendition="#hang" ana="#anaphora #dicolon #parallelismus">aut uiuentem
+                        tantum dilexit aut nunc mortui desiderio adeo moueatur</phr>
+                  </phr> . </s>
+            </p>
+            <p n="p19" xml:id="modrusiensis-riario19stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-pietas">
+                  <phr rendition="#hang" ana="#aversio">Finem dicendi faciam</phr>
+                  <phr rendition="#hang" ana="#correctio #transitio">si prius illud summum eius
+                     pietatis munus paucis explicauero</phr> . </s>
+               <s n="s2" ana="#arg-pietas"> Compositis rebus suis totam mentem ad illud conuerterat
+                     <phr rendition="#hang" ana="#auctoritas">ut dicere cum psalmista libere posset
+                     : <phr rendition="#hang" ana="#epistrophe #pleonasmus #dicolon">
+                        <phr rendition="#hang" ana="#alliteratio">Domine , dilexi decorem
+                           domus</phr> tuae et gloriam habitationis tuae</phr>
+                  </phr> . </s>
+               <s n="s3" ana="#arg-pietas"> Proinde <phr rendition="#hang" ana="#litotes">non
+                     cessabat</phr>
+                  <phr rendition="#hang" ana="#asyndeton #coacervatio">ecclesias suae curae
+                     commendatas <phr rendition="#hang" ana="#chiasmus">collapsas erigere , exornare
+                        deformes</phr> ; <phr rendition="#hang" ana="#dicolon">praedia occupata
+                        uendicare , bona priorum rectorum distracta negligentia <phr
+                           rendition="#hang" ana="#alliteratio">propriis pecuniis</phr>
+                        recuperare</phr> ; uestimenta , libros , uasa sacra , et caetera ad
+                     splendorem diuini cultus spectantia <phr rendition="#hang" ana="#dicolon"
+                        >maximis sumptibus coemere et , quam praestantiora haberi poterant ,
+                        comparare</phr>
+                  </phr> . </s>
+               <s n="s4" ana="#arg-pietas">
+                  <phr rendition="#hang" ana="#personificatio #probatio-testes">Testatur hanc eius
+                     munificentiam in hac Romana urbe diui Gregorii templum</phr>
+                  <phr rendition="#hang" ana="#dicolon #anaphora #parallelismus #homoioteleuton">et
+                     prouentibus optime auctum et aedificiis perquam magnifice instauratum</phr> ,
+                     <phr rendition="#hang" ana="#personificatio #probatio-testes">
+                     <phr rendition="#hang" ana="#alliteratio">testatur Taruixii</phr> maior
+                     basilica</phr>
+                  <phr rendition="#hang" ana="#dicolon">
+                     <phr rendition="#hang" ana="#litotes">non paruis ditata uectigalibus</phr> et
+                     diuino cultu maxime illustrata</phr> , <phr rendition="#hang"
+                     ana="#personificatio #probatio-testes">testatur Mediolani Ambrosii
+                     monasterium</phr> quod , cum accepisset <phr rendition="#hang"
+                     ana="#alliteratio">omnibus ornamentis</phr> spoliatum , <phr rendition="#hang"
+                     ana="#incrementum">
+                     <phr rendition="#hang" ana="#hyperbaton">tam praeclara instruxit
+                        supellectili</phr> ut , <phr rendition="#hang" ana="#chiasmus">quod prius
+                        caeteris illius urbis obscurius esse consueuerat , nunc <phr
+                           rendition="#hang" ana="#metaphora">splendore et omnifario apparatu uincat
+                           uniuersa</phr>
+                     </phr>
+                  </phr> . </s>
+               <s n="s5" ana="#arg-pietas">
+                  <phr rendition="#hang" ana="#personificatio #probatio-testes">Testatur Papiae
+                     Maioli phanum</phr>
+                  <phr rendition="#hang" ana="#incrementum">in quo <phr rendition="#hang"
+                        ana="#hyperbole #deminutiva">ne unum quidem uasculum</phr> in sacrificium
+                     reperit , libros autem prorsus nullos , adeo ut , quotiens diuina res patranda
+                     erat , opus esset ab aliis sacris aedibus omnia mutuari , nunc tanta cum omnium
+                     , tum praecipue <phr rendition="#hang" ana="#tricolon-crescens">libellorum ,
+                        calicum ac uestimentorum</phr> copia abundat ut <phr rendition="#hang"
+                        ana="#antithesis">aliae ecclesiae mutuum , quod praestare solebant , ab hac
+                        una omnes accipiant</phr>
+                  </phr> . </s>
+               <s n="s6" ana="#arg-pietas"> Huius eiusdem phani distracta praedia <phr
+                     rendition="#hang" ana="#bimembre #incrementum">multis laboribus , sed multo
+                     maioribus impensis</phr> , omnia recuperauit et intra biennium plus quam decem
+                  milia ducatorum pro exaugendis rebus <phr rendition="#hang" ana="#alliteratio"
+                     >eius exposuit</phr> . </s>
+               <s n="s7" ana="#arg-pietas">
+                  <phr rendition="#hang" ana="#personificatio #homoioteleuton #probatio-testes">Haec
+                     quoque sacra apostolorum aedes beneficentiam eius testari potuisset si tantum
+                     quatuor mensibus superstitem uidisset</phr> . </s>
+               <s n="s8" ana="#arg-pietas"> Iam enim decreuerat <phr rendition="#hang"
+                     ana="#bimembre #anaphora">et aedificiis et prouentibus</phr> hac proxima
+                  aestate <phr rendition="#hang" ana="#comparatio">ita eam instruere ut quinquaginta
+                     fratribus <phr rendition="#hang" ana="#bimembre #anaphora #parallelismus">et
+                        commodae mansiones et necessarius uictus</phr>
+                     <phr rendition="#hang" ana="#sonus">perpetuo suppetere posset</phr>
+                  </phr> . </s>
+               <s n="s9" ana="#arg-pietas"> Insuper et bibliothecam his proximis diebus adiecturus
+                  erat praestantissimis omnium scientiarum libris egregie refertam . </s>
+               <s n="s10" ana="#arg-mors"> Sed Dei uoluntate nobis tam repente ademptus est ; <phr
+                     rendition="#hang" ana="#correctio">non quod tam piis operibus non <phr
+                        rendition="#hang" ana="#alliteratio">delectaretur Deus</phr> , uerum , <phr
+                        rendition="#hang" ana="#parenthesis">quod ualde pertimesco</phr> , ut eum
+                     calamitatibus , quibus forsan in nostra crimina <phr rendition="#hang"
+                        ana="#alliteratio">desaeuire decreuit</phr> , immeritum subtraheret et pro
+                     adimpleto bene ministerio , cuius gratia eum procreauerat , congruis praemiis
+                     afficere non differret</phr> . </s>
+            </p>
+            <p n="p20" xml:id="modrusiensis-riario20stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-mors"> Cuius <phr rendition="#hang" ana="#bimembre">miserationis
+                     dilectionis que</phr> certa indicia <phr rendition="#hang" ana="#hyperbaton">in
+                     ipsius uidimus morte</phr>
+                  <phr rendition="#hang" ana="#personificatio">quam , cum <phr rendition="#hang"
+                        ana="#anastrophe">multis ante diebus</phr> aduentare</phr> praesentiret ,
+                  intrepidus tamen exspectauit . </s>
+               <s n="s2" ana="#arg-mors"> Languoris dolores mira <phr rendition="#hang"
+                     ana="#alliteratio">patientia pertulit</phr> . </s>
+               <s n="s3" ana="#arg-mors"> Delicta , quae <phr rendition="#hang"
+                     ana="#bimembre #anaphora">uel aetatis uel fortunae uitio</phr> pro fragilitate
+                  humana contraxerat , pia confessione <phr rendition="#hang" ana="#bimembre"
+                     >saepius diligentius que</phr> purgauit et <phr rendition="#hang"
+                     ana="#metaphora-christiana">munitus caelesti uiatico</phr> , quod <phr
+                     rendition="#hang" ana="#anastrophe">summa cum deuotione</phr> acceperat , <phr
+                     rendition="#hang" ana="#metaphora-christiana">diuinam uoluntatem accinctus
+                     praestolabatur</phr> . </s>
+               <s n="s4" ana="#arg-mors"> Iam que <phr rendition="#hang" ana="#metaphora">uicinus
+                     morti</phr>
+                  <phr rendition="#hang" ana="#bimembre">domesticos ac familiares</phr> accersiri
+                  iubet , quibus praesto exsistentibus <phr rendition="#hang"
+                     ana="#chiasmus #anaphora #asyndeton">
+                     <phr rendition="#hang" ana="#metaphora">in nullos prorupit fletus</phr> ,
+                     nullis mundanarum cupiditatum desideriis ingemuit</phr> , <phr
+                     rendition="#hang" ana="#bimembre #asyndeton #anaphora">non Deum , non
+                     fortunam</phr> accusauit nec se <phr rendition="#hang" ana="#metaphora">in
+                     medio iuuentutis flore</phr>
+                  <phr rendition="#hang" ana="#bimembre #anaphora">ex tanto imperio et ex talibus
+                     operibus</phr> subtrahi uel leuiter indoluit ; quin <phr rendition="#hang"
+                     ana="#bimembre">magno constanti que</phr> pectore Sentio , inquit , <phr
+                     rendition="#hang" ana="#bimembre #alliteratio">filii fratres que mei</phr> ,
+                     <phr rendition="#hang" ana="#metaphora">manum Domini super me aggrauari</phr> ;
+                     <phr rendition="#hang" ana="#bimembre #sonus">uolens lubens que</phr>
+                  <phr rendition="#hang" ana="#hyperbaton">eius praesto sum uoluntati</phr> , eo
+                  quidem libentior quo me <phr rendition="#hang"
+                     ana="#anaphora #synonymia #bimembre">et famae et gloriae</phr> meae satis
+                  uixisse scio . </s>
+               <s n="s5" ana="#arg-mors">
+                  <phr rendition="#hang" ana="#incrementum">
+                     <phr rendition="#hang" ana="#hyperbaton #metaphora">Cepi enim illum ex hac
+                        mortalitate fructum</phr> quem <phr rendition="#hang" ana="#alliteratio"
+                        >maximum mea</phr> fortuna capere potuit</phr> . </s>
+               <s n="s6" ana="#arg-mors">
+                  <phr rendition="#hang" ana="#hyperbaton">Maius restabat nihil</phr> ; quicquid
+                  supererat , <phr rendition="#hang" ana="#alliteratio">merito mihi</phr>
+                  <phr rendition="#hang" ana="#bimembre">suspectum metuendum que</phr> fuisset . </s>
+               <s n="s7" ana="#arg-mors"> Proinde licet <phr rendition="#hang" ana="#bimembre">
+                     <phr rendition="#hang" ana="#metaphora">cupiam dissolui</phr> et esse cum
+                     Christo</phr> , <phr rendition="#hang" ana="#metaphora">uror tamen sola
+                     uestrarum rerum cura</phr> . </s>
+               <s n="s8" ana="#arg-mors"> Cognosco enim me <phr rendition="#hang" ana="#hyperbaton"
+                     >tenuem uobis mercedem</phr> pro meritis exhibuisse , tametsi <phr
+                     rendition="#hang" ana="#bimembre #homoioteleuton #sonus #litotes">nunquam mihi
+                     uoluntas defuerit , sed facultas</phr> . </s>
+               <s n="s9" ana="#arg-mors"> Et <phr rendition="#hang" ana="#metaphora #personificatio"
+                     >nisi <phr rendition="#hang" ana="#alliteratio #sonus">tanta temporis
+                        angustia</phr> prohibitus fuissem</phr> , nullus uestrum meae gratitudinis
+                  uices doleret . </s>
+               <s n="s10" ana="#arg-mors"> Meritum , quod potui , moriens uobis persolui . </s>
+               <s n="s11" ana="#arg-mors">
+                  <phr rendition="#hang" ana="#alliteratio">Supplicaui summo pontifici</phr> ut
+                  beneficia , quae in me contulerat , sua clementia inter uos partiatur , ut <phr
+                     rendition="#hang" ana="#bimembre #anaphora #chiasmus #parallelismus">et uos
+                     meritorum uestrorum et me non praestiti officii</phr> minus paeniteat . </s>
+               <s n="s12" ana="#arg-mors"> Ad haec <phr rendition="#hang" ana="#synonymia #bimembre"
+                     >compellit me et uehementius urget</phr> mea erga uos incredibilis caritas ut
+                  uos <phr rendition="#hang" ana="#synonymia #bimembre">horter atque obtester</phr>
+                  <phr rendition="#hang" ana="#dicolon #homoioteleuton">ne <phr rendition="#hang"
+                        ana="#synonymia #metaphora #bimembre">huius mundi illecebris atque
+                        lenociniis</phr> animum uestrum inducatis , ne ue <phr rendition="#hang"
+                        ana="#synonymia #bimembre">in luxu ac inanibus eius diuitiis</phr> spem
+                     ullam ponatis</phr> ; quae <phr rendition="#hang"
+                     ana="#synonymia #anaphora #bimembre #personificatio #metaphora">quam fluxae
+                     quam que fallaces</phr> sint , ego unus uobis <phr rendition="#hang"
+                     ana="#hyperbaton #abstractum">maximo possum esse documento</phr> . </s>
+               <s n="s13" ana="#arg-mors"> Credite quoniam <phr rendition="#hang"
+                     ana="#metaphora #bimembre">puluis et umbra sumus</phr> et non hic , sed alibi
+                     <phr rendition="#hang" ana="#hyperbaton #metaphora">permanentes habemus
+                     mansiones</phr> , ubi <phr rendition="#hang" ana="#antithesis #dicolon">
+                     <phr rendition="#hang" ana="#pleonasmus #synonymia #anaphora #bimembre">nihil
+                        corruptibile , nihil caducum</phr> esse potest , sed <phr rendition="#hang"
+                        ana="#bimembre #anaphora #synonymia">omnia incorruptibilia , omnia
+                        sempiterna</phr>
+                  </phr> . </s>
+               <s n="s14" ana="#arg-mors"> Proinde <phr rendition="#hang"
+                     ana="#chiasmus #pleonasmus #dicolon">date operam probitati et uirtuti totis
+                     uiribus incumbite</phr> . </s>
+               <s n="s15" ana="#arg-mors">
+                  <phr rendition="#hang" ana="#chiasmus #dicolon">Colite pietatem , integritati
+                     nihil anteponite</phr> scientes <phr rendition="#hang" ana="#metaphora"
+                     >unicuique uestrum propositam esse a Domino laborum suorum mercedem</phr> ;
+                  quae <phr rendition="#hang" ana="#enthymema">etiam si nulla esset , hoc tamen
+                     ipsum <phr rendition="#hang" ana="#synonymia #bimembre">pie et sancte</phr>
+                     uixisse <phr rendition="#hang" ana="#metaphora">maxima uiro bono merces esse
+                        debet</phr> , quippe cuius beneficio <phr rendition="#hang" ana="#dicolon"
+                        >homines a brutis secernuntur et <phr rendition="#hang" ana="#hyperbaton"
+                           >nomen <phr rendition="#hang" ana="#alliteratio">suum sempiternae</phr>
+                           consecrant immortalitati</phr>
+                     </phr>
+                  </phr> . </s>
+            </p>
+            <p n="p21" xml:id="modrusiensis-riario21stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-mors"> Reliquum est quod uos <phr rendition="#hang"
+                     ana="#metaphora">per uiscera misericordiae Saluatoris nostri</phr> supplex
+                  deprecor ut mihi , quaecumque in uos deliqui , condonare dignemini . </s>
+               <s n="s2" ana="#arg-mors">
+                  <phr rendition="#hang" ana="#litotes">Minus quippe <phr rendition="#hang"
+                        ana="#metonymia">meae iuuentutis potens</phr> fui</phr> et <phr
+                     rendition="#hang" ana="#litotes">nonnunquam</phr>
+                  <phr rendition="#hang" ana="#bimembre #anaphora">partim oculos , partim aures
+                     uestras</phr> in multis offendi . </s>
+               <s n="s3" ana="#arg-mors"> Sed eorum <phr rendition="#hang" ana="#incrementum">tanto
+                     facilius me a Domino misericordiam <phr rendition="#hang" ana="#alliteratio"
+                        >consecuturum confido</phr> quanto uos modestius uiuentes pro me <phr
+                        rendition="#hang" ana="#alliteratio">Dominum deprecabimini</phr>
+                  </phr> . </s>
+               <s n="s4" ana="#arg-mors"> Ego quoque , <phr rendition="#hang"
+                     ana="#hyperbaton #parenthesis">si quis mortuis erit sensus</phr> , idem pro
+                  uobis me spondeo facturum . </s>
+               <s n="s5" ana="#arg-mors"> Viuite <phr rendition="#hang" ana="#alliteratio">mei
+                     memores</phr> et , quam caduca sit huius mundi felicitas , uel meo exemplo
+                  discite . </s>
+            </p>
+            <p n="p22" xml:id="modrusiensis-riario22stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-mors">
+                  <phr rendition="#hang" ana="#bimembre #pleonasmus">His atque aliis huiusmodi
+                     plerisque</phr>
+                  <phr rendition="#hang" ana="#anastrophe">summa cum religione</phr> sanctissime
+                  monitos singulos <phr rendition="#hang" ana="#synonymia">flentes eiulantes
+                     que</phr>
+                  <phr rendition="#hang" ana="#alliteratio">deosculatus dimisit</phr> . </s>
+               <s n="s2" ana="#arg-mors"> Se autem in lectulo componens , intentis iugiter in caelum
+                  oculis , misericordiam peccatorum suorum supplex a Domino precabatur . </s>
+               <s n="s3" ana="#arg-mors"> Cum que iam <phr rendition="#hang"
+                     ana="#pleonasmus #metaphora #poetice">nox intempesta medium cursum
+                     peregisset</phr> , conuersus ad Viterbiensem praesulem Ecce , inquit ,
+                  appropinquat iam hora ; affer mihi sacrae unctionis oleum . </s>
+               <s n="s4" ana="#arg-mors"> Quod <phr rendition="#hang" ana="#alliteratio">confestim
+                     cubiculo</phr> illatum <phr rendition="#hang" ana="#bimembre">nudato ac
+                     sublato</phr> , <phr rendition="#hang" ana="#parenthesis">ut poterat</phr> ,
+                  capite , <phr rendition="#hang" ana="#pleonasmus">religiose ueneratus est</phr> ,
+                  deinde exhibitis <phr rendition="#hang" ana="#bimembre">manibus ac pedibus</phr>
+                  rite perunctus ; quo facto Proferte , inquit , sacros codices et aliquid de
+                  diuinis mysteriis <phr rendition="#hang" ana="#hyperbaton">meam Domino animam
+                     commendantes</phr> recitate . </s>
+               <s n="s5" ana="#arg-mors"> Quibus mox prolatis usque in lucem <phr rendition="#hang"
+                     ana="#chiasmus #dicolon #anaphora">
+                     <phr rendition="#hang" ana="#alliteratio">partim psalmi</phr> decantati sunt ,
+                     partim lecta euangelia</phr> ; semper que intentus <phr rendition="#hang"
+                     ana="#bimembre">auribus atque oculis</phr> in ea quae legebantur , etiam
+                  deficiente spiritu , perstitit , donec lector Dominicae passionis ad illum locum
+                  peruenit ubi scriptura inquit et inclinato capite emisit spiritum . </s>
+               <s n="s6" ana="#arg-mors"> Ad hanc uocem illa <phr rendition="#hang"
+                     ana="#alliteratio">dilecta Deo</phr>
+                  <phr rendition="#hang" ana="#metaphora">anima <phr rendition="#hang"
+                        ana="#comparatio">ueluti certo accepto signo</phr> ad Dominum suum confestim
+                     euolauit</phr> . </s>
+            </p>
+            <p n="p23" xml:id="modrusiensis-riario23stilistica" ana="#arg-peroratio">
+               <s n="s1">
+                  <phr rendition="#hang" ana="#exclamatio">O <phr rendition="#hang"
+                        ana="#epanalepsis #diacope">felix atque iterum felix</phr> cui <phr
+                        rendition="#hang" ana="#chiasmus #parallelismus #anaphora">et uita <phr
+                           rendition="#hang" ana="#hyperbaton">summam dedit gloriam</phr> et mors
+                        ipsa meritam diuinitatem <phr rendition="#hang" ana="#litotes">non
+                           denegauit</phr>
+                     </phr> !</phr>
+               </s>
+               <s n="s2"> Non est ergo quod eius casu ingemiscere habeamus , quoniam <phr
+                     rendition="#hang" ana="#antithesis #antitheton-bina-binis">in paucis annis
+                     maximam aetatem compleuit</phr> ; <phr rendition="#hang" ana="#incrementum">
+                     <phr rendition="#hang" ana="#litotes">
+                        <phr rendition="#hang" ana="#anaphora #bimembre">nec sibi nec gloriae
+                           suae</phr> parum uixit</phr> qui , quaecumque unius hominis fortuna
+                     capere potuit , abunde consecutus est</phr> . </s>
+               <s n="s3"> Nobis forsan amplius uiuere poterat , et nimirum magno <phr
+                     rendition="#hang" ana="#bimembre">et ornamento et utilitati</phr> . </s>
+               <s n="s4"> Sed <phr rendition="#hang" ana="#argumentum #enthymema">non est amicorum
+                     officium <phr rendition="#hang" ana="#chiasmus #antithesis">sua commoda <phr
+                           rendition="#hang" ana="#hyperbaton">ex amici spectare incommodis</phr>
+                     </phr>
+                  </phr> . </s>
+               <s n="s5">
+                  <phr rendition="#hang" ana="#epanalepsis #distinctio">Quicquid superuixisset ,
+                        <phr rendition="#hang" ana="#hyperbaton #bimembre">doloribus superuixisset
+                        et laboribus</phr>
+                  </phr> ; <phr rendition="#hang" ana="#alliteratio">quibus quoniam</phr> eum diuina
+                  clementia misericorditer subduxit , <phr rendition="#hang" ana="#dicolon">gratias
+                     illi agamus atque dicamus</phr>
+                  <phr rendition="#hang" ana="#anaphora #antithesis">Dominus dedit , Dominus
+                     abstulit</phr> ; <phr rendition="#hang" ana="#comparatio">sicut Domino placuit
+                     , ita factum est</phr> ; <phr rendition="#hang" ana="#hyperbaton">sit <phr
+                        rendition="#hang" ana="#synecdocha">nomen Domini</phr> benedictum</phr> . </s>
+               <s n="s6"> Amen . </s>
+            </p>
+         </div>
+         <div type="textpart" n="2" xml:id="modrusiensis-riario-epigrammata-stilistica">
+            <div n="e1" xml:id="modrusiensis-riario-epigr1stilistica">
+               <head> In laudem libelli </head>
+               <p n="p1" xml:id="modrusiensis-riario-carmen1lemma">
+                  <s n="s1"> Eloquio uires quantae sint , aspice , lector Quem prius odisti ,
+                     protinus hunc peramas . </s>
+               </p>
+            </div>
+            <div n="e2" xml:id="modrusiensis-riario-epigr2stilistica">
+               <head> Epitaphion </head>
+               <p n="p2" xml:id="modrusiensis-riario-carmen2lemma">
+                  <s n="s1"> Nemo magis docuit perituri temnere saecli Diuitias , fastum , luxuriem
+                     que simul . </s>
+               </p>
+            </div>
+            <div n="e3" xml:id="modrusiensis-riario-epigr3stilistica">
+               <head> Aliud </head>
+               <p n="p3" xml:id="modrusiensis-riario-carmen3lemma">
+                  <s n="s1"> Quam celeris fugiat ruituri gloria mundi Me speculum cernas quisque
+                     uiator ades . </s>
+               </p>
+            </div>
+            <div n="e4" xml:id="modrusiensis-riario-epigr4stilistica">
+               <head> Aliud </head>
+               <p n="p4" xml:id="modrusiensis-riario-carmen4lemma">
+                  <s n="s1"> Sorte humili natum qui me cognouerit ante Fortunae uarios rideat ille
+                     iocos . </s>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back n="back1">
+         <interpGrp resp="#v6913774" n="interpGrp1" type="stilistica">
+            <desc>Categoriae stilisticae in annotationibus</desc>
+            <interp rendition="#block" n="interp1" xml:id="abstractum">Abstractum pro
+               concreto</interp>
+            <interp rendition="#block" n="interp2" xml:id="geminatio">Geminatio: verbum repetitur
+               eodem loco, saepe initiali in sententia (Lausberg § 616)</interp>
+            <interp rendition="#block" n="interp3" xml:id="anaphora">Figura anaphora: initium coli
+               sive commatis in sequenti repetitur (Lausberg § 629)</interp>
+            <interp rendition="#block" n="interp4" xml:id="anastrophe">Figura anastrophe: verborum
+               ordo praeposterus, in duobus verbis fit</interp>
+            <interp rendition="#block" n="interp5" xml:id="antithesis">Figura antithesis</interp>
+            <interp rendition="#block" n="interp6" xml:id="alliteratio">Figura alliteratio</interp>
+            <interp rendition="#block" n="interp7" xml:id="apostrophe">Figura apostrophe</interp>
+            <interp rendition="#block" n="interp8" xml:id="argumentum">Argumentum (quod probatione
+               non eget)</interp>
+            <interp rendition="#block" n="interp9" xml:id="asyndeton">Figura asyndeton</interp>
+            <interp rendition="#block" n="interp10" xml:id="auctoritas">Exemplum
+               auctoritatis</interp>
+            <interp rendition="#block" n="interp11" xml:id="aversio">Aversio a proposito abducit
+               audientem. Figura sententiae, ad auditores.</interp>
+            <interp rendition="#block" n="interp12" xml:id="bimembre">Phrasis bimembris, duo
+               commata, id est membra sententiae colis minora continens (Lausberg § 734)</interp>
+            <interp rendition="#block" n="interp13" xml:id="coacervatio">Figura coacervatio</interp>
+            <interp rendition="#block" n="interp14" xml:id="comparatio">Comparatio gradus sive
+               rerum</interp>
+            <interp rendition="#block" n="interp15" xml:id="correctio">Correctio propositi. Figura
+               sententiae, ad rem.</interp>
+            <interp rendition="#block" n="interp16" xml:id="chiasmus">Figura chiasmus</interp>
+            <interp rendition="#block" n="interp17" xml:id="diacope">Figura diacope: repetitio cum
+               singulo verbo interposito</interp>
+            <interp rendition="#block" n="interp18" xml:id="deminutiva">Deminutiva notabilia,
+               expressiva</interp>
+            <interp rendition="#block" n="interp19" xml:id="dicolon">Figura dicolon, duo phrases
+               sive cola, partes sententiae longiores, continens</interp>
+            <interp rendition="#block" n="interp20" xml:id="distinctio">Figura distinctio: verbum
+               iteratum aliam sententiam significat ac significavit primo dictum (Lausberg §
+               660)</interp>
+            <interp rendition="#block" n="interp21" xml:id="enthymema">Enthymema</interp>
+            <interp rendition="#block" n="interp22" xml:id="epanalepsis">Figura epanalepsis</interp>
+            <interp rendition="#block" n="interp23" xml:id="epistrophe">Figura epistrophe: cola sive
+               commata eodem verbo finiuntur</interp>
+            <interp rendition="#block" n="interp24" xml:id="exclamatio">Figura exclamatio. Figura
+               sententiae, ad affectum.</interp>
+            <interp rendition="#block" n="interp25" xml:id="exemplum">Figura exemplum. Figura
+               sententiae, ad rem.</interp>
+            <interp rendition="#block" n="interp26" xml:id="hendiadyoin">Figura hendiadyoin</interp>
+            <interp rendition="#block" n="interp27" xml:id="homoioteleuton">Figura
+               homoioteleuton</interp>
+            <interp rendition="#block" n="interp28" xml:id="hyperbole">Figura hyperbole: oratio
+               superans veritatem alicuius augendi minuendive causa (Lausberg § 579)</interp>
+            <interp rendition="#block" n="interp29" xml:id="hyperbaton">Figura hyperbaton (Lausberg
+               § 716)</interp>
+            <interp rendition="#block" n="interp30" xml:id="incrementum">Figura incrementum: gradus
+               gradu fortiore superatur (a minore ad maius; Lausberg § 403)</interp>
+            <interp rendition="#block" n="interp31" xml:id="interrogatio">Figura interrogatio; non
+               sciscitandi gratia assumitur, sed instandi. Figura sententiae, ad auditores.</interp>
+            <interp rendition="#block" n="interp32" xml:id="litotes">Figura litotes</interp>
+            <interp rendition="#block" n="interp33" xml:id="paronomasia">Figura paronomasia: sonat
+               similiter; addenda aut demenda aut mutanda littera aut syllaba fit</interp>
+            <interp rendition="#block" n="interp34" xml:id="polyptoton">Figura polyptoton</interp>
+            <interp rendition="#block" n="interp35" xml:id="simile">Figura simile</interp>
+            <interp rendition="#block" n="interp36" xml:id="tricolon-crescens">Figura tricolon
+               crescens</interp>
+            <interp rendition="#block" n="interp38" xml:id="tetracolon">Figura tetracolon</interp>
+            <interp rendition="#block" n="interp39" xml:id="divisio">Divisio sive distributio
+               (diaeresis) qua res in genera distinguitur (Lausberg § 393) Figura sententiae, ad
+               rem.</interp>
+            <interp rendition="#block" n="interp40" xml:id="metaphora">Figura metaphora</interp>
+            <interp rendition="#block" n="interp41" xml:id="metaphora-christiana">Metaphora apud
+               Christianos usitata</interp>
+            <interp rendition="#block" n="interp42" xml:id="metonymia">Figura metonymia</interp>
+            <interp rendition="#block" n="interp43" xml:id="antitheton-bina-binis">Figura antitheton
+               ubi bina binis opponuntur (Lausberg § 787)</interp>
+            <interp rendition="#block" n="interp44" xml:id="parallelismus">Figura parallelismus sive
+               isocolon (Lausberg § 719)</interp>
+            <interp rendition="#block" n="interp45" xml:id="parenthesis">Figura parenthesis</interp>
+            <interp rendition="#block" n="interp46" xml:id="percursio">Percursio: paucis comprehensa
+               brevitas, multarum rerum expeditio</interp>
+            <interp rendition="#block" n="interp47" xml:id="personificatio">Figura
+               personificatio</interp>
+            <interp rendition="#block" n="interp48" xml:id="pleonasmus">Figura pleonasmus</interp>
+            <interp rendition="#block" n="interp49" xml:id="poetice">Modus poeticus</interp>
+            <interp rendition="#block" n="interp50" xml:id="praeteritio">Figura praeteritio. Figura
+               sententiae, ad auditores.</interp>
+            <interp rendition="#block" n="interp51" xml:id="probatio-signum">Probatio per signa.
+               Figura sententiae.</interp>
+            <interp rendition="#block" n="interp52" xml:id="probatio-testes">Probatio per testes.
+               Figura sententiae.</interp>
+            <interp rendition="#block" n="interp53" xml:id="refutatio">Refutatio, pars
+               argumentationis: non fecit (Lausberg § 154, animi coniectura). Figura
+               sententiae.</interp>
+            <interp rendition="#block" n="interp54" xml:id="refutatio-testes">Refutatio per testes,
+               pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354). Figura
+               sententiae.</interp>
+            <interp rendition="#block" n="interp55" xml:id="sonus">Verba simile sonantia
+               (Klangfiguren)</interp>
+            <interp rendition="#block" n="interp56" xml:id="synonymia">Figura synonymia (idem
+               repetitur aliis verbis)</interp>
+            <interp rendition="#block" n="interp57" xml:id="synecdocha">Figura synecdocha: a parte
+               totum vel a toto pars intellegitur; pro verbo proprio subicitur aliud quod idem
+               significat sumptum ex re aliqua consequenti</interp>
+            <interp rendition="#block" n="interp58" xml:id="synecdocha-specie-genus">Figura
+               synecdocha: specie genus intellegimus</interp>
+            <interp rendition="#block" n="interp59" xml:id="transitio">Transitio ostendit breviter
+               quid actum sit, proponit item brevi quid consequatur. Figura sententiae, ad
+               auditores.</interp>
+         </interpGrp>
+         <interpGrp resp="#v6913774" type="argumentum">
+            <desc>Orationes partes et argumenta</desc>
+            <interp rendition="#block" xml:id="arg-exordium">exordium: luctus et modestia</interp>
+            <interp rendition="#block" xml:id="arg-narratio">narratio: vita, virtutes, mors</interp>
+            <interp rendition="#block" xml:id="arg-peroratio">peroratio: laudatio et
+               consolatio</interp>
+            <interp rendition="#block" xml:id="arg-genus">genus</interp>
+            <interp rendition="#block" xml:id="arg-virtutes">virtutes</interp>
+            <interp rendition="#block" xml:id="arg-pueritia">pueritia</interp>
+            <interp rendition="#block" xml:id="arg-cardinalatus">cardinalatus</interp>
+            <interp rendition="#block" xml:id="arg-excursus-in-invidos">excursus in invidos</interp>
+            <interp rendition="#block" xml:id="arg-hypostrophe">hypostrophe, ad argumentum
+               revertitur</interp>
+            <interp rendition="#block" xml:id="arg-prudentia">prudentia in officio</interp>
+            <interp rendition="#block" xml:id="arg-moderatio">moderatio</interp>
+            <interp rendition="#block" xml:id="arg-iustitia">iustitia</interp>
+            <interp rendition="#block" xml:id="arg-praetermissio">praetermissio</interp>
+            <interp rendition="#block" xml:id="arg-pietas">pietas</interp>
+            <interp rendition="#block" xml:id="arg-mors">mors, in morte virtutes</interp>
+         </interpGrp>
+      </back>
+   </text>
+</TEI>
