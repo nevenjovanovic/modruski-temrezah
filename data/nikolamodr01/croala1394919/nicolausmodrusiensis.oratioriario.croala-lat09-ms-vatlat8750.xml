@@ -114,7 +114,7 @@
                                 krajevi redaka. Segmentirano u riječi. </change>
                 </revisionDesc>
         </teiHeader>
-        <text xml:base="urn:cts:croala:nicolausmodrusiensis.oratioriario.croala-lat09-ms-vatlat8750" xml:lang="lat" type="prosa-oratio">
+        <text xml:base="urn:cts:croala:nicolausmodrusiensis.oratioriario.croala-lat09-ms-vatlat8750:" xml:lang="lat" type="prosa-oratio">
                 <body n="body1">
                         <head n="head1">
                                 <pb n="pb1"/>
