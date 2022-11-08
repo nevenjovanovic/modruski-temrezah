@@ -136,7 +136,7 @@
                   </phr> . </s>
                <s n="s2">
                   <phr rendition="#hang" ana="#incrementum"> Quod etiam si <phr rendition="#hang"
-                        ana="#synecdocha #synecdocha-specie-genus">minime perdidissem</phr> ,
+                        ana="#synecdoche #synecdoche-specie-genus">minime perdidissem</phr> ,
                      nunquam tamen dispicere possem <phr rendition="#hang"
                         ana="#sonus #paronomasia #bimembre #polyptoton">qua oratione aut quibus
                         rationibus</phr> etiam illi quidem , qui principes eloquentiae sunt habiti ,
@@ -157,7 +157,7 @@
                      patris uestri piissimi , <phr rendition="#hang" ana="#alliteratio">singulare
                         solacium</phr>
                   </phr> et <phr rendition="#hang" ana="#metaphora #poetice">
-                     <phr rendition="#hang" ana="#metonymia #synecdocha #abstractum">sacrae eius
+                     <phr rendition="#hang" ana="#metonymia #synecdoche #abstractum">sacrae eius
                         senectutis</phr> optatissimum baculum</phr> , <phr rendition="#hang"
                      ana="#chiasmus">participem secretorum , laborum socium</phr> , <phr
                      rendition="#hang" ana="#chiasmus">peregrinationis comitem , <phr
@@ -167,8 +167,8 @@
                      et accipere</phr> . </s>
                <s n="s3">
                   <phr rendition="#hang" ana="#chiasmus #exclamatio">Absit uero inuidia et <phr
-                        rendition="#hang" ana="#synecdocha #abstractum #personificatio #poetice">
-                        liuor edax saltem <phr rendition="#hang" ana="#synecdocha">parcat</phr>
+                        rendition="#hang" ana="#synecdoche #abstractum #personificatio #poetice">
+                        liuor edax saltem <phr rendition="#hang" ana="#synecdoche">parcat</phr>
                         cineribus</phr>
                   </phr> . </s>
                <s n="s4">
@@ -410,7 +410,7 @@
                   <phr rendition="#hang" ana="#litotes">urgere non destitit</phr> donec multis <phr
                      rendition="#hang" ana="#bimembre #anaphora #synonymia">et signis et
                      prodigiis</phr> euictum propulit Romam proficisci ; in qua constitutus <phr
-                     rendition="#hang" ana="#litotes #synecdocha #synecdocha-specie-genus">minime
+                     rendition="#hang" ana="#litotes #synecdoche #synecdoche-specie-genus">minime
                      conquieuit</phr>
                   <phr rendition="#hang" ana="#dicolon">antequam demandatum ab altissimi prouidentia
                      munus uiriliter absolueret et magistrum suum <phr rendition="#hang"
@@ -481,7 +481,7 @@
                         rendition="#hang" ana="#parenthesis">quos diximus</phr> , acceptaret
                      usus</phr> , <phr rendition="#hang" ana="#dicolon">
                      <phr rendition="#hang" ana="#argumentum #auctoritas">prophetici tamen documenti
-                        memor <phr rendition="#hang" ana="#synecdocha-specie-genus #synecdocha"
+                        memor <phr rendition="#hang" ana="#synecdoche-specie-genus #synecdoche"
                            >minime ad ea <phr rendition="#hang" ana="#metaphora">cor apponebat</phr>
                         </phr>
                      </phr> neque illis <phr rendition="#hang" ana="#hyperbaton">auaro deuinciebatur
@@ -638,7 +638,7 @@
                         rendition="#hang" ana="#litotes">non sine graui stomacho</phr> lacrimis
                      suffusum oculos et cum multa indignatione <phr rendition="#hang"
                         ana="#bimembre">Deum optimum maximum que</phr> testem citare atque , cum
-                     nemo cogeret <phr rendition="#hang" ana="#synecdocha #synecdocha-specie-genus"
+                     nemo cogeret <phr rendition="#hang" ana="#synecdoche #synecdoche-specie-genus"
                         >minime que ea re opus esset</phr> , dirissima quaeque in <phr
                         rendition="#hang" ana="#hendiadyoin">se caput que suum</phr> impetrantem si
                         <phr rendition="#hang" ana="#bimembre #polyptoton #parallelismus">ullas
@@ -679,7 +679,7 @@
                <s n="s2" ana="#arg-excursus-in-invidos">
                   <phr rendition="#hang" ana="#apostrophe">
                      <phr rendition="#hang" ana="#geminatio"> Caue , caue</phr> tibi , <phr
-                        rendition="#hang" ana="#synecdocha">lingua dolosa</phr> , <phr
+                        rendition="#hang" ana="#synecdoche">lingua dolosa</phr> , <phr
                         rendition="#hang" ana="#tricolon-crescens">ne <phr rendition="#hang"
                            ana="#alliteratio">Deus destruat te</phr> in finem , <phr
                            rendition="#hang" ana="#metaphora">euellet te , et emigret te de <phr
@@ -712,13 +712,13 @@
                      ana="#metaphora">eam partem attingam</phr> qua <phr rendition="#hang"
                      ana="#incrementum">ita sese inter principes Christianos gessit ut , cum unius
                      erga eum beniuolentiam consideres , credas ab aliis <phr rendition="#hang"
-                        ana="#synecdocha #synecdocha-specie-genus">minime dilectum</phr>
+                        ana="#synecdoche #synecdoche-specie-genus">minime dilectum</phr>
                   </phr> . </s>
                <s n="s3" ana="#arg-prudentia">
                   <phr rendition="#hang" ana="#argumentum #enthymema">
                      <phr rendition="#hang" ana="#metaphora">Lex quippe amicitiae</phr> ita habet ut
                      amicos inimicorum <phr rendition="#hang"
-                        ana="#synecdocha #synecdocha-specie-genus #litotes">minime diligamus</phr> ;
+                        ana="#synecdoche #synecdoche-specie-genus #litotes">minime diligamus</phr> ;
                      hic tamen sua prudentia consecutus est ut <phr rendition="#hang" ana="#dicolon"
                         >aeque carus omnibus haberetur , nec ullus esset qui <phr rendition="#hang"
                            ana="#dicolon #epanalepsis">eius amicitiam ultro non expeteret , et
@@ -809,7 +809,7 @@
                <s n="s2" ana="#arg-moderatio">
                   <phr rendition="#hang" ana="#chiasmus #asyndeton #bimembre">De nullo obloquebatur
                      , detrahebat nemini ,</phr> et , nisi familiarium suorum , aliorum uitae <phr
-                     rendition="#hang" ana="#synecdocha #synecdocha-specie-genus #litotes">minime
+                     rendition="#hang" ana="#synecdoche #synecdoche-specie-genus #litotes">minime
                      erat curiosus</phr> . </s>
                <s n="s3" ana="#arg-moderatio"> Maximum eius conuicium putabatur si quem , <phr
                      rendition="#hang" ana="#parenthesis">quod tamen parcissime fiebat</phr> , per
@@ -883,7 +883,7 @@
                      Vrbis aliquando interrogaretur quidnam de illis fieri uellet qui iniustam
                      causam fouentes tamen ipsius nomine commendabantur , Illud , inquit , ut <phr
                         rendition="#hang" ana="#metaphora">iustitiam mearum precum gratia <phr
-                           rendition="#hang" ana="#synecdocha #synecdocha-specie-genus">minime
+                           rendition="#hang" ana="#synecdoche #synecdoche-specie-genus">minime
                            uioles</phr>
                      </phr> , nec secus feceris etiam si te germanus meus Hieronymus nomine meo
                      aliud precabitur</phr> . </s>
@@ -924,8 +924,7 @@
                      pontificem</phr> gesserit , <phr rendition="#hang" ana="#praeteritio">malo haec
                      omnia in aliud tempus differre quam <phr rendition="#hang"
                         ana="#metaphora #antithesis">
-                        <phr rendition="#hang" ana="#pleonasmus">adeo felicem meritorum ipsius
-                           copiam</phr> pauca dicendo uitiare</phr>
+                        adeo felicem meritorum ipsius copiam pauca dicendo uitiare</phr>
                   </phr> . </s>
                <s n="s3" ana="#arg-pietas"> Illud unum dicam , <phr rendition="#hang"
                      ana="#probatio-testes">cunctis , qui eius consuetudinem nouerunt ,
@@ -934,7 +933,7 @@
                         piissimum filium , nullum adeo parenti deditum</phr> , aut cui maior <phr
                         rendition="#hang" ana="#bimembre #anaphora">et salutis et honoris</phr>
                      genitoris sui cura fuit , quam huic uni summi pontificis nostri <phr
-                        rendition="#hang" ana="#synecdocha">a prima eius familiaritatis die usque ad
+                        rendition="#hang" ana="#synecdoche">a prima eius familiaritatis die usque ad
                            <phr rendition="#hang" ana="#pleonasmus">ultimum uitae exitum</phr>
                      </phr>
                   </phr> ; <phr rendition="#hang" ana="#anaphora #dicolon #chiasmus #asyndeton">
@@ -1231,7 +1230,7 @@
                   <phr rendition="#hang" ana="#anaphora #antithesis">Dominus dedit , Dominus
                      abstulit</phr> ; <phr rendition="#hang" ana="#comparatio">sicut Domino placuit
                      , ita factum est</phr> ; <phr rendition="#hang" ana="#hyperbaton">sit <phr
-                        rendition="#hang" ana="#synecdocha">nomen Domini</phr> benedictum</phr> . </s>
+                        rendition="#hang" ana="#synecdoche">nomen Domini</phr> benedictum</phr> . </s>
                <s n="s6"> Amen . </s>
             </p>
          </div>
@@ -1365,11 +1364,11 @@
                (Klangfiguren)</interp>
             <interp rendition="#block" n="interp56" xml:id="synonymia">Figura synonymia (idem
                repetitur aliis verbis)</interp>
-            <interp rendition="#block" n="interp57" xml:id="synecdocha">Figura synecdocha: a parte
+            <interp rendition="#block" n="interp57" xml:id="synecdoche">Figura synecdoche: a parte
                totum vel a toto pars intellegitur; pro verbo proprio subicitur aliud quod idem
                significat sumptum ex re aliqua consequenti</interp>
-            <interp rendition="#block" n="interp58" xml:id="synecdocha-specie-genus">Figura
-               synecdocha: specie genus intellegimus</interp>
+            <interp rendition="#block" n="interp58" xml:id="synecdoche-specie-genus">Figura
+               synecdoche: specie genus intellegimus</interp>
             <interp rendition="#block" n="interp59" xml:id="transitio">Transitio ostendit breviter
                quid actum sit, proponit item brevi quid consequatur. Figura sententiae, ad
                auditores.</interp>
