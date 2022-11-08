@@ -1,0 +1,1001 @@
+<div>
+  <s xml:id="head1.s1" w="18"/>
+  <s xml:id="modrusiensis-riario01.p1.s1" w="0" stilphr="8">
+    <phr ana="#MERISMUS" w="38" stilphr="7">
+      <phr ana="#ANTITHESIS" w="8" stilphr="1">
+        <phr ana="#litotes" w="4"/>
+      </phr>
+      <phr ana="#bimembre" w="3"/>
+      <phr ana="#comparatio" w="11" stilphr="3">
+        <phr ana="#hyperbaton" w="5"/>
+        <phr ana="#hyperbaton" w="4"/>
+        <phr ana="#bimembre #ANAPHORA #PARALLELISMUS" w="5"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario01.p1.s2" w="7" stilphr="5">
+    <phr ana="#synecdocha #synecdocha-specie-genus" w="2"/>
+    <phr ana="#comparatio" w="10" stilphr="3">
+      <phr ana="#sonus #PARONOMASIA #bimembre #POLYPTOTON" w="5"/>
+      <phr ana="#bimembre #PARALLELISMUS" w="13"/>
+      <phr ana="#anastrophe" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario02.p2.s1" w="7" stilphr="1">
+    <phr ana="#PARALLELISMUS #dicolon #homoioteleuton" w="19"/>
+  </s>
+  <s xml:id="modrusiensis-riario02.p2.s2" w="10" stilphr="8">
+    <phr ana="#METONYMIA" w="5" stilphr="1">
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+    <phr ana="#METAPHORA #poetice" w="2" stilphr="1">
+      <phr ana="#abstractum #METONYMIA #synecdocha" w="3"/>
+    </phr>
+    <phr ana="#chiasmus" w="4"/>
+    <phr ana="#chiasmus" w="2" stilphr="1">
+      <phr ana="#abstractum #METONYMIA" w="2"/>
+    </phr>
+    <phr ana="#bimembre #ANAPHORA #anastrophe" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario02.p2.s3" w="0" stilphr="3">
+    <phr ana="#chiasmus #EXCLAMATIO" w="4" stilphr="2">
+      <phr ana="#synecdocha #abstractum #personificatio #poetice" w="4" stilphr="1">
+        <phr ana="#synecdocha" w="1"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario02.p2.s4" w="0" stilphr="6">
+    <phr ana="#dicolon #homoioteleuton #PARALLELISMUS" w="9" stilphr="1">
+      <phr ana="#METAPHORA" w="2"/>
+    </phr>
+    <phr ana="#chiasmus" w="2" stilphr="1">
+      <phr ana="#abstractum #METONYMIA" w="2"/>
+    </phr>
+    <phr ana="#chiasmus" w="5" stilphr="1">
+      <phr ana="#abstractum #METONYMIA" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario02.p2.s5" w="0" stilphr="4">
+    <phr ana="#dicolon #PARALLELISMUS #poetice" w="0" stilphr="3">
+      <phr ana="#METAPHORA" w="1" stilphr="1">
+        <phr ana="#abstractum #METONYMIA" w="3"/>
+      </phr>
+      <phr ana="#METAPHORA" w="7"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario02.p2.s6" w="3" stilphr="5">
+    <phr ana="#comparatio" w="12"/>
+    <phr ana="#personificatio" w="14" stilphr="3">
+      <phr ana="#SYNONYMIA" w="3"/>
+      <phr ana="#hyperbaton" w="3"/>
+      <phr ana="#sonus" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario02.p2.s7" w="25" stilphr="2">
+    <phr ana="#epanalepsis #DIACOPE" w="3"/>
+    <phr ana="#bimembre #SYNONYMIA" w="3"/>
+  </s>
+  <s xml:id="modrusiensis-riario02.p2.s8" w="10" stilphr="10">
+    <phr ana="#abstractum #METONYMIA" w="2" stilphr="1">
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#chiasmus #dicolon #ANAPHORA" w="6" stilphr="1">
+      <phr ana="#hyperbaton" w="3"/>
+    </phr>
+    <phr ana="#comparatio" w="13" stilphr="1">
+      <phr ana="#METAPHORA" w="4"/>
+    </phr>
+    <phr ana="#comparatio" w="4"/>
+    <phr ana="#comparatio" w="5" stilphr="1">
+      <phr ana="#METAPHORA" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario03.p3.s1" w="32" stilphr="11">
+    <phr ana="#bimembre #ANAPHORA" w="7"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#bimembre #ANAPHORA" w="4"/>
+    <phr ana="#dicolon #PARALLELISMUS" w="14"/>
+    <phr ana="#comparatio" w="5" stilphr="6">
+      <phr ana="#SYNONYMIA #pleonasmus #bimembre" w="3"/>
+      <phr ana="#pleonasmus #SYNONYMIA #bimembre" w="3" stilphr="1">
+        <phr ana="#anastrophe" w="3"/>
+      </phr>
+      <phr ana="#pleonasmus #SYNONYMIA #bimembre" w="4"/>
+      <phr ana="#ANAPHORA #POLYPTOTON" w="7" stilphr="1">
+        <phr ana="#litotes" w="3"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario03.p3.s2" w="8" stilphr="6">
+    <phr ana="#aversio" w="15" stilphr="4">
+      <phr ana="#comparatio" w="13"/>
+      <phr ana="#bimembre" w="4"/>
+      <phr ana="#parenthesis #praeteritio" w="2" stilphr="1">
+        <phr ana="#comparatio #enthymema" w="7"/>
+      </phr>
+    </phr>
+    <phr ana="#transitio" w="8"/>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s1" w="2" stilphr="2">
+    <phr ana="#dicolon" w="15"/>
+    <phr ana="#METAPHORA" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s2" w="3" stilphr="6">
+    <phr ana="#comparatio" w="12" stilphr="2">
+      <phr ana="#ALLITERATIO" w="3"/>
+      <phr ana="#hyperbaton" w="3"/>
+    </phr>
+    <phr ana="#hyperbaton" w="2" stilphr="2">
+      <phr ana="#ALLITERATIO" w="2"/>
+      <phr ana="#METAPHORA" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s3" w="20" stilphr="3">
+    <phr ana="#bimembre" w="2"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#ALLITERATIO" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s4" w="11" stilphr="8">
+    <phr ana="#POLYPTOTON #PARALLELISMUS #bimembre" w="6" stilphr="1">
+      <phr ana="#METAPHORA" w="2"/>
+    </phr>
+    <phr ana="#ANTITHESIS #homoioteleuton" w="6"/>
+    <phr ana="#hyperbaton" w="4"/>
+    <phr ana="#METAPHORA" w="2" stilphr="1">
+      <phr ana="#parenthesis" w="2"/>
+    </phr>
+    <phr ana="#POLYPTOTON #dicolon #PARALLELISMUS" w="6" stilphr="1">
+      <phr ana="#hyperbaton" w="6"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s5" w="19" stilphr="5">
+    <phr ana="#hyperbaton" w="10"/>
+    <phr ana="#METAPHORA" w="6"/>
+    <phr ana="#poetice" w="3"/>
+    <phr ana="#hyperbaton" w="4"/>
+    <phr ana="#METAPHORA" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s6" w="7" stilphr="6">
+    <phr ana="#ANAPHORA #TRICOLON-CRESCENS #GRADATIO" w="7"/>
+    <phr ana="#hyperbaton" w="5" stilphr="1">
+      <phr ana="#parenthesis" w="2"/>
+    </phr>
+    <phr ana="#dicolon #PARALLELISMUS" w="10" stilphr="2">
+      <phr ana="#hyperbaton" w="3"/>
+      <phr ana="#METAPHORA" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s7" w="2" stilphr="4">
+    <phr ana="#comparatio" w="13" stilphr="3">
+      <phr ana="#bimembre #SYNONYMIA" w="2"/>
+      <phr ana="#bimembre #PARALLELISMUS #ANAPHORA" w="4"/>
+      <phr ana="#bimembre #ANAPHORA" w="5"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s8" w="13" stilphr="5">
+    <phr ana="#anastrophe" w="3"/>
+    <phr ana="#ANAPHORA #bimembre #SYNONYMIA" w="4"/>
+    <phr ana="#hyperbaton #METAPHORA" w="1" stilphr="2">
+      <phr ana="#bimembre" w="2"/>
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s9" w="12"/>
+  <s xml:id="modrusiensis-riario04.p4.s10" w="10" stilphr="8">
+    <phr ana="#METAPHORA" w="2" stilphr="1">
+      <phr ana="#hyperbaton" w="3"/>
+    </phr>
+    <phr ana="#percursio" w="11"/>
+    <phr ana="#hyperbaton" w="7" stilphr="2">
+      <phr ana="#bimembre #PARALLELISMUS #ANAPHORA" w="6"/>
+      <phr ana="#METAPHORA" w="1"/>
+    </phr>
+    <phr ana="#SIMILE" w="9" stilphr="1">
+      <phr ana="#METAPHORA" w="5"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s11" w="5" stilphr="4">
+    <phr ana="#comparatio" w="10" stilphr="3">
+      <phr ana="#anastrophe #litotes" w="3"/>
+      <phr ana="#homoioteleuton #ANAPHORA #bimembre" w="8"/>
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s12" w="0" stilphr="6">
+    <phr ana="#probatio-testes" w="17" stilphr="5">
+      <phr ana="#ALLITERATIO" w="2"/>
+      <phr ana="#comparatio" w="14" stilphr="3">
+        <phr ana="#bimembre #ANAPHORA" w="6"/>
+        <phr ana="#bimembre" w="2"/>
+        <phr ana="#bimembre" w="2"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario04.p4.s13" w="10"/>
+  <s xml:id="modrusiensis-riario04.p4.s14" w="12" stilphr="9">
+    <phr ana="#METAPHORA" w="14"/>
+    <phr ana="#bimembre" w="4"/>
+    <phr ana="#anastrophe" w="3" stilphr="1">
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+    <phr ana="#bimembre #chiasmus" w="5"/>
+    <phr ana="#comparatio" w="6" stilphr="3">
+      <phr ana="#bimembre" w="3"/>
+      <phr ana="#sonus" w="1" stilphr="1">
+        <phr ana="#ALLITERATIO" w="2"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario05.p5.s1" w="19"/>
+  <s xml:id="modrusiensis-riario05.p5.s2" w="8" stilphr="4">
+    <phr ana="#poetice" w="4"/>
+    <phr ana="#METONYMIA" w="2"/>
+    <phr ana="#comparatio" w="8" stilphr="1">
+      <phr ana="#hyperbaton" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario05.p5.s3" w="34" stilphr="3">
+    <phr ana="#ANAPHORA #GRADATIO #dicolon #asyndeton" w="7"/>
+    <phr ana="#dicolon" w="6" stilphr="1">
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario05.p5.s4" w="0" stilphr="5">
+    <phr ana="#probatio-testes" w="12" stilphr="4">
+      <phr ana="#bimembre" w="8"/>
+      <phr ana="#anastrophe" w="2" stilphr="1">
+        <phr ana="#ALLITERATIO" w="2"/>
+      </phr>
+      <phr ana="#anastrophe" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario05.p5.s5" w="26" stilphr="20">
+    <phr ana="#bimembre #chiasmus" w="0" stilphr="3">
+      <phr ana="#METAPHORA" w="5" stilphr="1">
+        <phr ana="#METAPHORA" w="3"/>
+      </phr>
+      <phr ana="#litotes" w="3"/>
+    </phr>
+    <phr ana="#bimembre #ANAPHORA #SYNONYMIA" w="4"/>
+    <phr ana="#synecdocha #synecdocha-specie-genus #litotes" w="2"/>
+    <phr ana="#dicolon" w="12" stilphr="3">
+      <phr ana="#abstractum #METONYMIA" w="4"/>
+      <phr ana="#METAPHORA" w="3" stilphr="1">
+        <phr ana="#ALLITERATIO" w="2"/>
+      </phr>
+    </phr>
+    <phr ana="#ANAPHORA #SYNONYMIA #bimembre" w="9"/>
+    <phr ana="#ANTITHESIS" w="8"/>
+    <phr ana="#hyperbaton #METAPHORA" w="6"/>
+    <phr ana="#bimembre" w="8"/>
+    <phr ana="#exemplum #auctoritas" w="22" stilphr="5">
+      <phr ana="#bimembre #SYNONYMIA" w="2"/>
+      <phr ana="#ANAPHORA #PARALLELISMUS #bimembre" w="4"/>
+      <phr ana="#METAPHORA" w="2"/>
+      <phr ana="#METAPHORA" w="15"/>
+      <phr ana="#hyperbaton" w="4"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario06.p6.s1" w="5" stilphr="3">
+    <phr ana="#argumentum #enthymema" w="7"/>
+    <phr ana="#comparatio" w="4" stilphr="1">
+      <phr ana="#correctio" w="5"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario06.p6.s2" w="28" stilphr="6">
+    <phr ana="#POLYPTOTON" w="5"/>
+    <phr ana="#parenthesis" w="3"/>
+    <phr ana="#comparatio" w="8" stilphr="1">
+      <phr ana="#bimembre" w="2"/>
+    </phr>
+    <phr ana="#probatio-signum #TRICOLON-CRESCENS" w="11" stilphr="1">
+      <phr ana="#hyperbaton #METAPHORA #personificatio" w="4"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario06.p6.s3" w="7" stilphr="7">
+    <phr ana="#bimembre #SYNONYMIA" w="4"/>
+    <phr ana="#bimembre #ANAPHORA #asyndeton #PARALLELISMUS" w="6" stilphr="1">
+      <phr ana="#METAPHORA" w="5"/>
+    </phr>
+    <phr ana="#trimembre" w="7"/>
+    <phr ana="#comparatio" w="4" stilphr="2">
+      <phr ana="#ANAPHORA #dicolon #asyndeton" w="8"/>
+      <phr ana="#dicolon #SYNONYMIA #ANAPHORA #anastrophe" w="11"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario06.p6.s4" w="0" stilphr="1">
+    <phr ana="#probatio-signum" w="18"/>
+  </s>
+  <s xml:id="modrusiensis-riario06.p6.s5" w="3" stilphr="9">
+    <phr ana="#chiasmus #dicolon" w="10" stilphr="1">
+      <phr ana="#METAPHORA" w="3"/>
+    </phr>
+    <phr ana="#hyperbaton" w="4" stilphr="1">
+      <phr ana="#parenthesis" w="2"/>
+    </phr>
+    <phr ana="#dicolon" w="2" stilphr="4">
+      <phr ana="#argumentum #auctoritas" w="4" stilphr="2">
+        <phr ana="#synecdocha #synecdocha-specie-genus" w="3" stilphr="1">
+          <phr ana="#METAPHORA" w="2"/>
+        </phr>
+      </phr>
+      <phr ana="#hyperbaton" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario06.p6.s6" w="3" stilphr="4">
+    <phr ana="#dicolon #ANAPHORA" w="7" stilphr="1">
+      <phr ana="#dicolon #ANAPHORA" w="5"/>
+    </phr>
+    <phr ana="#chiasmus #homoioteleuton #dicolon #asyndeton" w="4" stilphr="1">
+      <phr ana="#hyperbaton" w="6"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario06.p6.s7" w="8" stilphr="1">
+    <phr ana="#comparatio" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario07.p7.s1" w="2" stilphr="2">
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#ANAPHORA #dicolon #PARALLELISMUS #asyndeton" w="7"/>
+  </s>
+  <s xml:id="modrusiensis-riario07.p7.s2" w="1" stilphr="4">
+    <phr ana="#chiasmus #bimembre #asyndeton" w="3" stilphr="1">
+      <phr ana="#poetice" w="3"/>
+    </phr>
+    <phr ana="#bimembre #ANAPHORA #PARALLELISMUS #asyndeton" w="6"/>
+    <phr ana="#homoioteleuton #bimembre #PARALLELISMUS" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario07.p7.s3" w="6"/>
+  <s xml:id="modrusiensis-riario07.p7.s4" w="5" stilphr="4">
+    <phr ana="#parenthesis" w="2"/>
+    <phr ana="#chiasmus #ANAPHORA #dicolon #GRADATIO" w="5" stilphr="1">
+      <phr ana="#hyperbaton" w="3"/>
+    </phr>
+    <phr ana="#comparatio" w="7"/>
+  </s>
+  <s xml:id="modrusiensis-riario07.p7.s5" w="3" stilphr="6">
+    <phr ana="#poetice" w="1"/>
+    <phr ana="#comparatio" w="6" stilphr="1">
+      <phr ana="#anastrophe" w="3"/>
+    </phr>
+    <phr ana="#comparatio" w="6" stilphr="2">
+      <phr ana="#METAPHORA" w="3" stilphr="1">
+        <phr ana="#ALLITERATIO" w="2"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario08.p8.s1" w="2" stilphr="3">
+    <phr ana="#ANAPHORA #dicolon #GRADATIO #asyndeton" w="5" stilphr="1">
+      <phr ana="#bimembre" w="3"/>
+    </phr>
+    <phr ana="#comparatio" w="7"/>
+  </s>
+  <s xml:id="modrusiensis-riario08.p8.s2" w="0" stilphr="4">
+    <phr ana="#probatio-signum #ANTITHESIS" w="13" stilphr="3">
+      <phr ana="#bimembre #SYNONYMIA" w="4"/>
+      <phr ana="#comparatio" w="2" stilphr="1">
+        <phr ana="#chiasmus" w="5"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario08.p8.s3" w="0" stilphr="4">
+    <phr ana="#interrogatio #probatio-testes" w="7" stilphr="3">
+      <phr ana="#bimembre" w="2"/>
+      <phr ana="#litotes #interrogatio" w="4"/>
+      <phr ana="#bimembre #ANAPHORA #homoioteleuton" w="4"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario08.p8.s4" w="8" stilphr="3">
+    <phr ana="#METAPHORA" w="4"/>
+    <phr ana="#anastrophe" w="3"/>
+    <phr ana="#litotes" w="3"/>
+  </s>
+  <s xml:id="modrusiensis-riario08.p8.s5" w="0" stilphr="3">
+    <phr ana="#probatio-testes" w="7" stilphr="2">
+      <phr ana="#litotes #bimembre" w="5"/>
+      <phr ana="#bimembre" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario08.p8.s6" w="1" stilphr="5">
+    <phr ana="#probatio-signum" w="24" stilphr="4">
+      <phr ana="#METAPHORA #parenthesis" w="4" stilphr="1">
+        <phr ana="#bimembre" w="3"/>
+      </phr>
+      <phr ana="#bimembre" w="4"/>
+      <phr ana="#ANTITHESIS" w="18"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario08.p8.s7" w="0" stilphr="3">
+    <phr ana="#asyndeton #chiasmus #ANAPHORA #dicolon #EXCLAMATIO" w="8"/>
+    <phr ana="#dicolon #PARALLELISMUS" w="7" stilphr="1">
+      <phr ana="#METAPHORA" w="7"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario08.p8.s8" ana="#EXCLAMATIO #ANTITHESIS #dicolon #PARALLELISMUS" w="8" stilphr="2">
+    <phr ana="#METAPHORA" w="2"/>
+    <phr ana="#METAPHORA" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario09.p9.s1" w="2" stilphr="7">
+    <phr ana="#hyperbaton #METAPHORA" w="4"/>
+    <phr ana="#TRICOLON-CRESCENS #correctio" w="3" stilphr="1">
+      <phr ana="#ANAPHORA #bimembre #asyndeton" w="4"/>
+    </phr>
+    <phr ana="#COACERVATIO #asyndeton" w="5"/>
+    <phr ana="#ALLITERATIO" w="5"/>
+    <phr ana="#ANAPHORA #asyndeton #dicolon #METAPHORA" w="3" stilphr="1">
+      <phr ana="#hyperbaton" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario09.p9.s2" w="1" stilphr="2">
+    <phr ana="#METAPHORA #probatio-signum" w="8"/>
+    <phr ana="#HYPERBOLE" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario09.p9.s3" w="0" stilphr="5">
+    <phr ana="#enthymema" w="8" stilphr="4">
+      <phr ana="#ALLITERATIO" w="2"/>
+      <phr ana="#METAPHORA" w="14" stilphr="2">
+        <phr ana="#ALLITERATIO" w="2"/>
+        <phr ana="#bimembre #ANAPHORA" w="6"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario10.p10.s1" w="3" stilphr="5">
+    <phr ana="#anastrophe" w="3"/>
+    <phr ana="#bimembre" w="4"/>
+    <phr ana="#anastrophe" w="4"/>
+    <phr ana="#METAPHORA" w="3"/>
+    <phr ana="#comparatio" w="6"/>
+  </s>
+  <s xml:id="modrusiensis-riario10.p10.s2" w="0" stilphr="1">
+    <phr ana="#probatio-testes" w="11"/>
+  </s>
+  <s xml:id="modrusiensis-riario10.p10.s3" w="0" stilphr="5">
+    <phr ana="#probatio-testes" w="4" stilphr="4">
+      <phr ana="#litotes" w="3"/>
+      <phr ana="#dicolon #ANAPHORA #homoioteleuton" w="11" stilphr="2">
+        <phr ana="#litotes" w="3"/>
+        <phr ana="#hyperbaton" w="4"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario11.p11.s1" w="0" stilphr="8">
+    <phr ana="#probatio-testes" w="41" stilphr="7">
+      <phr ana="#litotes" w="4"/>
+      <phr ana="#bimembre" w="3"/>
+      <phr ana="#synecdocha #synecdocha-specie-genus" w="5"/>
+      <phr ana="#hendiadyoin" w="3"/>
+      <phr ana="#bimembre #POLYPTOTON #PARALLELISMUS" w="7"/>
+      <phr ana="#bimembre #SYNONYMIA" w="4"/>
+      <phr ana="#bimembre #SYNONYMIA" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario11.p11.s2" w="0" stilphr="5">
+    <phr ana="#probatio-signum" w="8" stilphr="4">
+      <phr ana="#METAPHORA #chiasmus #dicolon" w="9"/>
+      <phr ana="#parenthesis" w="2"/>
+      <phr ana="#METONYMIA" w="3"/>
+      <phr ana="#bimembre" w="4"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario12.p12.s1" w="0" stilphr="9">
+    <phr ana="#interrogatio" w="5" stilphr="8">
+      <phr ana="#TRICOLON-CRESCENS #ANAPHORA #asyndeton" w="6" stilphr="3">
+        <phr ana="#METAPHORA #poetice" w="4"/>
+        <phr ana="#METAPHORA #poetice" w="4"/>
+        <phr ana="#METAPHORA #poetice" w="4"/>
+      </phr>
+      <phr ana="#TRICOLON-CRESCENS #homoioteleuton" w="27" stilphr="3">
+        <phr ana="#METAPHORA" w="5"/>
+        <phr ana="#bimembre" w="4"/>
+        <phr ana="#METAPHORA" w="3"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario12.p12.s2" w="0" stilphr="7">
+    <phr ana="#APOSTROPHE" w="1" stilphr="6">
+      <phr ana="#ANADIPLOSIS" w="2"/>
+      <phr ana="#synecdocha" w="2"/>
+      <phr ana="#TRICOLON-CRESCENS" w="3" stilphr="3">
+        <phr ana="#ALLITERATIO" w="3"/>
+        <phr ana="#METAPHORA" w="12" stilphr="1">
+          <phr ana="#ALLITERATIO" w="2"/>
+        </phr>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario12.p12.s3" ana="#ANAPHORA #aversio" w="10" stilphr="2">
+    <phr ana="#METAPHORA #poetice" w="5"/>
+    <phr ana="#HYPERBOLE" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario12.p12.s4" ana="#ANAPHORA #aversio #ANTITHESIS" w="9" stilphr="2">
+    <phr ana="#correctio" w="6" stilphr="1">
+      <phr ana="#METAPHORA" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario13.p13.s1" w="14" stilphr="4">
+    <phr ana="#METAPHORA" w="3"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#anastrophe" w="2" stilphr="1">
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario13.p13.s2" w="3" stilphr="3">
+    <phr ana="#METAPHORA" w="3"/>
+    <phr ana="#comparatio" w="16" stilphr="1">
+      <phr ana="#synecdocha #synecdocha-specie-genus" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario13.p13.s3" w="0" stilphr="6">
+    <phr ana="#argumentum #enthymema" w="12" stilphr="5">
+      <phr ana="#METAPHORA" w="3"/>
+      <phr ana="#synecdocha #synecdocha-specie-genus #litotes" w="2"/>
+      <phr ana="#dicolon" w="8" stilphr="2">
+        <phr ana="#dicolon #epanalepsis" w="10" stilphr="1">
+          <phr ana="#bimembre #SYNONYMIA" w="3"/>
+        </phr>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario13.p13.s4" w="0" stilphr="5">
+    <phr ana="#probatio-signum" w="17" stilphr="4">
+      <phr ana="#bimembre #PARALLELISMUS" w="6"/>
+      <phr ana="#hyperbaton" w="3"/>
+      <phr ana="#bimembre" w="3"/>
+      <phr ana="#hyperbaton" w="5"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario13.p13.s5" w="3" stilphr="4">
+    <phr ana="#probatio-signum" w="2" stilphr="3">
+      <phr ana="#METAPHORA" w="3"/>
+      <phr ana="#ANTITHESIS" w="7" stilphr="1">
+        <phr ana="#hyperbaton" w="4"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario13.p13.s6" w="1" stilphr="4">
+    <phr ana="#dicolon #GRADATIO" w="1" stilphr="3">
+      <phr ana="#hyperbaton" w="4"/>
+      <phr ana="#METAPHORA" w="3"/>
+      <phr ana="#METONYMIA" w="4"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario13.p13.s7" w="3" stilphr="2">
+    <phr ana="#ANTITHESIS" w="3" stilphr="1">
+      <phr ana="#hyperbaton" w="4"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario14.p14.s1" w="24" stilphr="8">
+    <phr ana="#bimembre" w="2"/>
+    <phr ana="#bimembre" w="7"/>
+    <phr ana="#METAPHORA" w="3" stilphr="1">
+      <phr ana="#METAPHORA" w="4"/>
+    </phr>
+    <phr ana="#bimembre #chiasmus" w="8"/>
+    <phr ana="#ANAPHORA #TRICOLON-CRESCENS #asyndeton" w="10"/>
+    <phr ana="#personificatio" w="5" stilphr="1">
+      <phr ana="#bimembre #SYNONYMIA" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario14.p14.s2" w="0" stilphr="5">
+    <phr ana="#chiasmus #dicolon" w="7" stilphr="1">
+      <phr ana="#METAPHORA" w="4"/>
+    </phr>
+    <phr ana="#comparatio" w="5" stilphr="1">
+      <phr ana="#METAPHORA" w="7"/>
+    </phr>
+    <phr ana="#chiasmus #dicolon #ANAPHORA #METAPHORA #asyndeton" w="7"/>
+  </s>
+  <s xml:id="modrusiensis-riario14.p14.s3" w="0" stilphr="5">
+    <phr ana="#refutatio" w="12" stilphr="4">
+      <phr ana="#METAPHORA #HYPERBOLE" w="3" stilphr="1">
+        <phr ana="#bimembre" w="2"/>
+      </phr>
+      <phr ana="#bimembre" w="2"/>
+      <phr ana="#bimembre #ANAPHORA #homoioteleuton" w="5"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario14.p14.s4" w="0" stilphr="6">
+    <phr ana="#refutatio-testes" w="3" stilphr="5">
+      <phr ana="#dicolon #POLYPTOTON #asyndeton" w="7" stilphr="1">
+        <phr ana="#bimembre" w="9"/>
+      </phr>
+      <phr ana="#hyperbaton" w="4"/>
+      <phr ana="#TETRACOLON #COACERVATIO #asyndeton" w="6"/>
+      <phr ana="#comparatio" w="5"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario15.p15.s1" w="0" stilphr="3">
+    <phr ana="#comparatio" w="6" stilphr="2">
+      <phr ana="#epanalepsis" w="5" stilphr="1">
+        <phr ana="#METAPHORA" w="4"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario15.p15.s2" w="6" stilphr="2">
+    <phr ana="#chiasmus #asyndeton #bimembre" w="5"/>
+    <phr ana="#synecdocha #synecdocha-specie-genus #litotes" w="3"/>
+  </s>
+  <s xml:id="modrusiensis-riario15.p15.s3" w="8" stilphr="2">
+    <phr ana="#parenthesis" w="4"/>
+    <phr ana="#METAPHORA" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario16.p16.s1" w="13" stilphr="8">
+    <phr ana="#bimembre" w="2"/>
+    <phr ana="#correctio" w="10" stilphr="2">
+      <phr ana="#anastrophe" w="3"/>
+      <phr ana="#poetice #hyperbaton" w="1"/>
+    </phr>
+    <phr ana="#comparatio" w="1" stilphr="3">
+      <phr ana="#comparatio" w="6" stilphr="2">
+        <phr ana="#poetice" w="4" stilphr="1">
+          <phr ana="#ALLITERATIO" w="2"/>
+        </phr>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario16.p16.s2" w="19" stilphr="3">
+    <phr ana="#bimembre" w="3"/>
+    <phr ana="#comparatio #correctio" w="6"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+  </s>
+  <s xml:id="modrusiensis-riario16.p16.s3" w="0" stilphr="4">
+    <phr ana="#anastrophe" w="3"/>
+    <phr ana="#comparatio" w="8" stilphr="2">
+      <phr ana="#ALLITERATIO" w="2"/>
+      <phr ana="#bimembre #SYNONYMIA" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario16.p16.s4" w="21"/>
+  <s xml:id="modrusiensis-riario16.p16.s5" w="2" stilphr="2">
+    <phr ana="#comparatio" w="8" stilphr="1">
+      <phr ana="#hyperbaton #METAPHORA" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario16.p16.s6" w="3" stilphr="2">
+    <phr ana="#comparatio" w="5"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s1" w="8" stilphr="2">
+    <phr ana="#probatio-signum" w="5" stilphr="1">
+      <phr ana="#dicolon #asyndeton #POLYPTOTON #PARALLELISMUS" w="6"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s2" w="0" stilphr="2">
+    <phr ana="#probatio-signum #exemplum" w="18" stilphr="1">
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s3" w="32"/>
+  <s xml:id="modrusiensis-riario17.p17.s4" w="0" stilphr="1">
+    <phr ana="#probatio-signum" w="9"/>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s5" w="15" stilphr="2">
+    <phr ana="#bimembre" w="2"/>
+    <phr ana="#bimembre #ANAPHORA" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s6" w="0" stilphr="3">
+    <phr ana="#probatio-testes #exemplum" w="37" stilphr="2">
+      <phr ana="#METAPHORA" w="4" stilphr="1">
+        <phr ana="#synecdocha #synecdocha-specie-genus" w="2"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s7" w="0" stilphr="2">
+    <phr ana="#probatio-testes #ANAPHORA #dicolon" w="9" stilphr="1">
+      <phr ana="#ANAPHORA #TRICOLON-CRESCENS #asyndeton" w="9"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s8" w="0" stilphr="2">
+    <phr ana="#probatio-signum" w="18" stilphr="1">
+      <phr ana="#bimembre" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s9" w="0" stilphr="2">
+    <phr ana="#probatio-signum" w="22" stilphr="1">
+      <phr ana="#hyperbaton" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s10" w="7" stilphr="1">
+    <phr ana="#probatio-signum" w="14"/>
+  </s>
+  <s xml:id="modrusiensis-riario17.p17.s11" w="21"/>
+  <s xml:id="modrusiensis-riario18.p18.s1" w="0" stilphr="4">
+    <phr ana="#aversio #praeteritio" w="3" stilphr="3">
+      <phr ana="#hyperbaton" w="4"/>
+      <phr ana="#chiasmus #METAPHORA #dicolon" w="6" stilphr="1">
+        <phr ana="#hyperbaton #METAPHORA" w="3"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario18.p18.s2" w="1" stilphr="4">
+    <phr ana="#ANAPHORA #TRICOLON-CRESCENS #percursio" w="14"/>
+    <phr ana="#praeteritio" w="8" stilphr="2">
+      <phr ana="#METAPHORA #ANTITHESIS" w="3" stilphr="1">
+        <phr ana="#pleonasmus" w="5"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario18.p18.s3" w="3" stilphr="17">
+    <phr ana="#probatio-testes" w="6"/>
+    <phr ana="#comparatio" w="13" stilphr="4">
+      <phr ana="#ANAPHORA #dicolon #asyndeton" w="9"/>
+      <phr ana="#bimembre #ANAPHORA" w="4"/>
+      <phr ana="#synecdocha" w="7" stilphr="1">
+        <phr ana="#pleonasmus" w="3"/>
+      </phr>
+    </phr>
+    <phr ana="#chiasmus #dicolon #ANAPHORA #asyndeton" w="3" stilphr="1">
+      <phr ana="#hyperbaton" w="6"/>
+    </phr>
+    <phr ana="#TRICOLON-CRESCENS #pleonasmus" w="1" stilphr="4">
+      <phr ana="#TRICOLON-CRESCENS" w="3"/>
+      <phr ana="#ANAPHORA #dicolon" w="6"/>
+      <phr ana="#SIMILE" w="6"/>
+      <phr ana="#METAPHORA" w="2"/>
+    </phr>
+    <phr ana="#comparatio" w="8" stilphr="3">
+      <phr ana="#chiasmus" w="4"/>
+      <phr ana="#TRICOLON-CRESCENS #asyndeton" w="4"/>
+      <phr ana="#ANAPHORA #dicolon #PARALLELISMUS" w="10"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s1" w="0" stilphr="2">
+    <phr ana="#aversio" w="3"/>
+    <phr ana="#correctio #transitio" w="9"/>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s2" w="8" stilphr="3">
+    <phr ana="#auctoritas" w="6" stilphr="2">
+      <phr ana="#ALLITERATIO #epistrophe #pleonasmus #bimembre" w="7" stilphr="1">
+        <phr ana="#dicolon #epistrophe" w="2"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s3" w="1" stilphr="6">
+    <phr ana="#litotes" w="2"/>
+    <phr ana="#asyndeton #COACERVATIO" w="15" stilphr="4">
+      <phr ana="#chiasmus" w="4"/>
+      <phr ana="#dicolon" w="9" stilphr="1">
+        <phr ana="#ALLITERATIO" w="2"/>
+      </phr>
+      <phr ana="#dicolon" w="9"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s4" w="4" stilphr="12">
+    <phr ana="#personificatio #probatio-testes" w="11"/>
+    <phr ana="#dicolon #ANAPHORA #PARALLELISMUS" w="9"/>
+    <phr ana="#personificatio #probatio-testes" w="2" stilphr="1">
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+    <phr ana="#dicolon" w="5" stilphr="1">
+      <phr ana="#litotes" w="4"/>
+    </phr>
+    <phr ana="#personificatio #probatio-testes" w="4"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#comparatio" w="1" stilphr="3">
+      <phr ana="#hyperbaton" w="4"/>
+      <phr ana="#chiasmus" w="9" stilphr="1">
+        <phr ana="#METAPHORA" w="6"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s5" w="0" stilphr="5">
+    <phr ana="#personificatio #probatio-testes" w="4"/>
+    <phr ana="#comparatio" w="33" stilphr="3">
+      <phr ana="#HYPERBOLE #deminutiva" w="4"/>
+      <phr ana="#trimembre" w="4"/>
+      <phr ana="#ANTITHESIS" w="11"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s6" w="18" stilphr="2">
+    <phr ana="#bimembre #GRADATIO" w="6"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s7" w="0" stilphr="1">
+    <phr ana="#personificatio #homoioteleuton #probatio-testes" w="15"/>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s8" w="6" stilphr="4">
+    <phr ana="#bimembre #ANAPHORA" w="4"/>
+    <phr ana="#comparatio" w="6" stilphr="2">
+      <phr ana="#bimembre #ANAPHORA #PARALLELISMUS" w="6"/>
+      <phr ana="#sonus" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario19.p19.s9" w="14"/>
+  <s xml:id="modrusiensis-riario19.p19.s10" w="8" stilphr="4">
+    <phr ana="#correctio" w="31" stilphr="3">
+      <phr ana="#ALLITERATIO" w="2"/>
+      <phr ana="#parenthesis" w="3"/>
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s1" w="7" stilphr="4">
+    <phr ana="#bimembre" w="2"/>
+    <phr ana="#hyperbaton" w="4"/>
+    <phr ana="#personificatio" w="3" stilphr="1">
+      <phr ana="#anastrophe" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s2" w="3" stilphr="1">
+    <phr ana="#ALLITERATIO" w="2"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s3" w="12" stilphr="5">
+    <phr ana="#bimembre #ANAPHORA" w="5"/>
+    <phr ana="#bimembre" w="2"/>
+    <phr ana="#METAPHORA-CHRISTIANA" w="3"/>
+    <phr ana="#anastrophe" w="3"/>
+    <phr ana="#METAPHORA-CHRISTIANA" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s4" w="26" stilphr="13">
+    <phr ana="#METAPHORA" w="2"/>
+    <phr ana="#bimembre" w="3"/>
+    <phr ana="#chiasmus #ANAPHORA #asyndeton" w="5" stilphr="1">
+      <phr ana="#METAPHORA" w="4"/>
+    </phr>
+    <phr ana="#bimembre #asyndeton #ANAPHORA" w="4"/>
+    <phr ana="#METAPHORA" w="4"/>
+    <phr ana="#bimembre #ANAPHORA" w="7"/>
+    <phr ana="#bimembre" w="2"/>
+    <phr ana="#bimembre #ALLITERATIO" w="3"/>
+    <phr ana="#METAPHORA" w="5"/>
+    <phr ana="#bimembre #sonus" w="2"/>
+    <phr ana="#hyperbaton" w="4"/>
+    <phr ana="#ANAPHORA #SYNONYMIA #bimembre" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s5" w="0" stilphr="3">
+    <phr ana="#comparatio" w="4" stilphr="2">
+      <phr ana="#hyperbaton #METAPHORA" w="7"/>
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s6" w="3" stilphr="3">
+    <phr ana="#hyperbaton" w="3"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#bimembre" w="2"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s7" w="2" stilphr="3">
+    <phr ana="#METAPHORA" w="5" stilphr="1">
+      <phr ana="#bimembre" w="1"/>
+    </phr>
+    <phr ana="#METAPHORA" w="6"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s8" w="7" stilphr="2">
+    <phr ana="#hyperbaton" w="3"/>
+    <phr ana="#bimembre #homoioteleuton #sonus" w="6"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s9" w="7" stilphr="2">
+    <phr ana="#METAPHORA #personificatio" w="3" stilphr="1">
+      <phr ana="#ALLITERATIO #sonus" w="3"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s10" w="6"/>
+  <s xml:id="modrusiensis-riario20.p20.s11" w="14" stilphr="2">
+    <phr ana="#ALLITERATIO" w="3"/>
+    <phr ana="#bimembre #ANAPHORA #chiasmus #PARALLELISMUS" w="9"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s12" w="14" stilphr="7">
+    <phr ana="#SYNONYMIA #dicolon" w="5"/>
+    <phr ana="#bimembre #SYNONYMIA" w="3"/>
+    <phr ana="#dicolon #homoioteleuton" w="8" stilphr="2">
+      <phr ana="#SYNONYMIA #METAPHORA #bimembre" w="5"/>
+      <phr ana="#bimembre #SYNONYMIA" w="6"/>
+    </phr>
+    <phr ana="#SYNONYMIA #ANAPHORA #bimembre #personificatio #METAPHORA" w="4"/>
+    <phr ana="#hyperbaton #abstractum" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s13" w="8" stilphr="5">
+    <phr ana="#METAPHORA #bimembre" w="4"/>
+    <phr ana="#hyperbaton #METAPHORA" w="3"/>
+    <phr ana="#ANTITHESIS #bimembre" w="3" stilphr="2">
+      <phr ana="#pleonasmus #SYNONYMIA #ANAPHORA #bimembre" w="4"/>
+      <phr ana="#bimembre #ANAPHORA #SYNONYMIA" w="4"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s14" w="1" stilphr="1">
+    <phr ana="#chiasmus #pleonasmus #dicolon" w="8"/>
+  </s>
+  <s xml:id="modrusiensis-riario20.p20.s15" w="2" stilphr="8">
+    <phr ana="#chiasmus #dicolon" w="5"/>
+    <phr ana="#METAPHORA" w="9"/>
+    <phr ana="#enthymema" w="11" stilphr="5">
+      <phr ana="#SYNONYMIA #dicolon" w="3"/>
+      <phr ana="#METAPHORA" w="6"/>
+      <phr ana="#dicolon" w="5" stilphr="2">
+        <phr ana="#hyperbaton" w="3" stilphr="1">
+          <phr ana="#ALLITERATIO" w="2"/>
+        </phr>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario21.p21.s1" w="14" stilphr="1">
+    <phr ana="#METAPHORA" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario21.p21.s2" w="4" stilphr="4">
+    <phr ana="#litotes" w="3" stilphr="1">
+      <phr ana="#METONYMIA" w="3"/>
+    </phr>
+    <phr ana="#litotes" w="1"/>
+    <phr ana="#bimembre #ANAPHORA" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario21.p21.s3" w="2" stilphr="3">
+    <phr ana="#comparatio" w="12" stilphr="2">
+      <phr ana="#ALLITERATIO" w="2"/>
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario21.p21.s4" w="8" stilphr="1">
+    <phr ana="#hyperbaton #parenthesis" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario21.p21.s5" w="12" stilphr="1">
+    <phr ana="#ALLITERATIO" w="2"/>
+  </s>
+  <s xml:id="modrusiensis-riario22.p22.s1" w="3" stilphr="4">
+    <phr ana="#bimembre #pleonasmus" w="5"/>
+    <phr ana="#anastrophe" w="3"/>
+    <phr ana="#SYNONYMIA" w="2"/>
+    <phr ana="#ALLITERATIO" w="2"/>
+  </s>
+  <s xml:id="modrusiensis-riario22.p22.s2" w="17"/>
+  <s xml:id="modrusiensis-riario22.p22.s3" w="16" stilphr="1">
+    <phr ana="#pleonasmus #METAPHORA #poetice" w="5"/>
+  </s>
+  <s xml:id="modrusiensis-riario22.p22.s4" w="19" stilphr="6">
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#bimembre" w="3"/>
+    <phr ana="#parenthesis" w="2"/>
+    <phr ana="#pleonasmus" w="3"/>
+    <phr ana="#bimembre" w="3"/>
+    <phr ana="#hyperbaton" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario22.p22.s5" w="32" stilphr="3">
+    <phr ana="#chiasmus #dicolon #ANAPHORA" w="5" stilphr="1">
+      <phr ana="#ALLITERATIO" w="2"/>
+    </phr>
+    <phr ana="#bimembre" w="3"/>
+  </s>
+  <s xml:id="modrusiensis-riario22.p22.s6" w="4" stilphr="3">
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#METAPHORA" w="6" stilphr="1">
+      <phr ana="#comparatio" w="4"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario23.p23.s1" w="0" stilphr="5">
+    <phr ana="#EXCLAMATIO" w="2" stilphr="4">
+      <phr ana="#epanalepsis #DIACOPE" w="4"/>
+      <phr ana="#chiasmus #PARALLELISMUS #ANAPHORA" w="7" stilphr="2">
+        <phr ana="#hyperbaton" w="3"/>
+        <phr ana="#litotes" w="2"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario23.p23.s2" w="9" stilphr="4">
+    <phr ana="#ANTITHESIS #paradoxon" w="6"/>
+    <phr ana="#comparatio" w="10" stilphr="2">
+      <phr ana="#litotes" w="2" stilphr="1">
+        <phr ana="#bimembre #ANAPHORA" w="5"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario23.p23.s3" w="8" stilphr="1">
+    <phr ana="#bimembre" w="4"/>
+  </s>
+  <s xml:id="modrusiensis-riario23.p23.s4" w="1" stilphr="3">
+    <phr ana="#argumentum #enthymema" w="4" stilphr="2">
+      <phr ana="#chiasmus #ANTITHESIS" w="2" stilphr="1">
+        <phr ana="#hyperbaton" w="4"/>
+      </phr>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario23.p23.s5" w="5" stilphr="8">
+    <phr ana="#epanalepsis #distinctio" w="2" stilphr="1">
+      <phr ana="#hyperbaton #bimembre" w="4"/>
+    </phr>
+    <phr ana="#ALLITERATIO" w="2"/>
+    <phr ana="#bimembre" w="5"/>
+    <phr ana="#ANAPHORA #ANTITHESIS" w="4"/>
+    <phr ana="#comparatio" w="6"/>
+    <phr ana="#hyperbaton" w="2" stilphr="1">
+      <phr ana="#synecdocha" w="2"/>
+    </phr>
+  </s>
+  <s xml:id="modrusiensis-riario23.p23.s6" w="1"/>
+</div>
