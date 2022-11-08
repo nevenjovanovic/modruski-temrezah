@@ -1,0 +1,1146 @@
+<lem>
+  <w lemma="deuito">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/99107">deuito</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="laboro">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/109625">laboro</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="aegroto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/87792">aegroto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="peregrinor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/116769">peregrinor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="desero">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98883">desero</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/46913">desero</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98882">desero</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS><!-- ovaj, po hipolemi -->
+</w>
+<w lemma="decedo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98007">decedo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+  <w lemma="Tobias"/><!-- LiLa: http://lila-erc.eu/data/id/lemma/23833 -->
+<w lemma="angelus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/89018">angelus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/17805">angelus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="latus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/16491">latus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/110056">latus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/110053">latus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="haereo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/105089">haereo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="aduersum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/89311">aduersum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="procuro">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/119646">procuro</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="arcesso">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/89811">arcesso</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+  <w lemma="prospera"/><!-- LiLa prosper: http://lila-erc.eu/data/id/lemma/120095 -->
+<w lemma="sedulitas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/124023">sedulitas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="ueneror">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/129780">ueneror</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="mortuus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/27843">mortuus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="psalmista">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/120713">psalmista</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="decor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98167">decor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98118">decor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="habitatio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/105049">habitatio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="proinde">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/119776">proinde</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="collabor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/94790">collabor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="erigo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/101424">erigo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="deformis">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98292">deformis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="occupo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/16234">occupo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114621">occupo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114620">occupo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS><!-- ovaj -->
+</w>
+<w lemma="distraho">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/99875">distraho</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="recipero">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/122387">recipero</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="uasum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/129593">uasum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="coemo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/94682">coemo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="testor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/132932">testor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/127996">testor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS><!-- ovaj -->
+</w>
+  <w lemma="Romanus"/><!-- http://lila-erc.eu/data/id/lemma/20302 -->
+  <w lemma="Gregorius"/><!-- http://lila-erc.eu/data/id/lemma/8375 -->
+<w lemma="templum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/127783">templum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="augeo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/90673">augeo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="perquam">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/117249">perquam</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="magnifice">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/63178">magnifice</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/26440">magnifice</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS><!-- ovaj -->
+</w>
+<w lemma="instauro">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/108246">instauro</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+  <w lemma="Taruixium"/><!-- taruisium (LiLa nema x): https://lila-erc.eu/data/id/lemma/22924 -->
+<w lemma="basilica">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/91365">basilica</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/686">basilica</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="dito">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/99903">dito</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="uectigal">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/129662">uectigal</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="Ambrosius"/>
+<w lemma="monasterium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112655">monasterium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="spolio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/125446">spolio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="instruo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/108284">instruo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="omnifarius">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114938">omnifarius</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="apparatus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/89601">apparatus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- 4. dekl -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/31094">apparatus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+  <w lemma="Papia"/><!-- http://lila-erc.eu/data/id/lemma/136090 -->
+<w lemma="Maiolus"/><!-- LiLa nema kao ime -->
+<w lemma="fanum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/102911">fanum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/7066">fanum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="uasculum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/129603">uasculum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="sacrificium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/123092">sacrificium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="reperio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/122659">reperio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="quotiens">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/121298">quotiens</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="patro">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/116252">patro</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="aedes">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/87733">aedes</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="mutuo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/113181">mutuo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="libellus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/110379">libellus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/11898">libellus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="calix">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/92383">calix</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="abundo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/87053">abundo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="mutuum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/113184">mutuum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="biennium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/91568">biennium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="decem">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/4598">decem</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98009">decem</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/numeral</POS><!-- ovaj -->
+</w>
+<w lemma="expono">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/102214">expono</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+  <w lemma="quoque"/><!-- nema kao veznik... valjda: https://lila-erc.eu/data/id/hypolemma/110467 -->
+<w lemma="apostolus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/89543">apostolus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="beneficentia">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/91479">beneficentia</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="quattuor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/121130">quattuor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/numeral</POS>
+</w>
+<w lemma="mensis">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112046">mensis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/14259">mensis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="superstes">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/126956">superstes</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="decerno">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98047">decerno</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS><!-- ovaj 3. konj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/46219">decerno</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="proximus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/120219">proximus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/73956">proximus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="aestas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/87931">aestas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="quinquaginta">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/121219">quinquaginta</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/numeral</POS>
+</w>
+<w lemma="commodus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/95177">commodus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="mansio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/111520">mansio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/13330">mansio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="perpetuo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/117207">perpetuo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="suppeto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/127021">suppeto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="bibliotheca">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/91528">bibliotheca</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="egregie">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/13804">egregie</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="refercio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/122492">refercio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="ualidus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/129516">ualidus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="pertimesco">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/117401">pertimesco</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="calamitas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/92293">calamitas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+  <w lemma="forsan"/><!-- http://lila-erc.eu/data/id/lemma/103683 -->
+<w lemma="desaeuio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98857">desaeuio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="immeritus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/106402">immeritus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="subtraho">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/126466">subtraho</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="adimpleo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/87457">adimpleo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="ministerium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112386">ministerium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="procreo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/119625">procreo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="miseratio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112454">miseratio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="dilectio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/99458">dilectio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="indicium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107326">indicium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="aduento">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/87657">aduento</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="praesentio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/119191">praesentio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="intrepidus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/108744">intrepidus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="languor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/109838">languor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="patientia">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/120801">patientia</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="perfero">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/116816">perfero</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="delinquo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98480">delinquo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="uitium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130432">uitium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="fragilitas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103730">fragilitas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="purgo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/120546">purgo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="munio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/113053">munio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="caelestis">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/1886">caelestis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/92214">caelestis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS><!-- ovaj -->
+</w>
+<w lemma="uiaticum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130096">uiaticum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="deuotio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/99126">deuotio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="accingo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/87116">accingo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="uicinus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130137">uicinus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/129973">uicinus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="exsisto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/102361">exsisto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="fletus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/104170">fletus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/16844">fletus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="mundanus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/113002">mundanus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/113003">mundanus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="cupiditas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/97279">cupiditas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="ingemo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107789">ingemo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="medius">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/111841">medius</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="iuuentus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/106256">iuuentus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/109293">iuuentus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="flos">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/7342">flos</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103489">flos</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="leuiter">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/25547">leuiter</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/91930">leuiter</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/25519">leuiter</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS><!-- ovaj, leuis kratko e -->
+</w>
+<w lemma="indolesco">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107417">indolesco</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="super">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/126718">super</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adposition</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/126999">super</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/126719">super</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="aggrauo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/88081">aggrauo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+  <w lemma="lubet"/><!-- http://lila-erc.eu/data/id/lemma/110402 -->
+<w lemma="libens">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/25590">libens</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="fama">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/102868">fama</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/7052">fama</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="mortalitas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112814">mortalitas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="fructus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/17384">fructus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103880">fructus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- 4. dekl ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/7547">fructus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103879">fructus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="resto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/121597">resto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="supersum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/126965">supersum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="suspicio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/127130">suspicio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/127131">suspicio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="metuo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112260">metuo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="cupio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/97287">cupio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="uro">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130847">uro</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="cognosco">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/94738">cognosco</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="merces">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112100">merces</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="desum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98996">desum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="prohibeo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/119765">prohibeo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="uicis">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130138">uicis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="persoluo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/117324">persoluo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="beneficium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/91483">beneficium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/889">beneficium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="partior">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/116113">partior</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="paeniteo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/115624">paeniteo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="uehemens">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/129684">uehemens</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="caritas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/92867">caritas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/2416">caritas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="obtestor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114498">obtestor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="illecebra">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/106223">illecebra</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="lenocinium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/110208">lenocinium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="induco">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107435">induco</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="luxus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/12528">luxus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/111059">luxus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/111058">luxus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj po izvedenicama -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/111056">luxus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="inanis">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/106816">inanis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="diuitiae">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/99899">diuitiae</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="spes">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/22087">spes</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/125336">spes</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="fluo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103519">fluo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="fallax">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/102846">fallax</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/7048">fallax</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="puluis">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/120499">puluis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="umbra">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130533">umbra</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="alibi">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/88311">alibi</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="permaneo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/117055">permaneo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="corruptibilis">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/96709">corruptibilis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="caducus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/92188">caducus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="incorruptibilis">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107157">incorruptibilis</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="sempiternus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/124298">sempiternus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="incumbo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107210">incumbo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="antepono">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/89222">antepono</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="unusquisque">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/131027">unusquisque</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/determiner</POS>
+</w>
+<w lemma="pie">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/74585">pie</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/33530">pie</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS><!-- ovaj; čine se isti -->
+</w>
+<w lemma="sancte"/><!-- nema LiLa -->
+<w lemma="brutus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/91905">brutus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/1578">brutus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="secerno">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/123947">secerno</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="consecro">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/96008">consecro</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="immortalitas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/106440">immortalitas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="uiscera">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/131459">uiscera</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="misericordia">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112460">misericordia</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/14687">misericordia</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="saluator">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/20671">saluator</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/123263">saluator</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="condono">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/95686">condono</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="dignor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/99404">dignor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="auris">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/90784">auris</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="offendo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114783">offendo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114784">offendo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS><!-- ovaj -->
+</w>
+<w lemma="tanto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/131446">tanto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="confido">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/95749">confido</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="quanto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/131414">quanto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="modeste">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/27544">modeste</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="spondeo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/125455">spondeo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="felicitas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103063">felicitas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/7140">felicitas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+</w>
+<w lemma="exemplum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/101975">exemplum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="huiusmodi">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/105968">huiusmodi</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="plerusque">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/118148">plerusque</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/determiner</POS>
+</w>
+<w lemma="moneo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/112665">moneo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="fleo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103446">fleo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="eiulo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/100733">eiulo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="deosculor">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98672">deosculor</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="dimitto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/99509">dimitto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="lectulus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/110141">lectulus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="iugiter">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/24399">iugiter</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS><!-- ovaj od iugis, prema LS -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/105515">iugiter</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="peccatum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/120856">peccatum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="nox">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/16042">nox</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/113901">nox</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="intempestus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/108378">intempestus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="medium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/111842">medium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="cursus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/97671">cursus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/10278">cursus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="Viterbiensis"/><!-- nema LiLa -->
+<w lemma="praesul">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/119259">praesul</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj, drugi je uninfl -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/73140">praesul</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="ecce">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/100515">ecce</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="appropinquo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/89642">appropinquo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="unctio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130587">unctio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="oleum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114844">oleum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="confestim">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/95739">confestim</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="infero">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107649">infero</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="nudo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/113944">nudo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="tollo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/128357">tollo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="religiose">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/37393">religiose</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="pes">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/117499">pes</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+  <w lemma="perungo"/><!-- perunguo: http://lila-erc.eu/data/id/lemma/117487 -->
+<w lemma="profero">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/119705">profero</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+  <w lemma="codex"/><!-- http://lila-erc.eu/data/id/lemma/93188 -->
+<w lemma="mysterium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/113240">mysterium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="anima">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/18027">anima</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/89075">anima</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="lux">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/12518">lux</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/12519">lux</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/111048">lux</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="psalmus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/120248">psalmus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="decanto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/97994">decanto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="euangelium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/101579">euangelium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="deficio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98257">deficio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="persto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/117355">persto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="lector">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/110136">lector</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="dominicus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98100">dominicus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98129">dominicus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="passio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/116162">passio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="peruenio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/117445">peruenio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="inclino">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107004">inclino</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="emitto">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/100996">emitto</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="euolo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/101667">euolo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="iterum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/60396">iterum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/109138">iterum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS><!-- ovaj -->
+</w>
+<w lemma="denego">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/98606">denego</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="ergo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/49551">ergo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/101414">ergo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adposition</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/101415">ergo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/particle</POS><!-- ovaj -->
+</w>
+<w lemma="casus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/97835">casus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/95035">casus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+  <w lemma="ingemisco"/><!-- http://lila-erc.eu/data/id/lemma/107785 -->
+<w lemma="compleo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/95341">compleo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="parum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/69725">parum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/116130">parum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS><!-- ovaj -->
+</w>
+<w lemma="abunde">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/277">abunde</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="ample">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/2151">ample</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="nimirum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114151">nimirum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="utilitas">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130918">utilitas</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="commodum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/95178">commodum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="incommodum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/107046">incommodum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="superuiuo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/126991">superuiuo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="misericorditer">
+  <ref lemmaRef="http://lila-erc.eu/data/id/hypolemma/27461">misericorditer</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="subduco">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/126076">subduco</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="sicut">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/124723">sicut</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/subordinating_conjunction</POS>
+</w>
+<w lemma="placeo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/71750">placeo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/118010">placeo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS><!-- ovaj -->
+</w>
+<w lemma="benedico">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/92087">benedico</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="amen">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/29726">amen</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/13884">amen</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/88651">amen</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/interjection</POS><!-- ovaj -->
+</w>
+<w lemma="eloquium">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/100864">eloquium</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="quantus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/121092">quantus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/determiner</POS>
+</w>
+<w lemma="aspicio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/90262">aspicio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="odi">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/114724">odi</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="protinus">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/120154">protinus</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adverb</POS>
+</w>
+<w lemma="peramo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/116595">peramo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="pereo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/116791">pereo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="temno">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/127762">temno</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="luxuries">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/109975">luxuries</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="celeris">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/93321">celeris</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/adjective</POS>
+</w>
+<w lemma="fugio">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103923">fugio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS><!-- ovaj -->
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/103922">fugio</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="speculum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/125316">speculum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="uiator">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/25026">uiator</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/130097">uiator</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS><!-- ovaj -->
+</w>
+<w lemma="adsum">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/87642">adsum</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+<w lemma="sors">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/21989">sors</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/proper_noun</POS>
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/125204">sors</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/noun</POS>
+</w>
+<w lemma="rideo">
+  <ref lemmaRef="http://lila-erc.eu/data/id/lemma/122833">rideo</ref>
+  <POS>http://lila-erc.eu/ontologies/lila/verb</POS>
+</w>
+</lem>
